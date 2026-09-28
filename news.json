@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T03:25:46.175590+00:00",
-  "complete": false,
+  "generated_at": "2026-09-28T03:29:34.029428+00:00",
+  "complete": true,
   "meta": {
     "provider_priority": [
       "google_news_rss",
@@ -2777,15 +2777,15 @@
     },
     "small:000500.KS:theme_bottleneck": {
       "key": "small:000500.KS:theme_bottleneck",
-      "status": "ok",
+      "status": "partial",
       "relevance_terms": [
         "000500",
         "가온전선"
       ],
-      "dropped_irrelevant": 4,
-      "status_reason": null,
-      "found_count": 6,
-      "returned_count": 5,
+      "dropped_irrelevant": 5,
+      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
+      "found_count": 3,
+      "returned_count": 3,
       "keywords": [
         "가온전선 bottleneck supply chain",
         "가온전선 sole supplier constraint",
@@ -2818,22 +2818,8 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:34:48.510354+00:00",
+      "fetched_at": "2026-09-28T03:25:46.187935+00:00",
       "articles": [
-        {
-          "title": "가온전선, 加 전력시장 첫 진출…서부 공공 전력사에 중전압 케이블 공급",
-          "source": "헤럴드경제",
-          "publisher_domain": "biz.heraldcorp.com",
-          "published_at": "2026-09-09T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mMENrNkZMbkdvZTNHaElQYkRNajFHS25YREJ4NFhBbktLR2ppVGpOR0ZRWG5zREFYemJnR1RmWG9mSGdWMG9jU2QtY3AzZUFoTnFkby13?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "가온전선 공급 병목",
-          "feed": "ko",
-          "importance_score": 28.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.13(14.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 28.2/100"
-        },
         {
           "title": "LS에코에너지-가온전선, 손잡고 북미 시장 공략 가속화",
           "source": "전기신문",
@@ -2845,40 +2831,12 @@
           "provider": "google_news_rss",
           "query": "가온전선 공급 병목",
           "feed": "ko",
-          "importance_score": 25.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.30(8.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.0/100"
-        },
-        {
-          "title": "가온전선, 수상태양광 시장 진출…석문호·새만금서 170억 수주",
-          "source": "블로터",
-          "publisher_domain": "bloter.net",
-          "published_at": "2026-09-14T00:25:18+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56NWoycGlJQVpEQjBUdHZnYlRHLXFIWF9iZmRoeTVFUnlhMDR2RVlLZ0tDcjFuUk9rcURQMk5oNHZQNXNENndEZkZjTWJQMFl5eHd4eEFQeEZMWGJ1UnYxRXdwZlA2YUtO0gFsQVVfeXFMT0IyaW0tajFEMGZZUVBtX1NodGM1cWkwZUM0ZkYzQTZpRGFhTl9MeE4zbFRqdXVjdHNXU08yOWpaYUFaUFFCTmtGRS1lcFo1Y0FKdjBRb3ZzODN1RXRmV2szQm9XdGp0cGs3cXlN?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "가온전선 독점 공급",
-          "feed": "ko",
-          "importance_score": 23.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.25(10.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 23.7/100"
-        },
-        {
-          "title": "LS에코에너지, 미국 태양광 전력망 시장 확대… 가온전선과 손잡고 북미 공략 가속",
-          "source": "koreasprint.com",
-          "publisher_domain": "koreasprint.com",
-          "published_at": "2026-09-18T16:18:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dkRyN1hpV0RkRnI3WFpfOERWMnBZQ1R0YkVldlE1amlEWDE4M2RELUJGaE5GRld2ZjNhYTZ6VlVaQll6YmN2UG1Fd2VBZk4xa0pjdVR2TE14LUpkdHZWQ0dNeThmSEk2cnlkSnNB?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "가온전선 독점 공급",
-          "feed": "ko",
-          "importance_score": 21.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.48(5.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.9/100"
+          "importance_score": 21.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.17(12.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.7/100"
         },
         {
           "title": "[산업 Pick] 두산퓨얼셀·가온전선, AI 데이터센터 전력 인프라 시장 공략",
-          "source": "lcnews.co.kr",
+          "source": "라이센스뉴스",
           "publisher_domain": "lcnews.co.kr",
           "published_at": "2026-09-02T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IM2xKemNzUHRnZlB0aG9ER182QnM4YUtHZUNMRVU0VWVWaW0yamZtbXhVSnRXcFpsT3ZuWW9EN3BocDlJWjA5WFRmUDhiOFR3RmdWZ1JXS3NaUzRyRUhQYmdYWG11UmJoZksw?oc=5",
@@ -2887,8 +2845,22 @@
           "provider": "google_news_rss",
           "query": "가온전선 공급 병목",
           "feed": "ko",
-          "importance_score": 18.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.05(21.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 18.7/100"
+          "importance_score": 18.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.03(25.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 18.2/100"
+        },
+        {
+          "title": "AI DC 특수에 활짝…가온전선 “5년뒤 버스덕트 매출 25배 폭증 예상” [비즈360]",
+          "source": "v.daum.net",
+          "publisher_domain": "v.daum.net",
+          "published_at": "2026-08-22T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kaWs1SUZIcmtvUTdFd3dOMmxnTUtlZFhmUlBPeE1fOV9ZX1NfU1RpSGloNXFELVg4QmhmT3F5SW5yTjQybVE?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "가온전선 공급 병목",
+          "feed": "ko",
+          "importance_score": 17.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(36.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.7/100"
         }
       ]
     },
@@ -2901,7 +2873,7 @@
       ],
       "dropped_irrelevant": 1,
       "status_reason": null,
-      "found_count": 17,
+      "found_count": 15,
       "returned_count": 5,
       "keywords": [
         "심텍 capacity expansion sold out",
@@ -2928,14 +2900,14 @@
         {
           "keyword": "심텍 증설 가동",
           "feed": "ko",
-          "count": 25
+          "count": 24
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:34:51.481512+00:00",
+      "fetched_at": "2026-09-28T03:25:59.090615+00:00",
       "articles": [
         {
           "title": "\"엔비디아 차세대 수요 선제 대응\"…심텍, 증설 결정에 '급등' [종목+]",
@@ -2948,22 +2920,8 @@
           "provider": "google_news_rss",
           "query": "심텍 증설 가동",
           "feed": "ko",
-          "importance_score": 47.6,
-          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(26.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 47.6/100"
-        },
-        {
-          "title": "\"심텍, 청주 본사에 2742억 투자…소캠 생산 능력 추가 확보\"-NH",
-          "source": "한국경제",
-          "publisher_domain": "hankyung.com",
-          "published_at": "2026-08-26T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aYjRFQkx1TU1xWURpOEtsVDVGMnlKcWNwZ2RHMVhyY21oS1FXSS1Tc2hub1ZuRngwVW9FbUNYaHhNM1JYdkhHU0xUeEg3R0V1bUpJZFpyUjhndw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 증설 가동",
-          "feed": "ko",
-          "importance_score": 40.0,
-          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(28.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.0/100"
+          "importance_score": 47.3,
+          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(30.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 47.3/100"
         },
         {
           "title": "하나證 “심텍 2700억 시설 투자, 단기적으로 주식가치 희석 불가피”",
@@ -2976,12 +2934,26 @@
           "provider": "google_news_rss",
           "query": "심텍 증설 가동",
           "feed": "ko",
-          "importance_score": 40.0,
-          "importance_basis": "매체티어 0.80(chosun.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(28.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.0/100"
+          "importance_score": 39.8,
+          "importance_basis": "매체티어 0.80(chosun.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(32.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.8/100"
+        },
+        {
+          "title": "\"심텍, 청주 본사에 2742억 투자…소캠 생산 능력 추가 확보\"-NH",
+          "source": "한국경제",
+          "publisher_domain": "hankyung.com",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aYjRFQkx1TU1xWURpOEtsVDVGMnlKcWNwZ2RHMVhyY21oS1FXSS1Tc2hub1ZuRngwVW9FbUNYaHhNM1JYdkhHU0xUeEg3R0V1bUpJZFpyUjhndw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 증설 가동",
+          "feed": "ko",
+          "importance_score": 39.8,
+          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(32.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.8/100"
         },
         {
           "title": "심텍, AI서버용 기판 수요에 선제 증설…2028년 이익 확대 기대-하나",
-          "source": "marketin.edaily.co.kr",
+          "source": "마켓인",
           "publisher_domain": "marketin.edaily.co.kr",
           "published_at": "2026-08-26T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IdHVuMWIzd1U0WTc4Mi1vUXhQS3BCbUhCLUk0UXYzbzdOdG9KOEp5Rm9LMWRZcTViQ0ZIVVByWUR4d3BSM2xQSGlBcVFSM3g5VE1naWZzSGVUcEcxc0dnQUpXWVkzTkt3TGx6S29xYlJYU00?oc=5",
@@ -2990,12 +2962,12 @@
           "provider": "google_news_rss",
           "query": "심텍 증설 가동",
           "feed": "ko",
-          "importance_score": 39.5,
-          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(28.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.5/100"
+          "importance_score": 39.3,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(32.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.3/100"
         },
         {
           "title": "\"심텍, AI 기판 수요에 2742억 투자…연매출 Capa 4500억원 확대\" -NH",
-          "source": "marketin.edaily.co.kr",
+          "source": "마켓인",
           "publisher_domain": "marketin.edaily.co.kr",
           "published_at": "2026-08-26T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54WW5NWGltVWUzOTBJXzBMMnFjYVpYWFFBYWpIdHJtTVhFa1dEZnk4ZDBTNTU4TjJ3eFdRcVNHMEZSLVd4bWtwX05IOG5Eem1XdjNmdUx2V1BlYUlLMW5GUE5vWXh0RE0tbC0zVjFHU0c0ZFU?oc=5",
@@ -3004,8 +2976,8 @@
           "provider": "google_news_rss",
           "query": "심텍 증설 가동",
           "feed": "ko",
-          "importance_score": 32.0,
-          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(28.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.0/100"
+          "importance_score": 31.8,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(32.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.8/100"
         }
       ]
     },
@@ -3016,9 +2988,9 @@
         "222800",
         "심텍"
       ],
-      "dropped_irrelevant": 6,
+      "dropped_irrelevant": 2,
       "status_reason": null,
-      "found_count": 13,
+      "found_count": 11,
       "returned_count": 5,
       "keywords": [
         "심텍 long term supply agreement",
@@ -3052,7 +3024,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:34:54.431856+00:00",
+      "fetched_at": "2026-09-28T03:26:12.378730+00:00",
       "articles": [
         {
           "title": "심텍 “AI 수요 대응, 중요 자재 장기공급계약 체결…공급망 강화”",
@@ -3065,22 +3037,8 @@
           "provider": "google_news_rss",
           "query": "심텍 장기 공급계약 체결",
           "feed": "ko",
-          "importance_score": 45.4,
-          "importance_basis": "매체티어 0.60(etnews.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.26(9.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 45.4/100"
-        },
-        {
-          "title": "심텍, BT 레진 기판으로 FC-BGA 시장 진입",
-          "source": "디일렉",
-          "publisher_domain": "thelec.kr",
-          "published_at": "2026-09-23T04:57:27+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EQmJWSTZpbUNqcmRBNHh2SmJtNzRULTNEY0gwSzJUTlhxUFBrZzhRSU5PVEl4dk45eWJyM0lxSklTWUxjMTdYVjV4STVzakJIZFVBOE16UVp6dU5TTTNGS0VUdnBCUQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 39.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.89(0.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.8/100"
+          "importance_score": 42.6,
+          "importance_basis": "매체티어 0.60(etnews.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.15(13.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.6/100"
         },
         {
           "title": "심텍, 국내외 협력사 17곳과 ‘서플라이어 데이’…공급망 협력 강화",
@@ -3093,22 +3051,36 @@
           "provider": "google_news_rss",
           "query": "심텍 장기 공급계약 체결",
           "feed": "ko",
-          "importance_score": 37.7,
-          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.11(15.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 37.7/100"
+          "importance_score": 36.5,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.06(19.9일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 36.5/100"
+        },
+        {
+          "title": "심텍, BT 레진 기판으로 FC-BGA 시장 진입",
+          "source": "디일렉",
+          "publisher_domain": "thelec.kr",
+          "published_at": "2026-09-23T04:57:27+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EQmJWSTZpbUNqcmRBNHh2SmJtNzRULTNEY0gwSzJUTlhxUFBrZzhRSU5PVEl4dk45eWJyM0lxSklTWUxjMTdYVjV4STVzakJIZFVBOE16UVp6dU5TTTNGS0VUdnBCUQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 장기 공급계약 체결",
+          "feed": "ko",
+          "importance_score": 30.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.50(4.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 30.1/100"
         },
         {
           "title": "심텍 AI 반도체용 인쇄회로기판 공급망 강화, 주요 협력사와 장기 협력 논의",
           "source": "비즈니스포스트",
           "publisher_domain": "businesspost.co.kr",
-          "published_at": "2026-09-08T08:31:31+00:00",
+          "published_at": "2026-09-08T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rVTZ2by05eENGTXU4RHE0U1lyajJhdFFiX0RvN3dmc0FEQXRwcUhLUlg0Sm1DczJEMml6Sk0zc19ZWHpqdC1PS1hoN2o2WGRiOGpmTkVxXzZVcG12bjV6TWVINWxfTWg0VUpWUzV5c0J0ZGM?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "심텍 장기 공급계약 체결",
           "feed": "ko",
-          "importance_score": 27.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.11(15.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.8/100"
+          "importance_score": 26.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.06(19.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 26.6/100"
         },
         {
           "title": "[리포트 브리핑]심텍, '증설 코멘트: 'SOCAMM 1황은 나다'' 목표가 190,000원",
@@ -3121,8 +3093,8 @@
           "provider": "google_news_rss",
           "query": "심텍 증설 완료",
           "feed": "ko",
-          "importance_score": 25.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(28.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.5/100"
+          "importance_score": 25.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(32.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.3/100"
         }
       ]
     },
@@ -3157,19 +3129,19 @@
         {
           "keyword": "심텍 판가 인상",
           "feed": "ko",
-          "count": 19
+          "count": 25
         },
         {
           "keyword": "심텍 가격 인상 전가",
           "feed": "ko",
-          "count": 9
+          "count": 8
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:34:57.719727+00:00",
+      "fetched_at": "2026-09-28T03:26:25.460189+00:00",
       "articles": []
     },
     "small:222800.KQ:theme_bottleneck": {
@@ -3179,7 +3151,7 @@
         "222800",
         "심텍"
       ],
-      "dropped_irrelevant": 1,
+      "dropped_irrelevant": 0,
       "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
       "found_count": 3,
       "returned_count": 3,
@@ -3203,7 +3175,7 @@
         {
           "keyword": "심텍 공급 병목",
           "feed": "ko",
-          "count": 9
+          "count": 8
         },
         {
           "keyword": "심텍 독점 공급",
@@ -3215,7 +3187,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:00.517720+00:00",
+      "fetched_at": "2026-09-28T03:26:38.210188+00:00",
       "articles": [
         {
           "title": "[시선강탈] 에이치브이엠 vs 심텍 vs 비츠로테크, 공략법은?",
@@ -3228,36 +3200,36 @@
           "provider": "google_news_rss",
           "query": "심텍 독점 공급",
           "feed": "ko",
-          "importance_score": 37.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.82(1.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 37.9/100"
+          "importance_score": 29.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.46(5.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 29.0/100"
         },
         {
           "title": "엔비디아 낙점한 '소캠2'…심텍, 메모리 3사 싹쓸이",
           "source": "경제타임스",
           "publisher_domain": "ket.kr",
           "published_at": "2026-09-09T00:44:36+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYaW9xSXFTSHVtTlZhVGdyV3JuWnhvbFNkZ1ZoTmNQMmxFNjNQVkZzRWFKR0Y0S29MYlRjdks1cGd5MjRFNEdXbGY0Qkh0ZkxTajBZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wN1hVZlMyanZCdldJX1oxVzdFWVhZcGZIVFJuYUkybUxlQTUtdklYZ3RJSlFkeVJ1bElSUTBkQ1Q1NUJSSXJDaTdfVERtTVFsVGxjaExlTDNNOTg?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "심텍 독점 공급",
           "feed": "ko",
-          "importance_score": 20.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.13(15.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 20.6/100"
+          "importance_score": 19.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.07(19.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 19.3/100"
         },
         {
-          "title": "\"AI 수요 계속\" 엔비디아 실적 발표에 기판주 '방긋'…심텍, 5%대↑",
-          "source": "news.nate.com",
-          "publisher_domain": "news.nate.com",
-          "published_at": "2026-08-27T00:29:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJY2Y0S3FtMkg4SS1MM0hHLXF5OEkzTW9JeHRBN1hqcEF4ajlybnc5bV94OVFZTFNuUVFFX1NaZ254ZUJSM0ozeDYzakZMS3JQdXhrdlU2MktlNXZhd2Ftbw?oc=5",
+          "title": "\"AI 수요 계속\" 엔비디아 실적 발표에 기판주 '방긋'… 심텍, 5%대↑",
+          "source": "머니투데이",
+          "publisher_domain": "mt.co.kr",
+          "published_at": "2026-08-27T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ekpnTlRlNm5jM3R6WE0zNUJ6RENVQWN2eXpfQTJPb3c4QzFrQXVtN3JscThWWWFhNlYzREhvekNGQndJX3ZCTVg0SjYtLWp6ekgwQWZxcUlnMURFT05ZanJOOGxva0Ff0gFuQVVfeXFMUDgzRGlxbFZFMFBMUGpEaEk5OGpGZWZUMkxxN1gzbFZFdkt5VXc2RXd4bVpJTkxVcjVYS200bF8wNzNBNUxpb0I0OWdMTkZTdGI1S1JkaXZTOGdQUm1TemJxVlhoQ2xLNnJQNmtQUXc?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "심텍 공급 병목",
           "feed": "ko",
-          "importance_score": 18.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(28.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 18.0/100"
+          "importance_score": 17.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(31.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.8/100"
         }
       ]
     },
@@ -3268,10 +3240,10 @@
         "078930",
         "GS"
       ],
-      "dropped_irrelevant": 11,
-      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
-      "found_count": 1,
-      "returned_count": 1,
+      "dropped_irrelevant": 7,
+      "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
+      "found_count": 2,
+      "returned_count": 2,
       "keywords": [
         "GS capacity expansion sold out",
         "GS supply shortage easing",
@@ -3297,28 +3269,42 @@
         {
           "keyword": "GS 증설 가동",
           "feed": "ko",
-          "count": 25
+          "count": 24
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:03.324347+00:00",
+      "fetched_at": "2026-09-28T03:26:50.736401+00:00",
       "articles": [
         {
           "title": "AI데이터센터 사업 본격화하는 GS… 석탄발전 가동률까지 높아지는 1석2조 ‘기대감’",
           "source": "Chosunbiz",
           "publisher_domain": "biz.chosun.com",
-          "published_at": "2026-09-18T05:39:00+00:00",
+          "published_at": "2026-09-18T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBzbkRueHNVdkdTZlhQMkctczFOa2hHS28yQ01OWFJQMm54RmRzeC05SkFQMFlJazF1QXJaWVRVUDBBWENCTkFpT1BCREZhSmY1ajdlbHlqclk2TWN5UkJqUElsSGJ6Q3ZCRGNLR3FGV0FsY3FTck5xRjlNa3llb0ttU1nSAZgBQVVfeXFMTUV0LVlfWEphUmZJNjhIWmRmNG9KMXRCazkxVXNBMXE4WmtVTkJGMnRXNVdrSVh4M0NyYXl1LWRxakhQZmFtcXdDZG1xb2ZwdFVoTGF0V0t6aFVTOTVaNUZkcC0tZlNRNThobUlFbjlHYlI5QTFndXBKWi13TTRiMGtxUzk2MzBmd2RzZDVqdXlVTkRacnlHSG8?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "GS 증설 가동",
           "feed": "ko",
-          "importance_score": 50.7,
-          "importance_basis": "매체티어 0.80(chosun.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.45(5.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 50.7/100"
+          "importance_score": 45.9,
+          "importance_basis": "매체티어 0.80(chosun.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.26(9.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 45.9/100"
+        },
+        {
+          "title": "Goldman Sachs (GS) Holds Ground at $1,041 as Range-Bound Trading Persists",
+          "source": "dars.gov.et",
+          "publisher_domain": "dars.gov.et",
+          "published_at": "2026-08-14T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbEJNeC1aVDgteEM1X0kwamNRSEgzYXp1enZIZ21wRmtHUWllN0ZDc2dfWlVZUUxhTlhMYjNKM2toZFlTalZCcjZhOTJsYWxpRkstZ2dsMjA5ckcxaVpWQVpXckdYYkdpbEliWnBjeEdpdEJpMTFtVGEyaWdRb19VblJwZnFGMTB3TUlRX3lmTG8xZFFMYTY5cWJUQVlmM3lhV1RTbk1BQm01aGZDd0J0X2dvNUJxdGdPZDJTZU9VYVFpNHVGZTBQSXYyMm1FdEtZOHpEd3RZbEhSTVpraWpXYTVSMkViRUZf?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "GS capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 17.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(44.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.5/100"
         }
       ]
     },
@@ -3329,7 +3315,7 @@
         "078930",
         "GS"
       ],
-      "dropped_irrelevant": 7,
+      "dropped_irrelevant": 5,
       "status_reason": "중복 제거 후 4건만 확보됨 (목표 5건)",
       "found_count": 4,
       "returned_count": 4,
@@ -3358,18 +3344,18 @@
         {
           "keyword": "GS 증설 완료",
           "feed": "ko",
-          "count": 17
+          "count": 18
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:06.532191+00:00",
+      "fetched_at": "2026-09-28T03:27:03.875095+00:00",
       "articles": [
         {
           "title": "GS에너지, 태국 PTT와 LNG 장기 계약…글로벌 조달선 다변화",
-          "source": "더구루",
+          "source": "theguru.co.kr",
           "publisher_domain": "theguru.co.kr",
           "published_at": "2026-09-21T07:00:43+00:00",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YSXlPUW9tRzd6RVFobnFzMnM5cjR6SHk5TmFQbmpwT3FFYzg5aFoxUmFDOUtnT3F5WHFhSTAtcHJjd1R0aTFOeHhMYUVuWFpzRGdfSFdKZVI0YmFtQWNNQ0RRTQ?oc=5",
@@ -3378,22 +3364,22 @@
           "provider": "google_news_rss",
           "query": "GS 장기 공급계약 체결",
           "feed": "ko",
-          "importance_score": 42.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.68(2.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.1/100"
+          "importance_score": 34.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.39(6.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 34.7/100"
         },
         {
-          "title": "TotalEnergies, GS Energy pen long-term LNG SPA",
-          "source": "LNG Prime",
-          "publisher_domain": "lngprime.com",
-          "published_at": "2026-09-14T08:29:33+00:00",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0hHLU8teVVMeTZ4TmlqYXJ4MTJhX1ZLSVVBdVZVc2htYklyZkxyRU9rc2VKTzZZQWM2UWhPZWlIdlR4WG9pU0VubjVOaTJPUGtMN2trSW5SWGZwTTdadFdlUnc5RENQS1RZVTE2VHpqS2kyLVpDOU0xUlk1VHIzUjRWRU5udw?oc=5",
+          "title": "GS에너지, 프랑스 토탈에너지스와 LNG 장기계약…PTT 이어 조달선 확대",
+          "source": "PRESS9",
+          "publisher_domain": "press9.kr",
+          "published_at": "2026-09-24T06:48:01+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43aUFVZ2pzLXNHSElwX285T29LWHAzaDE0MFNUcENQY1dVbEdzTkNYTnZuU193RG9Jck1mYXNndS1EVW00MnpfQnk1UUI2VFBiNWtxS1ZrN29xRlV1RlgtbEl2VnN3UQ?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
-          "query": "GS long term supply agreement",
-          "feed": "en",
-          "importance_score": 39.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.26(9.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.0/100"
+          "query": "GS 장기 공급계약 체결",
+          "feed": "ko",
+          "importance_score": 32.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.59(3.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.1/100"
         },
         {
           "title": "GS에너지, 태국 PTT와 양사 첫 LNG 장기계약…조달선 넓힌다",
@@ -3406,36 +3392,36 @@
           "provider": "google_news_rss",
           "query": "GS 장기 공급계약 체결",
           "feed": "ko",
-          "importance_score": 34.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.67(2.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 34.2/100"
+          "importance_score": 26.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.38(7.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 26.9/100"
         },
         {
           "title": "GS건설 제안 ‘구미 생활폐기물 소각시설 증설’ 사업자 선정 절차 돌입",
           "source": "v.daum.net",
           "publisher_domain": "v.daum.net",
           "published_at": "2026-08-18T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZRlp3Qk1tbUM2OFpzYnMyZllrTkhkcGZ6dFlVYjlJWjI1dm12R2ROUVBDX1Q3empZbkdSVlF4V0NxalJNaldZamJ2dFdNdDhSOFNWaw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyWGNPb204UHAyMi1LZTdteWlNcG56R2xpY2tibkpZeS0wTjVIeTd0c1JiUjlfUmZKbnFXWkk2WGVZbWd3LUkwSWM5QQ?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "GS 증설 완료",
           "feed": "ko",
-          "importance_score": 25.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(36.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.2/100"
+          "importance_score": 25.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(40.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.1/100"
         }
       ]
     },
     "small:078930.KS:pricing_power": {
       "key": "small:078930.KS:pricing_power",
-      "status": "partial",
+      "status": "no_results",
       "relevance_terms": [
         "078930",
         "GS"
       ],
-      "dropped_irrelevant": 12,
-      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
-      "found_count": 1,
-      "returned_count": 1,
+      "dropped_irrelevant": 10,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
       "keywords": [
         "GS price increase announcement",
         "GS pricing power margin expansion",
@@ -3468,23 +3454,8 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:09.732994+00:00",
-      "articles": [
-        {
-          "title": "GS Global opens Houston branch to expand North American energy, infrastructure business",
-          "source": "Korea JoongAng Daily",
-          "publisher_domain": "koreajoongangdaily.com",
-          "published_at": "2026-08-13T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNEhpelFmNTZTV3cyZFVvUXJDZUhNekVQNFp4cldjc3kyUEZSUE80cVBaVDhrTjNmbDBiS1RBTFpKNUcwVGxDLWZWdUJWeU1HWmtZQko5VWhWeE1oYkhEekVQa0lJdFdYbGwtUVg5dENPUGZVeWxxbVRRYkhvLXBvUjUzWW9oVmNiWmR4TnBLcUxxZXdDTHEyaW01SHQyVVN5QUJfbmFqYU9oM3gtaG9wU1c2dGktOXc2Y0F6bGEyZjB1Qkk5SDQ3bG1ZSjFRVHZUWEp1ZVBB?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "GS pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 17.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(41.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
-        }
-      ]
+      "fetched_at": "2026-09-28T03:27:17.576984+00:00",
+      "articles": []
     },
     "small:078930.KS:theme_bottleneck": {
       "key": "small:078930.KS:theme_bottleneck",
@@ -3493,9 +3464,9 @@
         "078930",
         "GS"
       ],
-      "dropped_irrelevant": 6,
+      "dropped_irrelevant": 5,
       "status_reason": null,
-      "found_count": 12,
+      "found_count": 6,
       "returned_count": 5,
       "keywords": [
         "GS bottleneck supply chain",
@@ -3507,7 +3478,7 @@
         {
           "keyword": "GS bottleneck supply chain",
           "feed": "en",
-          "count": 20
+          "count": 17
         },
         {
           "keyword": "GS sole supplier constraint",
@@ -3517,7 +3488,7 @@
         {
           "keyword": "GS 공급 병목",
           "feed": "ko",
-          "count": 25
+          "count": 21
         },
         {
           "keyword": "GS 독점 공급",
@@ -3529,77 +3500,77 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:13.669341+00:00",
+      "fetched_at": "2026-09-28T03:27:31.302595+00:00",
       "articles": [
         {
-          "title": "GS엔텍, 울산 문무바람 부유식 해상풍력 하부구조물 공급",
-          "source": "중소기업신문",
-          "publisher_domain": "smedaily.co.kr",
-          "published_at": "2026-09-22T07:05:31+00:00",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIa0E0aFBtcG1veERaSUFIdktzNW4xUHJYNjlVcVJfcGhEdnFMWENJTnFSNWVNOV8wVHgzVkNsWFZydWFlS1lXMlViakR4eXlvMHUwZkU1VF9uS25jUHNLc3VhZE02X2ZZcHR0VDRn?oc=5",
+          "title": "GS, AI 데이터센터 병목 스타트업으로 푼다 [상생경영]",
+          "source": "이투데이",
+          "publisher_domain": "etoday.co.kr",
+          "published_at": "2026-09-20T20:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NS2h6NjduUkVRdXpSNUpTd0tXekczZEF5RXh3TGlvUk4xQ01sT3lxZ3dxSTVfVEFQWVY4Y2l0eVF6T1ZyUFJrbkdyM1Z0RldXbXpDZA?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "GS 공급 병목",
+          "feed": "ko",
+          "importance_score": 34.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.36(7.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 34.1/100"
+        },
+        {
+          "title": "허태수 GS 회장 \"스타트업 기술로 AI 데이터센터 병목 해소\"",
+          "source": "지디넷코리아",
+          "publisher_domain": "zdnet.co.kr",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwS2R0UWZNREpHXzFOSUtGa01tbVlEbU8tQXY4ZmhGRDc4N0tHeTQ0ZlpxaC11UktzNC03WlhpTmpLUXJFUWVlOVRQMjMwOEp1WkNlWjdR?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "GS 공급 병목",
+          "feed": "ko",
+          "importance_score": 33.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.19(11.9일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 33.2/100"
+        },
+        {
+          "title": "허태수 GS 회장 “AI 데이터센터 병목, 스타트업 혁신으로 풀겠다”",
+          "source": "v.daum.net",
+          "publisher_domain": "v.daum.net",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9adGQtcWxwMHhuN2VpQmUxY0FzUWxRTTRVZkdHY3dRMlNpQWdseGJBaWt0OW85dnhRcHc4Q2ZUU0tRYnZwdWxvYl9DQQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "GS 공급 병목",
+          "feed": "ko",
+          "importance_score": 33.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.19(11.9일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 33.2/100"
+        },
+        {
+          "title": "GS엔텍, 울산 문무바람 참여…부유식 해상풍력 진출",
+          "source": "부산일보",
+          "publisher_domain": "busan.com",
+          "published_at": "2026-09-22T08:26:40+00:00",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sWmRNbVBrdGxsdVJsa3ZydEY5Y2VOa2k4ZVF1ZUJlVGFKOTJtVDV6YmZfZEJIdFVRMjdhYWwzUHlPSUE5cVBYbkNPVHZnMmZxdzFUQjhQaG1UWGs3QkdDc1NoMkt4QmI1cTdITWJsSl9vUEVa?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "GS 독점 공급",
           "feed": "ko",
-          "importance_score": 48.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.79(1.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 48.1/100"
+          "importance_score": 28.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.45(5.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 28.7/100"
         },
         {
-          "title": "GS accelerates Korea AI data center tech via GS Ventures Tech Day",
-          "source": "Chosunbiz",
-          "publisher_domain": "biz.chosun.com",
-          "published_at": "2026-09-16T01:15:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRjVjM295NXNNdUpVVHlPSnFmczlzSm9iVTByUVdNbnRja3ZmZ0x5U05DcXNYS05JcGQ0N2R4YVdEZm1hT05wQ09FMlZRYXgxZ2FzNVZJRnhoQ21GMTNtWjZ1cmdUVVlNZ05abjROcWZyaTdRUEduc2x6QVBReEY5TEhB?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "GS bottleneck supply chain",
-          "feed": "en",
-          "importance_score": 47.8,
-          "importance_basis": "매체티어 0.80(chosun.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.33(8.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 47.8/100"
-        },
-        {
-          "title": "GS 허태수 회장 “혁신 기술로 AI 데이터센터 병목 해소”",
-          "source": "globalepic.co.kr",
-          "publisher_domain": "globalepic.co.kr",
-          "published_at": "2026-09-16T03:26:36+00:00",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CWkpWa09vSnZDd1RCNmtFNEFDN0hVZVYweF92Vlh3ZUl3dVlXYWhkTHY0RWN6NXp0UmRobmVlTnVFdU5hbWM3eGRHYk5PbEpYSk1aQTg0NlJwYWNGSjlLMmVvTlpNRXViZGduaW9OVnNyeWF1aTdjZElnOGw?oc=5",
+          "title": "허태수 GS 회장 “스타트업과 AI 데이터센터 기술 생태계 함께 키울 것”",
+          "source": "헤럴드경제",
+          "publisher_domain": "biz.heraldcorp.com",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83OWF0NUNXQzNXRERuNzU1YlRqUGhYU2ZlT25pLUYxRUk0R3F6eU51Z0xpS2M5UG5QenFLRnBnUEJtSk9jQlNSUldxdlNnTi12OEp3ZjBn?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "GS 공급 병목",
           "feed": "ko",
-          "importance_score": 43.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.34(7.9일 경과)×0.25 + 동일사안 보도 4건→1.00×0.10 = 43.4/100"
-        },
-        {
-          "title": "허태수 GS 회장 '스타트업, AI 데이터센터 기술 병목 푸는 실마리'",
-          "source": "한국아이닷컴",
-          "publisher_domain": "hankooki.com",
-          "published_at": "2026-09-16T01:00:14+00:00",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KNHp2Tm5zM1BsQ0VFT1lYenlHRk1UZFB5cUFCb0sxSWhrMl8xaXhUbVdfczRUYnZxcS1BNzlfZTIydkJ4dzNDVHBaN0h4Znh5Wm9aRTdybzJvVV9YN2RyYUdfQV9OeUZFRXhN0gFvQVVfeXFMTzNfQWN5MllQR0lmR05vUWc1SUUyeng5VG5yMFR0RXZldWJiWmFXUWZhWDVLT0s5ZmFLdmVLN20zZzhVZ0NiZlNjeGJrb0tMOEtDWDNEb0hnZW1XS21EXzY2NUhPT3BJd0cyQTVFMmtj?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "GS 공급 병목",
-          "feed": "ko",
-          "importance_score": 43.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.33(8.0일 경과)×0.25 + 동일사안 보도 4건→1.00×0.10 = 43.3/100"
-        },
-        {
-          "title": "허태수 GS 회장 “AI 데이터센터 병목, 스타트업 혁신으로 풀겠다”",
-          "source": "supple.kr",
-          "publisher_domain": "supple.kr",
-          "published_at": "2026-09-16T00:48:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpWllLSmJkdkE2Z2tnMEtyTTJVWERJWW5SUFk1LWpBVnllLWlPM3FkU3pYYkZsUTlTNndmYXFnZHFDOVB5dUM4Y1NRemI3YkVtRlVOdE4yX2hBd2dX?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "GS 공급 병목",
-          "feed": "ko",
-          "importance_score": 43.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.33(8.0일 경과)×0.25 + 동일사안 보도 4건→1.00×0.10 = 43.3/100"
+          "importance_score": 22.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.19(11.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 22.3/100"
         }
       ]
     },
@@ -3610,7 +3581,7 @@
         "주성엔지니어링",
         "036930"
       ],
-      "dropped_irrelevant": 0,
+      "dropped_irrelevant": 1,
       "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
       "found_count": 1,
       "returned_count": 1,
@@ -3639,18 +3610,18 @@
         {
           "keyword": "주성엔지니어링 증설 가동",
           "feed": "ko",
-          "count": 11
+          "count": 14
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:16.916497+00:00",
+      "fetched_at": "2026-09-28T03:27:44.682519+00:00",
       "articles": [
         {
           "title": "[고래사냥] '태성·주성엔지니어링·현대위아·네오오토! 내일장 고래 종목은?!",
-          "source": "mt.co.kr",
+          "source": "머니투데이",
           "publisher_domain": "mt.co.kr",
           "published_at": "2026-08-15T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zT0NBYW9wMF91SkRDRENLX2R6c2xWMzMxM2xhLVJkMXJnVXoxZlNTaUtRaEdYSXVMYkxUdnFqTWRuTlc4QUlHdE9KYWdSRE15Q1pJczUxNWpnR0xLZzdQbGlPSGx1RTVC0gFuQVVfeXFMUGRNU2RnUDQ0OVV6SXRDTFp4QVd6ZjY2c1hEaFBJRHVrT1AzdUQ3SkktNnA2YUViekVMYnBnYkV2RUk4NnBsTExWYUo3YzB5aU05Z0FoQUVWRTJkNnNwUlZVd20ybnBaRUNHNURnQVE?oc=5",
@@ -3660,7 +3631,7 @@
           "query": "주성엔지니어링 증설 가동",
           "feed": "ko",
           "importance_score": 17.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(39.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(43.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
         }
       ]
     },
@@ -3671,10 +3642,10 @@
         "주성엔지니어링",
         "036930"
       ],
-      "dropped_irrelevant": 7,
-      "status_reason": "중복 제거 후 4건만 확보됨 (목표 5건)",
-      "found_count": 4,
-      "returned_count": 4,
+      "dropped_irrelevant": 3,
+      "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
+      "found_count": 2,
+      "returned_count": 2,
       "keywords": [
         "주성엔지니어링 long term supply agreement",
         "주성엔지니어링 capex completion customer commitment",
@@ -3700,43 +3671,15 @@
         {
           "keyword": "주성엔지니어링 증설 완료",
           "feed": "ko",
-          "count": 15
+          "count": 13
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:19.707637+00:00",
+      "fetched_at": "2026-09-28T03:27:57.691380+00:00",
       "articles": [
-        {
-          "title": "주성엔지니어링 주가, 급등세... 이유는?",
-          "source": "한국경제TV",
-          "publisher_domain": "wowtv.co.kr",
-          "published_at": "2026-09-11T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02dTJDeEgyOWxKOHJvRmc0VHpyYU94VkhyLWxmeFlIalF6eE5TbGUwZFk1VTRkQmoyYTFGRlJWUWF1SW03elZ6dXpzWnNTcEJQeWRvSUI3TVZiX0s4TVRiUWx1b2FrOEl1bk9Eb0gyTHVyTmRPMllJ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "주성엔지니어링 증설 완료",
-          "feed": "ko",
-          "importance_score": 21.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.17(12.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.8/100"
-        },
-        {
-          "title": "주성엔지니어링 3.17% 도약…SK하이닉스 M15X·선단 D램 투자 기대 주목",
-          "source": "CBC뉴스",
-          "publisher_domain": "cbci.co.kr",
-          "published_at": "2026-09-11T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XaHVmc01jZkFvTnAtYTVUQzhud3RadjEtQVVqQUdabkFZdEF1cUZlRXpJVm9OOENVU0RiZk1mM2NPYldjalB3MGxXZXY2aEJuREtRUFhaZHJ6TmJ3N045SnVyemFNTFlI?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "주성엔지니어링 증설 완료",
-          "feed": "ko",
-          "importance_score": 21.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.17(12.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.8/100"
-        },
         {
           "title": "[모닝 리포트] 주성엔지니어링, 메모리 투자 회복에 글로벌 확장까지",
           "source": "뉴스핌",
@@ -3748,12 +3691,12 @@
           "provider": "google_news_rss",
           "query": "주성엔지니어링 증설 완료",
           "feed": "ko",
-          "importance_score": 17.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(29.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.9/100"
+          "importance_score": 17.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(33.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.7/100"
         },
         {
           "title": "[고래사냥] '태성·주성엔지니어링·현대위아·네오오토! 내일장 고래 종목은?!",
-          "source": "mt.co.kr",
+          "source": "머니투데이",
           "publisher_domain": "mt.co.kr",
           "published_at": "2026-08-15T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zT0NBYW9wMF91SkRDRENLX2R6c2xWMzMxM2xhLVJkMXJnVXoxZlNTaUtRaEdYSXVMYkxUdnFqTWRuTlc4QUlHdE9KYWdSRE15Q1pJczUxNWpnR0xLZzdQbGlPSGx1RTVC0gFuQVVfeXFMUGRNU2RnUDQ0OVV6SXRDTFp4QVd6ZjY2c1hEaFBJRHVrT1AzdUQ3SkktNnA2YUViekVMYnBnYkV2RUk4NnBsTExWYUo3YzB5aU05Z0FoQUVWRTJkNnNwUlZVd20ybnBaRUNHNURnQVE?oc=5",
@@ -3763,7 +3706,7 @@
           "query": "주성엔지니어링 증설 완료",
           "feed": "ko",
           "importance_score": 17.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(39.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(43.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
         }
       ]
     },
@@ -3774,7 +3717,7 @@
         "주성엔지니어링",
         "036930"
       ],
-      "dropped_irrelevant": 6,
+      "dropped_irrelevant": 4,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -3798,7 +3741,7 @@
         {
           "keyword": "주성엔지니어링 판가 인상",
           "feed": "ko",
-          "count": 5
+          "count": 7
         },
         {
           "keyword": "주성엔지니어링 가격 인상 전가",
@@ -3810,7 +3753,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:22.943360+00:00",
+      "fetched_at": "2026-09-28T03:28:11.858180+00:00",
       "articles": []
     },
     "small:036930.KQ:theme_bottleneck": {
@@ -3820,7 +3763,7 @@
         "주성엔지니어링",
         "036930"
       ],
-      "dropped_irrelevant": 2,
+      "dropped_irrelevant": 4,
       "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
       "found_count": 2,
       "returned_count": 2,
@@ -3844,7 +3787,7 @@
         {
           "keyword": "주성엔지니어링 공급 병목",
           "feed": "ko",
-          "count": 14
+          "count": 15
         },
         {
           "keyword": "주성엔지니어링 독점 공급",
@@ -3856,35 +3799,35 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:25.831972+00:00",
+      "fetched_at": "2026-09-28T03:28:24.852139+00:00",
       "articles": [
         {
           "title": "[고래사냥] '동진쎄미켐·주성엔지니어링·와이제이링크! 내일장 고래 종목은?!",
-          "source": "mt.co.kr",
-          "publisher_domain": "mt.co.kr",
-          "published_at": "2026-09-23T23:33:53+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SLXFUWTBJTHNzbWVZME1iS0FKVG91SGxiVU5oYW1KYjJYUjA3dmctUmNweTVuTjdwY25qZVFadzdtTUZtQ2NSaG5Lc3RjWmdVa3RIdGhUdE9TdU5nQlJWZW9uRHFwbmF40gFuQVVfeXFMT1hGZS1yNlhsLTc0WUhCNWFEV1pEVGxZdzBnaWdoOGF5a2NxRW9tVzRqVm1rOWh3NjN6cWtqWjI5Y0l2Zkp3b1RFSDZRM08zNkR3UzhmRERiZVl4U2pjemxnZ2Z1Skp1a1lvZEdhUmc?oc=5",
+          "source": "v.daum.net",
+          "publisher_domain": "v.daum.net",
+          "published_at": "2026-09-23T23:24:03+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pZ1E5SjFsbXgxX1pqaDVsNlhCWGRRbnpfOU5tX2ZZc2E0cXZwc01US0Z2cDV1TDBiSFl3QS04RGc5OGJmWmgzeGMzempFaXM?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "주성엔지니어링 독점 공급",
           "feed": "ko",
-          "importance_score": 45.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.99(0.0일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 45.8/100"
+          "importance_score": 34.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.56(4.2일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 34.9/100"
         },
         {
           "title": "[고래사냥] '주성엔지니어링·동진쎄미켐·에이럭스·쿠콘! 내일장 고래 종목은?!",
-          "source": "v.daum.net",
-          "publisher_domain": "v.daum.net",
+          "source": "머니투데이",
+          "publisher_domain": "mt.co.kr",
           "published_at": "2026-08-21T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96TC1PZ296NlFBZGhaV3VOQUd4Y0k2TWNFcFZ6SXNEWWdSaTh3NldneTE4aEhiU2hSYVQ2SUxjX3FRRzVxWmlWNm5VMWNvbV9yTXU4OA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmQW9pWkRfcEdZMUZjSmpXaU1YTWxHSUUtX2xzUEgwX0kxd0g2UE9YMkRUSVpzN29saURIZWF1LXhvOGlfQV95RmpIVWc0bW5zS3EyNkdabW42TFdxNHhTeGJvUWtXX2Vh0gFuQVVfeXFMTUt0SXRrQ3BCZ0dLMDg2eDVpcnA2SWtSZWVuT2ZpLVhWY05pNHlwQkh0bUh6NHBaenJvTkVrdUk2aTg3dU0yamlCdmw2V3RnNjN4V3k1dUQxY256V0hSUHV4TFRLREZFMVBuQzdWT3c?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "주성엔지니어링 독점 공급",
           "feed": "ko",
-          "importance_score": 21.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(33.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 21.1/100"
+          "importance_score": 21.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(37.9일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 21.0/100"
         }
       ]
     },
@@ -3931,7 +3874,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:28.866704+00:00",
+      "fetched_at": "2026-09-28T03:28:38.128405+00:00",
       "articles": []
     },
     "small:010950.KS:supply_locked": {
@@ -3941,7 +3884,7 @@
         "010950",
         "S-Oil"
       ],
-      "dropped_irrelevant": 8,
+      "dropped_irrelevant": 6,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -3977,7 +3920,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:32.296287+00:00",
+      "fetched_at": "2026-09-28T03:28:52.015409+00:00",
       "articles": []
     },
     "small:010950.KS:pricing_power": {
@@ -3987,7 +3930,7 @@
         "010950",
         "S-Oil"
       ],
-      "dropped_irrelevant": 4,
+      "dropped_irrelevant": 3,
       "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
       "found_count": 1,
       "returned_count": 1,
@@ -4011,7 +3954,7 @@
         {
           "keyword": "S-Oil 판가 인상",
           "feed": "ko",
-          "count": 17
+          "count": 22
         },
         {
           "keyword": "S-Oil 가격 인상 전가",
@@ -4023,7 +3966,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:35.857571+00:00",
+      "fetched_at": "2026-09-28T03:29:06.331503+00:00",
       "articles": [
         {
           "title": "유가 반등으로 가격 역전…금호석유화학·S-Oil 주목하는 이유는",
@@ -4036,8 +3979,8 @@
           "provider": "google_news_rss",
           "query": "S-Oil 판가 인상",
           "feed": "ko",
-          "importance_score": 30.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.23(10.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 30.6/100"
+          "importance_score": 28.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.13(14.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 28.2/100"
         }
       ]
     },
@@ -4048,7 +3991,7 @@
         "010950",
         "S-Oil"
       ],
-      "dropped_irrelevant": 6,
+      "dropped_irrelevant": 7,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -4067,12 +4010,12 @@
         {
           "keyword": "S-Oil sole supplier constraint",
           "feed": "en",
-          "count": 7
+          "count": 6
         },
         {
           "keyword": "S-Oil 공급 병목",
           "feed": "ko",
-          "count": 5
+          "count": 9
         },
         {
           "keyword": "S-Oil 독점 공급",
@@ -4084,7 +4027,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-24T00:35:39.440503+00:00",
+      "fetched_at": "2026-09-28T03:29:20.180691+00:00",
       "articles": []
     }
   }
