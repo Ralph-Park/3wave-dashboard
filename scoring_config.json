@@ -1,0 +1,1018 @@
+{
+  "_meta": {
+    "config_version": "0.1.0",
+    "created": "2026-09-20",
+    "disclaimer_ko": "모든 임계값과 가중치는 초기 가정값입니다. 백테스트로 검증되지 않았으며 투자 권유가 아닙니다.",
+    "scale": "지표 점수는 -2(매우 부정) ~ +2(매우 긍정) 정수입니다.",
+    "composite_formula": "가용 지표 점수의 가중평균 → (avg + 2) / 4 * 100",
+    "coverage_floor": 0.6,
+    "coverage_floor_note": "데이터 커버리지가 60% 미만이면 종합 점수 대신 '데이터 부족 - 판단 유보'를 표시합니다.",
+    "weight_mode": "wave_share",
+    "weight_mode_note_ko": "파도 내 가중치를 균등 배분하지 않고 지표별 wave_share 로 지정합니다. share 는 파도 안에서 정규화되며, 결측 지표가 있으면 남은 지표끼리 다시 정규화됩니다.",
+    "evidence_tiers_ko": {
+      "A": "20년 구간에서 방향이 일관되게 이론과 일치 — 정상 가중치",
+      "B": "국면·시장에 따라 흔들림 — 중간 가중치",
+      "C": "20년 기준 관계가 없거나 방향이 반대 — 최소 가중치 (부호는 뒤집지 않음)"
+    },
+    "evidence_window_ko": "근거 등급은 2006-09~2026-09 (주간 1,044시점, 2008 금융위기·2020 코로나 포함) 측정 결과입니다."
+  },
+  "wave_weights": {
+    "big": 0.5,
+    "mid": 0.5,
+    "small": 0.0,
+    "_note": "작은 파도는 시장 전체 점수에 반영하지 않습니다(가중치 0). 파도 내 지표 가중치는 균등 배분됩니다."
+  },
+  "allocation_map": [
+    {
+      "min": 0,
+      "max": 20,
+      "invest_pct": 20,
+      "label": "강한 방어"
+    },
+    {
+      "min": 20,
+      "max": 40,
+      "invest_pct": 40,
+      "label": "방어"
+    },
+    {
+      "min": 40,
+      "max": 60,
+      "invest_pct": 60,
+      "label": "중립"
+    },
+    {
+      "min": 60,
+      "max": 80,
+      "invest_pct": 80,
+      "label": "공격"
+    },
+    {
+      "min": 80,
+      "max": 100,
+      "invest_pct": 90,
+      "label": "강한 공격"
+    }
+  ],
+  "allocation_note_ko": "규칙 기반 참고치이며 투자 권유가 아닙니다. 현금 비중 = 100 − 투자 비중.",
+  "indicators": [
+    {
+      "key": "cpi",
+      "wave": "big",
+      "name_ko": "미국 소비자물가",
+      "name_en": "US CPI",
+      "role": "scored",
+      "source": {
+        "name": "FRED (St. Louis Fed)",
+        "series_id": "CPIAUCSL",
+        "extra_series": [
+          "CPILFESL"
+        ],
+        "url": "https://fred.stlouisfed.org/series/CPIAUCSL"
+      },
+      "display": {
+        "primary_metric": "yoy_pct",
+        "unit": "%",
+        "decimals": 2,
+        "direction": "lower_is_better"
+      },
+      "scoring": {
+        "components": [
+          {
+            "metric": "yoy_pct",
+            "label_ko": "YoY 수준",
+            "weight": 0.5,
+            "rationale_ko": "연준 목표 2% 대비 현재 물가 수준. 2% 이하면 완화 여력, 4% 초과면 긴축 압력.",
+            "breakpoints": [
+              {
+                "max": 2.0,
+                "score": 2
+              },
+              {
+                "max": 2.5,
+                "score": 1
+              },
+              {
+                "max": 3.0,
+                "score": 0
+              },
+              {
+                "max": 4.0,
+                "score": -1
+              },
+              {
+                "max": null,
+                "score": -2
+              }
+            ]
+          },
+          {
+            "metric": "accel_pp",
+            "label_ko": "3개월 연율 − YoY (추세 가속도)",
+            "weight": 0.5,
+            "rationale_ko": "3개월 연율화가 YoY보다 낮으면 물가가 꺾여 내려오는 중(+), 높으면 재가속(−).",
+            "breakpoints": [
+              {
+                "max": -1.0,
+                "score": 2
+              },
+              {
+                "max": -0.3,
+                "score": 1
+              },
+              {
+                "max": 0.3,
+                "score": 0
+              },
+              {
+                "max": 1.0,
+                "score": -1
+              },
+              {
+                "max": null,
+                "score": -2
+              }
+            ]
+          }
+        ]
+      },
+      "news_keywords": [
+        "US CPI inflation report",
+        "core CPI disinflation",
+        "inflation reacceleration",
+        "미국 소비자물가 지수",
+        "근원 물가 둔화"
+      ],
+      "wave_share": 0.65,
+      "evidence_tier": "A",
+      "evidence_note_ko": "20년 측정에서 가장 견고. 6개월 순위상관 US +0.26 / KR +0.30, 두 구성요소 모두 양(+). 5년 구간(+0.31/+0.40)에서도 방향이 같아 국면에 의존하지 않는다."
+    },
+    {
+      "key": "unemployment",
+      "wave": "big",
+      "name_ko": "미국 실업률",
+      "name_en": "US Unemployment Rate",
+      "role": "scored",
+      "source": {
+        "name": "FRED (St. Louis Fed)",
+        "series_id": "UNRATE",
+        "url": "https://fred.stlouisfed.org/series/UNRATE"
+      },
+      "display": {
+        "primary_metric": "level_pct",
+        "unit": "%",
+        "decimals": 1,
+        "direction": "lower_is_better"
+      },
+      "scoring": {
+        "components": [
+          {
+            "metric": "level_pct",
+            "label_ko": "실업률 수준 (역방향)",
+            "weight": 0.35,
+            "rationale_ko": "실업률 '수준'은 역방향으로 본다. 3.6% 이하 저점권은 완전고용을 넘어선 사이클 후반이라 이후 수익률이 나빴다(−1). 반대로 실업률이 높은 국면은 정책 완화 기대가 실리는 구간이라 이후 수익률이 좋았다(+1). 측정된 선행 관계(6개월 순위상관)와 '나쁜 소식이 좋은 소식' 국면 논리가 같은 방향을 가리킨다.",
+            "breakpoints": [
+              {
+                "max": 3.6,
+                "score": -1
+              },
+              {
+                "max": 4.4,
+                "score": 0
+              },
+              {
+                "max": 6.5,
+                "score": 1
+              },
+              {
+                "max": null,
+                "score": 0
+              }
+            ]
+          },
+          {
+            "metric": "rise_from_12m_low_pp",
+            "label_ko": "12개월 저점 대비 상승폭",
+            "weight": 0.25,
+            "rationale_ko": "고용시장이 저점 대비 얼마나 나빠졌는가. 수준과 달리 '악화 속도'는 그대로 부정 신호다.",
+            "breakpoints": [
+              {
+                "max": 0.0,
+                "score": 1
+              },
+              {
+                "max": 0.3,
+                "score": 0
+              },
+              {
+                "max": 0.7,
+                "score": -1
+              },
+              {
+                "max": null,
+                "score": -2
+              }
+            ]
+          },
+          {
+            "metric": "sahm_gap_pp",
+            "label_ko": "Sahm rule 갭",
+            "weight": 0.4,
+            "rationale_ko": "최근 3개월 평균 실업률 − 직전 12개월 내 3개월 이동평균 최저치. 0.50%p 이상이면 침체 트리거(−2). 실업률 '수준'의 역방향 해석이 통하지 않는 구간 (실제 침체 진행)을 잡아내는 안전장치다.",
+            "breakpoints": [
+              {
+                "max": 0.0,
+                "score": 1
+              },
+              {
+                "max": 0.2,
+                "score": 0
+              },
+              {
+                "max": 0.49,
+                "score": -1
+              },
+              {
+                "max": null,
+                "score": -2
+              }
+            ]
+          }
+        ]
+      },
+      "news_keywords": [
+        "US unemployment rate jobs report",
+        "nonfarm payrolls labor market",
+        "Sahm rule recession indicator",
+        "미국 실업률 고용보고서",
+        "미국 고용 둔화"
+      ],
+      "threshold_revision_ko": "2026-09-28 조정. 이전에는 '12개월 저점 대비 상승폭'과 'Sahm 갭'만 보고 둘 다 상한이 +2였다. 그 결과 실업률이 사이클 저점에 있기만 하면 +2가 나왔고, 2022년 9월(실업률 3.6%, CPI 8.2%) 같은 국면에서 CPI의 −2를 그대로 상쇄해 종합점수가 54점까지 올라갔다. 사이클 저점의 낮은 실업률은 강세 신호가 아니라 경기 후반 신호에 가깝다고 보고, 수준(언덕 모양)과 12개월 방향을 추가한 뒤 '저점 유지' 항목들의 상한을 +1로 낮췄다.",
+      "wave_share": 0.35,
+      "evidence_tier": "C",
+      "evidence_note_ko": "20년 기준 세 구성요소가 모두 음(−0.15~−0.25). 특히 Sahm 갭이 −0.19 인데 이는 Sahm 이 침체 '진행 중'에 켜져 시장 바닥 근처인 경우가 많기 때문이다. 데이터에 맞춰 뒤집으면 '침체 시작 시 매수' 규칙이 되므로 부호는 유지하고 가중치만 낮췄다. 다만 '수준'은 역방향이 두 구간 모두에서 더 나아 역방향을 채택했다."
+    },
+    {
+      "key": "fed_stance",
+      "wave": "mid",
+      "name_ko": "연준 스탠스 (정책금리)",
+      "name_en": "Fed Stance (Policy Rate)",
+      "role": "scored",
+      "source": {
+        "name": "FRED (St. Louis Fed)",
+        "series_id": "DFEDTARU",
+        "extra_series": [
+          "FEDFUNDS"
+        ],
+        "url": "https://fred.stlouisfed.org/series/DFEDTARU"
+      },
+      "display": {
+        "primary_metric": "level_pct",
+        "unit": "%",
+        "decimals": 2,
+        "direction": "lower_is_better"
+      },
+      "scoring": {
+        "components": [
+          {
+            "metric": "change_6m_pp",
+            "label_ko": "최근 6개월 정책금리 변화",
+            "weight": 1.0,
+            "rationale_ko": "인하 국면(−0.25%p 이상 하락)은 유동성 우호(+), 동결은 0, 인상 국면은 부정(−).",
+            "breakpoints": [
+              {
+                "max": -0.75,
+                "score": 2
+              },
+              {
+                "max": -0.26,
+                "score": 1
+              },
+              {
+                "max": 0.05,
+                "score": 0
+              },
+              {
+                "max": 0.5,
+                "score": -1
+              },
+              {
+                "max": null,
+                "score": -2
+              }
+            ]
+          }
+        ]
+      },
+      "news_keywords": [
+        "Fed rate decision FOMC",
+        "Powell press conference rate cut",
+        "FOMC minutes dot plot",
+        "연준 금리 인하 결정",
+        "FOMC 의사록 파월 발언"
+      ],
+      "news_role": "supplementary_qualitative",
+      "wave_share": 0.14,
+      "evidence_tier": "B",
+      "evidence_note_ko": "US 는 20년 ≈0(−0.06), KR 은 +0.13~+0.20 으로 시장 간 부호가 엇갈린다."
+    },
+    {
+      "key": "fed_balance_sheet",
+      "wave": "mid",
+      "name_ko": "연준 대차대조표 총자산",
+      "name_en": "Fed Balance Sheet (Total Assets)",
+      "role": "scored",
+      "source": {
+        "name": "FRED (St. Louis Fed)",
+        "series_id": "WALCL",
+        "url": "https://fred.stlouisfed.org/series/WALCL"
+      },
+      "display": {
+        "primary_metric": "level_usd_bn",
+        "unit": "$B",
+        "decimals": 0,
+        "direction": "higher_is_better"
+      },
+      "scoring": {
+        "components": [
+          {
+            "metric": "chg_13w_pct",
+            "label_ko": "13주 변화율",
+            "weight": 0.6,
+            "rationale_ko": "대차대조표 확대(+)는 유동성 공급, 축소(QT, −)는 유동성 흡수.",
+            "breakpoints": [
+              {
+                "max": -2.0,
+                "score": -2
+              },
+              {
+                "max": -0.5,
+                "score": -1
+              },
+              {
+                "max": 0.5,
+                "score": 0
+              },
+              {
+                "max": 2.0,
+                "score": 1
+              },
+              {
+                "max": null,
+                "score": 2
+              }
+            ]
+          },
+          {
+            "metric": "chg_52w_pct",
+            "label_ko": "52주 변화율",
+            "weight": 0.4,
+            "rationale_ko": "장기 추세. QT 지속 여부 확인용.",
+            "breakpoints": [
+              {
+                "max": -6.0,
+                "score": -2
+              },
+              {
+                "max": -2.0,
+                "score": -1
+              },
+              {
+                "max": 2.0,
+                "score": 0
+              },
+              {
+                "max": 6.0,
+                "score": 1
+              },
+              {
+                "max": null,
+                "score": 2
+              }
+            ]
+          }
+        ]
+      },
+      "news_keywords": [
+        "Fed balance sheet quantitative tightening",
+        "Fed QT end runoff",
+        "연준 대차대조표 축소",
+        "양적긴축 종료"
+      ],
+      "wave_share": 0.1,
+      "evidence_tier": "C",
+      "evidence_note_ko": "20년 −0.12, 5년 −0.53 으로 일관되게 역방향이나 20년 기준으로는 약하다. 'QE=강세' 메커니즘이 논쟁적이라 부호를 뒤집지 않고 최소 가중치."
+    },
+    {
+      "key": "reserves",
+      "wave": "mid",
+      "name_ko": "지급준비금",
+      "name_en": "Bank Reserves",
+      "role": "scored",
+      "source": {
+        "name": "FRED (St. Louis Fed)",
+        "series_id": "WRESBAL",
+        "url": "https://fred.stlouisfed.org/series/WRESBAL"
+      },
+      "display": {
+        "primary_metric": "level_usd_bn",
+        "unit": "$B",
+        "decimals": 0,
+        "direction": "higher_is_better"
+      },
+      "scoring": {
+        "components": [
+          {
+            "metric": "chg_13w_pct",
+            "label_ko": "13주 변화율",
+            "weight": 1.0,
+            "rationale_ko": "은행 지급준비금 증가는 금융시스템 유동성 여유(+), 급감은 자금경색 위험(−).",
+            "breakpoints": [
+              {
+                "max": -5.0,
+                "score": -2
+              },
+              {
+                "max": -1.5,
+                "score": -1
+              },
+              {
+                "max": 1.5,
+                "score": 0
+              },
+              {
+                "max": 5.0,
+                "score": 1
+              },
+              {
+                "max": null,
+                "score": 2
+              }
+            ]
+          }
+        ]
+      },
+      "news_keywords": [
+        "bank reserves scarcity repo market",
+        "SOFR spike funding stress",
+        "지급준비금 부족 레포 시장",
+        "bank reserves Fed",
+        "ample reserves regime",
+        "repo market funding pressure",
+        "은행 지급준비금",
+        "단기자금시장 경색"
+      ],
+      "wave_share": 0.14,
+      "evidence_tier": "C",
+      "evidence_note_ko": "20년 ≈0(+0.04). 5년의 +0.33 은 국면 효과였다. 순유동성과 중복이라 낮춘다."
+    },
+    {
+      "key": "net_liquidity",
+      "wave": "mid",
+      "name_ko": "순유동성 (WALCL − TGA − RRP)",
+      "name_en": "Net Liquidity",
+      "role": "scored",
+      "computed": true,
+      "source": {
+        "name": "FRED (계산값)",
+        "series_id": "WALCL - WTREGEN - RRPONTSYD",
+        "url": "https://fred.stlouisfed.org/series/WALCL"
+      },
+      "display": {
+        "primary_metric": "level_usd_bn",
+        "unit": "$B",
+        "decimals": 0,
+        "direction": "higher_is_better"
+      },
+      "scoring": {
+        "components": [
+          {
+            "metric": "chg_13w_pct",
+            "label_ko": "13주 변화율",
+            "weight": 0.65,
+            "rationale_ko": "중기 유동성 방향. 순유동성 확대는 위험자산 우호(+).",
+            "breakpoints": [
+              {
+                "max": -3.0,
+                "score": -2
+              },
+              {
+                "max": -1.0,
+                "score": -1
+              },
+              {
+                "max": 1.0,
+                "score": 0
+              },
+              {
+                "max": 3.0,
+                "score": 1
+              },
+              {
+                "max": null,
+                "score": 2
+              }
+            ]
+          },
+          {
+            "metric": "chg_4w_pct",
+            "label_ko": "4주 변화율",
+            "weight": 0.35,
+            "rationale_ko": "단기 방향. TGA 재건이나 RRP 급변에 민감.",
+            "breakpoints": [
+              {
+                "max": -2.0,
+                "score": -2
+              },
+              {
+                "max": -0.5,
+                "score": -1
+              },
+              {
+                "max": 0.5,
+                "score": 0
+              },
+              {
+                "max": 2.0,
+                "score": 1
+              },
+              {
+                "max": null,
+                "score": 2
+              }
+            ]
+          }
+        ]
+      },
+      "news_keywords": [
+        "net liquidity TGA drain",
+        "Treasury General Account rebuild bill issuance",
+        "reverse repo facility drain",
+        "재무부 일반계정 국채 발행"
+      ],
+      "wave_share": 0.24,
+      "evidence_tier": "B",
+      "evidence_note_ko": "20년에서는 사실상 0(+0.05)이지만 5년에서는 +0.29. 국면 의존적이다. 다만 유동성을 하나로 요약하는 지표라 대표성으로 유지한다."
+    },
+    {
+      "key": "tga",
+      "wave": "mid",
+      "name_ko": "재무부 일반계정 (TGA)",
+      "name_en": "Treasury General Account",
+      "role": "scored",
+      "source": {
+        "name": "FRED (St. Louis Fed)",
+        "series_id": "WTREGEN",
+        "url": "https://fred.stlouisfed.org/series/WTREGEN"
+      },
+      "display": {
+        "primary_metric": "level_usd_bn",
+        "unit": "$B",
+        "decimals": 0,
+        "direction": "lower_is_better"
+      },
+      "scoring": {
+        "components": [
+          {
+            "metric": "chg_13w_usd_bn",
+            "label_ko": "13주 증감액",
+            "weight": 0.5,
+            "rationale_ko": "재무부 일반계정이 줄면 그만큼 시중에 현금이 풀린다(+). 국채 발행 등으로 잔고가 쌓이면 유동성 흡수(−).",
+            "breakpoints": [
+              {
+                "max": -150,
+                "score": 2
+              },
+              {
+                "max": -50,
+                "score": 1
+              },
+              {
+                "max": 50,
+                "score": 0
+              },
+              {
+                "max": 150,
+                "score": -1
+              },
+              {
+                "max": null,
+                "score": -2
+              }
+            ]
+          },
+          {
+            "metric": "chg_4w_usd_bn",
+            "label_ko": "4주 증감액",
+            "weight": 0.5,
+            "rationale_ko": "단기 방향. 분기말 세금 납부·국채 발행 일정에 민감하다.",
+            "breakpoints": [
+              {
+                "max": -80,
+                "score": 2
+              },
+              {
+                "max": -25,
+                "score": 1
+              },
+              {
+                "max": 25,
+                "score": 0
+              },
+              {
+                "max": 80,
+                "score": -1
+              },
+              {
+                "max": null,
+                "score": -2
+              }
+            ]
+          }
+        ]
+      },
+      "news_keywords": [
+        "Treasury General Account balance",
+        "debt ceiling TGA",
+        "재무부 일반계정 잔고"
+      ],
+      "overlap_note_ko": "이 지표는 순유동성(WALCL − TGA − RRP) 산식에도 들어갑니다. 따로 채점하면 같은 유동성 신호를 두 번 세게 되므로, 종합 점수가 유동성 쪽으로 더 기울어진다는 점을 감안하십시오.",
+      "wave_share": 0.1,
+      "evidence_tier": "C",
+      "evidence_note_ko": "20년·5년 모두 어느 기간에도 관계가 없다. 순유동성과 중복."
+    },
+    {
+      "key": "rrp",
+      "wave": "mid",
+      "name_ko": "역레포 잔고 (RRP)",
+      "name_en": "Overnight Reverse Repo",
+      "role": "scored",
+      "source": {
+        "name": "FRED (St. Louis Fed)",
+        "series_id": "RRPONTSYD",
+        "url": "https://fred.stlouisfed.org/series/RRPONTSYD"
+      },
+      "display": {
+        "primary_metric": "level_usd_bn",
+        "unit": "$B",
+        "decimals": 1,
+        "direction": "lower_is_better"
+      },
+      "scoring": {
+        "components": [
+          {
+            "metric": "chg_13w_usd_bn",
+            "label_ko": "13주 증감액",
+            "weight": 0.5,
+            "rationale_ko": "역레포 잔고가 줄면 머니마켓 자금이 시장으로 이동한다(+). 잔고가 늘면 자금이 연준으로 묶인다(−). 잔고가 0 근처라 퍼센트가 아닌 절대 증감액($B)으로 채점한다.",
+            "breakpoints": [
+              {
+                "max": -300,
+                "score": 2
+              },
+              {
+                "max": -75,
+                "score": 1
+              },
+              {
+                "max": 75,
+                "score": 0
+              },
+              {
+                "max": 300,
+                "score": -1
+              },
+              {
+                "max": null,
+                "score": -2
+              }
+            ]
+          },
+          {
+            "metric": "chg_4w_usd_bn",
+            "label_ko": "4주 증감액",
+            "weight": 0.5,
+            "rationale_ko": "단기 방향.",
+            "breakpoints": [
+              {
+                "max": -150,
+                "score": 2
+              },
+              {
+                "max": -40,
+                "score": 1
+              },
+              {
+                "max": 40,
+                "score": 0
+              },
+              {
+                "max": 150,
+                "score": -1
+              },
+              {
+                "max": null,
+                "score": -2
+              }
+            ]
+          }
+        ]
+      },
+      "news_keywords": [
+        "reverse repo facility balance zero",
+        "ON RRP usage money market funds",
+        "역레포 잔고 소진",
+        "reverse repo facility",
+        "ON RRP balance",
+        "money market funds Treasury bills",
+        "역레포",
+        "머니마켓펀드 자금"
+      ],
+      "overlap_note_ko": "이 지표는 순유동성(WALCL − TGA − RRP) 산식에도 들어갑니다. 따로 채점하면 같은 유동성 신호를 두 번 세게 되므로, 종합 점수가 유동성 쪽으로 더 기울어진다는 점을 감안하십시오.",
+      "wave_share": 0.28,
+      "evidence_tier": "A",
+      "evidence_note_ko": "유동성 계열 중 20년 구간에서 유일하게 일관된 양(+). US 6개월 +0.14 / 12개월 +0.22, KR 6개월 +0.18."
+    }
+  ],
+  "small_wave": {
+    "note_ko": "작은 파도 4개 조건은 재무 API만으로 자동 판정할 수 없습니다. 뉴스를 근거로 수동 체크하며, 시장 전체 점수에는 반영되지 않습니다.",
+    "conditions": [
+      {
+        "key": "capacity_gap",
+        "name_ko": "캐파 공백 해소",
+        "name_en": "Capacity gap closing",
+        "desc_ko": "수요 대비 생산능력 부족이 해소되는 국면인가",
+        "news_templates": [
+          "{ticker} capacity expansion sold out",
+          "{company} supply shortage easing",
+          "{company_ko} 캐파 부족 해소",
+          "{company_ko} 증설 가동"
+        ]
+      },
+      {
+        "key": "supply_locked",
+        "name_ko": "공급처 확정 증설 완료",
+        "name_en": "Confirmed capex committed",
+        "desc_ko": "고객사와 공급 계약이 확정된 증설이 완료되었는가",
+        "news_templates": [
+          "{ticker} long term supply agreement",
+          "{company} capex completion customer commitment",
+          "{company_ko} 장기 공급계약 체결",
+          "{company_ko} 증설 완료"
+        ]
+      },
+      {
+        "key": "pricing_power",
+        "name_ko": "가격 결정권 발생",
+        "name_en": "Pricing power emerging",
+        "desc_ko": "판가 인상을 관철할 수 있는 위치인가",
+        "news_templates": [
+          "{ticker} price increase announcement",
+          "{company} pricing power margin expansion",
+          "{company_ko} 판가 인상",
+          "{company_ko} 가격 인상 전가"
+        ]
+      },
+      {
+        "key": "theme_bottleneck",
+        "name_ko": "큰 테마의 병목 위치",
+        "name_en": "Bottleneck in a major theme",
+        "desc_ko": "지배적 성장 테마의 공급 병목을 쥐고 있는가",
+        "news_templates": [
+          "{ticker} bottleneck supply chain",
+          "{company} sole supplier constraint",
+          "{company_ko} 공급 병목",
+          "{company_ko} 독점 공급"
+        ]
+      }
+    ]
+  },
+  "news": {
+    "provider_priority": [
+      "google_news_rss",
+      "newsapi",
+      "bing_news"
+    ],
+    "articles_per_indicator": 5,
+    "fetch_per_keyword": 25,
+    "language_feeds": [
+      {
+        "id": "ko",
+        "hl": "ko",
+        "gl": "KR",
+        "ceid": "KR:ko"
+      },
+      {
+        "id": "en",
+        "hl": "en-US",
+        "gl": "US",
+        "ceid": "US:en"
+      }
+    ],
+    "max_age_days": 45,
+    "resolve_google_urls": true,
+    "importance": {
+      "note_ko": "이 산식은 휴리스틱이며 백테스트로 검증되지 않았습니다. 가중치는 자유롭게 조정하십시오.",
+      "weights": {
+        "source_tier": 0.4,
+        "keyword_hits": 0.25,
+        "recency": 0.25,
+        "cluster": 0.1
+      },
+      "source_tiers": {
+        "1.00": [
+          "reuters.com",
+          "bloomberg.com",
+          "wsj.com",
+          "ft.com",
+          "yna.co.kr",
+          "apnews.com",
+          "nytimes.com",
+          "economist.com"
+        ],
+        "0.80": [
+          "cnbc.com",
+          "barrons.com",
+          "marketwatch.com",
+          "hankyung.com",
+          "mk.co.kr",
+          "sedaily.com",
+          "chosun.com",
+          "joongang.co.kr",
+          "bbc.com",
+          "nikkei.com"
+        ],
+        "0.60": [
+          "investing.com",
+          "fortune.com",
+          "businessinsider.com",
+          "forbes.com",
+          "axios.com",
+          "theinformation.com",
+          "edaily.co.kr",
+          "news1.kr",
+          "newsis.com",
+          "fnnews.com",
+          "etnews.com",
+          "thebell.co.kr"
+        ],
+        "0.40": [
+          "yahoo.com",
+          "benzinga.com",
+          "seekingalpha.com",
+          "zacks.com",
+          "tipranks.com",
+          "insidermonkey.com"
+        ],
+        "default": 0.25
+      },
+      "keyword_hits": {
+        "per_hit": 0.3,
+        "cap": 1.0,
+        "note_ko": "기사 제목에서 검색 키워드 토큰이 몇 개 적중했는지. 최대 1.0."
+      },
+      "recency": {
+        "half_life_days": 5.0,
+        "note_ko": "exp(-ln2 * 경과일 / 반감기). 5일 지나면 0.5."
+      },
+      "cluster": {
+        "per_extra_article": 0.34,
+        "cap": 1.0,
+        "similarity_threshold": 0.55,
+        "note_ko": "제목 토큰 Jaccard 유사도로 동일 사안을 묶고, 보도 매체 수가 많을수록 가산."
+      },
+      "output_scale": [
+        0,
+        100
+      ]
+    },
+    "dedup": {
+      "by": [
+        "url",
+        "normalized_title",
+        "source+normalized_title"
+      ],
+      "title_similarity_threshold": 0.85
+    }
+  },
+  "leaders": {
+    "enabled": true,
+    "note_ko": "주도주 자동 선정은 '상대강도(RS) 모멘텀' 기준의 후보 생성입니다. 작은 파도 4개 조건(캐파 공백·증설 완료·가격 결정권·병목)은 여기서 자동 판정되지 않으며, 여전히 뉴스를 읽고 사람이 체크해야 합니다.",
+    "disclaimer_ko": "모멘텀 상위 = 주도주라는 가정 자체가 검증되지 않았습니다. 후행 지표이며 추세 전환 시 가장 늦게 반응합니다.",
+    "top_n_per_market": 5,
+    "price_period": "2y",
+    "markets": {
+      "US": {
+        "label_ko": "미국",
+        "benchmark": "SPY",
+        "currency": "USD",
+        "universe_source": "Nasdaq Stock Screener API",
+        "universe_url": "https://api.nasdaq.com/api/screener/stocks",
+        "exchanges": [
+          "NASDAQ",
+          "NYSE"
+        ],
+        "min_market_cap": 10000000000,
+        "min_avg_turnover": 50000000,
+        "turnover_unit": "USD",
+        "top_by_market_cap": 1000,
+        "rank_universe_top_by_cap": 100,
+        "rank_universe_note_ko": "순위를 매기는 모집단을 시가총액 상위 N종목으로 제한합니다. 제한하지 않으면 초과수익 백분위 특성상 변동성이 큰 소형 테마주가 상위권을 차지해 통상적인 의미의 '주도주'와 멀어집니다."
+      },
+      "KR": {
+        "label_ko": "한국",
+        "benchmark": "^KS11",
+        "currency": "KRW",
+        "universe_source": "네이버 금융 모바일 API (시가총액 순위) + KRX KIND (업종·주요제품 보강)",
+        "universe_url": "https://m.stock.naver.com/api/stocks/marketValue/{market}",
+        "include_market_segments": [
+          "유가",
+          "코스닥"
+        ],
+        "exclude_name_patterns": [
+          "스팩",
+          "기업인수목적"
+        ],
+        "exclude_preferred_shares": true,
+        "min_market_cap": null,
+        "min_avg_turnover": 10000000000,
+        "turnover_unit": "KRW",
+        "top_by_market_cap": 400,
+        "top_by_market_cap_note_ko": "시가총액 상위 N종목만 내려받습니다. 전 종목(4,000개 이상)을 받으면 yfinance 가 레이트리밋에 걸려 데이터가 대량 누락됩니다.",
+        "naver_markets": [
+          "KOSPI",
+          "KOSDAQ"
+        ],
+        "rank_universe_top_by_cap": 100,
+        "rank_universe_note_ko": "순위를 매기는 모집단을 시가총액 상위 N종목으로 제한합니다. 제한하지 않으면 초과수익 백분위 특성상 변동성이 큰 소형 테마주가 상위권을 차지해 통상적인 의미의 '주도주'와 멀어집니다."
+      }
+    },
+    "momentum": {
+      "lookback_trading_days": {
+        "r1m": 21,
+        "r3m": 63,
+        "r6m": 126,
+        "r12m": 252
+      },
+      "weights": {
+        "r3m": 0.4,
+        "r6m": 0.3,
+        "r12m": 0.3
+      },
+      "weights_note_ko": "기간별 수익률 가중합. 합이 1이 되도록 정규화됩니다.",
+      "excess_over_benchmark": true,
+      "excess_note_ko": "각 기간 수익률에서 동일 기간 벤치마크 수익률을 뺀 초과수익으로 계산합니다.",
+      "filters": {
+        "above_200dma": true,
+        "above_200dma_note_ko": "200일 이동평균 위에 있는 종목만 후보로 인정(추세 필터).",
+        "min_history_days": 252,
+        "max_drawdown_from_52w_high": 0.5,
+        "max_drawdown_note_ko": "52주 신고가 대비 이 비율 이상 하락한 종목은 제외. 30%로 두면 고변동 주도주가 조정 국면에서 통째로 배제됩니다(예: SK하이닉스 -36%, 삼성전기 -39%가 200일선 위인데도 탈락). 추세 판정은 200일선 필터에 맡기고 이 값은 느슨하게 둡니다."
+      },
+      "scoring_method": "cross_sectional_percentile",
+      "scoring_method_note_ko": "기간별 초과수익을 유니버스 내 백분위(0~100)로 변환한 뒤 가중평균합니다. 원시 수익률을 그대로 가중합하면 스핀오프·액면병합 등으로 생긴 극단값 하나가 순위를 지배하기 때문입니다. RS 점수는 '필터를 통과한 종목 중 상위 몇 %'로 읽으면 됩니다."
+    },
+    "output": {
+      "file": "leaders.json",
+      "also_update_manual_inputs": true,
+      "preserve_user_checks": true,
+      "preserve_note_ko": "후보에서 탈락한 종목의 조건 체크는 archived_candidates 로 옮겨 보존하고, 재진입 시 복원합니다."
+    },
+    "download": {
+      "chunk_size": 100,
+      "sleep_between_chunks_sec": 1.5,
+      "max_retries": 3,
+      "retry_backoff_sec": 20,
+      "min_universe_coverage": 0.85,
+      "min_coverage_note_ko": "가격을 실제로 받은 종목 비율이 이 값 미만이면 레이트리밋 등으로 유니버스가 훼손된 것으로 보고 해당 시장의 순위를 발표하지 않습니다(추정하지 않음).",
+      "cache_enabled": true,
+      "cache_dir": ".cache",
+      "cache_note_ko": "같은 날 재실행 시 가격을 다시 내려받지 않습니다. --no-cache 로 무시할 수 있습니다."
+    }
+  },
+  "composite_history": {
+    "enabled": true,
+    "years": 20,
+    "grid": "weekly",
+    "grid_note_ko": "연준 주간 시리즈(WALCL)의 관측일을 그리드로 씁니다.",
+    "publication_lag_days": {
+      "CPIAUCSL": 45,
+      "CPILFESL": 45,
+      "UNRATE": 38,
+      "WALCL": 3,
+      "WRESBAL": 3,
+      "WTREGEN": 3,
+      "DFEDTARU": 2,
+      "FEDFUNDS": 38,
+      "RRPONTSYD": 2
+    },
+    "publication_lag_note_ko": "각 시점에서 '그날 실제로 알 수 있었던' 값만 쓰도록 발표 시차를 뺍니다. 예: 8월 CPI 는 9월 중순에 발표되므로 8월 중에는 7월 값을 씁니다. 시차를 빼지 않으면 미래 정보가 섞입니다.",
+    "caveats_ko": [
+      "과거에 이 대시보드가 실제로 표시했던 점수가 아니라, 지금의 원자료와 지금의 임계값으로 다시 계산한 값입니다.",
+      "CPI·실업률 등은 사후 개정됩니다. 과거 구간은 '개정된 값'이라 당시 실제로 보였던 숫자와 다를 수 있습니다.",
+      "임계값·가중치를 바꾸면 과거 구간 전체가 함께 바뀝니다. 전략 성과 검증용으로 쓸 수 없습니다."
+    ],
+    "policy_rate_splice_ko": "정책금리는 2008-12-16 이전 DFEDTAR(단일 목표금리), 이후 DFEDTARU(목표범위 상단)를 이어 붙였습니다. 접합하지 않으면 2007-2008 인하 국면이 통째로 빕니다.",
+    "series_start_note_ko": "연준 대차대조표 계열(WALCL/WRESBAL/WTREGEN)은 2002-12, RRP 는 2003-02 부터 존재합니다. 20년 구간은 모두 커버됩니다."
+  }
+}

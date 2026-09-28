@@ -1,0 +1,60 @@
+name: Refresh data
+
+# 수치·주도주·뉴스를 모두 자동 갱신한다.
+# 뉴스는 Google 이 러너 IP 를 차단할 수 있어 실패해도 워크플로를 깨뜨리지 않고
+# 그때까지 수집된 분만 반영한다(fetch_news.py 가 지표마다 중간 저장한다).
+on:
+  schedule:
+    - cron: "0 22 * * 1-5"   # 평일 22:00 UTC (한국 07:00)
+  workflow_dispatch:
+    inputs:
+      news:
+        description: "뉴스도 갱신"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch macro data (FRED, 키 불필요)
+        run: python3 fetch_data.py
+
+      - name: Install libs for leader screening
+        run: pip install --quiet yfinance pandas lxml requests
+
+      - name: Fetch market leaders
+        run: python3 fetch_leaders.py || echo "주도주 선정 실패 — 기존 leaders.json 유지"
+
+      - name: Measure lead-lag
+        run: python3 analyze_leadlag.py || echo "선행성 측정 실패 — 기존 leadlag.json 유지"
+
+      # 스케줄 실행에서는 inputs 가 비어 있으므로 기본값을 true 로 해석한다
+      - name: Fetch news
+        if: ${{ github.event_name == 'schedule' || inputs.news }}
+        env:
+          RESOLVE_LIMIT: "0"
+          REQUEST_GAP_SEC: "2.5"
+          RETRY_BASE_SEC: "8"
+        run: timeout 100m python3 fetch_news.py || echo "뉴스 수집 중단 — 수집된 분까지 저장됨"
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data.json news.json leaders.json leadlag.json manual_inputs.json
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "chore: refresh dashboard data ($(date -u +%Y-%m-%d))"
+            git push
+          fi

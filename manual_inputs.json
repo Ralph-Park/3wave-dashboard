@@ -1,0 +1,383 @@
+{
+  "_readme_ko": "사용자가 직접 채우는 파일입니다. 초기값은 모두 null이며, null인 항목은 점수에서 제외되고 화면에 '입력 대기'로 표시됩니다. 값을 넣지 않은 채로 두는 것이 추정값을 넣는 것보다 항상 낫습니다.",
+  "_schema": {
+    "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
+    "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
+  },
+  "updated_at": "2026-09-24T00:25:08.801368+00:00",
+  "manual_scores": {},
+  "small_wave_candidates": [
+    {
+      "ticker": "DELL",
+      "search_ticker": "DELL",
+      "company_en": "Dell Technologies",
+      "company_ko": "Dell Technologies",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 92.8,
+      "rank": 1,
+      "selected_at": "2026-09-24",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "CRWD",
+      "search_ticker": "CRWD",
+      "company_en": "CrowdStrike Holdings",
+      "company_ko": "CrowdStrike Holdings",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 91.5,
+      "rank": 2,
+      "selected_at": "2026-09-24",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "AMD",
+      "search_ticker": "AMD",
+      "company_en": "Advanced Micro Devices",
+      "company_ko": "Advanced Micro Devices",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 89.6,
+      "rank": 3,
+      "selected_at": "2026-09-24",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "PANW",
+      "search_ticker": "PANW",
+      "company_en": "Palo Alto Networks",
+      "company_ko": "Palo Alto Networks",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 85.3,
+      "rank": 4,
+      "selected_at": "2026-09-24",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "MRK",
+      "search_ticker": "MRK",
+      "company_en": "Merck & Company",
+      "company_ko": "Merck & Company",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 79.5,
+      "rank": 5,
+      "selected_at": "2026-09-24",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "000500.KS",
+      "search_ticker": "가온전선",
+      "company_en": "가온전선",
+      "company_ko": "가온전선",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 98.9,
+      "rank": 1,
+      "selected_at": "2026-09-24",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "222800.KQ",
+      "search_ticker": "심텍",
+      "company_en": "심텍",
+      "company_ko": "심텍",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 87.9,
+      "rank": 2,
+      "selected_at": "2026-09-24",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "078930.KS",
+      "search_ticker": "GS",
+      "company_en": "GS",
+      "company_ko": "GS",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 82.8,
+      "rank": 3,
+      "selected_at": "2026-09-24",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "036930.KQ",
+      "search_ticker": "주성엔지니어링",
+      "company_en": "주성엔지니어링",
+      "company_ko": "주성엔지니어링",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 81.9,
+      "rank": 4,
+      "selected_at": "2026-09-24",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "010950.KS",
+      "search_ticker": "S-Oil",
+      "company_en": "S-Oil",
+      "company_ko": "S-Oil",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 79.1,
+      "rank": 5,
+      "selected_at": "2026-09-24",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    }
+  ],
+  "archived_candidates": [],
+  "_archived_note_ko": "후보에서 탈락했지만 조건 체크가 입력되어 있던 종목입니다. 다시 주도주로 선정되면 입력값이 자동 복원됩니다."
+}

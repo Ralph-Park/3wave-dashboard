@@ -1,0 +1,39 @@
+name: Deploy dashboard to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      # 대시보드는 index.html + JSON 만 있으면 동작한다. 수집 스크립트는 배포본에서 제외.
+      - name: Collect site files
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          for f in data.json news.json leaders.json manual_inputs.json scoring_config.json leadlag.json; do
+            [ -f "$f" ] && cp "$f" _site/ || echo "건너뜀: $f 없음"
+          done
+          ls -la _site
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
