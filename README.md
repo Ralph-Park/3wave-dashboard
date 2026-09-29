@@ -61,7 +61,34 @@ pkill -f 'http.server 8765'     # 서버 끄기
 
 Claude Code 의 미리보기 패널을 쓴다면 `.claude/launch.json` 에 `3wave-dashboard` 설정이 들어 있다.
 
-### 데이터 갱신
+### 다른 기기에서 보기 (GitHub Pages)
+
+**https://ralph-park.github.io/3wave-dashboard/**
+
+휴대폰·태블릿·다른 PC 에서 이 주소만 열면 된다. 로컬 서버가 필요 없다.
+
+배포는 `.github/workflows/deploy.yml` 이 처리한다. `main` 에 푸시되면 `index.html` 과 JSON 6개만 모아 Pages 로 올린다. 수집 스크립트(`fetch_*.py`)는 배포본에 포함하지 않는다.
+
+### 자동 갱신 (GitHub Actions)
+
+`.github/workflows/refresh.yml` 이 **한국시각 평일(월~금) 05:00** 에 수치·주도주·선행성·뉴스를 갱신하고, 변경이 있으면 커밋한다. 커밋되면 배포 워크플로가 이어서 돌아 사이트가 갱신된다.
+
+```yaml
+- cron: "0 20 * * 0-4"    # UTC 일~목 20:00 = KST 월~금 05:00
+```
+
+> **cron 은 UTC 기준이라 요일도 하루 당겨야 한다.** `0 22 * * 1-5` 처럼 쓰면 의도가 "평일"이어도 실제로는 KST 화~토에 돌아 월요일이 빠지고 토요일이 들어간다.
+
+수동 실행은 GitHub Actions 탭 → `Refresh data` → `Run workflow` 다.
+
+몇 가지 알아둘 점:
+
+- **스케줄은 정시에 돌지 않는다.** GitHub Actions 의 예약 실행은 부하에 따라 수십 분~수 시간 밀린다. 실제로 첫 자동 실행은 예정보다 3시간 반 늦게 시작됐다.
+- 뉴스는 `RESOLVE_LIMIT=0`, 요청간격 2.5초, 100분 타임아웃으로 돈다. Google 이 러너 IP 를 차단해도 **중간 저장 덕분에 수집된 분까지 반영**되고 워크플로가 실패하지 않는다.
+- 공개 저장소라 Actions 사용량 제한이 없다.
+- `data.json` 이 2MB 라 매일 커밋되면 저장소가 조금씩 커진다. git 이 델타로 저장해 당장 문제는 없지만 장기적으로는 정리가 필요할 수 있다.
+
+### 데이터 갱신 (로컬)
 
 ```bash
 cd Dashboard
