@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-09-29T01:33:53.200071+00:00",
+  "updated_at": "2026-09-29T23:16:40.733438+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -14,7 +14,7 @@
       "company_ko": "Dell Technologies",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 94.7,
+      "rs_score": 93.1,
       "rank": 1,
       "selected_at": "2026-09-29",
       "conditions": {
@@ -51,45 +51,8 @@
       "company_ko": "CrowdStrike Holdings",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 93.2,
+      "rs_score": 91.8,
       "rank": 2,
-      "selected_at": "2026-09-29",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "AMD",
-      "search_ticker": "AMD",
-      "company_en": "Advanced Micro Devices",
-      "company_ko": "Advanced Micro Devices",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 83.9,
-      "rank": 3,
       "selected_at": "2026-09-29",
       "conditions": {
         "capacity_gap": {
@@ -125,7 +88,44 @@
       "company_ko": "Palo Alto Networks",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 82.9,
+      "rs_score": 79.7,
+      "rank": 3,
+      "selected_at": "2026-09-29",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "AMD",
+      "search_ticker": "AMD",
+      "company_en": "Advanced Micro Devices",
+      "company_ko": "Advanced Micro Devices",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 77.6,
       "rank": 4,
       "selected_at": "2026-09-29",
       "conditions": {
@@ -162,7 +162,7 @@
       "company_ko": "Thermo Fisher Scientific",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 77.4,
+      "rs_score": 75.4,
       "rank": 5,
       "selected_at": "2026-09-29",
       "conditions": {
@@ -199,7 +199,7 @@
       "company_ko": "가온전선",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 97.0,
+      "rs_score": 98.0,
       "rank": 1,
       "selected_at": "2026-09-29",
       "conditions": {
@@ -236,8 +236,45 @@
       "company_ko": "주성엔지니어링",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 88.0,
+      "rs_score": 90.2,
       "rank": 2,
+      "selected_at": "2026-09-29",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "222800.KQ",
+      "search_ticker": "심텍",
+      "company_en": "심텍",
+      "company_ko": "심텍",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 84.1,
+      "rank": 3,
       "selected_at": "2026-09-29",
       "conditions": {
         "capacity_gap": {
@@ -273,8 +310,8 @@
       "company_ko": "GS",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 83.2,
-      "rank": 3,
+      "rs_score": 82.6,
+      "rank": 4,
       "selected_at": "2026-09-29",
       "conditions": {
         "capacity_gap": {
@@ -310,44 +347,7 @@
       "company_ko": "S-Oil",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 81.6,
-      "rank": 4,
-      "selected_at": "2026-09-29",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "066570.KS",
-      "search_ticker": "LG전자",
-      "company_en": "LG전자",
-      "company_ko": "LG전자",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 70.7,
+      "rs_score": 79.6,
       "rank": 5,
       "selected_at": "2026-09-29",
       "conditions": {

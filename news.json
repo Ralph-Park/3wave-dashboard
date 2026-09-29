@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:44:26.301748+00:00",
+  "generated_at": "2026-09-29T23:27:03.781028+00:00",
   "complete": true,
   "meta": {
     "provider_priority": [
@@ -100,7 +100,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 45,
+      "found_count": 50,
       "returned_count": 5,
       "keywords": [
         "US CPI inflation report",
@@ -140,11 +140,11 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:33:56.032494+00:00",
+      "fetched_at": "2026-09-29T23:16:44.203205+00:00",
       "articles": [
         {
           "title": "Here Are the Key Takeaways From the US CPI Report for August",
-          "source": "Bloomberg.com",
+          "source": "Bloomberg",
           "publisher_domain": "bloomberg.com",
           "published_at": "2026-09-11T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjg4RDZyMlFtTVZsVEVmRC1EQ0dXRi05RkdBNVNIZjlBT1h6cGtMVzhQUk5Ka0lHQTNjTVlZUTY0eGREVTB1UDhQX3NkcVVKS012bTJpQzZZek9lRFF6LXlfNVAySFB4LWxvb1UtM2U3SE1SRFZfVEQ2S09mNDdvMHNzOUVPVDNWdGtidm9kYkphMzZUcnB0aGN4ZzlSRzQ3NnZFSjluNllBMkhOd3NlZHllTWRMVTBYYUw3dllDUmFYZw?oc=5",
@@ -153,8 +153,8 @@
           "provider": "google_news_rss",
           "query": "US CPI inflation report",
           "feed": "en",
-          "importance_score": 64.6,
-          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.09(17.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 64.6/100"
+          "importance_score": 64.4,
+          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.08(18.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 64.4/100"
         },
         {
           "title": "[그래픽] 미국 소비자물가 추이",
@@ -167,8 +167,8 @@
           "provider": "google_news_rss",
           "query": "미국 소비자물가 지수",
           "feed": "ko",
-          "importance_score": 57.1,
-          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.09(17.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 57.1/100"
+          "importance_score": 56.9,
+          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.08(18.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.9/100"
         },
         {
           "title": "[2보] 美 8월 근원 소비자물가 전월 대비 0.3%↑…예상치 웃돌아",
@@ -181,12 +181,12 @@
           "provider": "google_news_rss",
           "query": "미국 소비자물가 지수",
           "feed": "ko",
-          "importance_score": 57.1,
-          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.09(17.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 57.1/100"
+          "importance_score": 56.9,
+          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.08(18.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.9/100"
         },
         {
           "title": "COMMENTARY: US CPI, where the significant and the silly collide",
-          "source": "reuters.com",
+          "source": "Reuters",
           "publisher_domain": "reuters.com",
           "published_at": "2026-09-10T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSmhLc3dLcnJOclBhYjVoYmZrWG5RRHBzQ1VramVqZmxoczVpUXBIQndSRWIzTGhBUW5lV3d5eGhrTEZRZTB6WkhpcDAyaEtRaHVIRXdXOW9SVFVnN2NoMThjN2I4NWtVYU9obGo4elJHZTRLbzdYUlhWZGV1TUNyTTU3VDJrUlRmRTRkNndKREdoSzBBVnFVV2pzejUwMXdvU21aOUtKaUQ?oc=5",
@@ -195,8 +195,8 @@
           "provider": "google_news_rss",
           "query": "US CPI inflation report",
           "feed": "en",
-          "importance_score": 56.9,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.07(18.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.9/100"
+          "importance_score": 56.6,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.07(19.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.6/100"
         },
         {
           "title": "Countdown to CPI report: What the inflation data could mean for Fed rate hikes",
@@ -209,8 +209,8 @@
           "provider": "google_news_rss",
           "query": "US CPI inflation report",
           "feed": "en",
-          "importance_score": 56.6,
-          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.09(17.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.6/100"
+          "importance_score": 56.4,
+          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.08(18.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.4/100"
         }
       ]
     },
@@ -220,7 +220,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 38,
+      "found_count": 36,
       "returned_count": 5,
       "keywords": [
         "US unemployment rate jobs report",
@@ -260,25 +260,11 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:34:12.774752+00:00",
+      "fetched_at": "2026-09-29T23:16:59.692730+00:00",
       "articles": [
         {
-          "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength",
-          "source": "reuters.com",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-09-25T10:06:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US unemployment rate jobs report",
-          "feed": "en",
-          "importance_score": 80.1,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.60(3.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 80.1/100"
-        },
-        {
           "title": "US labor market on solid footing; rising mortgages pressuring housing sector",
-          "source": "reuters.com",
+          "source": "Reuters",
           "publisher_domain": "reuters.com",
           "published_at": "2026-09-17T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZl9MV2lRQVlhSGNPcS1Db0RCY05rTnJtS3VENVN2RjNvLUp4eW8yMWxVbFN2T003WUFITzZsVWJMa054RXVNSUxfdnBmRmdOWUg5dF8xWlViQWJGY2pVSjBKNV84RF9rRGRSWXRtZWt2NmJsX0xYek5SaTlBdEFSRk5WQ3l3bGJPTllKM0dlMmQ?oc=5",
@@ -287,26 +273,12 @@
           "provider": "google_news_rss",
           "query": "US unemployment rate jobs report",
           "feed": "en",
-          "importance_score": 67.4,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.20(11.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 67.4/100"
-        },
-        {
-          "title": "US Hiring Appetite Is Healthy as Economy Powers Ahead",
-          "source": "Bloomberg.com",
-          "publisher_domain": "bloomberg.com",
-          "published_at": "2026-09-26T20:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGRXV241Njlqek45X2d1M29TUzFrTkZDQVI3ZXM4NWdUNXV0LU5reGZaR2hHbDZKbTN5S2hDTDVkblo0ZWFGNThiYzJzTmFFR1cwNEpEUmsyWVpCWHo1d1piaUY3T2JIS2F1X2hsVm40U3JFWWloMzRjSmRIcWxuSVFIZVJYczRvYmZ4Wm83azR1ekxDc2RSY0h4cE1EVWtPTnNuQzNZREZmTS1uamtBTFYyT2piZDg?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US unemployment rate jobs report",
-          "feed": "en",
-          "importance_score": 65.8,
-          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.73(2.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 65.8/100"
+          "importance_score": 66.8,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.17(12.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 66.8/100"
         },
         {
           "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%",
-          "source": "reuters.com",
+          "source": "Reuters",
           "publisher_domain": "reuters.com",
           "published_at": "2026-09-04T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
@@ -315,22 +287,50 @@
           "provider": "google_news_rss",
           "query": "US unemployment rate jobs report",
           "feed": "en",
-          "importance_score": 65.8,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 5개→1.00×0.25 + 최신성 0.03(24.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 65.8/100"
+          "importance_score": 65.7,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 5개→1.00×0.25 + 최신성 0.03(25.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 65.7/100"
         },
         {
-          "title": "US weekly jobless claims near 57-year lows; price reductions boost new home sales",
-          "source": "reuters.com",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-09-24T17:01:58+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkFjbktqV0kzSmJtNEZPU2p1MWRCWTdKLWVySDEtTnJMbUdVR1p4VGZ1YnVlM0tkcEsxSFlsdTY4b1RodjlqVDQ5V0hoT3FubnE1N1c5U0RZOTgyZ0JsQnFWQmJQTGx2QUNTZmJROHN4dmN3VnNXNXRnTVBsQlFIZzVqb0JjMzl1MlVEeDFUNUFJQm53RVU5WkFGd3VhNjhXbHlGVUFnYWZ0VGM?oc=5",
+          "title": "US Hiring Appetite Is Healthy as Economy Powers Ahead",
+          "source": "Bloomberg",
+          "publisher_domain": "bloomberg.com",
+          "published_at": "2026-09-26T20:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGRXV241Njlqek45X2d1M29TUzFrTkZDQVI3ZXM4NWdUNXV0LU5reGZaR2hHbDZKbTN5S2hDTDVkblo0ZWFGNThiYzJzTmFFR1cwNEpEUmsyWVpCWHo1d1piaUY3T2JIS2F1X2hsVm40U3JFWWloMzRjSmRIcWxuSVFIZVJYczRvYmZ4Wm83azR1ekxDc2RSY0h4cE1EVWtPTnNuQzNZREZmTS1uamtBTFYyT2piZDg?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "US unemployment rate jobs report",
           "feed": "en",
-          "importance_score": 61.2,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.55(4.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 61.2/100"
+          "importance_score": 63.7,
+          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.65(3.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 63.7/100"
+        },
+        {
+          "title": "US Job Openings Fell in August as Low Layoffs Kept the Labor Market Steady",
+          "source": "Межа. Новини України.",
+          "publisher_domain": "mezha.net",
+          "published_at": "2026-09-29T15:15:18+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qWGsxWEFPLXpXalVwb3N6VVlQMkw1aU9uSWZ5WXdBWW11eDdHX005aUxGRnc4TFdNTUpxSDBmTHZ6UFpCV1hNOVB1ME8yeU54VGFBdng2a3dqZ1dtelVjbVB3?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "nonfarm payrolls labor market",
+          "feed": "en",
+          "importance_score": 56.4,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.95(0.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.4/100"
+        },
+        {
+          "title": "Hiring burst of 162,000 jobs in August puts the focus squarely back on inflation in the US",
+          "source": "AP News",
+          "publisher_domain": "apnews.com",
+          "published_at": "2026-09-04T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGZaTEZzXzBNWGd1bHhIYTB6MW5SV09IRnJ5MXV3aEpVVjBJMWNZdElhZHBxWnFjMUpUbVRpallqRWpKYWxRUFdueEU4SDdGb3BqQlVhYUtNaExLSzRadWR3cFhFbktSWFRDNVpZX2J2ZjZkVDNmdnhRc1hyTFBhNG8tQkRKdmtqMlZUM2EtaEtydUtadUpOemJCaWNxQ2NiaEkycVdsTkk?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "US unemployment rate jobs report",
+          "feed": "en",
+          "importance_score": 55.7,
+          "importance_basis": "매체티어 1.00(apnews.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.03(25.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 55.7/100"
         }
       ]
     },
@@ -340,7 +340,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 44,
+      "found_count": 33,
       "returned_count": 5,
       "keywords": [
         "Fed rate decision FOMC",
@@ -380,25 +380,11 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:34:29.200327+00:00",
+      "fetched_at": "2026-09-29T23:17:15.556763+00:00",
       "articles": [
         {
-          "title": "트럼프, 연준 결정 비판… “美 금리 1% 이하로 서둘러 낮춰야”",
-          "source": "Chosunbiz",
-          "publisher_domain": "biz.chosun.com",
-          "published_at": "2026-09-17T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWW92RGgzWlRKUWM2bHliRkxWb0c3SmNkSWVpa3hmZG9DSHZtRDF0TGlHbUtTa2RValItbGJtdGdUUWdhVTV1MWtzdHJ2N0c5a0ZfdjQxMjlEOGJObzRuQnFpRGpCYVotX0ZuNzNQOFduNjN3TVFkRGtsWWlpNFVrV1lvLWhRR0VnTnNVcHJkNXZuejhyYnZqVW14TGdGQdIBsgFBVV95cUxNa0hOTFJrYTZGUmFGckFfQU9ZQ1hZcGctVUdBOG11UDIyc3VHQWFNZDBlZmtmV0xjc1RjQnJjQ0lxRHRQbHliQ0J0NFFzOTZibW5yT0x0eFBxdFg2YVZWZW1lU19sOTNibWRkejh5bUVvUUt0NVh6Z0ZjQ3cxUGthZXg2eTZsT1VlZmNXS1BUYlUtMm5HcUthWUZjeUU5OGxHTGtyaUxZbVFfZElVcHpkVjN3?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "연준 금리 인하 결정",
-          "feed": "ko",
-          "importance_score": 59.4,
-          "importance_basis": "매체티어 0.80(chosun.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.20(11.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 59.4/100"
-        },
-        {
           "title": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow: Reuters Poll",
-          "source": "reuters.com",
+          "source": "Reuters",
           "publisher_domain": "reuters.com",
           "published_at": "2026-09-14T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtGdWt3WFV1bmpCR2REM0NZMkZIOEE2c3BRdFhrc21CcUpVUEx6QTdOdDZOQ3dGV2pmYmxOVDA3WjJoclVnZlB2cXl5R3NfSDh6cy0zWGRoUFU1UjA4LTVFckZHWkVBUkJpdWtFaTFvTWNjM1IzVi1sSGhZNmNETzdJcUhOOF9MN2pGSXNyelRkSFlIUktUT1ZjX1VIY2MxQV80NWNLVi1hS0s0bEpaR2FGbzRzeVE?oc=5",
@@ -407,26 +393,26 @@
           "provider": "google_news_rss",
           "query": "Fed rate decision FOMC",
           "feed": "en",
-          "importance_score": 58.2,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.13(14.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 58.2/100"
+          "importance_score": 57.8,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.11(15.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 57.8/100"
         },
         {
-          "title": "트럼프, 연준 금리 인상 비판…“美 금리 1% 이하여야”",
-          "source": "sedaily.com",
-          "publisher_domain": "sedaily.com",
-          "published_at": "2026-09-17T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Xb1kzWGRrSnhTT2w0VVBRRHNsbmJSclRVdGZIaXNpZXZLaVdKTVZMRlFaczNKRmV4U0hRZVlHMkwtNmxIblR5SWU4Mkl2UHV4LXfSAVNBVV95cUxORFlMU1hnZTdLRkVkTUJQeVc2QzhRYUlGcXJ2cTBwT1lRMjBBXzl5V0ZORWMyQktrVDdsektWTGtWOTZmX0hna1JSVnF1cXNWTVJvcw?oc=5",
+          "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+          "source": "CNBC",
+          "publisher_domain": "cnbc.com",
+          "published_at": "2026-08-19T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3djZ2FKOHhfMkVRRHEzdFlsQ0t2Tmt5OE1sM1lrX1V3WFZ3RXlYdTlZcFVSWmx0YWFYaDZRSjYyYkRwVXQzZm5Sdldobk5xc0pXdVotLUt2S251cnVfdHV3MmRObmd1aW5zcGZkVGVxdkgzbURqbU9qV093Wmt2aWFFWkpxaWNGYVRQanh6NWRqeXJfZHA3bDB4Nmp2LXlrbUh0MlR1WWdDWEM5QUpaV2gycjItYmvSAbwBQVVfeXFMTjhBbUlQSGRVY3hPZXpNT3A1NFlLQ1ViNUZ0WjBzaC1LdTlFZ3J1UHI4Q1FGT2tUZ3JWeDBOWTIxRGJWRnNRUW9VcHdfQkhKZk5IaGhBdmdiSXFYX3RySnhUOVNpeUN2TjBvMUVKcEUyRXlQUjZkRmYwQU5ud3VIczJwLTZxVW90NlVZYjM4a2J3RnpxbjV1RlZ5VXFYenNZcXFEVmhLM0pKUnQyOVZQRm5lMUlvdDNLWVRFOU0?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
-          "query": "연준 금리 인하 결정",
-          "feed": "ko",
-          "importance_score": 51.9,
-          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.20(11.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.9/100"
+          "query": "Fed rate decision FOMC",
+          "feed": "en",
+          "importance_score": 54.6,
+          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.00(41.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 54.6/100"
         },
         {
           "title": "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead",
-          "source": "reuters.com",
+          "source": "Reuters",
           "publisher_domain": "reuters.com",
           "published_at": "2026-09-16T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
@@ -435,8 +421,8 @@
           "provider": "google_news_rss",
           "query": "Fed rate decision FOMC",
           "feed": "en",
-          "importance_score": 51.8,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.17(12.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.8/100"
+          "importance_score": 51.3,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.15(13.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.3/100"
         },
         {
           "title": "Fed approves interest rate hike, signals one more to come this year",
@@ -449,8 +435,22 @@
           "provider": "google_news_rss",
           "query": "Fed rate decision FOMC",
           "feed": "en",
-          "importance_score": 51.3,
-          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.17(12.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.3/100"
+          "importance_score": 50.8,
+          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.15(13.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 50.8/100"
+        },
+        {
+          "title": "16일 연준 금리결정…워시-트럼프 충돌?",
+          "source": "연합뉴스",
+          "publisher_domain": "yna.co.kr",
+          "published_at": "2026-09-15T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ab2dlWGxZQnh0WVMyNjI2bFU1TXptem9WOUxKVzB0eHY5ZFpVWkhmUDVsMURTZWhWTEdkQm5HTk14Y1I0aVpDV1FyVWlOLW5lTFdvR3p1TW41N2_SAWBBVV95cUxPTmpWMGRVU1lnY2RqeW5wTGRucHVlMlRJaHQ5QUVrZDRnTUhsS19sanRtZEd6RDViWjItVDg2TFk3SUt0aGp6YW15UG84eGpqOXNjLWxrVWc5akdxOGpkaFU?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "연준 금리 인하 결정",
+          "feed": "ko",
+          "importance_score": 50.8,
+          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.13(14.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 50.8/100"
         }
       ]
     },
@@ -494,7 +494,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:34:46.008101+00:00",
+      "fetched_at": "2026-09-29T23:17:31.721826+00:00",
       "articles": [
         {
           "title": "The Fed’s $6.7 Trillion Balance Sheet Is Sending a Clear Signal",
@@ -507,8 +507,8 @@
           "provider": "google_news_rss",
           "query": "Fed balance sheet quantitative tightening",
           "feed": "en",
-          "importance_score": 51.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.77(1.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.8/100"
+          "importance_score": 49.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.68(2.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 49.5/100"
         },
         {
           "title": "Quantitative Tightening Explained: How the Fed Shrinks Its Balance Sheet",
@@ -521,8 +521,8 @@
           "provider": "google_news_rss",
           "query": "Fed balance sheet quantitative tightening",
           "feed": "en",
-          "importance_score": 45.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 5개→1.00×0.25 + 최신성 0.44(6.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 45.9/100"
+          "importance_score": 44.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 5개→1.00×0.25 + 최신성 0.38(6.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 44.6/100"
         },
         {
           "title": "워시, 연준 금리 인상 만장일치 이끌어냈지만 대차대조표 축소는 정체",
@@ -535,8 +535,8 @@
           "provider": "google_news_rss",
           "query": "연준 대차대조표 축소",
           "feed": "ko",
-          "importance_score": 40.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.62(3.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.5/100"
+          "importance_score": 38.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.55(4.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 38.7/100"
         },
         {
           "title": "워시, 연준 제도 개편 추진…대차대조표 축소는 더뎌",
@@ -549,8 +549,8 @@
           "provider": "google_news_rss",
           "query": "연준 대차대조표 축소",
           "feed": "ko",
-          "importance_score": 40.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.61(3.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.1/100"
+          "importance_score": 38.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.53(4.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 38.3/100"
         },
         {
           "title": "존 윌리엄스 뉴욕 연은 총재, ‘충분한 지준’ 체계 옹호… 대차대조표 축소 논쟁 속 기술적 방어",
@@ -563,8 +563,8 @@
           "provider": "google_news_rss",
           "query": "연준 대차대조표 축소",
           "feed": "ko",
-          "importance_score": 35.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.43(6.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.7/100"
+          "importance_score": 34.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.38(7.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 34.5/100"
         }
       ]
     },
@@ -574,7 +574,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 16,
+      "found_count": 15,
       "returned_count": 5,
       "keywords": [
         "bank reserves scarcity repo market",
@@ -600,7 +600,7 @@
         {
           "keyword": "지급준비금 부족 레포 시장",
           "feed": "ko",
-          "count": 10
+          "count": 9
         },
         {
           "keyword": "bank reserves Fed",
@@ -632,25 +632,11 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:34:58.977374+00:00",
+      "fetched_at": "2026-09-29T23:17:44.659701+00:00",
       "articles": [
         {
-          "title": "Fed's Williams says rate-control toolkit is working well",
-          "source": "reuters.com",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-09-22T14:07:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW9XZUd5U3BmaXhkR2F4NEgwNk1FMWtuZEd0UVVFcWgxMUZkOXRDZHJqSzI5X1U2Y01BbXY0OG04c0hmOEpqMHpERWd1WUQyVElTeUdrTmJYNFBHYTFRek1XNkZRb3FEQWxJQUZpZFhkUms0MWl5LXByUDd1Y2tIbHRtVzRzUU1zbXdZQUVwMGRCR1BnZkpnMGFUc0RmNUtvcTl2bFZ1WmE1ejk1?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "bank reserves Fed",
-          "feed": "en",
-          "importance_score": 57.7,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.41(6.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 57.7/100"
-        },
-        {
           "title": "US Federal Reserve proposes new stablecoin rules",
-          "source": "reuters.com",
+          "source": "Reuters",
           "publisher_domain": "reuters.com",
           "published_at": "2026-09-24T20:31:52+00:00",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY25jeWJ2LVJIWmg5cThieHN1M3RDYjNGcGRyR19sNVN0cHBXRXlCUmEzbS1Zb3ZsNnhSM3VmcFQ4QkUzNG1VRXpkTTF2elFfNDhYa19ha0pJZlNpRHFhUXIwcE83ckdBM01Sc3FvRW1hZEY1MkR1RF9ZNFVDUTZkTmRhRXhJanlzRFF2OTdLaWZ4dWJjejJHR0FKRVoycGgzaklV?oc=5",
@@ -659,36 +645,36 @@
           "provider": "google_news_rss",
           "query": "bank reserves Fed",
           "feed": "en",
-          "importance_score": 53.9,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.56(4.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 53.9/100"
-        },
-        {
-          "title": "Fed proposes GENIUS Act rules for stablecoin reserves and bank issuers",
-          "source": "Crypto News",
-          "publisher_domain": "crypto.news",
-          "published_at": "2026-09-24T20:57:49+00:00",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XOXFQb1hiNGg1S3ZBMG1hbUVZRzRIOGxqLTl1anR6S2VWUU1vclNYX3hETnpRd2hHQnJ2VlBDRk5POFFQRW1kb0N6UVRaMXFnbTF1ellfd1Z1WElJQVZyZkl0S2RmMjJfWGFDMHJvdjVYdGE5WGJIZnlXbVhpME0?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "bank reserves Fed",
-          "feed": "en",
-          "importance_score": 46.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.56(4.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 46.5/100"
+          "importance_score": 52.3,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.49(5.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 52.3/100"
         },
         {
           "title": "US Money Markets: Value in extensions given the aggressive Fed discount",
-          "source": "ING Think",
+          "source": "think.ing.com",
           "publisher_domain": "think.ing.com",
-          "published_at": "2026-09-28T08:19:22+00:00",
+          "published_at": "2026-09-29T13:13:59+00:00",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oUWpjSzhjRER4bjlNcGxxaVB0cjBPcFRTNXRIaUZXTXhMaTRURGxCckZBOFl1YlZJaVFyX3JMT09zMzhVMFhKXzhqeHFyckN5M1hOQjdBMnRGdGVFc1d0R0t3?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "bank reserves Fed",
           "feed": "en",
-          "importance_score": 40.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.91(0.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.1/100"
+          "importance_score": 41.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.94(0.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.1/100"
+        },
+        {
+          "title": "EUR Money Markets: Tightening as intended",
+          "source": "think.ing.com",
+          "publisher_domain": "think.ing.com",
+          "published_at": "2026-09-29T20:54:14+00:00",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVVmNWFTOWxjOFhlb2l6UzlPMzRYSlpnVHRXdmh0WlJhMW9kUlkwcldjZFhaUkpTZUdWY0Jxc3gtd0UtY2FSeVBOZDFwQW1ZUEJrQWo4MGZudTNZV2pXTDJZZjVKUTVzMWhMWlBoZXphcmdaUmVCLW8yc0tqTzQ0UHE1N21pV0trbzVpRGxBbWdGOGVpRmY2b1FXOWlHT2c?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "repo market funding pressure",
+          "feed": "en",
+          "importance_score": 34.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.99(0.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 34.7/100"
         },
         {
           "title": "본원통화는 어디서 생기나…한국은행 공급과 은행 대출",
@@ -701,8 +687,22 @@
           "provider": "google_news_rss",
           "query": "은행 지급준비금",
           "feed": "ko",
-          "importance_score": 35.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.73(2.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.8/100"
+          "importance_score": 33.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.65(3.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 33.7/100"
+        },
+        {
+          "title": "'땡큐 삼전닉스'…\"한은에 달러가 차고 넘친다\" 행복한 비명",
+          "source": "한국경제",
+          "publisher_domain": "hankyung.com",
+          "published_at": "2026-09-03T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DRVZiZVVOSzJSOUo2V3VYTURiV2pYUkxMUGhYNFBVYkw5ckhYb0dfYXE4OGJySFYyLTNmWjdOVE9LRnFJZHllZmRjMTFCX05uYjFoVFJwY2JxZw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "은행 지급준비금",
+          "feed": "ko",
+          "importance_score": 32.6,
+          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.02(26.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.6/100"
         }
       ]
     },
@@ -746,7 +746,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:35:24.244417+00:00",
+      "fetched_at": "2026-09-29T23:18:09.530951+00:00",
       "articles": [
         {
           "title": "\"美재무부, 1조달러 육박 '현금 잔고' 국채 바이백에 활용 검토\"",
@@ -760,7 +760,7 @@
           "query": "재무부 일반계정 국채 발행",
           "feed": "ko",
           "importance_score": 58.6,
-          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(35.8일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 58.6/100"
+          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(36.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 58.6/100"
         },
         {
           "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
@@ -774,11 +774,11 @@
           "query": "Treasury General Account rebuild bill issuance",
           "feed": "en",
           "importance_score": 54.7,
-          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(35.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 54.7/100"
+          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(36.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 54.7/100"
         },
         {
           "title": "베선트의 바이백, 1조 달러 재무부 쌈짓돈 우선 사용하나",
-          "source": "sedaily.com",
+          "source": "서울경제",
           "publisher_domain": "sedaily.com",
           "published_at": "2026-08-25T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uODJkNndLeTFic2Vwa3FldmowVmRpZHNGcUlYaWlBX0JEUU9DMTM1cUxCeFQ2d2dVbnYyYy0xMW05X0QwT05SNHdiV0x0ZTN5eEHSAVNBVV95cUxQR2ZkenRBYjBBWC1fdkZISU55STJHa3NHbTYtQktkRnVKLTVkQ3Y5YzFHcHNmNW5sYzBkY3hrVFhqZEhLcGYtc3FJUFN3TEswdm5XTQ?oc=5",
@@ -788,11 +788,11 @@
           "query": "재무부 일반계정 국채 발행",
           "feed": "ko",
           "importance_score": 39.7,
-          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(34.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.7/100"
+          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(35.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.7/100"
         },
         {
           "title": "美, 국채 매입에 1조달러 활용 검토",
-          "source": "hankyung.com",
+          "source": "한국경제",
           "publisher_domain": "hankyung.com",
           "published_at": "2026-08-24T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13S0ppaXl6SW1MY2NIYTVRYnJpdFBvOVBqaVZGWlFCUkwyVWFObS1uVThYUUJwZjJaSENvVjlJcGJ5ZXJETjRsX3d5ZDdGN00xSERqSEdOSjFQZw?oc=5",
@@ -802,11 +802,11 @@
           "query": "재무부 일반계정 국채 발행",
           "feed": "ko",
           "importance_score": 39.7,
-          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(35.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.7/100"
+          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(36.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.7/100"
         },
         {
           "title": "9350억 달러 재무부 쌈짓돈 거론에…베선트 “채권 한 건도 안 샀다”[마켓무버]",
-          "source": "sedaily.com",
+          "source": "서울경제",
           "publisher_domain": "sedaily.com",
           "published_at": "2026-08-25T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BU25iZXhiYl9hYWtpZzR0MWxzNlpGZFlVUHZ3TV9hbHhSVE52MmxZSERZeWJwSVN3dnBSclprQ2JrZFBBOEIwaS1lOW5wUFdxLWfSAVNBVV95cUxNNWk1X3BEdkFQNGo5R3ZXbUE3Q0hXWGE5YVdtcEt2RkluOTRDLTdlN0JBcnFGcXZVcUdWLXhhZUo2eWMwZVZSeWNQdnB4MklTdWVJMA?oc=5",
@@ -816,7 +816,7 @@
           "query": "재무부 일반계정 국채 발행",
           "feed": "ko",
           "importance_score": 39.7,
-          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(34.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.7/100"
+          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(35.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.7/100"
         }
       ]
     },
@@ -826,7 +826,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 19,
+      "found_count": 18,
       "returned_count": 5,
       "keywords": [
         "Treasury General Account balance",
@@ -854,11 +854,11 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:35:36.693860+00:00",
+      "fetched_at": "2026-09-29T23:18:22.147138+00:00",
       "articles": [
         {
           "title": "Treasury General Account Balance Rises on September 25, 2026",
-          "source": "indexbox.io",
+          "source": "IndexBox",
           "publisher_domain": "indexbox.io",
           "published_at": "2026-09-28T20:30:19+00:00",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHhzNzhycDRUbmhQWW9mNF83OWIzM3FON0xwRzNlTkthd1R5ek9XMmVKLS1qeEdKQzRmb2JJbGJkT2NqUDZiczNaNUpydDRQQWtaNTJmMS1uNVBoZ2J3Uno1Yl9kWThPc29qSDlad1F6WDVlWDc5U092Ni1rTjJDYlB0R2I4WS02cWJYT1ZjejlPNWJuMkhQclZ2c240R3dR?oc=5",
@@ -867,8 +867,8 @@
           "provider": "google_news_rss",
           "query": "Treasury General Account balance",
           "feed": "en",
-          "importance_score": 62.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.97(0.2일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 62.7/100"
+          "importance_score": 59.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.86(1.1일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 59.8/100"
         },
         {
           "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
@@ -882,28 +882,14 @@
           "query": "Treasury General Account balance",
           "feed": "en",
           "importance_score": 58.1,
-          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(35.8일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 58.1/100"
-        },
-        {
-          "title": "US Treasury to stick to debt auction schedule despite bigger buybacks, Bessent says",
-          "source": "reuters.com",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-08-24T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNjNOaTQ3NkZ4V1N0SHI2ek42SEVXX0xHVVZXbHU1WGZXRFA5MHJ1YkdSLWxzREw2UnZURlFrVG1wWkZOVlU3VWg3dHVkeGpLbk1pMGJzRUVlLWpndGVoWlRwS2p2dlBXWXg5ZzR5UUVhd3g2RElhdklmbG1mNXZ5MDJrNUNROTZhcGY0ZC0yX21pblpqakFsY3VUaEhUelZfNllQemQ2QnR2Uk9sZW9IQjRJOFlBUkx3c3ZJd1JWMktDUQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "debt ceiling TGA",
-          "feed": "en",
-          "importance_score": 55.2,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(35.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 55.2/100"
+          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(36.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 58.1/100"
         },
         {
           "title": "재무부, 1조달러 육박 '현금 잔고' 국채 바이백에 활용 검토",
           "source": "미주조선일보",
           "publisher_domain": "chosundaily.com",
-          "published_at": "2026-09-28T11:06:32+00:00",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTVcyQUZBT3F5M0JVMTkzWUR3N3RSSnVRSDBobi1td2MzQ1djdnJHS3dUdTZSSDZ2WDFQZnByZFJTUUJaRjJtcmJPRnlUZThHdzNfSlVzY1BqZFpWaFVaVEJuTUtSTjJZQXBRZTl2TGpLc0ZwcjhhUTRib3pIdGdGVUp4NVVJNHU3V0c5NzBOeEdKdDA?oc=5",
+          "published_at": "2026-09-29T08:31:31+00:00",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamFxcF80dnd0RVlUWW1KLUtwLXM0T1JyWUZ5ZE5HSTAyaDBfMExRSm1JZWdlUF9jenpDWnhFaDhLZ3NEVEp2dVBtTUFEMFJGd3lqcUZ3djFUUmtjcW5LQTJwTjk5OTM3cUZpMU5EQkhTY09iRHZQVWtuSy11Z1BVeXNrS1NxWVpqNE54eG5ra183enA3SmRmTmlQalczQTVkOXNOVm5yZkRwWEJh?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
@@ -913,8 +899,22 @@
           "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.92(0.6일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 51.4/100"
         },
         {
+          "title": "Treasury Cash Balance Rises on Sept. 28, 2026, as Tax Receipts Lead Deposits",
+          "source": "IndexBox",
+          "publisher_domain": "indexbox.io",
+          "published_at": "2026-09-29T20:30:23+00:00",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmRhMk16amJEMHg5Zi1LWWdFbDc3bV9QNlRQZ2xRRHdRTXFUeURLS25GUGE5V2pzLU83Y0FDemVQMWJDSmZsNkFxVGVMekpOR2dQSFhFMFRPU0dMT0l6N3R0TnB0ZkVxakRlQTNWaVJzOHlVZ3h4VmRvS25UV185UkVjVk8zUVc1ejhDUWR0TklfQzA1OUsyRTM1RzV2VjlaalZ6a21R?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Treasury General Account balance",
+          "feed": "en",
+          "importance_score": 49.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.98(0.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 49.6/100"
+        },
+        {
           "title": "Treasury General Account Daily Statement: Balance Drops to 924,627",
-          "source": "indexbox.io",
+          "source": "IndexBox",
           "publisher_domain": "indexbox.io",
           "published_at": "2026-09-25T21:00:25+00:00",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2pRX3JQWlhfZXd4ZVdyM3FiTnRYeG43Z0M0d3AwSzczTV82OU1qTi1QVlpxN3I3WGc5WUR6NUNETFctekJwOFg3VUlnNFMxWmZxWlV2YlV2OTQ3TEp2aFlLVWJndXdRMUxSa1FDLXNRcFdUQUV3X3ZCRkVFa2hVTWVaU2hURDhpUC1MTjdIbF9XdUZtMEJlcmlxWm9xWTFNSkhsTFFhVVRiS0pXSG1VRg?oc=5",
@@ -923,8 +923,8 @@
           "provider": "google_news_rss",
           "query": "Treasury General Account balance",
           "feed": "en",
-          "importance_score": 51.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.64(3.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.1/100"
+          "importance_score": 49.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.57(4.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 49.2/100"
         }
       ]
     },
@@ -934,7 +934,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 44,
+      "found_count": 41,
       "returned_count": 5,
       "keywords": [
         "reverse repo facility balance zero",
@@ -960,7 +960,7 @@
         {
           "keyword": "역레포 잔고 소진",
           "feed": "ko",
-          "count": 7
+          "count": 8
         },
         {
           "keyword": "reverse repo facility",
@@ -992,63 +992,21 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:35:45.914814+00:00",
+      "fetched_at": "2026-09-29T23:18:31.753645+00:00",
       "articles": [
         {
-          "title": "5 Best Money Market Mutual Funds Of 2026",
-          "source": "Forbes",
-          "publisher_domain": "forbes.com",
-          "published_at": "2026-09-22T12:39:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5",
+          "title": "[올댓차이나] 위안화 기준치 1달러=6.7411위안…0.018%↓",
+          "source": "뉴시스",
+          "publisher_domain": "mobile.newsis.com",
+          "published_at": "2026-09-29T02:03:48+00:00",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14eUVwMEtZSjRkc1FESHcwZXp4SkR1cEtPZFhYenBxR3lVTVhjRXJEZTFZNHZQTHZuZGVyNHRQbnIteGRyd3hPZ3M4NmNNRkxCbk5QUTkwb2hPb1VoSWN0Ulg2dzJPTTVwdWh2ZU1sem0yQk5JY0c4TdIBeEFVX3lxTE14eUVwMEtZSjRkc1FESHcwZXp4SkR1cEtPZFhYenBxR3lVTVhjRXJEZTFZNHZQTHZuZGVyNHRQbnIteGRyd3hPZ3M4NmNNRkxCbk5QUTkwb2hPb1VoSWN0Ulg2dzJPTTVwdWh2ZU1sem0yQk5JY0c4TQ?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
-          "query": "money market funds Treasury bills",
-          "feed": "en",
-          "importance_score": 56.6,
-          "importance_basis": "매체티어 0.60(forbes.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.40(6.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.6/100"
-        },
-        {
-          "title": "K증시에 지친 투자자들…대피처로 꼽히는 이곳은? [주린이 ABC]",
-          "source": "매일경제",
-          "publisher_domain": "m.mk.co.kr",
-          "published_at": "2026-09-28T10:05:38+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0dlNUOFliYVpGTUdOck9nb250cDc3d0JVUm5zWUV4QVlqbDgzTHA0RHRKSjR3M1dWdXRubjFXREVGR083clE?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "머니마켓펀드 자금",
+          "query": "역레포",
           "feed": "ko",
-          "importance_score": 54.9,
-          "importance_basis": "매체티어 0.80(mk.co.kr)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.91(0.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 54.9/100"
-        },
-        {
-          "title": "은행으로 ‘역머니무브’ 움직임에…증권사, CMA 금리 올려 고객 잡기",
-          "source": "sedaily.com",
-          "publisher_domain": "sedaily.com",
-          "published_at": "2026-09-28T09:38:44+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LZGx5cFJFOFhERHFidDRId2pNTERKMHVxMUx3ZGlEYUZMUXR6U3pucllPajlRbjBiMUZfYVJlX0Q1bGhSU0pacUwyZmFjUUU5T0HSAVNBVV95cUxNNmRlY2NGLVFXSDVNTktJa0EzY3RiaEVoNnRHaDR4STJ0clpDcXdSM1AxQmg4M2lMRGhVd2wtcGNZczdTVFlGVHdBSWVFR2JOcy14Yw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "머니마켓펀드 자금",
-          "feed": "ko",
-          "importance_score": 54.8,
-          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.91(0.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 54.8/100"
-        },
-        {
-          "title": "CMA 4000만개 돌파…잔액은 고점 대비 11조 줄어",
-          "source": "서울경제",
-          "publisher_domain": "signal.sedaily.com",
-          "published_at": "2026-09-28T08:45:30+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Da1RuajBkX0gzdGtWX0JhRjFrWjBDb2pYWkpQSzF2bEZqTlNGLUdDUDlCdEItSFJjVGh2RGRLLWxHbjRGQkV4Mzc4dzloZXJZaENsOGtB?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "머니마켓펀드 자금",
-          "feed": "ko",
-          "importance_score": 54.7,
-          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.91(0.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 54.7/100"
+          "importance_score": 56.1,
+          "importance_basis": "매체티어 0.60(newsis.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.88(0.9일 경과)×0.25 + 동일사안 보도 4건→1.00×0.10 = 56.1/100"
         },
         {
           "title": "[올댓차이나] 위안화 기준치 1달러=6.7399위안…0.13%↑",
@@ -1061,8 +1019,50 @@
           "provider": "google_news_rss",
           "query": "역레포",
           "feed": "ko",
-          "importance_score": 52.6,
-          "importance_basis": "매체티어 0.60(newsis.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.87(1.0일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 52.6/100"
+          "importance_score": 53.3,
+          "importance_basis": "매체티어 0.60(newsis.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.77(1.9일 경과)×0.25 + 동일사안 보도 4건→1.00×0.10 = 53.3/100"
+        },
+        {
+          "title": "Treasury Rates Today: September 28, 2026",
+          "source": "Forbes",
+          "publisher_domain": "forbes.com",
+          "published_at": "2026-09-28T20:28:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "money market funds Treasury bills",
+          "feed": "en",
+          "importance_score": 52.9,
+          "importance_basis": "매체티어 0.60(forbes.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.86(1.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 52.9/100"
+        },
+        {
+          "title": "은행으로 ‘역머니무브’ 움직임에…증권사, CMA 금리 올려 고객 잡기",
+          "source": "서울경제",
+          "publisher_domain": "sedaily.com",
+          "published_at": "2026-09-28T09:38:44+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LZGx5cFJFOFhERHFidDRId2pNTERKMHVxMUx3ZGlEYUZMUXR6U3pucllPajlRbjBiMUZfYVJlX0Q1bGhSU0pacUwyZmFjUUU5T0HSAVNBVV95cUxNNmRlY2NGLVFXSDVNTktJa0EzY3RiaEVoNnRHaDR4STJ0clpDcXdSM1AxQmg4M2lMRGhVd2wtcGNZczdTVFlGVHdBSWVFR2JOcy14Yw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "머니마켓펀드 자금",
+          "feed": "ko",
+          "importance_score": 52.1,
+          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.80(1.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 52.1/100"
+        },
+        {
+          "title": "CMA 4000만개 돌파…잔액은 고점 대비 11조 줄어",
+          "source": "서울경제",
+          "publisher_domain": "signal.sedaily.com",
+          "published_at": "2026-09-28T08:45:30+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Da1RuajBkX0gzdGtWX0JhRjFrWjBDb2pYWkpQSzF2bEZqTlNGLUdDUDlCdEItSFJjVGh2RGRLLWxHbjRGQkV4Mzc4dzloZXJZaENsOGtB?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "머니마켓펀드 자금",
+          "feed": "ko",
+          "importance_score": 52.0,
+          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.80(1.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 52.0/100"
         }
       ]
     },
@@ -1074,7 +1074,7 @@
         "DELL",
         "Dell"
       ],
-      "dropped_irrelevant": 3,
+      "dropped_irrelevant": 2,
       "status_reason": "중복 제거 후 4건만 확보됨 (목표 5건)",
       "found_count": 4,
       "returned_count": 4,
@@ -1093,7 +1093,7 @@
         {
           "keyword": "Dell Technologies supply shortage easing",
           "feed": "en",
-          "count": 23
+          "count": 22
         },
         {
           "keyword": "Dell Technologies 캐파 부족 해소",
@@ -1110,22 +1110,8 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:36:11.816859+00:00",
+      "fetched_at": "2026-09-29T23:18:56.785518+00:00",
       "articles": [
-        {
-          "title": "Dell Stock Looks Less Expensive Once You Count The AI Backlog",
-          "source": "Trefis",
-          "publisher_domain": "trefis.com",
-          "published_at": "2026-09-28T21:41:07+00:00",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUJTcHd6Tng3SkRSUEhaempNSUU2OTE1czJuT1Ayd0hqM1JKRk00Vy11QVBBbFpYZElWOXJvTXJRXy1Od1VTZVFtaHNfOTk3WjNlQlhuX29BWDUwTml0WTliYkhUZ0U3S3hkbWd1cC1ndVpEVW9UNF9mZUg1OUREYnhqNi1iRlVvMjlURmVSOGRjdzZjQTVmOXFCU1dfMzlqd2EyOWFwaVQzNGdxMG1lODNjMzFBTjctN3BpMHhXRQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Dell Technologies supply shortage easing",
-          "feed": "en",
-          "importance_score": 41.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.98(0.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.9/100"
-        },
         {
           "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
           "source": "CNBC",
@@ -1137,8 +1123,22 @@
           "provider": "google_news_rss",
           "query": "DELL capacity expansion sold out",
           "feed": "en",
-          "importance_score": 41.6,
-          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.09(17.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.6/100"
+          "importance_score": 41.4,
+          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.08(18.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.4/100"
+        },
+        {
+          "title": "Dell Stock Looks Less Expensive Once You Count The AI Backlog",
+          "source": "Trefis",
+          "publisher_domain": "trefis.com",
+          "published_at": "2026-09-28T21:41:07+00:00",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUJTcHd6Tng3SkRSUEhaempNSUU2OTE1czJuT1Ayd0hqM1JKRk00Vy11QVBBbFpYZElWOXJvTXJRXy1Od1VTZVFtaHNfOTk3WjNlQlhuX29BWDUwTml0WTliYkhUZ0U3S3hkbWd1cC1ndVpEVW9UNF9mZUg1OUREYnhqNi1iRlVvMjlURmVSOGRjdzZjQTVmOXFCU1dfMzlqd2EyOWFwaVQzNGdxMG1lODNjMzFBTjctN3BpMHhXRQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Dell Technologies supply shortage easing",
+          "feed": "en",
+          "importance_score": 39.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.86(1.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.1/100"
         },
         {
           "title": "Dell Rebounds to $565.86 as a $95 Billion AI Backlog Meets 22x Forward Earnings — $595 High in Sight",
@@ -1151,8 +1151,8 @@
           "provider": "google_news_rss",
           "query": "Dell Technologies supply shortage easing",
           "feed": "en",
-          "importance_score": 33.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.63(3.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 33.2/100"
+          "importance_score": 31.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.55(4.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.3/100"
         },
         {
           "title": "Dell Technologies Inc Stock (DELL) Opened Up by 7.97% on Sep 11: A Full Analysis",
@@ -1165,8 +1165,8 @@
           "provider": "google_news_rss",
           "query": "Dell Technologies supply shortage easing",
           "feed": "en",
-          "importance_score": 27.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.09(17.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.1/100"
+          "importance_score": 26.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.08(18.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 26.9/100"
         }
       ]
     },
@@ -1214,7 +1214,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:36:24.535258+00:00",
+      "fetched_at": "2026-09-29T23:19:09.515728+00:00",
       "articles": []
     },
     "small:DELL:pricing_power": {
@@ -1225,9 +1225,9 @@
         "DELL",
         "Dell"
       ],
-      "dropped_irrelevant": 5,
+      "dropped_irrelevant": 4,
       "status_reason": null,
-      "found_count": 9,
+      "found_count": 5,
       "returned_count": 5,
       "keywords": [
         "DELL price increase announcement",
@@ -1254,14 +1254,14 @@
         {
           "keyword": "Dell Technologies 가격 인상 전가",
           "feed": "ko",
-          "count": 13
+          "count": 11
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:36:36.685122+00:00",
+      "fetched_at": "2026-09-29T23:19:22.415025+00:00",
       "articles": [
         {
           "title": "Is Dell Technologies (DELL) Fully Valued On AI Optimism And Its Gemini XPS Launch?",
@@ -1274,50 +1274,8 @@
           "provider": "google_news_rss",
           "query": "Dell Technologies pricing power margin expansion",
           "feed": "en",
-          "importance_score": 45.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.83(1.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 45.8/100"
-        },
-        {
-          "title": "Dell Technologies Inc (DELL) 주식 시작했습니다 상승 3.63%에 9월25일: 전체 분석",
-          "source": "TradingKey",
-          "publisher_domain": "tradingkey.com",
-          "published_at": "2026-09-25T13:47:56+00:00",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllUVnZSTFBoQTVicGRXc0JuM1ZKRWV5bTR2UVhWaFM3ZWtHUHJIV3ZXQTVVM3luQnV6aTI3Nm5tU0RSaTMyMDhPMmJuWEVDUDBGVnhwNHhtNWJPSFk4RGdqOEZLV0ZpNTZOUWozdjZqZEJONHRfbkYxM2tFREZ5WmV3U1BYMFhnREF2SVRmMA?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Dell Technologies 가격 인상 전가",
-          "feed": "ko",
-          "importance_score": 43.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.62(3.5일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 43.8/100"
-        },
-        {
-          "title": "Dell Technologies Inc (DELL) 주식 움직였습니다 하락 3.19%에 9월24일: 전체 분석",
-          "source": "TradingKey",
-          "publisher_domain": "tradingkey.com",
-          "published_at": "2026-09-24T06:16:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa0lPWVRVWnozWV8ta0tJNlJXZWpmQ0FHMXhYcTRLY2ZzeW1ZaG5LTU5fQU1xLTFFTFBoRFFQNTlvdDV2QlFPQXhaS2hYbGltT0E3dnJ4TDRWMlo0RFBuZG1EM1FzOHBwTU5fNEh5RXgyelZKZWc2NzN6QlplS2lBRkYtVWZzdHNvOXVOQkZEbw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Dell Technologies 가격 인상 전가",
-          "feed": "ko",
-          "importance_score": 37.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.51(4.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 37.8/100"
-        },
-        {
-          "title": "Dell Technologies Inc (DELL) 주식 시작했습니다 상승 4.72%에 9월16일: 전체 분석",
-          "source": "TradingKey",
-          "publisher_domain": "tradingkey.com",
-          "published_at": "2026-09-16T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmdJMWdOY0FiZHZjVF9zRF82QUpnSUlwWFpMa3ZxcGIxVGFDV0FrdTRYVlJnY0lwN1NvR2JiQ3Zybm9YY2F5eTl1N0loV0NETjlhM2tRdTNmTWdhZ0U2REljeXV3STFfSVJRRG9iZGUyTGpyaURiN010UjdKN0FCQjViUjRWSnJHUURVTGpLOA?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Dell Technologies 가격 인상 전가",
-          "feed": "ko",
-          "importance_score": 32.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.17(12.8일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 32.7/100"
+          "importance_score": 43.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.73(2.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 43.3/100"
         },
         {
           "title": "Dell Technologies (DELL) Earnings Strength Keeps Valuation In Focus",
@@ -1330,8 +1288,50 @@
           "provider": "google_news_rss",
           "query": "Dell Technologies pricing power margin expansion",
           "feed": "en",
-          "importance_score": 30.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.22(10.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 30.6/100"
+          "importance_score": 30.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.20(11.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 30.0/100"
+        },
+        {
+          "title": "Dell Technologies (DELL) Q2 2027 Preview: Reports on September 1",
+          "source": "AlphaStreet",
+          "publisher_domain": "news.alphastreet.com",
+          "published_at": "2026-08-27T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXlha1haZEpyOEliYWJOMVhZZllhVUk2TjU2THdoeF9aNTZKTlgwYTgwR0Q1MDNYS2NSQ3JUUWFHbW9JUUtnemlmbGpoSkh0M0gwSk9PMDByMHZWMG9UTjFQXzNYWEttbjk3VlktMDdNeW11NjItLWpaczlaODVteGdJNERqNzlQcnJ2ckZ5aHhudVprSEHSAZYBQVVfeXFMUC15YWtYWmRKcjhJYmFiTjFYWWZZYVVJNk41Nkx3aHhfWjU2Sk5YMGE4MEdENTAzWEtjUkNyVFFhR21vSVFLZ3ppZmxqaEpIdDNIMEpPTzAwcjB2VjBvVE4xUF8zWFhLbW45N1ZZLTA3TXltdTYyLS1qWnM5Wjg1bXhnSTREajc5UHJydnJGeWh4bnVaa0hB?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Dell Technologies pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 25.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(33.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.2/100"
+        },
+        {
+          "title": "Dell Q2: The Dinosaur Is Fairly Priced Now (Downgrade) (NYSE:DELL)",
+          "source": "Seeking Alpha",
+          "publisher_domain": "seekingalpha.com",
+          "published_at": "2026-09-02T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlUwY0FGUTJaS2ZQalg1YjFsaFR1VEJQbzF0SVY5NGVrR0xIc3lBX3Y2UFhNUGRBU2RHZ0Zielc3VElxZEZCWW9CTE9OYWtNT3R4ZWZMUDhWZHZFZVExRXA3OUVid09zdkZSU2E1V1dJMkN3NV9JQ0xsUkU2dW9CZUhjNHlzbFNMczJQUTNyc0xCRk5ZekNV?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Dell Technologies pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 24.0,
+          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(27.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 24.0/100"
+        },
+        {
+          "title": "SpaceX and CoreWeave Helped Turn Dell Into an AI Rocket. Earnings Could Bring It Back to Earth",
+          "source": "24/7 Wall St.",
+          "publisher_domain": "247wallst.com",
+          "published_at": "2026-08-25T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZG0zOU02RHZfa1NNdkdUb0RxNXJVVEhIT1gteWxJd1o2VTRhRG9oaTB2RUJRYXB6azNKRDJoQUJteWh2dG8xU3dhTFZJaTRBUmczdDA0ZzlOb0JNdmRNMmJ5bkNHdmYtZy1Jd2VzcEVDZXY4TldzWkxxbFROMzRaUXZrOWJXMTA1Sm1RVDZXbUxPQnFQbEVvWWRUbXg1NTJmejJnVDJrMGtPaEZGTnJEOS1sMERDTXdmR0R2MUdwUy1ubzhxeEp0OXBYdmpaeF85cWtZ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Dell Technologies pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 17.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(35.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.7/100"
         }
       ]
     },
@@ -1379,7 +1379,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:36:49.431017+00:00",
+      "fetched_at": "2026-09-29T23:19:34.160884+00:00",
       "articles": [
         {
           "title": "Dell Technologies COO cites spotty CPU and disk drive shortages",
@@ -1393,7 +1393,7 @@
           "query": "DELL bottleneck supply chain",
           "feed": "en",
           "importance_score": 25.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(27.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.5/100"
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(28.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.5/100"
         },
         {
           "title": "Dell Technologies CFO expects stronger second half after strong start",
@@ -1407,7 +1407,7 @@
           "query": "DELL bottleneck supply chain",
           "feed": "en",
           "importance_score": 25.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(27.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.5/100"
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(28.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.5/100"
         },
         {
           "title": "[김대호 진단] 반도체 열전 (43) 델 테크(Dell Technologies)… 상장폐지 아픈 기억",
@@ -1421,7 +1421,7 @@
           "query": "Dell Technologies 독점 공급",
           "feed": "ko",
           "importance_score": 25.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(40.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.1/100"
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(41.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.1/100"
         },
         {
           "title": "Michael Dell to Goldman Sachs investors: Customers sort of go through five stages of grief, starting with",
@@ -1434,8 +1434,8 @@
           "provider": "google_news_rss",
           "query": "DELL bottleneck supply chain",
           "feed": "en",
-          "importance_score": 21.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.15(13.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.2/100"
+          "importance_score": 20.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.13(14.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 20.8/100"
         },
         {
           "title": "Why Dell Stock Climbed to a New All-Time High This Week",
@@ -1448,8 +1448,8 @@
           "provider": "google_news_rss",
           "query": "DELL bottleneck supply chain",
           "feed": "en",
-          "importance_score": 20.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.12(15.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 20.6/100"
+          "importance_score": 20.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.11(15.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 20.2/100"
         }
       ]
     },
@@ -1461,7 +1461,7 @@
         "CrowdStrike",
         "CRWD"
       ],
-      "dropped_irrelevant": 3,
+      "dropped_irrelevant": 4,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -1497,21 +1497,21 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:37:01.440799+00:00",
+      "fetched_at": "2026-09-29T23:19:45.865241+00:00",
       "articles": []
     },
     "small:CRWD:supply_locked": {
       "key": "small:CRWD:supply_locked",
-      "status": "no_results",
+      "status": "partial",
       "relevance_terms": [
         "CrowdStrike Holdings",
         "CrowdStrike",
         "CRWD"
       ],
-      "dropped_irrelevant": 4,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
+      "dropped_irrelevant": 7,
+      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
+      "found_count": 1,
+      "returned_count": 1,
       "keywords": [
         "CRWD long term supply agreement",
         "CrowdStrike Holdings capex completion customer commitment",
@@ -1522,7 +1522,7 @@
         {
           "keyword": "CRWD long term supply agreement",
           "feed": "en",
-          "count": 13
+          "count": 23
         },
         {
           "keyword": "CrowdStrike Holdings capex completion customer commitment",
@@ -1544,8 +1544,23 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:37:14.212359+00:00",
-      "articles": []
+      "fetched_at": "2026-09-29T23:19:57.931407+00:00",
+      "articles": [
+        {
+          "title": "CRWD Stock Leads Wedbush’s Cybersecurity Bets: Check Point, Fortinet, Varonis, Telos Downgraded",
+          "source": "Stocktwits",
+          "publisher_domain": "stocktwits.com",
+          "published_at": "2026-09-10T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWZZbkdBNVkyMjBwd0RiYWcxZlVBWVFzb1ZhZk5jMzZHVzVibTBJOC1oUWkxVnNnLV9NcGM1dnk0NjB3MnJNR1FOY3BvS1EzZW9CdFdKTWhMbENSZXM5NDc2ekJJVVNpVVRFUktsUHVyeXJzM2xRY0lRTTIzWFhQS3U2bG9pNFpyV2RCUjJXaDctLTdQWktBcWNFS2RRVzQ3T1ZFZjZkWXQ2d3ZoWDhvdWZ4ekFKdkRRR3ZzSk4yTF9ySUZSQk9ZRkpSb0YwZmhXYXc3SQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "CRWD long term supply agreement",
+          "feed": "en",
+          "importance_score": 19.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.07(19.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 19.1/100"
+        }
+      ]
     },
     "small:CRWD:pricing_power": {
       "key": "small:CRWD:pricing_power",
@@ -1557,7 +1572,7 @@
       ],
       "dropped_irrelevant": 3,
       "status_reason": null,
-      "found_count": 6,
+      "found_count": 7,
       "returned_count": 5,
       "keywords": [
         "CRWD price increase announcement",
@@ -1591,7 +1606,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:37:26.405744+00:00",
+      "fetched_at": "2026-09-29T23:20:09.801912+00:00",
       "articles": [
         {
           "title": "CrowdStrike rises as earnings momentum and new partner integrations support shares",
@@ -1604,8 +1619,36 @@
           "provider": "google_news_rss",
           "query": "CRWD price increase announcement",
           "feed": "en",
-          "importance_score": 41.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.95(0.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.4/100"
+          "importance_score": 38.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.84(1.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 38.6/100"
+        },
+        {
+          "title": "Jim Cramer Explains Why CrowdStrike (CRWD) Upended the Tech Bear Thesis",
+          "source": "finance.yahoo.com",
+          "publisher_domain": "finance.yahoo.com",
+          "published_at": "2026-09-03T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFR4d2ZscmNhT0NHOVZ1bktiMVRFejlSMDdjTlNfYzk0QWtLNk5MVzUxd3RSOE10RjRGNzZpSXY5S2dTMU5vcVlEM1QxbXd5VHVwV21RbkRHSWhDUHRUM1dfN0pyc3p2endzWUI4N2FsRHg1Qnphb2hSSDRVQll5UTdyM0F4d2lhQVlFNGdKTXVFellLQnhQTnNIT1drN0xONVE?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "CrowdStrike Holdings pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 31.6,
+          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(26.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.6/100"
+        },
+        {
+          "title": "CrowdStrike: Excellent Product, Unjustifiable Valuation (NASDAQ:CRWD)",
+          "source": "Seeking Alpha",
+          "publisher_domain": "seekingalpha.com",
+          "published_at": "2026-08-24T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMndoc01CRkFvTjVmcXRsS3N5VkdyLUdPVlhlenNpVmRkM01pelFLd3FvcVB3V3FneXpmTDhCTjBkOUh6SkUwTUlmY3p2QWg1TFIwUzNtRUwwazRyYUdmYWhRYUpRaXBhdWdxSmZqM0JQQ2c3S3RoNTRhaDJ4TTdfb3hxN29hOFgtRVFTQjFxckpnZm5pSV9iTkhR?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "CrowdStrike Holdings pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 31.2,
+          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(36.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.2/100"
         },
         {
           "title": "AI Panic vs. Reality: CrowdStrike's 110% Rally Forces Downgrade Ahead of Q2 Report (CRWD)",
@@ -1619,21 +1662,7 @@
           "query": "CrowdStrike Holdings pricing power margin expansion",
           "feed": "en",
           "importance_score": 31.1,
-          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(40.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.1/100"
-        },
-        {
-          "title": "CrowdStrike Could Plunge 30% After Earnings (NASDAQ:CRWD)",
-          "source": "Seeking Alpha",
-          "publisher_domain": "seekingalpha.com",
-          "published_at": "2026-08-17T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOS1rQ0hRRk9Pb0NlR2JUX09sS21VVkstS3o2c1hrblJ2SHJWcVpwU3RHN0pYNVhCV0dMc2NXVDItT2dwQUJmZjA5R3RmblhWRTRBNGMxYmdiM0ozYWlkV2p4VEhxZnNrcFZKWVhqUHVqUzdRUW94ejdKdHhsR3hIdkZHbnJSaVJuNWpHYmZRVVhuanN4RkE?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "CrowdStrike Holdings pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 31.1,
-          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(42.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.1/100"
+          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(41.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.1/100"
         },
         {
           "title": "What CrowdStrike Shares Rebound Means For Shareholders",
@@ -1646,22 +1675,8 @@
           "provider": "google_news_rss",
           "query": "CrowdStrike Holdings pricing power margin expansion",
           "feed": "en",
-          "importance_score": 28.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.45(5.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 28.7/100"
-        },
-        {
-          "title": "CrowdStrike Q3FY26 Results: Adj EPS $0.31 in line, sales beat $1.515B est",
-          "source": "scanx.trade",
-          "publisher_domain": "scanx.trade",
-          "published_at": "2026-08-26T21:04:42+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSUIxNWNTcUhtbXVuVm1ETDg4TG9nV0tlQkRVZm9VUHVCV3VzY2ZnelFidE5wUGR3VVBFYzloODVsVkJIby1PbnVaVkQ5QnIzaTRqUDZvWnlJaDlsR2lKNUEyYVkxRDkwd2VnMEE3bmQyZUxYZnVnZFRpM0JtUDU5MW10S21MWUZoZFBWc1hCT0xNYnNYdVl4cURRSW5fRDVrWS11cnAzbm5kRzlOQ1Nwck9kZ0xsZnVXVFFiMEx0dU0?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "CrowdStrike Holdings pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 17.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(33.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.8/100"
+          "importance_score": 27.4,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.40(6.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.4/100"
         }
       ]
     },
@@ -1709,7 +1724,289 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:37:38.539022+00:00",
+      "fetched_at": "2026-09-29T23:20:22.009023+00:00",
+      "articles": []
+    },
+    "small:PANW:capacity_gap": {
+      "key": "small:PANW:capacity_gap",
+      "status": "partial",
+      "relevance_terms": [
+        "Palo Alto Networks",
+        "Networks",
+        "Palo",
+        "PANW",
+        "Alto"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
+      "found_count": 1,
+      "returned_count": 1,
+      "keywords": [
+        "PANW capacity expansion sold out",
+        "Palo Alto Networks supply shortage easing",
+        "Palo Alto Networks 캐파 부족 해소",
+        "Palo Alto Networks 증설 가동"
+      ],
+      "queries": [
+        {
+          "keyword": "PANW capacity expansion sold out",
+          "feed": "en",
+          "count": 13
+        },
+        {
+          "keyword": "Palo Alto Networks supply shortage easing",
+          "feed": "en",
+          "count": 5
+        },
+        {
+          "keyword": "Palo Alto Networks 캐파 부족 해소",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "Palo Alto Networks 증설 가동",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-09-29T23:20:34.454306+00:00",
+      "articles": [
+        {
+          "title": "Palo Alto Networks’ CEO Says Nebius Is in a Different League. Is This ‘Neoscaler’ a Buy?",
+          "source": "24/7 Wall St.",
+          "publisher_domain": "247wallst.com",
+          "published_at": "2026-08-27T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjgtd0tKWS1NM1VSVkN6RGt0U2RaU2VVU2Q4dEZpaVZERk42ZElVdHA4UVV3U3h6WWJKMTV2dmNyNjE2VG9sNGJEU3BSWThLMDdsOXVmSWpXbVJfR1NTQ2szWDVsdnNaeTBZS3IycWFRZGs1VjJqOWZGbEFZOHpFeENkVjItdDBuTGJuMGctZXE1ZmNwQUlwR0NHWEZaVE1VcXdSb2xTdXFSNy1LcWNZcDJEN0R3YVFiYlRoZXhiVXNSVl91cWc?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "PANW capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 32.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(33.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.7/100"
+        }
+      ]
+    },
+    "small:PANW:supply_locked": {
+      "key": "small:PANW:supply_locked",
+      "status": "no_results",
+      "relevance_terms": [
+        "Palo Alto Networks",
+        "Networks",
+        "Palo",
+        "PANW",
+        "Alto"
+      ],
+      "dropped_irrelevant": 7,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "PANW long term supply agreement",
+        "Palo Alto Networks capex completion customer commitment",
+        "Palo Alto Networks 장기 공급계약 체결",
+        "Palo Alto Networks 증설 완료"
+      ],
+      "queries": [
+        {
+          "keyword": "PANW long term supply agreement",
+          "feed": "en",
+          "count": 25
+        },
+        {
+          "keyword": "Palo Alto Networks capex completion customer commitment",
+          "feed": "en",
+          "count": 0
+        },
+        {
+          "keyword": "Palo Alto Networks 장기 공급계약 체결",
+          "feed": "ko",
+          "count": 2
+        },
+        {
+          "keyword": "Palo Alto Networks 증설 완료",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-09-29T23:20:46.562618+00:00",
+      "articles": []
+    },
+    "small:PANW:pricing_power": {
+      "key": "small:PANW:pricing_power",
+      "status": "ok",
+      "relevance_terms": [
+        "Palo Alto Networks",
+        "Networks",
+        "Palo",
+        "PANW",
+        "Alto"
+      ],
+      "dropped_irrelevant": 4,
+      "status_reason": null,
+      "found_count": 6,
+      "returned_count": 5,
+      "keywords": [
+        "PANW price increase announcement",
+        "Palo Alto Networks pricing power margin expansion",
+        "Palo Alto Networks 판가 인상",
+        "Palo Alto Networks 가격 인상 전가"
+      ],
+      "queries": [
+        {
+          "keyword": "PANW price increase announcement",
+          "feed": "en",
+          "count": 25
+        },
+        {
+          "keyword": "Palo Alto Networks pricing power margin expansion",
+          "feed": "en",
+          "count": 25
+        },
+        {
+          "keyword": "Palo Alto Networks 판가 인상",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "Palo Alto Networks 가격 인상 전가",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-09-29T23:20:58.633500+00:00",
+      "articles": [
+        {
+          "title": "Palo Alto Networks Makes Mythos and GPT-5.6 Testing Always-On. Here’s Where the Stock Could Go",
+          "source": "TIKR.com",
+          "publisher_domain": "tikr.com",
+          "published_at": "2026-09-24T15:23:04+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXNYa3FVazNaUnZSQl92RFJqaERqUWVIaHdSZk1xTkVpb0hnc2txS2xMUjU4QXdnMUFURUxnWUZsWXFGWFl0RV9WUGkxelU1eTFWdmxHZUtVRndmX2UySjBtd3JrSmpQY1V3cTVHSVl4ZjNUb2tRV3BseGVsSW55b0ZFNGU3aS1IX1RJY0IwMVlPQkRtdFhpc01md3BfX3ZqdEJWQy1ZWmI1SlRTTkNWZ0VuSF9NOEJMMGc?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Palo Alto Networks pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 44.4,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.48(5.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 44.4/100"
+        },
+        {
+          "title": "Palo Alto Networks: Priced For A Future It Hasn't Earned Yet (Rating Downgrade) (PANW)",
+          "source": "Seeking Alpha",
+          "publisher_domain": "seekingalpha.com",
+          "published_at": "2026-08-29T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHE3YjExM1lsWnVqYUd5d3JRajRPa3B2SGRWakFqd1ZPMWxtUUhaazI4b0Y5bHFmVDRXSnVJbVR1R3ZPYlJWM0FSV1VyeW8zcGJQSnVXSklWZEphVVNuRjRjMmNDaFNFUm12UVRFaFZ6dWI0cEg3bTVJWWlfbk05SzgtNHhiMzVWTnRHS3o4TWtYdVRqV0FTRE9lRG9uTjljTHdZSnIycHFNcE93OEtFU3dsTm9WUXc?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Palo Alto Networks pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 41.3,
+          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.01(31.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.3/100"
+        },
+        {
+          "title": "Palo Alto Networks (PANW) Closes Its Buyback, Is The Stock Above Fair Value?",
+          "source": "simplywall.st",
+          "publisher_domain": "simplywall.st",
+          "published_at": "2026-09-16T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR19iNXNIdk91ZXhCY3FyTkVrVnJLOG81QXQzcld2Nlg2dm10ZHVNUWNBazVtdnJTV0FlLXJZcHVPTGdDQ3pITU9wdWVuUmNRMkRwa1FLeVNTeDZqN09HVkR5bFZoZU1oRDZaVGxoTW1oYlNWaXZGaDhweVVyMEdTT1RFWUtCcEV0ZW1CTGM2WWdPRkN3ZUlpWnczeVJKUEFmM0tVLTJDbjNrLVd1enppUVkzNVJLT0pMeko0eF92ZzFobXctWEszVERQVzhrMGhKbk1R0gHYAUFVX3lxTE9iV19CNUVoODR0ZVJpUVRzSlJCTmFlTGs3QlhVWVhJRmhNYkQtNl9LNmFqUkVLelNXRkhYRHk0Y1FNOTJMWnFQSG5FOXZvUW1CbTJRYU1wTy1ISHM5aGp6N2tWQ044WHJ2NU5vZGFzSkFsTEJ0QnFhdUtuQWN2cUFQdlZzcHZQZy13RmhiOHlwRWNwRmVzOEpxQUxzYjZGME5FSlp0Yl9XU09TakxXTmxidWNOWjhFaUdpakNHendtWTFWT1hYM0t6ZklJZFA0MGZfYjM5SGM5bw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Palo Alto Networks pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 38.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.15(13.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 38.8/100"
+        },
+        {
+          "title": "Palo Alto Networks (PANW) Stock Faces Margin Squeeze Despite Revenue Surge",
+          "source": "simplywall.st",
+          "publisher_domain": "simplywall.st",
+          "published_at": "2026-09-03T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3Z1cGVzTkR5SFQtU2ZkZnlqRUZDdjZ4YXZlOHota0FrYTZpZEdOVDhzN3FSUjFRM3lNdkd2bUxYeFFjRldyaFI5VC1MTldfeXNTQzBpQjZmcHNMQXQ4eWtheTdXaFJWX19ORTQ5QmRGTTBDakNMUjNiVFNlSGV6a3dZNExjRnJUbGhnTjJwdWZSWWtDZE5GeFBUb1k5Uk1lRmhKUFdQQk51TlNSQm0zOUdMMVEtOWlwUTdXa2JlaDlQZmcxdjdkbUVRTlE0R1I4V2g00gHYAUFVX3lxTFBpSGwzS3ZINXpfOXdaXzBndzFZVUh1Q1VjSU5CWXc1cWxtdG9iWUhzeGRMMG10aHJheEEzYkEtNHd4UFlhWHE4aFlpam4zUWN6S3pfak1scTE5TXlHdFk2UVJjSjEzTG5VeVBmTEN6UDloZ2dHTFFhcUVCRzlER0c1RWlLZEpJX2NCOWhQU0RibGdldUhPS0h1b1I1a2NsMThRRDJXWEpLWFNROUtHOGZ2S0lyZTlqVTU2c3BZdFdaTjFtaVptRGJzTWVUcGxXODNnUktmSENoQw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Palo Alto Networks pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 35.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 5개→1.00×0.25 + 최신성 0.02(26.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.6/100"
+        },
+        {
+          "title": "Palo Alto Networks’ CEO Says Nebius Is in a Different League. Is This ‘Neoscaler’ a Buy?",
+          "source": "24/7 Wall St.",
+          "publisher_domain": "247wallst.com",
+          "published_at": "2026-08-27T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjgtd0tKWS1NM1VSVkN6RGt0U2RaU2VVU2Q4dEZpaVZERk42ZElVdHA4UVV3U3h6WWJKMTV2dmNyNjE2VG9sNGJEU3BSWThLMDdsOXVmSWpXbVJfR1NTQ2szWDVsdnNaeTBZS3IycWFRZGs1VjJqOWZGbEFZOHpFeENkVjItdDBuTGJuMGctZXE1ZmNwQUlwR0NHWEZaVE1VcXdSb2xTdXFSNy1LcWNZcDJEN0R3YVFiYlRoZXhiVXNSVl91cWc?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Palo Alto Networks pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 32.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(33.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.7/100"
+        }
+      ]
+    },
+    "small:PANW:theme_bottleneck": {
+      "key": "small:PANW:theme_bottleneck",
+      "status": "no_results",
+      "relevance_terms": [
+        "Palo Alto Networks",
+        "Networks",
+        "Palo",
+        "PANW",
+        "Alto"
+      ],
+      "dropped_irrelevant": 1,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "PANW bottleneck supply chain",
+        "Palo Alto Networks sole supplier constraint",
+        "Palo Alto Networks 공급 병목",
+        "Palo Alto Networks 독점 공급"
+      ],
+      "queries": [
+        {
+          "keyword": "PANW bottleneck supply chain",
+          "feed": "en",
+          "count": 5
+        },
+        {
+          "keyword": "Palo Alto Networks sole supplier constraint",
+          "feed": "en",
+          "count": 0
+        },
+        {
+          "keyword": "Palo Alto Networks 공급 병목",
+          "feed": "ko",
+          "count": 2
+        },
+        {
+          "keyword": "Palo Alto Networks 독점 공급",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-09-29T23:21:10.988651+00:00",
       "articles": []
     },
     "small:AMD:capacity_gap": {
@@ -1758,7 +2055,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:37:50.540576+00:00",
+      "fetched_at": "2026-09-29T23:21:23.471675+00:00",
       "articles": [
         {
           "title": "AMD: The Biggest Winner Of Intel’s Price Hike (NASDAQ:AMD)",
@@ -1771,8 +2068,8 @@
           "provider": "google_news_rss",
           "query": "Advanced Micro Devices supply shortage easing",
           "feed": "en",
-          "importance_score": 28.4,
-          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.20(11.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 28.4/100"
+          "importance_score": 27.8,
+          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.17(12.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.8/100"
         },
         {
           "title": "AMD's Saudi AI Infrastructure Goes Live, With 250 MW Expansion Slated for 2027",
@@ -1786,7 +2083,7 @@
           "query": "AMD capacity expansion sold out",
           "feed": "en",
           "importance_score": 25.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(27.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.5/100"
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(28.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.5/100"
         }
       ]
     },
@@ -1800,7 +2097,7 @@
         "Micro",
         "AMD"
       ],
-      "dropped_irrelevant": 4,
+      "dropped_irrelevant": 5,
       "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
       "found_count": 1,
       "returned_count": 1,
@@ -1836,7 +2133,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:38:03.031409+00:00",
+      "fetched_at": "2026-09-29T23:21:35.651715+00:00",
       "articles": [
         {
           "title": "AMD Stock Forecast: $1T Milestone Meets Helios Ramp as $617.80 Breakout Nears",
@@ -1849,8 +2146,8 @@
           "provider": "google_news_rss",
           "query": "AMD long term supply agreement",
           "feed": "en",
-          "importance_score": 27.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.41(6.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.7/100"
+          "importance_score": 26.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.36(7.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 26.5/100"
         }
       ]
     },
@@ -1900,21 +2197,21 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:38:15.665369+00:00",
+      "fetched_at": "2026-09-29T23:21:48.037712+00:00",
       "articles": [
         {
           "title": "Advanced Micro Devices Inc Stock (AMD) Opened Up by 7.81% on Sep 21: What Signal Does It Send?",
           "source": "TradingKey",
           "publisher_domain": "tradingkey.com",
-          "published_at": "2026-09-21T13:47:20+00:00",
+          "published_at": "2026-09-21T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLWhXWWdiZHhZd3BENjU1MHFQVWh0U3h2UG80OGROX3pFa3JVb3VkZUhHaER3NzRVc1ZzNzhUSWRaX2FCc0t3R2cyd0JvSVE3Ukg1cjRpT0lNcTBOOTUzTkwteWc3U0pjUkxTNE5jWXV6QkxFRDk1d21LOG15X2Eza1VuOTNadFRhNWc?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "Advanced Micro Devices pricing power margin expansion",
           "feed": "en",
-          "importance_score": 43.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.35(7.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 43.8/100"
+          "importance_score": 42.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.30(8.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.5/100"
         },
         {
           "title": "AMD Just Cracked $1 Trillion and One Strategist Says $750 Is Next",
@@ -1927,8 +2224,8 @@
           "provider": "google_news_rss",
           "query": "Advanced Micro Devices pricing power margin expansion",
           "feed": "en",
-          "importance_score": 29.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.47(5.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 29.3/100"
+          "importance_score": 27.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.42(6.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.9/100"
         },
         {
           "title": "AMD Chips Away at NVIDIA's AI Throne",
@@ -1941,8 +2238,8 @@
           "provider": "google_news_rss",
           "query": "Advanced Micro Devices pricing power margin expansion",
           "feed": "en",
-          "importance_score": 27.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.42(6.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.9/100"
+          "importance_score": 26.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.37(7.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 26.7/100"
         },
         {
           "title": "Why AMD Stock Jumped Today",
@@ -1955,8 +2252,8 @@
           "provider": "google_news_rss",
           "query": "AMD price increase announcement",
           "feed": "en",
-          "importance_score": 22.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.20(11.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 22.4/100"
+          "importance_score": 21.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.17(12.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.8/100"
         },
         {
           "title": "Nebius hikes prices for Nvidia GPUs and AMD CPU...",
@@ -1969,8 +2266,8 @@
           "provider": "google_news_rss",
           "query": "AMD price increase announcement",
           "feed": "en",
-          "importance_score": 22.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.20(11.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 22.4/100"
+          "importance_score": 21.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.17(12.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.8/100"
         }
       ]
     },
@@ -1984,7 +2281,7 @@
         "Micro",
         "AMD"
       ],
-      "dropped_irrelevant": 4,
+      "dropped_irrelevant": 5,
       "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
       "found_count": 1,
       "returned_count": 1,
@@ -2003,28 +2300,28 @@
         {
           "keyword": "Advanced Micro Devices sole supplier constraint",
           "feed": "en",
-          "count": 4
+          "count": 3
         },
         {
           "keyword": "Advanced Micro Devices 공급 병목",
           "feed": "ko",
-          "count": 14
+          "count": 15
         },
         {
           "keyword": "Advanced Micro Devices 독점 공급",
           "feed": "ko",
-          "count": 10
+          "count": 9
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:38:27.715439+00:00",
+      "fetched_at": "2026-09-29T23:22:00.563294+00:00",
       "articles": [
         {
           "title": "Advanced Micro Devices Inc (AMD) 주식 시작했습니다 상승 7.81%에 9월21일: 전체 분석",
-          "source": "TradingKey",
+          "source": "tradingkey.com",
           "publisher_domain": "tradingkey.com",
           "published_at": "2026-09-21T13:48:08+00:00",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkRMeWh1LTFleFZCTW5TMS05QW8zV21vUi1Va2UwV1FTZ2xybE9BWTd2MHFKUTZtTm9fVjY1eWI5UFk3bUJGT3Q1RzFSa1BoQ3ZIamxMUkp6YUN4VTVHTkpSX1YydUN5UUhpbDQ5WHBVYmh3RUVVY0dqWXNwMjkxWnFRSWdfZG5ibHVsMk5R?oc=5",
@@ -2033,277 +2330,10 @@
           "provider": "google_news_rss",
           "query": "Advanced Micro Devices 공급 병목",
           "feed": "ko",
-          "importance_score": 43.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.35(7.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 43.8/100"
+          "importance_score": 42.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.31(8.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.8/100"
         }
       ]
-    },
-    "small:PANW:capacity_gap": {
-      "key": "small:PANW:capacity_gap",
-      "status": "no_results",
-      "relevance_terms": [
-        "Palo Alto Networks",
-        "Networks",
-        "Alto",
-        "PANW",
-        "Palo"
-      ],
-      "dropped_irrelevant": 2,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "PANW capacity expansion sold out",
-        "Palo Alto Networks supply shortage easing",
-        "Palo Alto Networks 캐파 부족 해소",
-        "Palo Alto Networks 증설 가동"
-      ],
-      "queries": [
-        {
-          "keyword": "PANW capacity expansion sold out",
-          "feed": "en",
-          "count": 13
-        },
-        {
-          "keyword": "Palo Alto Networks supply shortage easing",
-          "feed": "en",
-          "count": 5
-        },
-        {
-          "keyword": "Palo Alto Networks 캐파 부족 해소",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "Palo Alto Networks 증설 가동",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-09-29T01:38:40.263239+00:00",
-      "articles": []
-    },
-    "small:PANW:supply_locked": {
-      "key": "small:PANW:supply_locked",
-      "status": "no_results",
-      "relevance_terms": [
-        "Palo Alto Networks",
-        "Networks",
-        "Alto",
-        "PANW",
-        "Palo"
-      ],
-      "dropped_irrelevant": 6,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "PANW long term supply agreement",
-        "Palo Alto Networks capex completion customer commitment",
-        "Palo Alto Networks 장기 공급계약 체결",
-        "Palo Alto Networks 증설 완료"
-      ],
-      "queries": [
-        {
-          "keyword": "PANW long term supply agreement",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Palo Alto Networks capex completion customer commitment",
-          "feed": "en",
-          "count": 0
-        },
-        {
-          "keyword": "Palo Alto Networks 장기 공급계약 체결",
-          "feed": "ko",
-          "count": 2
-        },
-        {
-          "keyword": "Palo Alto Networks 증설 완료",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-09-29T01:38:52.317392+00:00",
-      "articles": []
-    },
-    "small:PANW:pricing_power": {
-      "key": "small:PANW:pricing_power",
-      "status": "ok",
-      "relevance_terms": [
-        "Palo Alto Networks",
-        "Networks",
-        "Alto",
-        "PANW",
-        "Palo"
-      ],
-      "dropped_irrelevant": 3,
-      "status_reason": null,
-      "found_count": 6,
-      "returned_count": 5,
-      "keywords": [
-        "PANW price increase announcement",
-        "Palo Alto Networks pricing power margin expansion",
-        "Palo Alto Networks 판가 인상",
-        "Palo Alto Networks 가격 인상 전가"
-      ],
-      "queries": [
-        {
-          "keyword": "PANW price increase announcement",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Palo Alto Networks pricing power margin expansion",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Palo Alto Networks 판가 인상",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "Palo Alto Networks 가격 인상 전가",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-09-29T01:39:04.860495+00:00",
-      "articles": [
-        {
-          "title": "Palo Alto Networks Makes Mythos and GPT-5.6 Testing Always-On. Here’s Where the Stock Could Go",
-          "source": "TIKR.com",
-          "publisher_domain": "tikr.com",
-          "published_at": "2026-09-24T15:23:04+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXNYa3FVazNaUnZSQl92RFJqaERqUWVIaHdSZk1xTkVpb0hnc2txS2xMUjU4QXdnMUFURUxnWUZsWXFGWFl0RV9WUGkxelU1eTFWdmxHZUtVRndmX2UySjBtd3JrSmpQY1V3cTVHSVl4ZjNUb2tRV3BseGVsSW55b0ZFNGU3aS1IX1RJY0IwMVlPQkRtdFhpc01md3BfX3ZqdEJWQy1ZWmI1SlRTTkNWZ0VuSF9NOEJMMGc?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Palo Alto Networks pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 46.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.54(4.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 46.0/100"
-        },
-        {
-          "title": "Palo Alto Networks: Priced For A Future It Hasn't Earned Yet (Rating Downgrade) (PANW)",
-          "source": "Seeking Alpha",
-          "publisher_domain": "seekingalpha.com",
-          "published_at": "2026-08-29T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHE3YjExM1lsWnVqYUd5d3JRajRPa3B2SGRWakFqd1ZPMWxtUUhaazI4b0Y5bHFmVDRXSnVJbVR1R3ZPYlJWM0FSV1VyeW8zcGJQSnVXSklWZEphVVNuRjRjMmNDaFNFUm12UVRFaFZ6dWI0cEg3bTVJWWlfbk05SzgtNHhiMzVWTnRHS3o4TWtYdVRqV0FTRE9lRG9uTjljTHdZSnIycHFNcE93OEtFU3dsTm9WUXc?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Palo Alto Networks pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 41.4,
-          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.01(30.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.4/100"
-        },
-        {
-          "title": "Palo Alto Networks (PANW) Closes Its Buyback, Is The Stock Above Fair Value?",
-          "source": "simplywall.st",
-          "publisher_domain": "simplywall.st",
-          "published_at": "2026-09-16T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR19iNXNIdk91ZXhCY3FyTkVrVnJLOG81QXQzcld2Nlg2dm10ZHVNUWNBazVtdnJTV0FlLXJZcHVPTGdDQ3pITU9wdWVuUmNRMkRwa1FLeVNTeDZqN09HVkR5bFZoZU1oRDZaVGxoTW1oYlNWaXZGaDhweVVyMEdTT1RFWUtCcEV0ZW1CTGM2WWdPRkN3ZUlpWnczeVJKUEFmM0tVLTJDbjNrLVd1enppUVkzNVJLT0pMeko0eF92ZzFobXctWEszVERQVzhrMGhKbk1R0gHYAUFVX3lxTE9iV19CNUVoODR0ZVJpUVRzSlJCTmFlTGs3QlhVWVhJRmhNYkQtNl9LNmFqUkVLelNXRkhYRHk0Y1FNOTJMWnFQSG5FOXZvUW1CbTJRYU1wTy1ISHM5aGp6N2tWQ044WHJ2NU5vZGFzSkFsTEJ0QnFhdUtuQWN2cUFQdlZzcHZQZy13RmhiOHlwRWNwRmVzOEpxQUxzYjZGME5FSlp0Yl9XU09TakxXTmxidWNOWjhFaUdpakNHendtWTFWT1hYM0t6ZklJZFA0MGZfYjM5SGM5bw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Palo Alto Networks pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 39.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.17(12.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.3/100"
-        },
-        {
-          "title": "Palo Alto Networks (PANW) Stock Faces Margin Squeeze Despite Revenue Surge",
-          "source": "simplywall.st",
-          "publisher_domain": "simplywall.st",
-          "published_at": "2026-09-03T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3Z1cGVzTkR5SFQtU2ZkZnlqRUZDdjZ4YXZlOHota0FrYTZpZEdOVDhzN3FSUjFRM3lNdkd2bUxYeFFjRldyaFI5VC1MTldfeXNTQzBpQjZmcHNMQXQ4eWtheTdXaFJWX19ORTQ5QmRGTTBDakNMUjNiVFNlSGV6a3dZNExjRnJUbGhnTjJwdWZSWWtDZE5GeFBUb1k5Uk1lRmhKUFdQQk51TlNSQm0zOUdMMVEtOWlwUTdXa2JlaDlQZmcxdjdkbUVRTlE0R1I4V2g00gHYAUFVX3lxTFBpSGwzS3ZINXpfOXdaXzBndzFZVUh1Q1VjSU5CWXc1cWxtdG9iWUhzeGRMMG10aHJheEEzYkEtNHd4UFlhWHE4aFlpam4zUWN6S3pfak1scTE5TXlHdFk2UVJjSjEzTG5VeVBmTEN6UDloZ2dHTFFhcUVCRzlER0c1RWlLZEpJX2NCOWhQU0RibGdldUhPS0h1b1I1a2NsMThRRDJXWEpLWFNROUtHOGZ2S0lyZTlqVTU2c3BZdFdaTjFtaVptRGJzTWVUcGxXODNnUktmSENoQw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Palo Alto Networks pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 35.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 5개→1.00×0.25 + 최신성 0.03(25.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.7/100"
-        },
-        {
-          "title": "Palo Alto Networks’ CEO Says Nebius Is in a Different League. Is This ‘Neoscaler’ a Buy?",
-          "source": "24/7 Wall St.",
-          "publisher_domain": "247wallst.com",
-          "published_at": "2026-08-27T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjgtd0tKWS1NM1VSVkN6RGt0U2RaU2VVU2Q4dEZpaVZERk42ZElVdHA4UVV3U3h6WWJKMTV2dmNyNjE2VG9sNGJEU3BSWThLMDdsOXVmSWpXbVJfR1NTQ2szWDVsdnNaeTBZS3IycWFRZGs1VjJqOWZGbEFZOHpFeENkVjItdDBuTGJuMGctZXE1ZmNwQUlwR0NHWEZaVE1VcXdSb2xTdXFSNy1LcWNZcDJEN0R3YVFiYlRoZXhiVXNSVl91cWc?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Palo Alto Networks pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 32.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(32.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.8/100"
-        }
-      ]
-    },
-    "small:PANW:theme_bottleneck": {
-      "key": "small:PANW:theme_bottleneck",
-      "status": "no_results",
-      "relevance_terms": [
-        "Palo Alto Networks",
-        "Networks",
-        "Alto",
-        "PANW",
-        "Palo"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "PANW bottleneck supply chain",
-        "Palo Alto Networks sole supplier constraint",
-        "Palo Alto Networks 공급 병목",
-        "Palo Alto Networks 독점 공급"
-      ],
-      "queries": [
-        {
-          "keyword": "PANW bottleneck supply chain",
-          "feed": "en",
-          "count": 6
-        },
-        {
-          "keyword": "Palo Alto Networks sole supplier constraint",
-          "feed": "en",
-          "count": 0
-        },
-        {
-          "keyword": "Palo Alto Networks 공급 병목",
-          "feed": "ko",
-          "count": 2
-        },
-        {
-          "keyword": "Palo Alto Networks 독점 공급",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-09-29T01:39:17.350112+00:00",
-      "articles": []
     },
     "small:TMO:capacity_gap": {
       "key": "small:TMO:capacity_gap",
@@ -2334,7 +2364,7 @@
         {
           "keyword": "Thermo Fisher Scientific supply shortage easing",
           "feed": "en",
-          "count": 5
+          "count": 6
         },
         {
           "keyword": "Thermo Fisher Scientific 캐파 부족 해소",
@@ -2351,7 +2381,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:39:29.346161+00:00",
+      "fetched_at": "2026-09-29T23:22:12.456028+00:00",
       "articles": [
         {
           "title": "Thermo Fisher Scientific: Biopharma Recovery And Share Gains Support The Upside (NYSE:TMO)",
@@ -2365,11 +2395,11 @@
           "query": "TMO capacity expansion sold out",
           "feed": "en",
           "importance_score": 41.1,
-          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.00(43.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.1/100"
+          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.00(44.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.1/100"
         },
         {
           "title": "TMO surges as new Heratherm environmental chambers launch",
-          "source": "tradersunion.com",
+          "source": "Traders Union",
           "publisher_domain": "tradersunion.com",
           "published_at": "2026-09-15T19:16:27+00:00",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObG95dy1jXzJVQ1lNQWFVTWZ5WEduUDR2TzAtQ3lzMV9OWjM1Yi13aWwxZ05BbWlfZE5vc2dPZm5VVnBuTTVocHNNdEFFNFNyY0dXb2JkSXcydElNRGxFdGt0X1k0MWhwVVM0dzdXZHpGOTZrMTBhbVVmRGJ3UDZvaHZoUng1X2V6WnVQUWhGOERXbk4tZlBpQw?oc=5",
@@ -2378,8 +2408,8 @@
           "provider": "google_news_rss",
           "query": "TMO capacity expansion sold out",
           "feed": "en",
-          "importance_score": 21.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.16(13.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.5/100"
+          "importance_score": 21.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.14(14.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.0/100"
         },
         {
           "title": "TMO: Strong Q2 growth, AI-driven demand, and reshoring trends support a robust multi-year outlook",
@@ -2392,8 +2422,8 @@
           "provider": "google_news_rss",
           "query": "TMO capacity expansion sold out",
           "feed": "en",
-          "importance_score": 21.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.16(13.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.4/100"
+          "importance_score": 20.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.14(14.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 20.9/100"
         }
       ]
     },
@@ -2407,7 +2437,7 @@
         "Thermo",
         "TMO"
       ],
-      "dropped_irrelevant": 1,
+      "dropped_irrelevant": 0,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -2431,7 +2461,7 @@
         {
           "keyword": "Thermo Fisher Scientific 장기 공급계약 체결",
           "feed": "ko",
-          "count": 4
+          "count": 3
         },
         {
           "keyword": "Thermo Fisher Scientific 증설 완료",
@@ -2443,7 +2473,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:39:41.213556+00:00",
+      "fetched_at": "2026-09-29T23:22:24.597488+00:00",
       "articles": []
     },
     "small:TMO:pricing_power": {
@@ -2456,9 +2486,9 @@
         "Thermo",
         "TMO"
       ],
-      "dropped_irrelevant": 1,
+      "dropped_irrelevant": 2,
       "status_reason": null,
-      "found_count": 5,
+      "found_count": 7,
       "returned_count": 5,
       "keywords": [
         "TMO price increase announcement",
@@ -2492,7 +2522,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:39:53.288511+00:00",
+      "fetched_at": "2026-09-29T23:22:36.350138+00:00",
       "articles": [
         {
           "title": "Thermo Fisher Scientific stock hits 52-week high at 671.69 USD",
@@ -2505,8 +2535,22 @@
           "provider": "google_news_rss",
           "query": "Thermo Fisher Scientific pricing power margin expansion",
           "feed": "en",
-          "importance_score": 59.9,
-          "importance_basis": "매체티어 0.60(investing.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.54(4.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 59.9/100"
+          "importance_score": 58.3,
+          "importance_basis": "매체티어 0.60(investing.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.47(5.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 58.3/100"
+        },
+        {
+          "title": "Thermo Fisher Scientific (TMO) Adds New Separation Platform To Its Proteomics Toolkit",
+          "source": "simplywall.st",
+          "publisher_domain": "simplywall.st",
+          "published_at": "2026-09-29T09:42:29+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMjlPUHdmNTdxclRhT3pHSTN4Ny1ZQkk5MUFxMzJTRkVMMjh2UUdEa2lqNW02YTlYZmg1M3p0a1JFU2VzT3F5LXo2YWRCNzh5aFBnZlYtSXZTQmpLZGFDbVpqUUZyZ2xjZjN6QVdpUXJieWxmUThMalZoZDl3dzc2dWVDVFNXMExrRkNyMVJTd3BVTTJ4LVRrNnBDRXloNmtuOTBUZjU0OGZIWEtBdlluenZETFUyeDdfQWhqS05vMnlyS2t5YXdITEdLVEZ3VzNSMGpPTXNTNjdsWEdJT3ZzNkMwLVREQzZCV0g00gHwAUFVX3lxTE9waDNOcUlCM0FWSWV2QkFIM2tfWFZNcWlEQ19COEhjZGFMVlpCMEhFWWZIUjhMaHd0UU0yTFpPLWd1SjVFUzlWNDJIWjlOa1RBRHdoaGhoZ285QlRXZjBjQjEwaTVlNlByclpycWVCODZxRDU4dXhMWUVBcXVPcWdXMk9YOHB3NTBaWnhRWDc3VUtuYXBhbk1hLVJiYkRjUjI5UVRTMFNWbGRZTmFKUkMteHpJemkwVGt5cHY0ZkVJMDN0TDh6aWxFeWNid1VHSk9uTXhCN21xRm15OXkwb2VEdk9TeVlsVmdMXzNxSFhvQg?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Thermo Fisher Scientific pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 58.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.92(0.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 58.1/100"
         },
         {
           "title": "Thermo Fisher Scientific (TMO) Launches CHO K1 Media Suite, Is The Stock Too Pricey?",
@@ -2519,12 +2563,12 @@
           "provider": "google_news_rss",
           "query": "Thermo Fisher Scientific pricing power margin expansion",
           "feed": "en",
-          "importance_score": 49.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.59(3.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 49.8/100"
+          "importance_score": 48.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.52(4.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 48.1/100"
         },
         {
           "title": "The Zacks Analyst Blog Highlights Amgen, Thermo Fisher Scientific, PepsiCo, C&F Financial and Acorn Energy",
-          "source": "Yahoo Finance",
+          "source": "finance.yahoo.com",
           "publisher_domain": "finance.yahoo.com",
           "published_at": "2026-08-25T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2QwaFBFNWd1TXppaDNHUldUQi1BNlRSWE5uaEN0WDNKUWpDRnM3eGg2QW1sTXdJWEpFQnNScEptVGZYb0ZYUDZZRFRUck82TUU5b0M5MUN5d05SQnJaaEhtY0tTc0RocFo0NHR0YjVSMl9oR0ZKMzB1VzJGX0MzMXZrLXRzbzc1bHYxMjlRZV9HQVBHS0ZlZFBPM24zaDlqdGc?oc=5",
@@ -2534,35 +2578,21 @@
           "query": "Thermo Fisher Scientific pricing power margin expansion",
           "feed": "en",
           "importance_score": 38.7,
-          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(34.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 38.7/100"
+          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(35.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 38.7/100"
         },
         {
-          "title": "Top Research Reports for Amgen, Thermo Fisher & Pepsi",
-          "source": "Yahoo Finance",
-          "publisher_domain": "finance.yahoo.com",
-          "published_at": "2026-08-24T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXJEclpNMlJEcUlER1IzNnpMSTN4aUd5VGhDVlIxV3JianNCM3Y0OG5kUDFObXhCdlhJbDN3QVE2YlZQUnlwTUZ4d1VqZkVTRGh6STU2VUNMMjhlUVZ0VkhJb0E4MjA4bU9FNm4xU0dZZHM1SGdhOWtqMG5yMXBRMlFnYVlDNVc4MTV0X1I5V1Q4NVc1cHA2N2duOWRLcjQ?oc=5",
+          "title": "Why Thermo Fisher Scientific (TMO) Stock Is Up Today",
+          "source": "Quiver Quantitative",
+          "publisher_domain": "quiverquant.com",
+          "published_at": "2026-08-20T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZGhzbXlMb2NGM080b29hOHdGT09GQmdnWFZQNmtkc25KVHQ3MnUxZ2xGV1R0QnFZQTg1dzAtTDRaX01aR2lsS0Z2aGQ2bXRKWlJwZGlKaVc2SDZwbEtxMnhpcFVrSDB0ekR4YU1GWDhzWHZHN2wzT3JhY0t5Z0RHYzB4OHpCcDNoZW9vS3RMNnNnMGM?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
-          "query": "Thermo Fisher Scientific pricing power margin expansion",
+          "query": "TMO price increase announcement",
           "feed": "en",
-          "importance_score": 31.2,
-          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(35.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.2/100"
-        },
-        {
-          "title": "Three Analysts, Three Verdicts on Thermo Fisher: Here’s Who the Numbers Favor",
-          "source": "TIKR.com",
-          "publisher_domain": "tikr.com",
-          "published_at": "2026-09-17T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWo5aWVKenJqS21ndTd0bHZiTmNXN0FXckVadDI0c2ZmXzNFQXBQRE1aSVZjaENheWJBOU0zNVEySDN5S2w0ekg1YW5ycHpEMW11QWcwbEVybDdqZy1GUTZCQUtzYUxnRVJfaGxPUUoxYzE5djBhUHlmS2dGaDc3Ym5LMkkwY18wN2E1TjNTbjl2OFZPNkw2bmcwRHlRaHBhVFE?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Thermo Fisher Scientific pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 29.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.20(11.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 29.9/100"
+          "importance_score": 35.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.00(40.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.1/100"
         }
       ]
     },
@@ -2576,7 +2606,7 @@
         "Thermo",
         "TMO"
       ],
-      "dropped_irrelevant": 9,
+      "dropped_irrelevant": 8,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -2605,14 +2635,14 @@
         {
           "keyword": "Thermo Fisher Scientific 독점 공급",
           "feed": "ko",
-          "count": 10
+          "count": 9
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:40:05.492849+00:00",
+      "fetched_at": "2026-09-29T23:22:48.530522+00:00",
       "articles": []
     },
     "small:000500.KS:capacity_gap": {
@@ -2623,9 +2653,9 @@
         "가온전선"
       ],
       "dropped_irrelevant": 0,
-      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
-      "found_count": 1,
-      "returned_count": 1,
+      "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
+      "found_count": 2,
+      "returned_count": 2,
       "keywords": [
         "가온전선 capacity expansion sold out",
         "가온전선 supply shortage easing",
@@ -2658,7 +2688,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:40:17.832768+00:00",
+      "fetched_at": "2026-09-29T23:23:00.652039+00:00",
       "articles": [
         {
           "title": "가온전선,AI 데이터센터發 특수 美 자회사 가동률 100%…생산라인 증설로 승부수",
@@ -2671,8 +2701,22 @@
           "provider": "google_news_rss",
           "query": "가온전선 증설 가동",
           "feed": "ko",
-          "importance_score": 21.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.17(12.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.7/100"
+          "importance_score": 21.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.15(13.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.2/100"
+        },
+        {
+          "title": "[가온전선, 증명의 시간]② 美 생산력 넘어선 러브콜…1200억 베팅",
+          "source": "v.daum.net",
+          "publisher_domain": "v.daum.net",
+          "published_at": "2026-08-20T22:18:08+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95NGZ5TGYyaE14elRQb2NtbTRudWFWTHdxY3k4Z0N6T1k3MnpxbVp1TGM3NUt5bFhXV0pxOUdtR3JYR3V5ZlE?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "가온전선 증설 가동",
+          "feed": "ko",
+          "importance_score": 17.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(40.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
         }
       ]
     },
@@ -2683,9 +2727,9 @@
         "000500",
         "가온전선"
       ],
-      "dropped_irrelevant": 2,
+      "dropped_irrelevant": 1,
       "status_reason": null,
-      "found_count": 11,
+      "found_count": 14,
       "returned_count": 5,
       "keywords": [
         "가온전선 long term supply agreement",
@@ -2712,84 +2756,84 @@
         {
           "keyword": "가온전선 증설 완료",
           "feed": "ko",
-          "count": 25
+          "count": 21
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:40:30.057137+00:00",
+      "fetched_at": "2026-09-29T23:23:13.065731+00:00",
       "articles": [
         {
+          "title": "가온전선, 美 송전망 시장 진출…현지서 ‘가공선’ 생산 추진",
+          "source": "서울경제",
+          "publisher_domain": "sedaily.com",
+          "published_at": "2026-09-29T01:17:34+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44VUM0NHFuQ1JNV2VIdGlvZVlfb1FraWRhZXpGTjZGb0haUkp0Z1c0eThadUVXTjJDMUpPaFRSYk42Rjk4cTNxcldENHdfVFlaWUHSAVNBVV95cUxOckdJd3Mzbm0zZ1p1dlluUGx3Mzd2aWc4UWFCNHM2ZEgzUFVHQ1VTUjdNSzNid1dWbUgtcklQXzN0UzlIRXg1VXNGQTdaV1NGQkZjVQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "가온전선 증설 완료",
+          "feed": "ko",
+          "importance_score": 71.5,
+          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.88(0.9일 경과)×0.25 + 동일사안 보도 6건→1.00×0.10 = 71.5/100"
+        },
+        {
+          "title": "LG엔솔·LS전선·가온전선… AI 인프라 뛰어드는 K기업",
+          "source": "매일경제 마켓",
+          "publisher_domain": "stock.mk.co.kr",
+          "published_at": "2026-09-29T08:40:14+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaSFdtQVJpdUJfalRCVGdTUDhOdUhsMzFzS3VVNzFqNzFQWnJZNDE4SnpqUVZLZFlMRVNEMVZJejBPSlhSTzVzZFg1alIyQ3VNSlE?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "가온전선 증설 완료",
+          "feed": "ko",
+          "importance_score": 62.5,
+          "importance_basis": "매체티어 0.80(mk.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.92(0.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 62.5/100"
+        },
+        {
+          "title": "가온전선, 美 송전망 진출 본격화…현지 가공선 생산 추진",
+          "source": "철강금속신문",
+          "publisher_domain": "snmnews.com",
+          "published_at": "2026-09-29T07:44:38+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OLWJjQnR2TFN4V2I1MGZKMGpFbTlZODV5MjZzeGRQTmdqcm0ybXQyclh6anBKX1lpTF96cHdJVmp5SHU1bWxlVHUxNmFpU1J0bHVwcmJ5MmxOVVlzZGRnWGFjOVEyX3owYVE?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "가온전선 증설 완료",
+          "feed": "ko",
+          "importance_score": 50.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.91(0.7일 경과)×0.25 + 동일사안 보도 6건→1.00×0.10 = 50.3/100"
+        },
+        {
+          "title": "가온전선, 美 배전 넘어 송전망 진출…가공선 현지 생산 추진",
+          "source": "브릿지경제",
+          "publisher_domain": "viva100.com",
+          "published_at": "2026-09-29T05:14:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10OFk3ZkIwNUJsYlUtd29RYUY4cDJVbW9SSXlRMFFaWXoyemZId3JKaDROUmVCUE9xR3Vwbi1BVXhVaTUtYXdpVS1RYXpia01mekRKem9LVUxwQQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "가온전선 증설 완료",
+          "feed": "ko",
+          "importance_score": 50.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.90(0.8일 경과)×0.25 + 동일사안 보도 6건→1.00×0.10 = 50.0/100"
+        },
+        {
           "title": "가온전선, 美 송전망 시장 진출…가공선 현지 생산 추진",
-          "source": "주간한국",
-          "publisher_domain": "weekly.hankooki.com",
-          "published_at": "2026-09-29T01:21:16+00:00",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfdjR0a0dLYk16QVVBWjVOeHNtb3NyTlVJLVg2NUs0UjZ3MzBMcDVTMkpWQnBDdHJHdmhtWDdRV1pibjg4S2hQYUMyRjVPXzRveUpMS2NoM3hhcGF2cjU5emhHbW9XWWdVTXE5Vmh5SEzSAXRBVV95cUxPNjAyR01qeG5qRFkwM2h5ems0S004ZmRfTjhGRnF3Rm1UazRuLU9GcUpVTFV4bXhING10Q182eloyUnU4OGJBUzdqdURkVGhjazVVMU5sQWd6MFl5czhuWEQ3MmpjZ19NdUpDaU9CdXNWaW5DUg?oc=5",
+          "source": "글로벌이코노믹",
+          "publisher_domain": "g-enews.com",
+          "published_at": "2026-09-29T04:30:35+00:00",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb01zQ202LXl3RTVXNk1RRWE3Ny1vdHNYSHowYl9rT3FyU2RaRHNfTFNWZi12YlltcVgzYm9TbFRFUXRpZHVLdjJEUWM3UFRHakpwUkJ6Uy1xTnNRX0Frc2JydWF3TXkxbzhRbGV2SHZybWV5SjdjMTdYZ1RPU1dKMk5SNEhHdw?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "가온전선 증설 완료",
           "feed": "ko",
-          "importance_score": 45.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 1.00(0.0일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 45.9/100"
-        },
-        {
-          "title": "가온전선, 美 송전망 진출…LSCUS 가공선 현지 생산 추진",
-          "source": "아시아투데이",
-          "publisher_domain": "asiatoday.co.kr",
-          "published_at": "2026-09-29T01:07:23+00:00",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uRk9HRFFKaXZTc25sU294eklxVzY1bkpfTERKdU9rSjUxLVJCZ1lWS0JJeVVncEhOZ3ozeHhCQ1FWRjV0QVpJckxEbFlwdFdBT0ZaNzZFYWEyamNKc1htbHg0U3FpMkxlb1JGVWp3?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "가온전선 증설 완료",
-          "feed": "ko",
-          "importance_score": 45.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 1.00(0.0일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 45.8/100"
-        },
-        {
-          "title": "가온전선, 미국 사업 배전서 송전으로…현지 공급체계 확대",
-          "source": "인더뉴스",
-          "publisher_domain": "inthenews.co.kr",
-          "published_at": "2026-09-29T01:30:46+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VS0J6NHMzZEpSb2lxVV9vRXl2UnZPeC1Wcjl2M1dQekhjcGZ0T1ZxOUE2YWpxV0R0bU5fWjFab19DTlUxS19MdGd2Q1BWSm9IdWlLRlBDWEk3R1NUcFE1M2doUHI?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "가온전선 증설 완료",
-          "feed": "ko",
-          "importance_score": 42.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 1.00(0.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.5/100"
-        },
-        {
-          "title": "가온전선, 美 송전망 시장 진출…북미 전력 인프라 공략 확대",
-          "source": "핀포인트뉴스",
-          "publisher_domain": "pinpointnews.co.kr",
-          "published_at": "2026-09-29T01:14:54+00:00",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWjNhTWVGaWt0djJoMi1MY0VfeUlYSFpZUGpjTkFqMko1WmtIWERzNlJZandHN3UxOUpjSEdXTmp3clI1b2pjV01qLTRnQm5QamVHVXNLVU5EUTh1WGxNam1iMVh3NFlaTVl2d3VoV0l4VUXSAXdBVV95cUxPXzFfejNzaTlKdk5wRWpMX3hFdVpOU1F4SVpoNGFaVHZTbjBDWl84XzhERlh1NllfTWJjSmgyOFc4R3E5N19BajdESDlLTHBRRWVaSjZFU3A0VUh4MmczSkdITjdwS1E2S1dBVUhfbVJxUFNMU0dGVQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "가온전선 증설 완료",
-          "feed": "ko",
-          "importance_score": 42.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 1.00(0.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.4/100"
-        },
-        {
-          "title": "[특징주] 아마존 대규모 전력장비 계약에 전선주 강세…가온전선 18%↑",
-          "source": "이투데이",
-          "publisher_domain": "etoday.co.kr",
-          "published_at": "2026-09-18T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yWDJBekdVY1R5SWZ6bWFETVB6MnRjR0d5VHhrVGRZR1U4YjZXeEhTVnE5VjFjNnZ6ZDVTLWZQci1HZWZCT2RDeXpOS3lNbHRvNG92NQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "가온전선 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 23.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.22(10.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 23.1/100"
+          "importance_score": 49.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.90(0.8일 경과)×0.25 + 동일사안 보도 6건→1.00×0.10 = 49.9/100"
         }
       ]
     },
@@ -2800,7 +2844,7 @@
         "000500",
         "가온전선"
       ],
-      "dropped_irrelevant": 5,
+      "dropped_irrelevant": 7,
       "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
       "found_count": 2,
       "returned_count": 2,
@@ -2824,7 +2868,7 @@
         {
           "keyword": "가온전선 판가 인상",
           "feed": "ko",
-          "count": 12
+          "count": 13
         },
         {
           "keyword": "가온전선 가격 인상 전가",
@@ -2836,49 +2880,49 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:40:42.853691+00:00",
+      "fetched_at": "2026-09-29T23:23:25.272535+00:00",
       "articles": [
         {
-          "title": "가온전선, 석문호·새만금 수상태양광에 170억원 케이블 공급",
-          "source": "디일렉",
-          "publisher_domain": "thelec.kr",
-          "published_at": "2026-09-14T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54dldqYzdaUXV6OUJDcG9GZGpGYTJ5aDVZeWFlR0IzUktBbHVaY3VhOVJGdjhVelVvSy1RNDR1Zl81elVfaERlS3M3My01LWtLdVdSMEF1eFBKS0xJUmljaVB2OE16dw?oc=5",
+          "title": "[AI 대전환 리딩 전략]가온전선, LSCUS로 전력 핵심 공급사 도약",
+          "source": "블로터",
+          "publisher_domain": "bloter.net",
+          "published_at": "2026-09-29T02:21:09+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50TEdWUEdxT2tLaDI3ZHBQNnloNTVIVC1nc0JHRVdzMVJTSVp1bXJFRmZWVnNEb1ZhMzNMbXFYblhGY1Z4NHdiMTBnTmdidGhQeGRsUDMyeHFiS3VBN3NkVW9qR2thVUg10gFsQVVfeXFMTXZsQV9BNnVQLVhsb2EzNVFLYmRyUUh6bG12TFI3VTZPRHR4dEI1Q0w4cHEwRGJlRDg1eUNJU25CMlVxRjA2MjN3N1hMYkZMSXNkeHdHeWlYNkYzVlFQUjEzZlJLT21pNU8wR3Uw?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "가온전선 가격 인상 전가",
           "feed": "ko",
-          "importance_score": 20.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.13(14.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 20.7/100"
+          "importance_score": 39.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.89(0.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.6/100"
         },
         {
-          "title": "가온전선, 美 AI 데이터센터에 2000억 버스덕트 공급",
-          "source": "디일렉",
-          "publisher_domain": "thelec.kr",
-          "published_at": "2026-08-20T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVeF9EMGJTOVZCT0djQlNsRnlxempXdzhXS3lCVDkzVWZUR1hUdDdyYzBGVmpUWHN2bDZYc1BDS1pvSjJfZ1UyZjlmN3JlSFktcjVGTFoxVGYzS240YXE1ZjhRa0Zydw?oc=5",
+          "title": "[가온전선 밸류업] 5000억 EB 뜯어보니…금리 0%·리픽싱 없다",
+          "source": "블로터",
+          "publisher_domain": "bloter.net",
+          "published_at": "2026-09-11T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QUGk3TjhMMW5FVXJ6MGJ4endvMjdBQkhEOXBNTVlkY3R0VE02QXhwSGVNQXAwbS1ZdWNMTkNLS2J1c3BMRVYxcGxMc053Zl8ycnk2TF9GWUw0dGZjcXpQOFFndFdfSVlR0gFsQVVfeXFMUE9DWGU1ZVVCd256a3dNdlA4aU5mOFhOUU04OHpmakQwbXhHZFM0WG9scDJBdURfTnFIakRhRGtaQ3VyWXJDZkRyMzdBTklYbmFfeTRRR0VzR3VCaE51d0VJZXRfOENtWExhbXVt?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "가온전선 가격 인상 전가",
           "feed": "ko",
-          "importance_score": 17.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(39.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
+          "importance_score": 19.4,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.08(18.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 19.4/100"
         }
       ]
     },
     "small:000500.KS:theme_bottleneck": {
       "key": "small:000500.KS:theme_bottleneck",
-      "status": "partial",
+      "status": "ok",
       "relevance_terms": [
         "000500",
         "가온전선"
       ],
-      "dropped_irrelevant": 6,
-      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
-      "found_count": 3,
-      "returned_count": 3,
+      "dropped_irrelevant": 4,
+      "status_reason": null,
+      "found_count": 6,
+      "returned_count": 5,
       "keywords": [
         "가온전선 bottleneck supply chain",
         "가온전선 sole supplier constraint",
@@ -2911,8 +2955,36 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:40:55.071741+00:00",
+      "fetched_at": "2026-09-29T23:23:37.557882+00:00",
       "articles": [
+        {
+          "title": "가온전선, 美 송전망까지 넓힌다…현지 가공선 생산 추진",
+          "source": "지디넷코리아",
+          "publisher_domain": "zdnet.co.kr",
+          "published_at": "2026-09-29T02:24:14+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiYXEzRmF6dW9YNmZsaWM0UUVvNWxJdk8zcTJQYU0tY3MzS1FPQzl3QXN5Uy13WEU1RjctRDJfZnduZ3Z1djVlVktXaTFNeGRRSEc2ejh3?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "가온전선 독점 공급",
+          "feed": "ko",
+          "importance_score": 39.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.89(0.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.6/100"
+        },
+        {
+          "title": "가온전선, AI 클라우드 데이터센터에 버스덕트 공급…2000억 규모",
+          "source": "지디넷코리아",
+          "publisher_domain": "zdnet.co.kr",
+          "published_at": "2026-08-20T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WQUNiQ21aUm8xZUNuUUJhQ2lIallfZ2hsbVpxZnpEeE5IMTVPanNMRlM0RGUzRTdEWkJqMUZ0N3EtOGdJWGMwQzJhanB2ZXJYTzRxLXl3?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "가온전선 독점 공급",
+          "feed": "ko",
+          "importance_score": 25.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(40.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.1/100"
+        },
         {
           "title": "LS에코에너지-가온전선, 손잡고 북미 시장 공략 가속화",
           "source": "전기신문",
@@ -2924,8 +2996,22 @@
           "provider": "google_news_rss",
           "query": "가온전선 공급 병목",
           "feed": "ko",
-          "importance_score": 21.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.15(13.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.2/100"
+          "importance_score": 20.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.13(14.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 20.8/100"
+        },
+        {
+          "title": "AI 훈풍 속, LS일렉트릭·가온전선 '장중 급등'...LS도 '껑충'",
+          "source": "choicenews.co.kr",
+          "publisher_domain": "choicenews.co.kr",
+          "published_at": "2026-09-09T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YY2Q3ZkdGb09FdFBpdVBvTGJSa2h3SW1RLUxEVy0tYTlsWkJSQ3VoaWRNeWZ1ZldhUlhDYnJoNWFHWmRVcjhGYmV2cEoxMG10QnpaR1k4dFRNXzZ1MDRGTWJmdjdSRS1JUGZzMmNPMNIBc0FVX3lxTE0zWmxwa2pjeVZwd0tDdFdWVzNyWV9PNkgwa19uT3haNnZsdnc4WEU0LTRXd1dCRnZCYUFIalVZdnFROGotMXpueXlSVnJHTmJ4czE2N3BKY1l1VXphSHp3aC1lQ3p6eTdQdGZzeVJXSF9QMW8?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "가온전선 공급 병목",
+          "feed": "ko",
+          "importance_score": 18.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.06(20.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 18.9/100"
         },
         {
           "title": "[산업 Pick] 두산퓨얼셀·가온전선, AI 데이터센터 전력 인프라 시장 공략",
@@ -2938,22 +3024,8 @@
           "provider": "google_news_rss",
           "query": "가온전선 공급 병목",
           "feed": "ko",
-          "importance_score": 18.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(26.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 18.1/100"
-        },
-        {
-          "title": "AI DC 특수에 활짝…가온전선 “5년뒤 버스덕트 매출 25배 폭증 예상” [비즈360]",
-          "source": "v.daum.net",
-          "publisher_domain": "v.daum.net",
-          "published_at": "2026-08-22T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kaWs1SUZIcmtvUTdFd3dOMmxnTUtlZFhmUlBPeE1fOV9ZX1NfU1RpSGloNXFELVg4QmhmT3F5SW5yTjQybVE?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "가온전선 공급 병목",
-          "feed": "ko",
-          "importance_score": 17.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(37.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
+          "importance_score": 18.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(27.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 18.0/100"
         }
       ]
     },
@@ -2964,7 +3036,7 @@
         "주성엔지니어링",
         "036930"
       ],
-      "dropped_irrelevant": 1,
+      "dropped_irrelevant": 2,
       "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
       "found_count": 1,
       "returned_count": 1,
@@ -3000,21 +3072,21 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:41:07.484769+00:00",
+      "fetched_at": "2026-09-29T23:23:50.034493+00:00",
       "articles": [
         {
           "title": "[고래사냥] '태성·주성엔지니어링·현대위아·네오오토! 내일장 고래 종목은?!",
-          "source": "머니투데이",
-          "publisher_domain": "mt.co.kr",
+          "source": "v.daum.net",
+          "publisher_domain": "v.daum.net",
           "published_at": "2026-08-15T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zT0NBYW9wMF91SkRDRENLX2R6c2xWMzMxM2xhLVJkMXJnVXoxZlNTaUtRaEdYSXVMYkxUdnFqTWRuTlc4QUlHdE9KYWdSRE15Q1pJczUxNWpnR0xLZzdQbGlPSGx1RTVC0gFuQVVfeXFMUGRNU2RnUDQ0OVV6SXRDTFp4QVd6ZjY2c1hEaFBJRHVrT1AzdUQ3SkktNnA2YUViekVMYnBnYkV2RUk4NnBsTExWYUo3YzB5aU05Z0FoQUVWRTJkNnNwUlZVd20ybnBaRUNHNURnQVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkczhGSmdpTEwwY0RpdTR5dGQwbUE5QjlsaDhjelZxY01qNUpobXRWSUZzR2x6bTVBOTdrTVo1LUM1R0hMNmpqMEp3cm9FZ3c?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "주성엔지니어링 증설 가동",
           "feed": "ko",
-          "importance_score": 17.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(44.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
+          "importance_score": 17.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(45.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.5/100"
         }
       ]
     },
@@ -3025,7 +3097,7 @@
         "주성엔지니어링",
         "036930"
       ],
-      "dropped_irrelevant": 3,
+      "dropped_irrelevant": 1,
       "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
       "found_count": 2,
       "returned_count": 2,
@@ -3061,7 +3133,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:41:20.176348+00:00",
+      "fetched_at": "2026-09-29T23:24:02.391935+00:00",
       "articles": [
         {
           "title": "[모닝 리포트] 주성엔지니어링, 메모리 투자 회복에 글로벌 확장까지",
@@ -3075,7 +3147,7 @@
           "query": "주성엔지니어링 증설 완료",
           "feed": "ko",
           "importance_score": 17.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(34.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.7/100"
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(35.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.7/100"
         },
         {
           "title": "[고래사냥] '태성·주성엔지니어링·현대위아·네오오토! 내일장 고래 종목은?!",
@@ -3088,8 +3160,8 @@
           "provider": "google_news_rss",
           "query": "주성엔지니어링 증설 완료",
           "feed": "ko",
-          "importance_score": 17.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(44.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
+          "importance_score": 17.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(45.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.5/100"
         }
       ]
     },
@@ -3100,7 +3172,7 @@
         "주성엔지니어링",
         "036930"
       ],
-      "dropped_irrelevant": 2,
+      "dropped_irrelevant": 3,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -3136,7 +3208,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:41:32.073258+00:00",
+      "fetched_at": "2026-09-29T23:24:13.818101+00:00",
       "articles": []
     },
     "small:036930.KQ:theme_bottleneck": {
@@ -3170,7 +3242,7 @@
         {
           "keyword": "주성엔지니어링 공급 병목",
           "feed": "ko",
-          "count": 14
+          "count": 11
         },
         {
           "keyword": "주성엔지니어링 독점 공급",
@@ -3182,7 +3254,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:41:44.785689+00:00",
+      "fetched_at": "2026-09-29T23:24:25.636474+00:00",
       "articles": [
         {
           "title": "[고래사냥] '동진쎄미켐·주성엔지니어링·와이제이링크! 내일장 고래 종목은?!",
@@ -3195,8 +3267,8 @@
           "provider": "google_news_rss",
           "query": "주성엔지니어링 독점 공급",
           "feed": "ko",
-          "importance_score": 33.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.49(5.1일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 33.2/100"
+          "importance_score": 31.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.44(6.0일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 31.8/100"
         },
         {
           "title": "[고래사냥] '주성엔지니어링·동진쎄미켐·에이럭스·쿠콘! 내일장 고래 종목은?!",
@@ -3210,7 +3282,376 @@
           "query": "주성엔지니어링 독점 공급",
           "feed": "ko",
           "importance_score": 21.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(38.8일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 21.0/100"
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(39.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 21.0/100"
+        }
+      ]
+    },
+    "small:222800.KQ:capacity_gap": {
+      "key": "small:222800.KQ:capacity_gap",
+      "status": "ok",
+      "relevance_terms": [
+        "222800",
+        "심텍"
+      ],
+      "dropped_irrelevant": 2,
+      "status_reason": null,
+      "found_count": 15,
+      "returned_count": 5,
+      "keywords": [
+        "심텍 capacity expansion sold out",
+        "심텍 supply shortage easing",
+        "심텍 캐파 부족 해소",
+        "심텍 증설 가동"
+      ],
+      "queries": [
+        {
+          "keyword": "심텍 capacity expansion sold out",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "심텍 supply shortage easing",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "심텍 캐파 부족 해소",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "심텍 증설 가동",
+          "feed": "ko",
+          "count": 25
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-09-29T23:24:37.228878+00:00",
+      "articles": [
+        {
+          "title": "\"엔비디아 차세대 수요 선제 대응\"…심텍, 증설 결정에 '급등' [종목+]",
+          "source": "한국경제",
+          "publisher_domain": "hankyung.com",
+          "published_at": "2026-08-28T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ta3NFMkJtenliTFhKaTNETjRyR1pFX1AxdWdpYi1EWmJJRHdWeVF2VkhCSEZyd2RRNG1PcVVJTzNKeEVLNHNYMVVEZms0S0txX0FBRUtMd3UxZw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 증설 가동",
+          "feed": "ko",
+          "importance_score": 47.3,
+          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(32.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 47.3/100"
+        },
+        {
+          "title": "하나證 “심텍 2700억 시설 투자, 단기적으로 주식가치 희석 불가피”",
+          "source": "Chosunbiz",
+          "publisher_domain": "biz.chosun.com",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHRqVXlSdWdyZTF6cXZTRWZlV05ta3BaenptMmxjQ2UtTWpIa0hyYkZMOTRaVUVWYm16a09vZFlkOHFDM2dqNUJqVFFtazl0QWNrbmNZQUt3M3J4Nk43MEtKWjRzQVExd1FzM2NrQ2RWYlY1M2pPWWlvV01HSDZBdmVjTEYydGFs0gGcAUFVX3lxTE1kcGdzOG9XYy1TalhBaFQwdHZhTzdLQ0RhTm1KRkV5TkFibVh5ZXFWcjZsVWp1a1pCUzZOR1I0WjVDejZEb0ZmWkJjTVo4bUNVZ0tqNnd5dmdrcDZGc0JidlZpaE8xeWxlNEdueWZDdGpCQUZBSU9BYm5ybmhFclZzeFlWQmZtY2NiZmVkeXIzZzlCblBDc2dGZGxOdg?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 증설 가동",
+          "feed": "ko",
+          "importance_score": 39.7,
+          "importance_basis": "매체티어 0.80(chosun.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(34.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.7/100"
+        },
+        {
+          "title": "\"심텍, 청주 본사에 2742억 투자…소캠 생산 능력 추가 확보\"-NH",
+          "source": "한국경제",
+          "publisher_domain": "hankyung.com",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aYjRFQkx1TU1xWURpOEtsVDVGMnlKcWNwZ2RHMVhyY21oS1FXSS1Tc2hub1ZuRngwVW9FbUNYaHhNM1JYdkhHU0xUeEg3R0V1bUpJZFpyUjhndw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 증설 가동",
+          "feed": "ko",
+          "importance_score": 39.7,
+          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(34.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.7/100"
+        },
+        {
+          "title": "심텍, AI서버용 기판 수요에 선제 증설…2028년 이익 확대 기대-하나",
+          "source": "마켓인",
+          "publisher_domain": "marketin.edaily.co.kr",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IdHVuMWIzd1U0WTc4Mi1vUXhQS3BCbUhCLUk0UXYzbzdOdG9KOEp5Rm9LMWRZcTViQ0ZIVVByWUR4d3BSM2xQSGlBcVFSM3g5VE1naWZzSGVUcEcxc0dnQUpXWVkzTkt3TGx6S29xYlJYU00?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 증설 가동",
+          "feed": "ko",
+          "importance_score": 39.2,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(34.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.2/100"
+        },
+        {
+          "title": "\"심텍, AI 기판 수요에 2742억 투자…연매출 Capa 4500억원 확대\" -NH",
+          "source": "마켓인",
+          "publisher_domain": "marketin.edaily.co.kr",
+          "published_at": "2026-08-26T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54WW5NWGltVWUzOTBJXzBMMnFjYVpYWFFBYWpIdHJtTVhFa1dEZnk4ZDBTNTU4TjJ3eFdRcVNHMEZSLVd4bWtwX05IOG5Eem1XdjNmdUx2V1BlYUlLMW5GUE5vWXh0RE0tbC0zVjFHU0c0ZFU?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 증설 가동",
+          "feed": "ko",
+          "importance_score": 31.7,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(34.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.7/100"
+        }
+      ]
+    },
+    "small:222800.KQ:supply_locked": {
+      "key": "small:222800.KQ:supply_locked",
+      "status": "ok",
+      "relevance_terms": [
+        "222800",
+        "심텍"
+      ],
+      "dropped_irrelevant": 4,
+      "status_reason": null,
+      "found_count": 12,
+      "returned_count": 5,
+      "keywords": [
+        "심텍 long term supply agreement",
+        "심텍 capex completion customer commitment",
+        "심텍 장기 공급계약 체결",
+        "심텍 증설 완료"
+      ],
+      "queries": [
+        {
+          "keyword": "심텍 long term supply agreement",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "심텍 capex completion customer commitment",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "심텍 장기 공급계약 체결",
+          "feed": "ko",
+          "count": 25
+        },
+        {
+          "keyword": "심텍 증설 완료",
+          "feed": "ko",
+          "count": 19
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-09-29T23:24:48.856276+00:00",
+      "articles": [
+        {
+          "title": "심텍 “AI 수요 대응, 중요 자재 장기공급계약 체결…공급망 강화”",
+          "source": "전자신문",
+          "publisher_domain": "etnews.com",
+          "published_at": "2026-09-14T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aM1B2aWVERFE0aUtnZ1lfQ3ZCV0ppRkE3LXRWemJ0bDFhNmdIM3Q3cURMeUhrRXdkZWV1UnFEV3kzaUNYSE9MS0NrUzVrUQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 장기 공급계약 체결",
+          "feed": "ko",
+          "importance_score": 41.8,
+          "importance_basis": "매체티어 0.60(etnews.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.11(15.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.8/100"
+        },
+        {
+          "title": "심텍, SK하이닉스 '우수협력사'상 수상",
+          "source": "디일렉",
+          "publisher_domain": "thelec.kr",
+          "published_at": "2026-09-29T06:53:17+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Cc05wUVFMaVFWS045cjVGTk1kYVhQaTRFejQ3MGhXbldUVGsyQUpydmo5N292cUVPOFl5NmxaNmtMY3l1cnd1RG10ZWxzZEFldUw0ZFR0UUgtZXh6T3ppOGM1cWdnQQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 장기 공급계약 체결",
+          "feed": "ko",
+          "importance_score": 40.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.91(0.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.2/100"
+        },
+        {
+          "title": "심텍, 국내외 협력사 17곳과 ‘서플라이어 데이’…공급망 협력 강화",
+          "source": "edaily.co.kr",
+          "publisher_domain": "edaily.co.kr",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjFPVWNXM0F2YWw0RHA4eDBTdjFCVi05bUx6UjRPWEg1T3dpYUl3LVUwWV9Ud3pIVnVqS19xUEViUW1rOURIbmoycElFWlFsWExEdkU3RzU2aU02S0NrekhTeDRKTlBYVU1ZVzFwTG9DSzRqYnplcUFUQVcwMUpKdQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 장기 공급계약 체결",
+          "feed": "ko",
+          "importance_score": 36.1,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.05(21.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 36.1/100"
+        },
+        {
+          "title": "심텍, BT 레진 기판으로 FC-BGA 시장 진입",
+          "source": "디일렉",
+          "publisher_domain": "thelec.kr",
+          "published_at": "2026-09-23T04:57:27+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EQmJWSTZpbUNqcmRBNHh2SmJtNzRULTNEY0gwSzJUTlhxUFBrZzhRSU5PVEl4dk45eWJyM0lxSklTWUxjMTdYVjV4STVzakJIZFVBOE16UVp6dU5TTTNGS0VUdnBCUQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 장기 공급계약 체결",
+          "feed": "ko",
+          "importance_score": 27.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.39(6.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.3/100"
+        },
+        {
+          "title": "심텍 AI 반도체용 인쇄회로기판 공급망 강화, 주요 협력사와 장기 협력 논의",
+          "source": "businesspost.co.kr",
+          "publisher_domain": "businesspost.co.kr",
+          "published_at": "2026-09-08T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rVTZ2by05eENGTXU4RHE0U1lyajJhdFFiX0RvN3dmc0FEQXRwcUhLUlg0Sm1DczJEMml6Sk0zc19ZWHpqdC1PS1hoN2o2WGRiOGpmTkVxXzZVcG12bjV6TWVINWxfTWg0VUpWUzV5c0J0ZGM?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 장기 공급계약 체결",
+          "feed": "ko",
+          "importance_score": 26.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.05(21.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 26.2/100"
+        }
+      ]
+    },
+    "small:222800.KQ:pricing_power": {
+      "key": "small:222800.KQ:pricing_power",
+      "status": "no_results",
+      "relevance_terms": [
+        "222800",
+        "심텍"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "심텍 price increase announcement",
+        "심텍 pricing power margin expansion",
+        "심텍 판가 인상",
+        "심텍 가격 인상 전가"
+      ],
+      "queries": [
+        {
+          "keyword": "심텍 price increase announcement",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "심텍 pricing power margin expansion",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "심텍 판가 인상",
+          "feed": "ko",
+          "count": 25
+        },
+        {
+          "keyword": "심텍 가격 인상 전가",
+          "feed": "ko",
+          "count": 8
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-09-29T23:25:00.471147+00:00",
+      "articles": []
+    },
+    "small:222800.KQ:theme_bottleneck": {
+      "key": "small:222800.KQ:theme_bottleneck",
+      "status": "partial",
+      "relevance_terms": [
+        "222800",
+        "심텍"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
+      "found_count": 3,
+      "returned_count": 3,
+      "keywords": [
+        "심텍 bottleneck supply chain",
+        "심텍 sole supplier constraint",
+        "심텍 공급 병목",
+        "심텍 독점 공급"
+      ],
+      "queries": [
+        {
+          "keyword": "심텍 bottleneck supply chain",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "심텍 sole supplier constraint",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "심텍 공급 병목",
+          "feed": "ko",
+          "count": 8
+        },
+        {
+          "keyword": "심텍 독점 공급",
+          "feed": "ko",
+          "count": 10
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-09-29T23:25:11.973653+00:00",
+      "articles": [
+        {
+          "title": "[시선강탈] 에이치브이엠 vs 심텍 vs 비츠로테크, 공략법은?",
+          "source": "MTN 머니투데이방송",
+          "publisher_domain": "news.mtn.co.kr",
+          "published_at": "2026-09-22T13:27:19+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1idDBBdHhrRG91S2F4Z3ZIeDNIQ0RuYU51dWF4WkU2RHB0X1FXWXI2ZXE3dVdySlBYd3Y5Z1FERVRkRTdOY1lfbnJLdDZLTzE0YTF0NG5QSFNMWlVzeVRMRjVwY2g?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 독점 공급",
+          "feed": "ko",
+          "importance_score": 26.4,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.36(7.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 26.4/100"
+        },
+        {
+          "title": "엔비디아 낙점한 '소캠2'…심텍, 메모리 3사 싹쓸이",
+          "source": "경제타임스",
+          "publisher_domain": "ket.kr",
+          "published_at": "2026-09-09T00:44:36+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wN1hVZlMyanZCdldJX1oxVzdFWVhZcGZIVFJuYUkybUxlQTUtdklYZ3RJSlFkeVJ1bElSUTBkQ1Q1NUJSSXJDaTdfVERtTVFsVGxjaExlTDNNOTg?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 독점 공급",
+          "feed": "ko",
+          "importance_score": 18.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.05(20.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 18.9/100"
+        },
+        {
+          "title": "\"AI 수요 계속\" 엔비디아 실적 발표에 기판주 '방긋'… 심텍, 5%대↑",
+          "source": "머니투데이",
+          "publisher_domain": "mt.co.kr",
+          "published_at": "2026-08-27T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ekpnTlRlNm5jM3R6WE0zNUJ6RENVQWN2eXpfQTJPb3c4QzFrQXVtN3JscThWWWFhNlYzREhvekNGQndJX3ZCTVg0SjYtLWp6ekgwQWZxcUlnMURFT05ZanJOOGxva0Ff0gFuQVVfeXFMUDgzRGlxbFZFMFBMUGpEaEk5OGpGZWZUMkxxN1gzbFZFdkt5VXc2RXd4bVpJTkxVcjVYS200bF8wNzNBNUxpb0I0OWdMTkZTdGI1S1JkaXZTOGdQUm1TemJxVlhoQ2xLNnJQNmtQUXc?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "심텍 공급 병목",
+          "feed": "ko",
+          "importance_score": 17.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(33.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.7/100"
         }
       ]
     },
@@ -3221,10 +3662,10 @@
         "078930",
         "GS"
       ],
-      "dropped_irrelevant": 7,
-      "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
-      "found_count": 2,
-      "returned_count": 2,
+      "dropped_irrelevant": 6,
+      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
+      "found_count": 1,
+      "returned_count": 1,
       "keywords": [
         "GS capacity expansion sold out",
         "GS supply shortage easing",
@@ -3250,42 +3691,28 @@
         {
           "keyword": "GS 증설 가동",
           "feed": "ko",
-          "count": 22
+          "count": 24
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:41:57.084540+00:00",
+      "fetched_at": "2026-09-29T23:25:23.844905+00:00",
       "articles": [
         {
           "title": "AI데이터센터 사업 본격화하는 GS… 석탄발전 가동률까지 높아지는 1석2조 ‘기대감’",
           "source": "Chosunbiz",
           "publisher_domain": "biz.chosun.com",
           "published_at": "2026-09-18T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBzbkRueHNVdkdTZlhQMkctczFOa2hHS28yQ01OWFJQMm54RmRzeC05SkFQMFlJazF1QXJaWVRVUDBBWENCTkFpT1BCREZhSmY1ajdlbHlqclk2TWN5UkJqUElsSGJ6Q3ZCRGNLR3FGV0FsY3FTck5xRjlNa3llb0ttU1k?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnBzbkRueHNVdkdTZlhQMkctczFOa2hHS28yQ01OWFJQMm54RmRzeC05SkFQMFlJazF1QXJaWVRVUDBBWENCTkFpT1BCREZhSmY1ajdlbHlqclk2TWN5UkJqUElsSGJ6Q3ZCRGNLR3FGV0FsY3FTck5xRjlNa3llb0ttU1nSAZgBQVVfeXFMTUV0LVlfWEphUmZJNjhIWmRmNG9KMXRCazkxVXNBMXE4WmtVTkJGMnRXNVdrSVh4M0NyYXl1LWRxakhQZmFtcXdDZG1xb2ZwdFVoTGF0V0t6aFVTOTVaNUZkcC0tZlNRNThobUlFbjlHYlI5QTFndXBKWi13TTRiMGtxUzk2MzBmd2RzZDVqdXlVTkRacnlHSG8?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "GS 증설 가동",
           "feed": "ko",
-          "importance_score": 45.1,
-          "importance_basis": "매체티어 0.80(chosun.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.22(10.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 45.1/100"
-        },
-        {
-          "title": "Goldman Sachs (GS) Holds Ground at $1,041 as Range-Bound Trading Persists",
-          "source": "dars.gov.et",
-          "publisher_domain": "dars.gov.et",
-          "published_at": "2026-08-14T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbEJNeC1aVDgteEM1X0kwamNRSEgzYXp1enZIZ21wRmtHUWllN0ZDc2dfWlVZUUxhTlhMYjNKM2toZFlTalZCcjZhOTJsYWxpRkstZ2dsMjA5ckcxaVpWQVpXckdYYkdpbEliWnBjeEdpdEJpMTFtVGEyaWdRb19VblJwZnFGMTB3TUlRX3lmTG8xZFFMYTY5cWJUQVlmM3lhV1RTbk1BQm01aGZDd0J0X2dvNUJxdGdPZDJTZU9VYVFpNHVGZTBQSXYyMm1FdEtZOHpEd3RZbEhSTVpraWpXYTVSMkViRUZf?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "GS capacity expansion sold out",
-          "feed": "en",
-          "importance_score": 17.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(45.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.5/100"
+          "importance_score": 44.4,
+          "importance_basis": "매체티어 0.80(chosun.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.20(11.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 44.4/100"
         }
       ]
     },
@@ -3297,9 +3724,9 @@
         "GS"
       ],
       "dropped_irrelevant": 6,
-      "status_reason": "중복 제거 후 4건만 확보됨 (목표 5건)",
-      "found_count": 4,
-      "returned_count": 4,
+      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
+      "found_count": 3,
+      "returned_count": 3,
       "keywords": [
         "GS long term supply agreement",
         "GS capex completion customer commitment",
@@ -3325,14 +3752,14 @@
         {
           "keyword": "GS 증설 완료",
           "feed": "ko",
-          "count": 18
+          "count": 20
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:42:09.791848+00:00",
+      "fetched_at": "2026-09-29T23:25:36.080686+00:00",
       "articles": [
         {
           "title": "GS에너지, 태국 PTT와 LNG 장기 계약…글로벌 조달선 다변화",
@@ -3345,8 +3772,8 @@
           "provider": "google_news_rss",
           "query": "GS 장기 공급계약 체결",
           "feed": "ko",
-          "importance_score": 33.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.34(7.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 33.5/100"
+          "importance_score": 32.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.30(8.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.5/100"
         },
         {
           "title": "GS에너지, 프랑스 토탈에너지스와 LNG 장기계약…PTT 이어 조달선 확대",
@@ -3359,22 +3786,8 @@
           "provider": "google_news_rss",
           "query": "GS 장기 공급계약 체결",
           "feed": "ko",
-          "importance_score": 30.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.51(4.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 30.4/100"
-        },
-        {
-          "title": "GS에너지, 태국 PTT와 양사 첫 LNG 장기계약…조달선 넓힌다",
-          "source": "PRESS9",
-          "publisher_domain": "press9.kr",
-          "published_at": "2026-09-21T02:53:38+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxNEVPRlRXR3hrNjgwcjJFcEpZb2wySFIxZVNldnhTNnpKOU1rNzZlMXlFYWl4VmtGZ3o3dkp1bTVZajlKZnJMeWFyR3UweXd1SGYzaVgyQkZRZ2loMzdOVmJhMFo?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "GS 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 25.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.33(8.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.8/100"
+          "importance_score": 28.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.45(5.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 28.9/100"
         },
         {
           "title": "GS건설 제안 ‘구미 생활폐기물 소각시설 증설’ 사업자 선정 절차 돌입",
@@ -3388,7 +3801,7 @@
           "query": "GS 증설 완료",
           "feed": "ko",
           "importance_score": 25.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(41.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.1/100"
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(42.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.1/100"
         }
       ]
     },
@@ -3399,7 +3812,7 @@
         "078930",
         "GS"
       ],
-      "dropped_irrelevant": 12,
+      "dropped_irrelevant": 5,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -3413,7 +3826,7 @@
         {
           "keyword": "GS price increase announcement",
           "feed": "en",
-          "count": 25
+          "count": 0
         },
         {
           "keyword": "GS pricing power margin expansion",
@@ -3435,7 +3848,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:42:22.094479+00:00",
+      "fetched_at": "2026-09-29T23:25:48.261121+00:00",
       "articles": []
     },
     "small:078930.KS:theme_bottleneck": {
@@ -3447,7 +3860,7 @@
       ],
       "dropped_irrelevant": 5,
       "status_reason": null,
-      "found_count": 6,
+      "found_count": 7,
       "returned_count": 5,
       "keywords": [
         "GS bottleneck supply chain",
@@ -3481,22 +3894,8 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:42:34.204483+00:00",
+      "fetched_at": "2026-09-29T23:26:02.147619+00:00",
       "articles": [
-        {
-          "title": "GS, AI 데이터센터 병목 스타트업으로 푼다 [상생경영]",
-          "source": "이투데이",
-          "publisher_domain": "etoday.co.kr",
-          "published_at": "2026-09-20T20:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NS2h6NjduUkVRdXpSNUpTd0tXekczZEF5RXh3TGlvUk4xQ01sT3lxZ3dxSTVfVEFQWVY4Y2l0eVF6T1ZyUFJrbkdyM1Z0RldXbXpDZA?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "GS 공급 병목",
-          "feed": "ko",
-          "importance_score": 33.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.32(8.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 33.0/100"
-        },
         {
           "title": "허태수 GS 회장 \"스타트업 기술로 AI 데이터센터 병목 해소\"",
           "source": "지디넷코리아",
@@ -3508,22 +3907,36 @@
           "provider": "google_news_rss",
           "query": "GS 공급 병목",
           "feed": "ko",
-          "importance_score": 32.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.17(12.8일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 32.7/100"
+          "importance_score": 32.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.15(13.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 32.2/100"
         },
         {
           "title": "허태수 GS 회장 “AI 데이터센터 병목, 스타트업 혁신으로 풀겠다”",
-          "source": "v.daum.net",
-          "publisher_domain": "v.daum.net",
+          "source": "이투데이",
+          "publisher_domain": "etoday.co.kr",
           "published_at": "2026-09-16T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9adGQtcWxwMHhuN2VpQmUxY0FzUWxRTTRVZkdHY3dRMlNpQWdseGJBaWt0OW85dnhRcHc4Q2ZUU0tRYnZwdWxvYl9DQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVX0RieXg3ZmRlWC02V3AwN2tlS2poSHlwLVQtTS1wbDBCRE1FMzk1M2dTR29MRHF0VVlxU1N4VzlJakdyMGpKSVJVU0xQckY3OXdhaw?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "GS 공급 병목",
           "feed": "ko",
-          "importance_score": 32.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.17(12.8일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 32.7/100"
+          "importance_score": 32.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.15(13.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 32.2/100"
+        },
+        {
+          "title": "GS, AI 데이터센터 병목 스타트업으로 푼다 [상생경영]",
+          "source": "이투데이",
+          "publisher_domain": "etoday.co.kr",
+          "published_at": "2026-09-20T20:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NS2h6NjduUkVRdXpSNUpTd0tXekczZEF5RXh3TGlvUk4xQ01sT3lxZ3dxSTVfVEFQWVY4Y2l0eVF6T1ZyUFJrbkdyM1Z0RldXbXpDZA?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "GS 공급 병목",
+          "feed": "ko",
+          "importance_score": 32.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.28(9.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.0/100"
         },
         {
           "title": "GS엔텍, 울산 문무바람 참여…부유식 해상풍력 진출",
@@ -3536,8 +3949,8 @@
           "provider": "google_news_rss",
           "query": "GS 독점 공급",
           "feed": "ko",
-          "importance_score": 27.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.39(6.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.3/100"
+          "importance_score": 26.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.35(7.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 26.2/100"
         },
         {
           "title": "허태수 GS 회장 “스타트업과 AI 데이터센터 기술 생태계 함께 키울 것”",
@@ -3550,8 +3963,8 @@
           "provider": "google_news_rss",
           "query": "GS 공급 병목",
           "feed": "ko",
-          "importance_score": 21.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.17(12.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.8/100"
+          "importance_score": 21.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.15(13.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.3/100"
         }
       ]
     },
@@ -3598,20 +4011,20 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:42:46.392728+00:00",
+      "fetched_at": "2026-09-29T23:26:14.100557+00:00",
       "articles": []
     },
     "small:010950.KS:supply_locked": {
       "key": "small:010950.KS:supply_locked",
-      "status": "no_results",
+      "status": "partial",
       "relevance_terms": [
         "010950",
         "S-Oil"
       ],
       "dropped_irrelevant": 5,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
+      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
+      "found_count": 1,
+      "returned_count": 1,
       "keywords": [
         "S-Oil long term supply agreement",
         "S-Oil capex completion customer commitment",
@@ -3644,8 +4057,23 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:42:59.657360+00:00",
-      "articles": []
+      "fetched_at": "2026-09-29T23:26:26.536474+00:00",
+      "articles": [
+        {
+          "title": "에쓰오일(S-OIL) 샤힌, 샤힌 5.5조 판로 확보…관건은 ‘매출’보다 마진",
+          "source": "토요경제",
+          "publisher_domain": "sateconomy.co.kr",
+          "published_at": "2026-09-29T04:56:29+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PWU9OdEZRM1dCSzVidnNwOU9tVlNuTnRCMEZiXzh5cUFqQXpVUk5LLWlxdzFNS2tCVjFUSGRFSVNhRW5ZQjZJdGR1NzRFUkdZalpTUzdCeUJwamVyb2Z4QdIBb0FVX3lxTE9zcF85MVJnN2xES21SOHZnQjRfNnJDdkt1Ui0xQ3dFZDRBUjZPRWdBS0phZ1RHRFR2WmM5cnVWa2dyWnVOYW5vTjF2S2dDNFN3QWdMU055NHlGOWs5VDFkMzMtakpmanc4VGhOUFdVNA?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "S-Oil 장기 공급계약 체결",
+          "feed": "ko",
+          "importance_score": 40.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.90(0.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.0/100"
+        }
+      ]
     },
     "small:010950.KS:pricing_power": {
       "key": "small:010950.KS:pricing_power",
@@ -3654,7 +4082,7 @@
         "010950",
         "S-Oil"
       ],
-      "dropped_irrelevant": 4,
+      "dropped_irrelevant": 6,
       "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
       "found_count": 1,
       "returned_count": 1,
@@ -3678,7 +4106,7 @@
         {
           "keyword": "S-Oil 판가 인상",
           "feed": "ko",
-          "count": 22
+          "count": 24
         },
         {
           "keyword": "S-Oil 가격 인상 전가",
@@ -3690,7 +4118,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:43:12.139200+00:00",
+      "fetched_at": "2026-09-29T23:26:39.123643+00:00",
       "articles": [
         {
           "title": "유가 반등으로 가격 역전…금호석유화학·S-Oil 주목하는 이유는",
@@ -3703,8 +4131,8 @@
           "provider": "google_news_rss",
           "query": "S-Oil 판가 인상",
           "feed": "ko",
-          "importance_score": 27.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.11(15.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.8/100"
+          "importance_score": 27.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.10(16.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.5/100"
         }
       ]
     },
@@ -3715,7 +4143,7 @@
         "010950",
         "S-Oil"
       ],
-      "dropped_irrelevant": 5,
+      "dropped_irrelevant": 4,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -3734,12 +4162,12 @@
         {
           "keyword": "S-Oil sole supplier constraint",
           "feed": "en",
-          "count": 7
+          "count": 8
         },
         {
           "keyword": "S-Oil 공급 병목",
           "feed": "ko",
-          "count": 9
+          "count": 10
         },
         {
           "keyword": "S-Oil 독점 공급",
@@ -3751,307 +4179,8 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-09-29T01:43:25.203649+00:00",
+      "fetched_at": "2026-09-29T23:26:51.587368+00:00",
       "articles": []
-    },
-    "small:066570.KS:capacity_gap": {
-      "key": "small:066570.KS:capacity_gap",
-      "status": "ok",
-      "relevance_terms": [
-        "066570",
-        "LG전자"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": null,
-      "found_count": 15,
-      "returned_count": 5,
-      "keywords": [
-        "LG전자 capacity expansion sold out",
-        "LG전자 supply shortage easing",
-        "LG전자 캐파 부족 해소",
-        "LG전자 증설 가동"
-      ],
-      "queries": [
-        {
-          "keyword": "LG전자 capacity expansion sold out",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "LG전자 supply shortage easing",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "LG전자 캐파 부족 해소",
-          "feed": "ko",
-          "count": 3
-        },
-        {
-          "keyword": "LG전자 증설 가동",
-          "feed": "ko",
-          "count": 25
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-09-29T01:43:37.645592+00:00",
-      "articles": [
-        {
-          "title": "LG전자, AI 데이터센터용 터보 칠러 출시…전력소비 30%↓",
-          "source": "매일경제 마켓",
-          "publisher_domain": "stock.mk.co.kr",
-          "published_at": "2026-09-20T01:00:01+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JUElCaEtCWEUxbjZEX3RLYXpPbkZFbG1FaXM4anhYeUEyYU50cG9nTEdCYlRIdmVSSkUtV05QUlRyYXo1UlFPVExTQlV4b1RTSmc?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LG전자 증설 가동",
-          "feed": "ko",
-          "importance_score": 60.9,
-          "importance_basis": "매체티어 0.80(mk.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.29(9.0일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 60.9/100"
-        },
-        {
-          "title": "LG전자, AI 데이터센터용 터보 칠러 출시…냉각 효율·TCO 잡는다",
-          "source": "뉴스1",
-          "publisher_domain": "news1.kr",
-          "published_at": "2026-09-20T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPYUZpQlhscEZOVTVoQVgyOVBDOTBpTE9NMUxmekw4NTZxNHNTZGFzVkVQNm81RnJOaEFwSUdyQlYyTUNUbVZ5aGVFQTRDeUpqV0o5dWZDcVpvb1F5dFHSAWNBVV95cUxNX012Um4wUzRnUXhGQ25RTF9KVEZsR3pGNFVKUWcwY2VSYW4zM0g3bl9obnhrWlN6aUY4WTlVTFc3Nmd6ZEhQaGJQTEFiVUFBWFd1NmRCN0RBeERkYjMtUkFPM0U?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LG전자 증설 가동",
-          "feed": "ko",
-          "importance_score": 53.2,
-          "importance_basis": "매체티어 0.60(news1.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.30(8.8일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 53.2/100"
-        },
-        {
-          "title": "LG전자, AIDC 최적화 공랭식 터보 칠러 출시…글로벌 시장 정조준",
-          "source": "edaily.co.kr",
-          "publisher_domain": "edaily.co.kr",
-          "published_at": "2026-09-20T01:00:16+00:00",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWndyY1draE91cW9iOVpCVU15WklkRFJJdlNwQlBZelgxa3FSUVcwZlZJbFlWN0JXdmhKUC1kQndTaWJfaGIwalhlWWhxdGRLNWtNM0lEN0s5WjI0YU1odzRjNmlwanNZWW9UdzloY3dnZ2haS0NjMmdST3BQV1paTQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LG전자 증설 가동",
-          "feed": "ko",
-          "importance_score": 49.5,
-          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.29(9.0일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 49.5/100"
-        },
-        {
-          "title": "LG전자, AI 데이터센터용 터보 칠러 출시 … 냉각 효율·증설 경쟁력 강화",
-          "source": "워크투데이",
-          "publisher_domain": "worktoday.co.kr",
-          "published_at": "2026-09-20T01:04:34+00:00",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ndk9GS2VKQ1N6ZVNRWTYzWmhPX0VvTHA3bC1wV3A5bW9HM1lreVI2emNyMktfYk1zWU1oVzVROHFXdFRMLW50QW5xYV9jV3h5TEtmaDdHQ3c3X2NIUEdpZ0tvWC1XT0VUYkxYeQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LG전자 증설 가동",
-          "feed": "ko",
-          "importance_score": 46.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.29(9.0일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 46.5/100"
-        },
-        {
-          "title": "LG전자, 'AI 데이터센터' 특화 터보 칠러 출시…“전력 소비량 30% 절감”",
-          "source": "전자신문",
-          "publisher_domain": "etnews.com",
-          "published_at": "2026-09-20T02:07:23+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40RWRtTHZRSFh3VDRvUnlWdTRDdXBNZHREWllYRzRCQk1jVXByeUhNSlpEZVV3bWE3MG1OTTEtcGhaaEdhX05KWXFYQV9ZUQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LG전자 증설 가동",
-          "feed": "ko",
-          "importance_score": 46.2,
-          "importance_basis": "매체티어 0.60(etnews.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.29(9.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 46.2/100"
-        }
-      ]
-    },
-    "small:066570.KS:supply_locked": {
-      "key": "small:066570.KS:supply_locked",
-      "status": "partial",
-      "relevance_terms": [
-        "066570",
-        "LG전자"
-      ],
-      "dropped_irrelevant": 7,
-      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
-      "found_count": 1,
-      "returned_count": 1,
-      "keywords": [
-        "LG전자 long term supply agreement",
-        "LG전자 capex completion customer commitment",
-        "LG전자 장기 공급계약 체결",
-        "LG전자 증설 완료"
-      ],
-      "queries": [
-        {
-          "keyword": "LG전자 long term supply agreement",
-          "feed": "ko",
-          "count": 2
-        },
-        {
-          "keyword": "LG전자 capex completion customer commitment",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "LG전자 장기 공급계약 체결",
-          "feed": "ko",
-          "count": 25
-        },
-        {
-          "keyword": "LG전자 증설 완료",
-          "feed": "ko",
-          "count": 25
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-09-29T01:43:49.920712+00:00",
-      "articles": [
-        {
-          "title": "[1% 초고수의 선택] '삼성전기' 사고 'LG전자' 팔았다",
-          "source": "ebn.co.kr",
-          "publisher_domain": "ebn.co.kr",
-          "published_at": "2026-09-22T06:56:15+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qYm81SGlPYWN3SjdMS2lvYnpRNDFMUy1HWWxFQ244RUdmS1FRQmo2dVZCMVhmRlNSQmJma1U2Nk9NYlZPS3FqeTByVzFNRGViandiNXA1TUNZTGJadGFkN01mQVFhQ0Vp?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LG전자 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 34.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.39(6.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 34.8/100"
-        }
-      ]
-    },
-    "small:066570.KS:pricing_power": {
-      "key": "small:066570.KS:pricing_power",
-      "status": "no_results",
-      "relevance_terms": [
-        "066570",
-        "LG전자"
-      ],
-      "dropped_irrelevant": 4,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "LG전자 price increase announcement",
-        "LG전자 pricing power margin expansion",
-        "LG전자 판가 인상",
-        "LG전자 가격 인상 전가"
-      ],
-      "queries": [
-        {
-          "keyword": "LG전자 price increase announcement",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "LG전자 pricing power margin expansion",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "LG전자 판가 인상",
-          "feed": "ko",
-          "count": 25
-        },
-        {
-          "keyword": "LG전자 가격 인상 전가",
-          "feed": "ko",
-          "count": 25
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-09-29T01:44:01.962063+00:00",
-      "articles": []
-    },
-    "small:066570.KS:theme_bottleneck": {
-      "key": "small:066570.KS:theme_bottleneck",
-      "status": "partial",
-      "relevance_terms": [
-        "066570",
-        "LG전자"
-      ],
-      "dropped_irrelevant": 6,
-      "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
-      "found_count": 2,
-      "returned_count": 2,
-      "keywords": [
-        "LG전자 bottleneck supply chain",
-        "LG전자 sole supplier constraint",
-        "LG전자 공급 병목",
-        "LG전자 독점 공급"
-      ],
-      "queries": [
-        {
-          "keyword": "LG전자 bottleneck supply chain",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "LG전자 sole supplier constraint",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "LG전자 공급 병목",
-          "feed": "ko",
-          "count": 25
-        },
-        {
-          "keyword": "LG전자 독점 공급",
-          "feed": "ko",
-          "count": 25
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-09-29T01:44:14.294471+00:00",
-      "articles": [
-        {
-          "title": "[N2포커스] 미래에셋운용 “피지컬AI 병목은 ‘몸’…현대차·LG전자, 양산 이끌 두 축”",
-          "source": "뉴스투데이",
-          "publisher_domain": "news2day.co.kr",
-          "published_at": "2026-09-21T02:19:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xMW9QZzlWQW1TXzl4OXRmWnFJWmpXWkd4X2Z4V1VHQ2REbGxHNGsyb0xpR2xGdDVITEJqVzRaRnFSb2oydnFSSTNzLXkzVHAtWW5tcVZ3SEtKUmVERkE?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LG전자 공급 병목",
-          "feed": "ko",
-          "importance_score": 33.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.33(8.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 33.3/100"
-        },
-        {
-          "title": "\"TSMC 병목 뚫는다\"… LG전자, '레이저 직접 묘화' 장비로 AI 칩 패키징 시장 진출",
-          "source": "글로벌이코노믹",
-          "publisher_domain": "g-enews.com",
-          "published_at": "2026-08-22T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1RyOXFoX1JFZ21aYnllVENhUWF3OEsxa0w2MGdIOW5vRDNSSTQ5dGh1TDQ5WUx6Y0FNN21MSHJ4Wm1pdmFLaTZJeFZ0NTRHNDFtd0NJTXVnTVg1ZHB4MjZITk50NEpCdmE5ZW1xZDNXUXhPY3JrWmJPLWNFVTZacFhncGlpcHZR?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LG전자 공급 병목",
-          "feed": "ko",
-          "importance_score": 32.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(37.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.6/100"
-        }
-      ]
     }
   }
 }
