@@ -5,7 +5,10 @@ name: Refresh data
 # 그때까지 수집된 분만 반영한다(fetch_news.py 가 지표마다 중간 저장한다).
 on:
   schedule:
-    - cron: "0 22 * * 1-5"   # 평일 22:00 UTC (한국 07:00)
+    # 한국시각 평일(월~금) 05:00 = UTC 전날(일~목) 20:00.
+    # cron 은 UTC 기준이므로 요일도 하루 당겨야 한다.
+    # (0 22 * * 1-5 로 두면 KST 화~토가 되어 월요일이 빠지고 토요일이 들어간다)
+    - cron: "0 20 * * 0-4"
   workflow_dispatch:
     inputs:
       news:
