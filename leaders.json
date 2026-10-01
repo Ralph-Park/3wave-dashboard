@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:19:38.811047+00:00",
+  "generated_at": "2026-10-01T02:03:55.857236+00:00",
   "config_version": "0.1.0",
   "method": {
     "definition_ko": "벤치마크 대비 초과수익 기반 상대강도(RS) 모멘텀 상위 종목",
@@ -52,7 +52,7 @@
       "universe_full_size": 800,
       "rank_universe_top_by_cap": 100,
       "passed_filters": 45,
-      "as_of": "2026-09-30",
+      "as_of": "2026-10-01",
       "benchmark": "^KS11",
       "dropped": {
         "history": 0,
@@ -80,7 +80,7 @@
         "market_cap": 343078201773,
         "price": 537.95,
         "as_of": "2026-09-30",
-        "avg_turnover_60d": 3742780886,
+        "avg_turnover_60d": 3743188509,
         "pct_above_200dma": 86.53,
         "drawdown_from_52w_high_pct": 8.57,
         "components": [
@@ -122,7 +122,7 @@
         "market_cap": 269028640387,
         "price": 264.75,
         "as_of": "2026-09-30",
-        "avg_turnover_60d": 2113959370,
+        "avg_turnover_60d": 2114086036,
         "pct_above_200dma": 74.06,
         "drawdown_from_52w_high_pct": 0.0,
         "components": [
@@ -164,7 +164,7 @@
         "market_cap": 991842861268,
         "price": 611.76,
         "as_of": "2026-09-30",
-        "avg_turnover_60d": 12192087669,
+        "avg_turnover_60d": 12193054851,
         "pct_above_200dma": 65.09,
         "drawdown_from_52w_high_pct": 2.99,
         "components": [
@@ -206,7 +206,7 @@
         "market_cap": 317719380000,
         "price": 397.31,
         "as_of": "2026-09-30",
-        "avg_turnover_60d": 2245574040,
+        "avg_turnover_60d": 2245914482,
         "pct_above_200dma": 60.06,
         "drawdown_from_52w_high_pct": 0.0,
         "components": [
@@ -248,7 +248,7 @@
         "market_cap": 1202894057267,
         "price": 1065.11,
         "as_of": "2026-09-30",
-        "avg_turnover_60d": 31025030598,
+        "avg_turnover_60d": 31060008774,
         "pct_above_200dma": 58.26,
         "drawdown_from_52w_high_pct": 12.22,
         "components": [
@@ -289,40 +289,40 @@
         "exchange": "KOSPI",
         "sector": "절연선 및 케이블 제조업",
         "products": "전력선,통신케이블 제조,도매,수출입",
-        "market_cap": 9379900000000,
-        "price": 315000.0,
-        "as_of": "2026-09-30",
-        "avg_turnover_60d": 56506297822,
-        "pct_above_200dma": 135.07,
-        "drawdown_from_52w_high_pct": 3.67,
+        "market_cap": 9231100000000,
+        "price": 310000.0,
+        "as_of": "2026-10-01",
+        "avg_turnover_60d": 55269090197,
+        "pct_above_200dma": 129.05,
+        "drawdown_from_52w_high_pct": 5.2,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 65.31,
-            "benchmark_pct": -18.31,
-            "excess_pct": 83.62,
-            "percentile": 98.9,
+            "return_pct": 32.76,
+            "benchmark_pct": -19.55,
+            "excess_pct": 52.31,
+            "percentile": 90.0,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 436.93,
-            "benchmark_pct": 21.78,
-            "excess_pct": 415.16,
+            "return_pct": 410.52,
+            "benchmark_pct": 25.39,
+            "excess_pct": 385.13,
             "percentile": 98.9,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 827.23,
-            "benchmark_pct": 102.35,
-            "excess_pct": 724.88,
+            "return_pct": 812.51,
+            "benchmark_pct": 97.69,
+            "excess_pct": 714.82,
             "percentile": 98.9,
             "weight": 0.3
           }
         ],
-        "rs_score": 98.9,
-        "rs_excess_sum_pct": 375.46,
+        "rs_score": 95.3,
+        "rs_excess_sum_pct": 350.91,
         "rank": 1
       },
       {
@@ -331,83 +331,41 @@
         "exchange": "KOSDAQ",
         "sector": "특수 목적용 기계 제조업",
         "products": "ALG, ALD",
-        "market_cap": 10806900000000,
-        "price": 232500.0,
-        "as_of": "2026-09-30",
-        "avg_turnover_60d": 264425712500,
-        "pct_above_200dma": 95.67,
-        "drawdown_from_52w_high_pct": 7.19,
+        "market_cap": 11271700000000,
+        "price": 242500.0,
+        "as_of": "2026-10-01",
+        "avg_turnover_60d": 257647616340,
+        "pct_above_200dma": 102.28,
+        "drawdown_from_52w_high_pct": 3.19,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 31.65,
-            "benchmark_pct": -18.31,
-            "excess_pct": 49.97,
-            "percentile": 87.8,
-            "weight": 0.4
-          },
-          {
-            "period": "r6m",
-            "return_pct": 226.09,
-            "benchmark_pct": 21.78,
-            "excess_pct": 204.31,
-            "percentile": 94.4,
-            "weight": 0.3
-          },
-          {
-            "period": "r12m",
-            "return_pct": 713.06,
-            "benchmark_pct": 102.35,
-            "excess_pct": 610.71,
-            "percentile": 96.7,
-            "weight": 0.3
-          }
-        ],
-        "rs_score": 92.4,
-        "rs_excess_sum_pct": 264.49,
-        "rank": 2
-      },
-      {
-        "symbol": "222800.KQ",
-        "name": "심텍",
-        "exchange": "KOSDAQ",
-        "sector": "전자부품 제조업",
-        "products": "반도체용 인쇄회로기판",
-        "market_cap": 5784200000000,
-        "price": 150300.0,
-        "as_of": "2026-09-30",
-        "avg_turnover_60d": 90869530145,
-        "pct_above_200dma": 73.37,
-        "drawdown_from_52w_high_pct": 4.45,
-        "components": [
-          {
-            "period": "r3m",
-            "return_pct": 20.92,
-            "benchmark_pct": -18.31,
-            "excess_pct": 39.23,
+            "return_pct": 20.65,
+            "benchmark_pct": -19.55,
+            "excess_pct": 40.19,
             "percentile": 81.1,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 156.48,
-            "benchmark_pct": 21.78,
-            "excess_pct": 134.71,
-            "percentile": 92.2,
+            "return_pct": 240.11,
+            "benchmark_pct": 25.39,
+            "excess_pct": 214.72,
+            "percentile": 96.7,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 416.65,
-            "benchmark_pct": 102.35,
-            "excess_pct": 314.3,
-            "percentile": 87.8,
+            "return_pct": 716.67,
+            "benchmark_pct": 97.69,
+            "excess_pct": 618.98,
+            "percentile": 96.7,
             "weight": 0.3
           }
         ],
-        "rs_score": 86.4,
-        "rs_excess_sum_pct": 150.39,
-        "rank": 3
+        "rs_score": 90.4,
+        "rs_excess_sum_pct": 266.19,
+        "rank": 2
       },
       {
         "symbol": "010950.KS",
@@ -415,41 +373,41 @@
         "exchange": "KOSPI",
         "sector": "석유 정제품 제조업",
         "products": "석유제품,가스,윤활기유,윤활유,그리스,석유화학제품 제조,도매",
-        "market_cap": 18204600000000,
-        "price": 161700.0,
-        "as_of": "2026-09-30",
-        "avg_turnover_60d": 61798282466,
-        "pct_above_200dma": 39.51,
-        "drawdown_from_52w_high_pct": 2.53,
+        "market_cap": 17382800000000,
+        "price": 154400.0,
+        "as_of": "2026-10-01",
+        "avg_turnover_60d": 61405114541,
+        "pct_above_200dma": 32.79,
+        "drawdown_from_52w_high_pct": 6.93,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 56.82,
-            "benchmark_pct": -18.31,
-            "excess_pct": 75.13,
+            "return_pct": 45.94,
+            "benchmark_pct": -19.55,
+            "excess_pct": 65.49,
             "percentile": 94.4,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 45.26,
-            "benchmark_pct": 21.78,
-            "excess_pct": 23.49,
+            "return_pct": 41.99,
+            "benchmark_pct": 25.39,
+            "excess_pct": 16.6,
             "percentile": 72.2,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 175.55,
-            "benchmark_pct": 102.35,
-            "excess_pct": 73.21,
-            "percentile": 72.2,
+            "return_pct": 162.67,
+            "benchmark_pct": 97.69,
+            "excess_pct": 64.97,
+            "percentile": 70.0,
             "weight": 0.3
           }
         ],
-        "rs_score": 81.1,
-        "rs_excess_sum_pct": 59.06,
-        "rank": 4
+        "rs_score": 80.4,
+        "rs_excess_sum_pct": 50.67,
+        "rank": 3
       },
       {
         "symbol": "078930.KS",
@@ -457,40 +415,82 @@
         "exchange": "KOSPI",
         "sector": "기타 금융업",
         "products": "지주회사/부동산 임대",
-        "market_cap": 9958400000000,
-        "price": 107200.0,
-        "as_of": "2026-09-30",
-        "avg_turnover_60d": 51460364623,
-        "pct_above_200dma": 38.21,
-        "drawdown_from_52w_high_pct": 17.03,
+        "market_cap": 9558900000000,
+        "price": 102900.0,
+        "as_of": "2026-10-01",
+        "avg_turnover_60d": 51135567643,
+        "pct_above_200dma": 32.27,
+        "drawdown_from_52w_high_pct": 20.36,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 59.29,
-            "benchmark_pct": -18.31,
-            "excess_pct": 77.6,
-            "percentile": 96.7,
+            "return_pct": 55.2,
+            "benchmark_pct": -19.55,
+            "excess_pct": 74.75,
+            "percentile": 98.9,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 58.11,
-            "benchmark_pct": 21.78,
-            "excess_pct": 36.34,
-            "percentile": 78.9,
+            "return_pct": 51.55,
+            "benchmark_pct": 25.39,
+            "excess_pct": 26.16,
+            "percentile": 76.7,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 140.63,
-            "benchmark_pct": 102.35,
-            "excess_pct": 38.29,
-            "percentile": 61.1,
+            "return_pct": 123.52,
+            "benchmark_pct": 97.69,
+            "excess_pct": 25.83,
+            "percentile": 58.9,
             "weight": 0.3
           }
         ],
-        "rs_score": 80.7,
-        "rs_excess_sum_pct": 53.43,
+        "rs_score": 80.2,
+        "rs_excess_sum_pct": 45.5,
+        "rank": 4
+      },
+      {
+        "symbol": "222800.KQ",
+        "name": "심텍",
+        "exchange": "KOSDAQ",
+        "sector": "전자부품 제조업",
+        "products": "반도체용 인쇄회로기판",
+        "market_cap": 5803500000000,
+        "price": 149700.0,
+        "as_of": "2026-10-01",
+        "avg_turnover_60d": 89131895527,
+        "pct_above_200dma": 71.72,
+        "drawdown_from_52w_high_pct": 4.83,
+        "components": [
+          {
+            "period": "r3m",
+            "return_pct": 0.67,
+            "benchmark_pct": -19.55,
+            "excess_pct": 20.22,
+            "percentile": 38.9,
+            "weight": 0.4
+          },
+          {
+            "period": "r6m",
+            "return_pct": 166.37,
+            "benchmark_pct": 25.39,
+            "excess_pct": 140.98,
+            "percentile": 92.2,
+            "weight": 0.3
+          },
+          {
+            "period": "r12m",
+            "return_pct": 370.96,
+            "benchmark_pct": 97.69,
+            "excess_pct": 273.27,
+            "percentile": 85.6,
+            "weight": 0.3
+          }
+        ],
+        "rs_score": 68.9,
+        "rs_excess_sum_pct": 132.36,
         "rank": 5
       }
     ]

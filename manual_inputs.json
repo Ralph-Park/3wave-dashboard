@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-09-30T23:19:38.813205+00:00",
+  "updated_at": "2026-10-01T02:03:55.858941+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -16,7 +16,7 @@
       "auto_selected": true,
       "rs_score": 94.9,
       "rank": 1,
-      "selected_at": "2026-09-30",
+      "selected_at": "2026-10-01",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -53,7 +53,7 @@
       "auto_selected": true,
       "rs_score": 91.9,
       "rank": 2,
-      "selected_at": "2026-09-30",
+      "selected_at": "2026-10-01",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -90,7 +90,7 @@
       "auto_selected": true,
       "rs_score": 83.7,
       "rank": 3,
-      "selected_at": "2026-09-30",
+      "selected_at": "2026-10-01",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -127,7 +127,7 @@
       "auto_selected": true,
       "rs_score": 77.8,
       "rank": 4,
-      "selected_at": "2026-09-30",
+      "selected_at": "2026-10-01",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -164,7 +164,7 @@
       "auto_selected": true,
       "rs_score": 77.2,
       "rank": 5,
-      "selected_at": "2026-09-30",
+      "selected_at": "2026-10-01",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -199,9 +199,9 @@
       "company_ko": "가온전선",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 98.9,
+      "rs_score": 95.3,
       "rank": 1,
-      "selected_at": "2026-09-30",
+      "selected_at": "2026-10-01",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -236,46 +236,9 @@
       "company_ko": "주성엔지니어링",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 92.4,
+      "rs_score": 90.4,
       "rank": 2,
-      "selected_at": "2026-09-30",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "222800.KQ",
-      "search_ticker": "심텍",
-      "company_en": "심텍",
-      "company_ko": "심텍",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 86.4,
-      "rank": 3,
-      "selected_at": "2026-09-30",
+      "selected_at": "2026-10-01",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -310,9 +273,9 @@
       "company_ko": "S-Oil",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 81.1,
-      "rank": 4,
-      "selected_at": "2026-09-30",
+      "rs_score": 80.4,
+      "rank": 3,
+      "selected_at": "2026-10-01",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -347,9 +310,46 @@
       "company_ko": "GS",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 80.7,
+      "rs_score": 80.2,
+      "rank": 4,
+      "selected_at": "2026-10-01",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "222800.KQ",
+      "search_ticker": "심텍",
+      "company_en": "심텍",
+      "company_ko": "심텍",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 68.9,
       "rank": 5,
-      "selected_at": "2026-09-30",
+      "selected_at": "2026-10-01",
       "conditions": {
         "capacity_gap": {
           "value": null,
