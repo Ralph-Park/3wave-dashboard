@@ -3,6 +3,13 @@ name: Deploy dashboard to Pages
 on:
   push:
     branches: [main]
+  # Refresh data 가 데이터를 커밋해도 배포가 돌지 않던 문제 대응.
+  # GitHub Actions 는 기본 GITHUB_TOKEN 으로 만든 푸시로는 다른 워크플로를
+  # 트리거하지 않는다(무한루프 방지). 그래서 push 트리거만으로는 봇 커밋이
+  # 배포되지 않는다. workflow_run 은 이 제약을 받지 않는다.
+  workflow_run:
+    workflows: ["Refresh data"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -17,11 +24,17 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    # Refresh data 가 실패했으면 배포하지 않는다
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
+      # workflow_run 으로 돌 때 github.sha 는 트리거한 워크플로가 본 커밋이라
+      # 봇이 그 뒤에 올린 데이터 커밋이 빠질 수 있다. main 최신을 명시적으로 받는다.
       - uses: actions/checkout@v4
+        with:
+          ref: main
       # 대시보드는 index.html + JSON 만 있으면 동작한다. 수집 스크립트는 배포본에서 제외.
       - name: Collect site files
         run: |
