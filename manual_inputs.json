@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-10-01T21:33:34.736458+00:00",
+  "updated_at": "2026-10-04T19:53:58.126566+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -16,7 +16,7 @@
       "auto_selected": true,
       "rs_score": 96.7,
       "rank": 1,
-      "selected_at": "2026-10-01",
+      "selected_at": "2026-10-04",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -53,7 +53,7 @@
       "auto_selected": true,
       "rs_score": 91.5,
       "rank": 2,
-      "selected_at": "2026-10-01",
+      "selected_at": "2026-10-04",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -88,9 +88,9 @@
       "company_ko": "Advanced Micro Devices",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 88.2,
+      "rs_score": 88.3,
       "rank": 3,
-      "selected_at": "2026-10-01",
+      "selected_at": "2026-10-04",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -125,9 +125,9 @@
       "company_ko": "Micron Technology",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 86.8,
+      "rs_score": 84.4,
       "rank": 4,
-      "selected_at": "2026-10-01",
+      "selected_at": "2026-10-04",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -156,15 +156,15 @@
       }
     },
     {
-      "ticker": "STX",
-      "search_ticker": "STX",
-      "company_en": "Seagate Technology Holdings PLC (Ireland)",
-      "company_ko": "Seagate Technology Holdings PLC (Ireland)",
+      "ticker": "MRVL",
+      "search_ticker": "MRVL",
+      "company_en": "Marvell Technology",
+      "company_ko": "Marvell Technology",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 85.0,
+      "rs_score": 81.4,
       "rank": 5,
-      "selected_at": "2026-10-01",
+      "selected_at": "2026-10-04",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -199,83 +199,9 @@
       "company_ko": "가온전선",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 95.4,
+      "rs_score": 84.1,
       "rank": 1,
-      "selected_at": "2026-10-01",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "036930.KQ",
-      "search_ticker": "주성엔지니어링",
-      "company_en": "주성엔지니어링",
-      "company_ko": "주성엔지니어링",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 89.3,
-      "rank": 2,
-      "selected_at": "2026-10-01",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "078930.KS",
-      "search_ticker": "GS",
-      "company_en": "GS",
-      "company_ko": "GS",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 80.0,
-      "rank": 3,
-      "selected_at": "2026-10-01",
+      "selected_at": "2026-10-04",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -310,9 +236,83 @@
       "company_ko": "S-Oil",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 75.7,
+      "rs_score": 82.4,
+      "rank": 2,
+      "selected_at": "2026-10-04",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "078930.KS",
+      "search_ticker": "GS",
+      "company_en": "GS",
+      "company_ko": "GS",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 79.6,
+      "rank": 3,
+      "selected_at": "2026-10-04",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "066570.KS",
+      "search_ticker": "LG전자",
+      "company_en": "LG전자",
+      "company_ko": "LG전자",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 77.6,
       "rank": 4,
-      "selected_at": "2026-10-01",
+      "selected_at": "2026-10-04",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -347,9 +347,9 @@
       "company_ko": "심텍",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 75.7,
+      "rs_score": 73.9,
       "rank": 5,
-      "selected_at": "2026-10-01",
+      "selected_at": "2026-10-04",
       "conditions": {
         "capacity_gap": {
           "value": null,
