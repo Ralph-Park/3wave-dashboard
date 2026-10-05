@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-10-04T19:53:58.126566+00:00",
+  "updated_at": "2026-10-05T23:03:16.355835+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -14,9 +14,9 @@
       "company_ko": "Dell Technologies",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 96.7,
+      "rs_score": 96.1,
       "rank": 1,
-      "selected_at": "2026-10-04",
+      "selected_at": "2026-10-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -51,9 +51,9 @@
       "company_ko": "CrowdStrike Holdings",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 91.5,
+      "rs_score": 93.5,
       "rank": 2,
-      "selected_at": "2026-10-04",
+      "selected_at": "2026-10-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -88,9 +88,9 @@
       "company_ko": "Advanced Micro Devices",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 88.3,
+      "rs_score": 91.7,
       "rank": 3,
-      "selected_at": "2026-10-04",
+      "selected_at": "2026-10-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -125,9 +125,9 @@
       "company_ko": "Micron Technology",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 84.4,
+      "rs_score": 87.5,
       "rank": 4,
-      "selected_at": "2026-10-04",
+      "selected_at": "2026-10-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -156,15 +156,15 @@
       }
     },
     {
-      "ticker": "MRVL",
-      "search_ticker": "MRVL",
-      "company_en": "Marvell Technology",
-      "company_ko": "Marvell Technology",
+      "ticker": "PANW",
+      "search_ticker": "PANW",
+      "company_en": "Palo Alto Networks",
+      "company_ko": "Palo Alto Networks",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 81.4,
+      "rs_score": 85.8,
       "rank": 5,
-      "selected_at": "2026-10-04",
+      "selected_at": "2026-10-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -201,7 +201,7 @@
       "auto_selected": true,
       "rs_score": 84.1,
       "rank": 1,
-      "selected_at": "2026-10-04",
+      "selected_at": "2026-10-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -238,7 +238,7 @@
       "auto_selected": true,
       "rs_score": 82.4,
       "rank": 2,
-      "selected_at": "2026-10-04",
+      "selected_at": "2026-10-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -275,7 +275,7 @@
       "auto_selected": true,
       "rs_score": 79.6,
       "rank": 3,
-      "selected_at": "2026-10-04",
+      "selected_at": "2026-10-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -312,7 +312,7 @@
       "auto_selected": true,
       "rs_score": 77.6,
       "rank": 4,
-      "selected_at": "2026-10-04",
+      "selected_at": "2026-10-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -349,7 +349,7 @@
       "auto_selected": true,
       "rs_score": 73.9,
       "rank": 5,
-      "selected_at": "2026-10-04",
+      "selected_at": "2026-10-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
