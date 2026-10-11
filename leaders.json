@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:46:24.560774+00:00",
+  "generated_at": "2026-10-11T20:45:12.425655+00:00",
   "config_version": "0.1.0",
   "method": {
     "definition_ko": "벤치마크 대비 초과수익 기반 상대강도(RS) 모멘텀 상위 종목",
@@ -29,14 +29,14 @@
   "markets": {
     "US": {
       "universe_size": 100,
-      "universe_full_size": 957,
+      "universe_full_size": 961,
       "rank_universe_top_by_cap": 100,
-      "passed_filters": 68,
-      "as_of": "2026-10-08",
+      "passed_filters": 67,
+      "as_of": "2026-10-09",
       "benchmark": "SPY",
       "dropped": {
         "history": 4,
-        "dma200": 27,
+        "dma200": 28,
         "turnover": 1,
         "drawdown": 0,
         "nodata": 0
@@ -77,40 +77,40 @@
         "exchange": "NYSE",
         "sector": null,
         "products": null,
-        "market_cap": 368110149740,
-        "price": 574.55,
-        "as_of": "2026-10-08",
-        "avg_turnover_60d": 3689330926,
-        "pct_above_200dma": 90.56,
-        "drawdown_from_52w_high_pct": 2.35,
+        "market_cap": 365306215513,
+        "price": 586.06,
+        "as_of": "2026-10-09",
+        "avg_turnover_60d": 3701532573,
+        "pct_above_200dma": 92.91,
+        "drawdown_from_52w_high_pct": 0.4,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 32.31,
-            "benchmark_pct": 2.77,
-            "excess_pct": 29.54,
-            "percentile": 90.4,
+            "return_pct": 37.44,
+            "benchmark_pct": 4.18,
+            "excess_pct": 33.26,
+            "percentile": 96.3,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 218.13,
-            "benchmark_pct": 14.4,
-            "excess_pct": 203.73,
+            "return_pct": 231.18,
+            "benchmark_pct": 15.17,
+            "excess_pct": 216.02,
             "percentile": 99.3,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 285.68,
-            "benchmark_pct": 16.91,
-            "excess_pct": 268.77,
+            "return_pct": 260.74,
+            "benchmark_pct": 16.92,
+            "excess_pct": 243.83,
             "percentile": 96.3,
             "weight": 0.3
           }
         ],
-        "rs_score": 94.9,
-        "rs_excess_sum_pct": 153.56,
+        "rs_score": 97.2,
+        "rs_excess_sum_pct": 151.26,
         "rank": 1
       },
       {
@@ -119,83 +119,41 @@
         "exchange": "NASDAQ",
         "sector": null,
         "products": null,
-        "market_cap": 271793264460,
-        "price": 263.01,
-        "as_of": "2026-10-08",
-        "avg_turnover_60d": 2130881826,
-        "pct_above_200dma": 68.01,
-        "drawdown_from_52w_high_pct": 5.68,
+        "market_cap": 269305102794,
+        "price": 275.04,
+        "as_of": "2026-10-09",
+        "avg_turnover_60d": 2135980246,
+        "pct_above_200dma": 74.83,
+        "drawdown_from_52w_high_pct": 1.37,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 40.51,
-            "benchmark_pct": 2.77,
-            "excess_pct": 37.74,
+            "return_pct": 46.37,
+            "benchmark_pct": 4.18,
+            "excess_pct": 42.19,
             "percentile": 97.8,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 166.56,
-            "benchmark_pct": 14.4,
-            "excess_pct": 152.15,
+            "return_pct": 190.26,
+            "benchmark_pct": 15.17,
+            "excess_pct": 175.1,
             "percentile": 97.8,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 117.09,
-            "benchmark_pct": 16.91,
-            "excess_pct": 100.17,
-            "percentile": 86.0,
+            "return_pct": 115.74,
+            "benchmark_pct": 16.92,
+            "excess_pct": 98.82,
+            "percentile": 85.8,
             "weight": 0.3
           }
         ],
-        "rs_score": 94.3,
-        "rs_excess_sum_pct": 90.79,
+        "rs_score": 94.2,
+        "rs_excess_sum_pct": 99.05,
         "rank": 2
-      },
-      {
-        "symbol": "PANW",
-        "name": "Palo Alto Networks, Inc. Common Stock",
-        "exchange": "NASDAQ",
-        "sector": null,
-        "products": null,
-        "market_cap": 331756260000,
-        "price": 398.5,
-        "as_of": "2026-10-08",
-        "avg_turnover_60d": 2209143330,
-        "pct_above_200dma": 56.41,
-        "drawdown_from_52w_high_pct": 5.1,
-        "components": [
-          {
-            "period": "r3m",
-            "return_pct": 22.27,
-            "benchmark_pct": 2.77,
-            "excess_pct": 19.5,
-            "percentile": 86.0,
-            "weight": 0.4
-          },
-          {
-            "period": "r6m",
-            "return_pct": 138.64,
-            "benchmark_pct": 14.4,
-            "excess_pct": 124.23,
-            "percentile": 93.4,
-            "weight": 0.3
-          },
-          {
-            "period": "r12m",
-            "return_pct": 88.83,
-            "benchmark_pct": 16.91,
-            "excess_pct": 71.92,
-            "percentile": 84.6,
-            "weight": 0.3
-          }
-        ],
-        "rs_score": 87.8,
-        "rs_excess_sum_pct": 66.65,
-        "rank": 3
       },
       {
         "symbol": "MRVL",
@@ -203,40 +161,82 @@
         "exchange": "NASDAQ",
         "sector": null,
         "products": null,
-        "market_cap": 249635892000,
-        "price": 274.66,
-        "as_of": "2026-10-08",
-        "avg_turnover_60d": 5080346872,
-        "pct_above_200dma": 60.82,
-        "drawdown_from_52w_high_pct": 13.18,
+        "market_cap": 240849354000,
+        "price": 275.28,
+        "as_of": "2026-10-09",
+        "avg_turnover_60d": 5039688568,
+        "pct_above_200dma": 60.32,
+        "drawdown_from_52w_high_pct": 12.96,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 16.48,
-            "benchmark_pct": 2.77,
-            "excess_pct": 13.71,
-            "percentile": 80.1,
+            "return_pct": 26.58,
+            "benchmark_pct": 4.18,
+            "excess_pct": 22.39,
+            "percentile": 87.3,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 129.19,
-            "benchmark_pct": 14.4,
-            "excess_pct": 114.78,
-            "percentile": 91.9,
+            "return_pct": 114.34,
+            "benchmark_pct": 15.17,
+            "excess_pct": 99.17,
+            "percentile": 91.8,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 216.48,
-            "benchmark_pct": 16.91,
-            "excess_pct": 199.57,
-            "percentile": 93.4,
+            "return_pct": 198.3,
+            "benchmark_pct": 16.92,
+            "excess_pct": 181.38,
+            "percentile": 93.3,
             "weight": 0.3
           }
         ],
-        "rs_score": 87.6,
-        "rs_excess_sum_pct": 99.79,
+        "rs_score": 90.4,
+        "rs_excess_sum_pct": 93.12,
+        "rank": 3
+      },
+      {
+        "symbol": "PANW",
+        "name": "Palo Alto Networks, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "sector": null,
+        "products": null,
+        "market_cap": 325973000000,
+        "price": 418.78,
+        "as_of": "2026-10-09",
+        "avg_turnover_60d": 2201339381,
+        "pct_above_200dma": 63.63,
+        "drawdown_from_52w_high_pct": 0.27,
+        "components": [
+          {
+            "period": "r3m",
+            "return_pct": 26.79,
+            "benchmark_pct": 4.18,
+            "excess_pct": 22.61,
+            "percentile": 88.8,
+            "weight": 0.4
+          },
+          {
+            "period": "r6m",
+            "return_pct": 168.91,
+            "benchmark_pct": 15.17,
+            "excess_pct": 153.75,
+            "percentile": 96.3,
+            "weight": 0.3
+          },
+          {
+            "period": "r12m",
+            "return_pct": 92.29,
+            "benchmark_pct": 16.92,
+            "excess_pct": 75.37,
+            "percentile": 84.3,
+            "weight": 0.3
+          }
+        ],
+        "rs_score": 89.7,
+        "rs_excess_sum_pct": 77.78,
         "rank": 4
       },
       {
@@ -245,40 +245,40 @@
         "exchange": "NASDAQ",
         "sector": null,
         "products": null,
-        "market_cap": 1054350330626,
-        "price": 620.68,
-        "as_of": "2026-10-08",
-        "avg_turnover_60d": 12141673762,
-        "pct_above_200dma": 61.91,
-        "drawdown_from_52w_high_pct": 4.43,
+        "market_cap": 1013244609069,
+        "price": 608.1,
+        "as_of": "2026-10-09",
+        "avg_turnover_60d": 12055488468,
+        "pct_above_200dma": 57.82,
+        "drawdown_from_52w_high_pct": 6.36,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 11.25,
-            "benchmark_pct": 2.77,
-            "excess_pct": 8.49,
-            "percentile": 66.9,
+            "return_pct": 13.79,
+            "benchmark_pct": 4.18,
+            "excess_pct": 9.61,
+            "percentile": 72.4,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 162.29,
-            "benchmark_pct": 14.4,
-            "excess_pct": 147.88,
-            "percentile": 96.3,
+            "return_pct": 148.16,
+            "benchmark_pct": 15.17,
+            "excess_pct": 133.0,
+            "percentile": 94.8,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 193.45,
-            "benchmark_pct": 16.91,
-            "excess_pct": 176.54,
-            "percentile": 91.9,
+            "return_pct": 158.15,
+            "benchmark_pct": 16.92,
+            "excess_pct": 141.24,
+            "percentile": 90.3,
             "weight": 0.3
           }
         ],
-        "rs_score": 83.2,
-        "rs_excess_sum_pct": 100.72,
+        "rs_score": 84.5,
+        "rs_excess_sum_pct": 86.11,
         "rank": 5
       }
     ],
@@ -299,30 +299,30 @@
           {
             "period": "r3m",
             "return_pct": 47.22,
-            "benchmark_pct": -15.88,
-            "excess_pct": 63.1,
+            "benchmark_pct": -17.7,
+            "excess_pct": 64.92,
             "percentile": 96.6,
             "weight": 0.4
           },
           {
             "period": "r6m",
             "return_pct": 339.97,
-            "benchmark_pct": 24.19,
-            "excess_pct": 315.78,
+            "benchmark_pct": 26.59,
+            "excess_pct": 313.37,
             "percentile": 96.6,
             "weight": 0.3
           },
           {
             "period": "r12m",
             "return_pct": 728.46,
-            "benchmark_pct": 97.49,
-            "excess_pct": 630.98,
+            "benchmark_pct": 91.02,
+            "excess_pct": 637.44,
             "percentile": 96.6,
             "weight": 0.3
           }
         ],
         "rs_score": 96.6,
-        "rs_excess_sum_pct": 309.27,
+        "rs_excess_sum_pct": 311.21,
         "rank": 1
       },
       {
@@ -341,30 +341,30 @@
           {
             "period": "r3m",
             "return_pct": 45.82,
-            "benchmark_pct": -15.88,
-            "excess_pct": 61.7,
+            "benchmark_pct": -17.7,
+            "excess_pct": 63.53,
             "percentile": 94.3,
             "weight": 0.4
           },
           {
             "period": "r6m",
             "return_pct": 253.01,
-            "benchmark_pct": 24.19,
-            "excess_pct": 228.83,
+            "benchmark_pct": 26.59,
+            "excess_pct": 226.42,
             "percentile": 92.0,
             "weight": 0.3
           },
           {
             "period": "r12m",
             "return_pct": 370.51,
-            "benchmark_pct": 97.49,
-            "excess_pct": 273.02,
+            "benchmark_pct": 91.02,
+            "excess_pct": 279.49,
             "percentile": 85.2,
             "weight": 0.3
           }
         ],
         "rs_score": 90.9,
-        "rs_excess_sum_pct": 175.24,
+        "rs_excess_sum_pct": 177.18,
         "rank": 2
       },
       {
@@ -383,30 +383,30 @@
           {
             "period": "r3m",
             "return_pct": 27.18,
-            "benchmark_pct": -15.88,
-            "excess_pct": 43.06,
+            "benchmark_pct": -17.7,
+            "excess_pct": 44.88,
             "percentile": 83.0,
             "weight": 0.4
           },
           {
             "period": "r6m",
             "return_pct": 96.39,
-            "benchmark_pct": 24.19,
-            "excess_pct": 72.2,
+            "benchmark_pct": 26.59,
+            "excess_pct": 69.8,
             "percentile": 85.2,
             "weight": 0.3
           },
           {
             "period": "r12m",
             "return_pct": 460.44,
-            "benchmark_pct": 97.49,
-            "excess_pct": 362.95,
+            "benchmark_pct": 91.02,
+            "excess_pct": 369.42,
             "percentile": 92.0,
             "weight": 0.3
           }
         ],
         "rs_score": 86.4,
-        "rs_excess_sum_pct": 147.77,
+        "rs_excess_sum_pct": 149.72,
         "rank": 3
       },
       {
@@ -425,30 +425,30 @@
           {
             "period": "r3m",
             "return_pct": 45.13,
-            "benchmark_pct": -15.88,
-            "excess_pct": 61.01,
+            "benchmark_pct": -17.7,
+            "excess_pct": 62.84,
             "percentile": 92.0,
             "weight": 0.4
           },
           {
             "period": "r6m",
             "return_pct": 59.8,
-            "benchmark_pct": 24.19,
-            "excess_pct": 35.61,
+            "benchmark_pct": 26.59,
+            "excess_pct": 33.21,
             "percentile": 71.6,
             "weight": 0.3
           },
           {
             "period": "r12m",
             "return_pct": 190.43,
-            "benchmark_pct": 97.49,
-            "excess_pct": 92.94,
+            "benchmark_pct": 91.02,
+            "excess_pct": 99.4,
             "percentile": 78.4,
             "weight": 0.3
           }
         ],
         "rs_score": 81.8,
-        "rs_excess_sum_pct": 62.97,
+        "rs_excess_sum_pct": 64.92,
         "rank": 4
       },
       {
@@ -467,30 +467,30 @@
           {
             "period": "r3m",
             "return_pct": 33.16,
-            "benchmark_pct": -15.88,
-            "excess_pct": 49.04,
+            "benchmark_pct": -17.7,
+            "excess_pct": 50.87,
             "percentile": 89.8,
             "weight": 0.4
           },
           {
             "period": "r6m",
             "return_pct": 65.61,
-            "benchmark_pct": 24.19,
-            "excess_pct": 41.42,
+            "benchmark_pct": 26.59,
+            "excess_pct": 39.01,
             "percentile": 73.9,
             "weight": 0.3
           },
           {
             "period": "r12m",
             "return_pct": 135.22,
-            "benchmark_pct": 97.49,
-            "excess_pct": 37.74,
+            "benchmark_pct": 91.02,
+            "excess_pct": 44.2,
             "percentile": 62.5,
             "weight": 0.3
           }
         ],
         "rs_score": 76.8,
-        "rs_excess_sum_pct": 43.36,
+        "rs_excess_sum_pct": 45.31,
         "rank": 5
       }
     ]
