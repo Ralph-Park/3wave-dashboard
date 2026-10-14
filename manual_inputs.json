@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-10-13T21:42:59.438700+00:00",
+  "updated_at": "2026-10-14T20:24:41.137369+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -14,9 +14,9 @@
       "company_ko": "Dell Technologies",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 96.1,
+      "rs_score": 94.9,
       "rank": 1,
-      "selected_at": "2026-10-13",
+      "selected_at": "2026-10-14",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -51,9 +51,9 @@
       "company_ko": "Marvell Technology",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 91.9,
+      "rs_score": 92.5,
       "rank": 2,
-      "selected_at": "2026-10-13",
+      "selected_at": "2026-10-14",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -88,9 +88,9 @@
       "company_ko": "CrowdStrike Holdings",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 90.3,
+      "rs_score": 89.1,
       "rank": 3,
-      "selected_at": "2026-10-13",
+      "selected_at": "2026-10-14",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -125,9 +125,9 @@
       "company_ko": "Advanced Micro Devices",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 84.9,
+      "rs_score": 85.4,
       "rank": 4,
-      "selected_at": "2026-10-13",
+      "selected_at": "2026-10-14",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -156,15 +156,15 @@
       }
     },
     {
-      "ticker": "PANW",
-      "search_ticker": "PANW",
-      "company_en": "Palo Alto Networks",
-      "company_ko": "Palo Alto Networks",
+      "ticker": "MU",
+      "search_ticker": "MU",
+      "company_en": "Micron Technology",
+      "company_ko": "Micron Technology",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 81.3,
+      "rs_score": 80.3,
       "rank": 5,
-      "selected_at": "2026-10-13",
+      "selected_at": "2026-10-14",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -199,83 +199,9 @@
       "company_ko": "주성엔지니어링",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 96.8,
+      "rs_score": 92.6,
       "rank": 1,
-      "selected_at": "2026-10-13",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "222800.KQ",
-      "search_ticker": "심텍",
-      "company_en": "심텍",
-      "company_ko": "심텍",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 90.0,
-      "rank": 2,
-      "selected_at": "2026-10-13",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "353200.KS",
-      "search_ticker": "대덕전자",
-      "company_en": "대덕전자",
-      "company_ko": "대덕전자",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 87.6,
-      "rank": 3,
-      "selected_at": "2026-10-13",
+      "selected_at": "2026-10-14",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -310,9 +236,9 @@
       "company_ko": "가온전선",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 84.4,
-      "rank": 4,
-      "selected_at": "2026-10-13",
+      "rs_score": 88.1,
+      "rank": 2,
+      "selected_at": "2026-10-14",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -341,15 +267,89 @@
       }
     },
     {
-      "ticker": "078930.KS",
-      "search_ticker": "GS",
-      "company_en": "GS",
-      "company_ko": "GS",
+      "ticker": "353200.KS",
+      "search_ticker": "대덕전자",
+      "company_en": "대덕전자",
+      "company_ko": "대덕전자",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 71.8,
+      "rs_score": 83.9,
+      "rank": 3,
+      "selected_at": "2026-10-14",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "006400.KS",
+      "search_ticker": "삼성SDI",
+      "company_en": "삼성SDI",
+      "company_ko": "삼성SDI",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 78.7,
+      "rank": 4,
+      "selected_at": "2026-10-14",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "222800.KQ",
+      "search_ticker": "심텍",
+      "company_en": "심텍",
+      "company_ko": "심텍",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 76.1,
       "rank": 5,
-      "selected_at": "2026-10-13",
+      "selected_at": "2026-10-14",
       "conditions": {
         "capacity_gap": {
           "value": null,
