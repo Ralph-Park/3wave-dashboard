@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T20:21:25.712442+00:00",
-  "complete": true,
+  "generated_at": "2026-10-18T20:45:38.782898+00:00",
+  "complete": false,
   "meta": {
     "provider_priority": [
       "google_news_rss",
@@ -96,12 +96,12 @@
   "indicators": {
     "cpi": {
       "key": "cpi",
-      "status": "ok",
+      "status": "fetch_failed",
       "relevance_terms": [],
       "dropped_irrelevant": 0,
-      "status_reason": null,
-      "found_count": 68,
-      "returned_count": 5,
+      "status_reason": "검색 요청이 모두 실패했습니다 — 기사가 없다는 뜻이 아닙니다. 네트워크를 확인한 뒤 다시 실행하십시오. 오류: google_news_rss[US CPI inflation report/en]: HTTP Error 503: Service Unavailable; google_news_rss[core CPI disinflation/en]: HTTP Error 503: Service Unavailable",
+      "found_count": 0,
+      "returned_count": 0,
       "keywords": [
         "US CPI inflation report",
         "core CPI disinflation",
@@ -109,119 +109,36 @@
         "미국 소비자물가 지수",
         "근원 물가 둔화"
       ],
-      "queries": [
-        {
-          "keyword": "US CPI inflation report",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "core CPI disinflation",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "inflation reacceleration",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "미국 소비자물가 지수",
-          "feed": "ko",
-          "count": 25
-        },
-        {
-          "keyword": "근원 물가 둔화",
-          "feed": "ko",
-          "count": 25
-        }
+      "queries": [],
+      "providers_used": [],
+      "errors": [
+        "google_news_rss[US CPI inflation report/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[core CPI disinflation/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[inflation reacceleration/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[미국 소비자물가 지수/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[근원 물가 둔화/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀"
       ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-10-15T20:10:41.535246+00:00",
-      "articles": [
-        {
-          "title": "US inflation heats up in September; Fed rate hike this month back on table",
-          "source": "Reuters",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-10-14T21:45:35+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US CPI inflation report",
-          "feed": "en",
-          "importance_score": 77.0,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.88(0.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 77.0/100"
-        },
-        {
-          "title": "[그래픽] 미국 소비자물가 추이",
-          "source": "연합뉴스",
-          "publisher_domain": "yna.co.kr",
-          "published_at": "2026-10-14T12:52:17+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMWg2N1c2NGRqQ0ZnakJkRnRFY2I2d3NSdVZ1WVBnYllDYVRFVTUyTk14WUNxaDFyWlh3WTN4eUsxeFU3LXQxZWQtVXNIaUxIWG13UDctV3luR3PSAWBBVV95cUxOTDJiNmxEUjdFV1JweDFmZVFGVF9jUkNJekQyMFluT09NRlN5S3d0U1c5dmx0ODNvRS1yN3BOU0ZIRkxZenhkZTl1OWQwS3FMSXpMNW9kYlg0ODktZVBrYnY?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "미국 소비자물가 지수",
-          "feed": "ko",
-          "importance_score": 75.9,
-          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.83(1.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 75.9/100"
-        },
-        {
-          "title": "High gasoline prices expected to boost US consumer inflation in September",
-          "source": "Reuters",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-10-14T04:01:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlRYZDhRQWpqTmlJcWxGcDR4RGNleVlZQ2pqYlVZaW8ya01TS1NCUFUyaElVNUdJR2x0VWRxdGtaWl9wekdEUGVHUnktVUstSXFOcHloUWtLcFlQU0EzSW4yTENYU1NYX09VMUVRU3hQZ2prRjA1dVBTdll0QjNZaXJVbE5LSVNMODNVSkxlR05IeVpydy1hRFpuWWp0OWM0TXhXclVQWHNwWlZHRGNNNmRR?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US CPI inflation report",
-          "feed": "en",
-          "importance_score": 74.8,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.79(1.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 74.8/100"
-        },
-        {
-          "title": "Soaring Energy Prices Push Inflation Higher",
-          "source": "The New York Times",
-          "publisher_domain": "nytimes.com",
-          "published_at": "2026-10-15T04:20:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US CPI inflation report",
-          "feed": "en",
-          "importance_score": 70.3,
-          "importance_basis": "매체티어 1.00(nytimes.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.91(0.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 70.3/100"
-        },
-        {
-          "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
-          "source": "The New York Times",
-          "publisher_domain": "nytimes.com",
-          "published_at": "2026-10-14T20:22:19+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2OXA5blhFSVhQWC1HOGpGeDJCdkQxV0xyUHYxck1nUVlEa1QxMm5HV1lacEYxR09WNUM4cVhBTy1rZlNhalZ3WVVORkxMLWZMNGxIUnFMYVpEOWtZSXlRd3Z2TmExRUdqT0pBRHY5UGJFZFI4SldfUUd3?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US CPI inflation report",
-          "feed": "en",
-          "importance_score": 69.3,
-          "importance_basis": "매체티어 1.00(nytimes.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.87(1.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 69.3/100"
-        }
-      ]
+      "fetched_at": "2026-10-18T19:12:39.306062+00:00",
+      "articles": []
     },
     "unemployment": {
       "key": "unemployment",
-      "status": "ok",
+      "status": "fetch_failed",
       "relevance_terms": [],
       "dropped_irrelevant": 0,
-      "status_reason": null,
-      "found_count": 54,
-      "returned_count": 5,
+      "status_reason": "검색 요청이 모두 실패했습니다 — 기사가 없다는 뜻이 아닙니다. 네트워크를 확인한 뒤 다시 실행하십시오. 오류: google_news_rss[US unemployment rate jobs report/en]: HTTP Error 503: Service Unavailable; google_news_rss[nonfarm payrolls labor market/en]: HTTP Error 503: Service Unavailable",
+      "found_count": 0,
+      "returned_count": 0,
       "keywords": [
         "US unemployment rate jobs report",
         "nonfarm payrolls labor market",
@@ -229,119 +146,36 @@
         "미국 실업률 고용보고서",
         "미국 고용 둔화"
       ],
-      "queries": [
-        {
-          "keyword": "US unemployment rate jobs report",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "nonfarm payrolls labor market",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Sahm rule recession indicator",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "미국 실업률 고용보고서",
-          "feed": "ko",
-          "count": 25
-        },
-        {
-          "keyword": "미국 고용 둔화",
-          "feed": "ko",
-          "count": 25
-        }
+      "queries": [],
+      "providers_used": [],
+      "errors": [
+        "google_news_rss[US unemployment rate jobs report/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[nonfarm payrolls labor market/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[Sahm rule recession indicator/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[미국 실업률 고용보고서/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[미국 고용 둔화/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀"
       ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-10-15T20:10:58.479075+00:00",
-      "articles": [
-        {
-          "title": "US Firms Add Just 29,000 Jobs, Unemployment Rate Ticks Up",
-          "source": "Bloomberg.com",
-          "publisher_domain": "bloomberg.com",
-          "published_at": "2026-10-02T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGMydS1Cc2E1ZHNOcm1TYUVvbm5CNUVVRFFLaXlOTExPY1ZoNDROdjZIc2lBYnZsdUhBbDFlREZrR0FaSzQ3ekswMU9pYXJvaGs4N3FNUVBReEROdlVreVlGQlR5U2NSUTVhYlNKdGZsRkthNm9MTTBod0F6cHd0MG1iTkpkdDAxM3VuU0ZWUkhWWnNETTdMc19lbVctbUxIdE9CeHRXdjQ2RUk?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "nonfarm payrolls labor market",
-          "feed": "en",
-          "importance_score": 68.8,
-          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.15(13.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 68.8/100"
-        },
-        {
-          "title": "US job growth expected to slow in September; unemployment rate likely steady",
-          "source": "Reuters",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-10-02T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmpBVFdqekt5WEJQeF8zZkEzQ0prUUdiY3lzNVM3TUVXSndIazJYSmNOajZNWGViZ1ZGaUszb1JEaF92cjlDdUN3aGVyQXQ5d1VseFFINzZxMTJYbURVOFJFYmlfN29kbFItakZhczNLc3dJZks1Q1hqZ3ZwNUhucEc3ZmxCd0kxbEJFZWlHRkZVdFM1M09iUnZ4bHRLYnJBUllhOTZYNnhhVXdRM1lGbTgtc2M?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US unemployment rate jobs report",
-          "feed": "en",
-          "importance_score": 66.3,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.15(13.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 66.3/100"
-        },
-        {
-          "title": "US job growth undershoots expectations in September, but labor market remains stable",
-          "source": "Reuters",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-10-02T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US unemployment rate jobs report",
-          "feed": "en",
-          "importance_score": 66.3,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.15(13.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 66.3/100"
-        },
-        {
-          "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-          "source": "CNBC",
-          "publisher_domain": "cnbc.com",
-          "published_at": "2026-10-02T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjc1c3eWxhak03S19wOWloT192VXI2UGhzeHJLZDBMRnZxdGNwaEhxQ2Y1LWNqZFQtc2o5bk9BeW5uSnI5WVVNcDJMeXRmblA0aTloYlAzQUFYTzFJMW1Wc0ZrVkpLZFUwbGRfNmpjOWjSAXZBVV95cUxOUnZ1bXVuT3Y0RHBfSHFjVkJiWnhYb3J2ajZ6Qkd6UlQ1a2xEejMwVG9tdzRNbDJSU1gtcEJ1UXNVTWFFWC1XVFdxazlWTl9FcUxwdXNZeExGRUo0QnVTbHMwVmZLQy1zNEEzM3JqYnNmZUpvazR3?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US unemployment rate jobs report",
-          "feed": "en",
-          "importance_score": 60.8,
-          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 5개→1.00×0.25 + 최신성 0.15(13.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 60.8/100"
-        },
-        {
-          "title": "US hiring slows and unemployment ticks higher with a month remaining before Americans head to polls",
-          "source": "AP News",
-          "publisher_domain": "apnews.com",
-          "published_at": "2026-10-02T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3JiUTV3TldIc0JJUmgwMnBSUmxYZmlfT2pqSjg3UzV3SWRWZXZBbzF6U3I5MFJjZjJmS3dObzZ0SHJXTWVZaUNoR0U3MFpqdzhRZGpSbkFWa0RiT1ZONjd5SzRSS01iLWNRWEtGeHlTRzE0Qi1rbmgtclhMd0E0X21nTzhiNVE5blFIRHkxN3Yxb2pHWmk4b2I3aw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US unemployment rate jobs report",
-          "feed": "en",
-          "importance_score": 58.8,
-          "importance_basis": "매체티어 1.00(apnews.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.15(13.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 58.8/100"
-        }
-      ]
+      "fetched_at": "2026-10-18T19:26:23.315203+00:00",
+      "articles": []
     },
     "fed_stance": {
       "key": "fed_stance",
-      "status": "ok",
+      "status": "fetch_failed",
       "relevance_terms": [],
       "dropped_irrelevant": 0,
-      "status_reason": null,
-      "found_count": 30,
-      "returned_count": 5,
+      "status_reason": "검색 요청이 모두 실패했습니다 — 기사가 없다는 뜻이 아닙니다. 네트워크를 확인한 뒤 다시 실행하십시오. 오류: google_news_rss[Fed rate decision FOMC/en]: HTTP Error 503: Service Unavailable; google_news_rss[Powell press conference rate cut/en]: HTTP Error 503: Service Unavailable",
+      "found_count": 0,
+      "returned_count": 0,
       "keywords": [
         "Fed rate decision FOMC",
         "Powell press conference rate cut",
@@ -349,205 +183,69 @@
         "연준 금리 인하 결정",
         "FOMC 의사록 파월 발언"
       ],
-      "queries": [
-        {
-          "keyword": "Fed rate decision FOMC",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Powell press conference rate cut",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "FOMC minutes dot plot",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "연준 금리 인하 결정",
-          "feed": "ko",
-          "count": 25
-        },
-        {
-          "keyword": "FOMC 의사록 파월 발언",
-          "feed": "ko",
-          "count": 25
-        }
+      "queries": [],
+      "providers_used": [],
+      "errors": [
+        "google_news_rss[Fed rate decision FOMC/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[Powell press conference rate cut/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[FOMC minutes dot plot/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[연준 금리 인하 결정/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[FOMC 의사록 파월 발언/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀"
       ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-10-15T20:11:14.531379+00:00",
-      "articles": [
-        {
-          "title": "Fed rate hike call seen tight as inflation heats up",
-          "source": "Reuters",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-10-14T14:22:26+00:00",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjl1ZWZGd2lIRXg1US1hUjNacTVDN2o5S2lIcXpCdnZ1VHBXcEpqOHV5SzJJZHJrT3RxYjdrRjRrRU03eHNGTTFRMnVCVEdZa0VfLU9BeFdSeTE1aFRrc3ZRampyOFVTczZRbWk0azFBakVndUJ1X0NjVmJmV1JmeXNXSlFkNzF0NUZKTUUyUnlHWi1sOXFpVHV5NnVvcDA?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Fed rate decision FOMC",
-          "feed": "en",
-          "importance_score": 76.0,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.84(1.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 76.0/100"
-        },
-        {
-          "title": "Why Kevin Warsh Again Skipped the Fed’s Dot Plot",
-          "source": "Bloomberg.com",
-          "publisher_domain": "bloomberg.com",
-          "published_at": "2026-09-16T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYXVET2MyaEFIZWp4NEVORXlLcVZoTHo3MGt2SlUyczl5Z1REUzJpS1hHNkxoOFVpMVNVTXM1aWpqV2ZnNUxIZE14MmlkWTNQYXVhX1BPR2pMRWVEazZyWTJTdW1YaGpyS0lId01iWk11NkMtaUdoS3g2NzJ4eTZjUkxkakNPeWltN01EMmhqV1lWN2RtRkUxRlk5SnctRWxL?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "FOMC minutes dot plot",
-          "feed": "en",
-          "importance_score": 62.9,
-          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.02(29.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 62.9/100"
-        },
-        {
-          "title": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow: Reuters Poll",
-          "source": "Reuters",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-09-14T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtGdWt3WFV1bmpCR2REM0NZMkZIOEE2c3BRdFhrc21CcUpVUEx6QTdOdDZOQ3dGV2pmYmxOVDA3WjJoclVnZlB2cXl5R3NfSDh6cy0zWGRoUFU1UjA4LTVFckZHWkVBUkJpdWtFaTFvTWNjM1IzVi1sSGhZNmNETzdJcUhOOF9MN2pGSXNyelRkSFlIUktUT1ZjX1VIY2MxQV80NWNLVi1hS0s0bEpaR2FGbzRzeVE?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Fed rate decision FOMC",
-          "feed": "en",
-          "importance_score": 55.3,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(31.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 55.3/100"
-        },
-        {
-          "title": "트럼프, 연준 결정 비판… “美 금리 1% 이하로 서둘러 낮춰야”",
-          "source": "Chosunbiz",
-          "publisher_domain": "biz.chosun.com",
-          "published_at": "2026-09-17T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWW92RGgzWlRKUWM2bHliRkxWb0c3SmNkSWVpa3hmZG9DSHZtRDF0TGlHbUtTa2RValItbGJtdGdUUWdhVTV1MWtzdHJ2N0c5a0ZfdjQxMjlEOGJObzRuQnFpRGpCYVotX0ZuNzNQOFduNjN3TVFkRGtsWWlpNFVrV1lvLWhRR0VnTnNVcHJkNXZuejhyYnZqVW14TGdGQdIBsgFBVV95cUxNa0hOTFJrYTZGUmFGckFfQU9ZQ1hZcGctVUdBOG11UDIyc3VHQWFNZDBlZmtmV0xjc1RjQnJjQ0lxRHRQbHliQ0J0NFFzOTZibW5yT0x0eFBxdFg2YVZWZW1lU19sOTNibWRkejh5bUVvUUt0NVh6Z0ZjQ3cxUGthZXg2eTZsT1VlZmNXS1BUYlUtMm5HcUthWUZjeUU5OGxHTGtyaUxZbVFfZElVcHpkVjN3?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "연준 금리 인하 결정",
-          "feed": "ko",
-          "importance_score": 55.0,
-          "importance_basis": "매체티어 0.80(chosun.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.02(28.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 55.0/100"
-        },
-        {
-          "title": "Fed minutes show most policymakers see another rate hike by year end",
-          "source": "Investing.com",
-          "publisher_domain": "investing.com",
-          "published_at": "2026-10-07T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWhpWk5uY3NST1ZOaDNiM0NnUTBHUkdYaEJWa1daUjdjQXU0bmhNN3AyR0R4UXlydXZXdXZRVlEtTWNsNUlTZWtTRUdyNXNQc3hMQi1wc2t4TEVtcEdRazE1dkhUa0hCUWZxcnBTZXp6cU8wRl9vUDhCazVEbFR4RTVrWjZ4MGdSNmNZczRldFBTOHFxRzFKTVFoTnZkVTE2S1BBTGN3RHFBSUstSjQybmJWWFkxT1EyU1RsQg?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "FOMC minutes dot plot",
-          "feed": "en",
-          "importance_score": 54.1,
-          "importance_basis": "매체티어 0.60(investing.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.31(8.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 54.1/100"
-        }
-      ]
+      "fetched_at": "2026-10-18T19:40:13.259623+00:00",
+      "articles": []
     },
     "fed_balance_sheet": {
       "key": "fed_balance_sheet",
-      "status": "partial",
+      "status": "fetch_failed",
       "relevance_terms": [],
       "dropped_irrelevant": 0,
-      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
-      "found_count": 3,
-      "returned_count": 3,
+      "status_reason": "검색 요청이 모두 실패했습니다 — 기사가 없다는 뜻이 아닙니다. 네트워크를 확인한 뒤 다시 실행하십시오. 오류: google_news_rss[Fed balance sheet quantitative tightening/en]: HTTP Error 503: Service Unavailable; google_news_rss[Fed QT end runoff/en]: HTTP Error 503: Service Unavailable",
+      "found_count": 0,
+      "returned_count": 0,
       "keywords": [
         "Fed balance sheet quantitative tightening",
         "Fed QT end runoff",
         "연준 대차대조표 축소",
         "양적긴축 종료"
       ],
-      "queries": [
-        {
-          "keyword": "Fed balance sheet quantitative tightening",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Fed QT end runoff",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "연준 대차대조표 축소",
-          "feed": "ko",
-          "count": 25
-        },
-        {
-          "keyword": "양적긴축 종료",
-          "feed": "ko",
-          "count": 25
-        }
+      "queries": [],
+      "providers_used": [],
+      "errors": [
+        "google_news_rss[Fed balance sheet quantitative tightening/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[Fed QT end runoff/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[연준 대차대조표 축소/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[양적긴축 종료/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀"
       ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-10-15T20:11:30.977265+00:00",
-      "articles": [
-        {
-          "title": "Shrinking the Fed’s balance sheet is easier said than done",
-          "source": "Stanford Institute for Economic Policy Research (SIEPR)",
-          "publisher_domain": "siepr.stanford.edu",
-          "published_at": "2026-09-25T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OT3BLUnctdFBMMGRhYkR0RmdSdDJhWUswZ09nUFh5dFhPaWJydHp2Zmo1aW9NemhzYmVPcUV6eUFrNEphUEo4VzVxdDQ3YzJYT0M4MkhJazNOT09GdldEVE9YSnJwSmI4WUMtTDJ5cGNxM3lKbXc?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Fed balance sheet quantitative tightening",
-          "feed": "en",
-          "importance_score": 33.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.06(20.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 33.9/100"
-        },
-        {
-          "title": "Can Kevin Warsh Shrink the Fed’s $6.75 Trillion Balance Sheet?",
-          "source": "Equiti Global",
-          "publisher_domain": "equiti.com",
-          "published_at": "2026-09-14T15:27:46+00:00",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUZYWTZmSnZiZWJSX3BULVFyVE1FUkE2T1F1Ymgwd3U4LUlJR3hWaHRPc0dYOXp3aXBqMU5SM1hnMFltbXFEWldsNlRzM3Y1TjhXd1VOWHBsNUJDRXRVQ21tR2tLUnpSVTRvSW5xekU5UTEwWFNRbjZBd1RiTEF1WXc1YXhfMFd4Q0ZQcmlmN2VJclBjZUFTWHRtUzVJZ3c?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Fed balance sheet quantitative tightening",
-          "feed": "en",
-          "importance_score": 32.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(31.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.8/100"
-        },
-        {
-          "title": "Turning on the Spigot",
-          "source": "Brownstone Research",
-          "publisher_domain": "brownstoneresearch.com",
-          "published_at": "2026-10-05T22:00:41+00:00",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Qb3VqRlpvZFU1bkJXa2NJRm9SVWRGNF9NcEo3U002ODlEYkFqbnktbHNUTFhFU0hMZDJ5N25GaFVNckR0R2NOV3gwbXIyZUdEbXkwTENRcmxFQ05XR1FMeVExM0xadjRPeEFtSXJ0b1N2bnY1eDBtUlIwU2RYYTA?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Fed balance sheet quantitative tightening",
-          "feed": "en",
-          "importance_score": 16.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.25(9.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 16.3/100"
-        }
-      ]
+      "fetched_at": "2026-10-18T19:53:44.512200+00:00",
+      "articles": []
     },
     "reserves": {
       "key": "reserves",
-      "status": "ok",
+      "status": "fetch_failed",
       "relevance_terms": [],
       "dropped_irrelevant": 0,
-      "status_reason": null,
-      "found_count": 8,
-      "returned_count": 5,
+      "status_reason": "검색 요청이 모두 실패했습니다 — 기사가 없다는 뜻이 아닙니다. 네트워크를 확인한 뒤 다시 실행하십시오. 오류: google_news_rss[bank reserves scarcity repo market/en]: HTTP Error 503: Service Unavailable; google_news_rss[SOFR spike funding stress/en]: HTTP Error 503: Service Unavailable",
+      "found_count": 0,
+      "returned_count": 0,
       "keywords": [
         "bank reserves scarcity repo market",
         "SOFR spike funding stress",
@@ -558,319 +256,98 @@
         "은행 지급준비금",
         "단기자금시장 경색"
       ],
-      "queries": [
-        {
-          "keyword": "bank reserves scarcity repo market",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "SOFR spike funding stress",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "지급준비금 부족 레포 시장",
-          "feed": "ko",
-          "count": 10
-        },
-        {
-          "keyword": "bank reserves Fed",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "ample reserves regime",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "repo market funding pressure",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "은행 지급준비금",
-          "feed": "ko",
-          "count": 25
-        },
-        {
-          "keyword": "단기자금시장 경색",
-          "feed": "ko",
-          "count": 25
-        }
+      "queries": [],
+      "providers_used": [],
+      "errors": [
+        "google_news_rss[bank reserves scarcity repo market/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[SOFR spike funding stress/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[지급준비금 부족 레포 시장/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[bank reserves Fed/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[ample reserves regime/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[repo market funding pressure/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[은행 지급준비금/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[단기자금시장 경색/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀"
       ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-10-15T20:11:43.935618+00:00",
-      "articles": [
-        {
-          "title": "美 재무부가 푼 91조 원이 은행 곳간 채웠다…달러 유동성 가뭄 속 단기 숨통",
-          "source": "글로벌이코노믹",
-          "publisher_domain": "g-enews.com",
-          "published_at": "2026-10-14T18:15:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdy1vbHVYMzFoeFlFOWpzeVFxTkdHcUU4WDJfWEJnYnE1TTU5bENEaGpVLTRaTEZIWHB0ZlpKNklCa3RVakE3YjNESnpNX2pMdjY3WVpTU2wyM2ZTYlVrcFZRellFTnNhbk5menY5NzFIb3h2UlBWWVFmRW1kOXVQVVB1OUwyQkJw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "은행 지급준비금",
-          "feed": "ko",
-          "importance_score": 39.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.86(1.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.0/100"
-        },
-        {
-          "title": "ECB 분슈, 신뢰성·재정정책 우려로 은행 지급준비금 부과금 인상 반대",
-          "source": "IndexBox",
-          "publisher_domain": "indexbox.io",
-          "published_at": "2026-10-08T13:20:33+00:00",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVEk1WmUyX3ZPQ3Q0Tl95MmRrZVR0M2JlN3JoN2dpWm4xY29rZXprYjYxVXVvMmFMV0RaT2g2WFB4LVNQSjZZdUlJT213OG9NT2F0LXh5VFpHUUFQQmZzWXVmSWFvU0lsSFFzak1UX2hxV0lXeFN2Zl9KdWYwTTVNdFdMcmVvV3NyV3VJQklGV1hZZUFYZXc?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "은행 지급준비금",
-          "feed": "ko",
-          "importance_score": 34.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.36(7.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 34.1/100"
-        },
-        {
-          "title": "美 연준, 두 달 연속 단기 국채 매입 중단…\"은행 지급준비금 충분\"",
-          "source": "블루밍비트",
-          "publisher_domain": "bloomingbit.io",
-          "published_at": "2026-09-14T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XRnVUZWxDaFNaOUFuTkt6bzhNeEF6VHI3XzVFcXQtRndmUGhDOUVFc282RXFvMUhkRzN2dUFCaGx1eXRQbzB4MnYxbGZ3UTN1?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "은행 지급준비금",
-          "feed": "ko",
-          "importance_score": 25.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(31.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.3/100"
-        },
-        {
-          "title": "본원통화는 어디서 생기나…한국은행 공급과 은행 대출",
-          "source": "비건뉴스",
-          "publisher_domain": "vegannews.co.kr",
-          "published_at": "2026-09-26T19:39:42+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmT3Ewc25wam5ydmxhaTJ1RkJwUzNTRS1LVnp1a1A0bXQxY21sbGJfang2OHJsUThHT0JLTnE4SGxyZVF4WWFoMjRSVjFNb05LUWtaT2JWRXVNV0ZpVk01c1JoMVUtQQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "은행 지급준비금",
-          "feed": "ko",
-          "importance_score": 19.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.07(19.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 19.3/100"
-        },
-        {
-          "title": "연준, 지급준비금 2조 9250억 달러 후퇴…재무부, 현금 확보 여파",
-          "source": "글로벌이코노믹",
-          "publisher_domain": "m.g-enews.com",
-          "published_at": "2026-09-03T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LUEJMYWI5UUhldG1nVzkweU1INUxmeTZmWUoxQWhHTzNXM0t5eDBMZ0NRZ2xXTlhMellUNWFXYkxIRU1ETTRuMUh5NW5aUTQwZ040c3pKc3dMR2FkRC1WRXJkWDdvclZES1pvLW92RC0?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "은행 지급준비금",
-          "feed": "ko",
-          "importance_score": 17.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(42.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
-        }
-      ]
+      "fetched_at": "2026-10-18T20:04:50.435644+00:00",
+      "articles": []
     },
     "net_liquidity": {
       "key": "net_liquidity",
-      "status": "partial",
+      "status": "fetch_failed",
       "relevance_terms": [],
       "dropped_irrelevant": 0,
-      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
-      "found_count": 3,
-      "returned_count": 3,
+      "status_reason": "검색 요청이 모두 실패했습니다 — 기사가 없다는 뜻이 아닙니다. 네트워크를 확인한 뒤 다시 실행하십시오. 오류: google_news_rss[net liquidity TGA drain/en]: HTTP Error 503: Service Unavailable; google_news_rss[Treasury General Account rebuild bill issuance/en]: HTTP Error 503: Service Unavailable",
+      "found_count": 0,
+      "returned_count": 0,
       "keywords": [
         "net liquidity TGA drain",
         "Treasury General Account rebuild bill issuance",
         "reverse repo facility drain",
         "재무부 일반계정 국채 발행"
       ],
-      "queries": [
-        {
-          "keyword": "net liquidity TGA drain",
-          "feed": "en",
-          "count": 17
-        },
-        {
-          "keyword": "Treasury General Account rebuild bill issuance",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "reverse repo facility drain",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "재무부 일반계정 국채 발행",
-          "feed": "ko",
-          "count": 0
-        }
+      "queries": [],
+      "providers_used": [],
+      "errors": [
+        "google_news_rss[net liquidity TGA drain/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[Treasury General Account rebuild bill issuance/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[reverse repo facility drain/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[재무부 일반계정 국채 발행/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀"
       ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-10-15T20:12:09.111286+00:00",
-      "articles": [
-        {
-          "title": "US Treasury to sell USD 110bln of 4-week bills and USD 105bln of 8-week bills on October 15th; to sell USD 75bln of 17-week bills on October 14th; all to settle Ocotber 20th",
-          "source": "Newsquawk",
-          "publisher_domain": "newsquawk.com",
-          "published_at": "2026-10-13T15:21:53+00:00",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNbDdVWWpPVlZpemtGam1aNGpvZHhBMmw1MkQ4V1NEc2NIZzdsQWZqYnFoVlJ4eDEtMDFIdFM0QzFHT2ozbXBmanpKbWNBbElTWDZReWx0dndWWU0wNFNlWS11T2d4TDFLYWNzOEFORTR3V2ZwbnE4UGp5WmZFNjJCdnNUcVdaVUZCM3hEcVR3TThEaGIyYmtKcE51ZmNDSXd3VlJuSzlCQUZLSTV5N0NmZVdnYS1nWDNYb1BUTWFhM1NIb2ZZd3hxYUFTaWFkcGhCLWlDTTAxT0d6d0dtT2w2QUY2WktweGpxNGtTMW1YdGNLZ093LTY2ejFkV25FODBuSVdrd1JBZUIyXzJ1S2Q0VG5VR3kyYmNGQlFvb1NhUmlyS1Z5V28wcXNqSnBva2xW?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Treasury General Account rebuild bill issuance",
-          "feed": "en",
-          "importance_score": 35.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.74(2.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.9/100"
-        },
-        {
-          "title": "Explainer: The Role of the Treasury and the Fed in Managing the National Debt",
-          "source": "The Conference Board",
-          "publisher_domain": "conference-board.org",
-          "published_at": "2026-10-09T14:41:39+00:00",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0d6dXZDZEZqUGpYS0dBRHJkdnZacS16clhGYlVGcTRhazlZMmUzTHRBUEMydWU2RUJNM2xRYkNJZkcwR3BxX0FhS1lzWmFpdU5CX05HVVJnS3RnMUpLZXFieDN3QU9YUFp3bmlOSDliT05ULXNjLTdEeVVqRlBTS2ZkaVJ1aXdvRmlPbExHZjlwckJGa29Fc3N4UENCeWFVRzdxOTRWaDl1RDJPSE9qejVn?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Treasury General Account rebuild bill issuance",
-          "feed": "en",
-          "importance_score": 28.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.42(6.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 28.0/100"
-        },
-        {
-          "title": "RBI said to use dollar swaps to drain record banking cash glut",
-          "source": "PRESS Insider",
-          "publisher_domain": "pressinsider.com",
-          "published_at": "2026-09-09T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUE2QTA3MWdacWFJVjlrcWg4RUllREd6czFlM0hKSzVaWjdxdXl2VWkyNTdISGdzbDI3QW5raV9xb0E2WkN0amxCUmtzVnljZHZFcGoyX21YYUw4SlNRZ01teWdoTXZxcWI5XzdfWDdhMTVYcDZiSVljbWFrWUFicnRJbmFacUtUbUg3ZmdhemNqeW16TUlOM0d1TQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "reverse repo facility drain",
-          "feed": "en",
-          "importance_score": 17.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(36.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.7/100"
-        }
-      ]
+      "fetched_at": "2026-10-18T20:26:34.337480+00:00",
+      "articles": []
     },
     "tga": {
       "key": "tga",
-      "status": "ok",
+      "status": "fetch_failed",
       "relevance_terms": [],
       "dropped_irrelevant": 0,
-      "status_reason": null,
-      "found_count": 17,
-      "returned_count": 5,
+      "status_reason": "검색 요청이 모두 실패했습니다 — 기사가 없다는 뜻이 아닙니다. 네트워크를 확인한 뒤 다시 실행하십시오. 오류: google_news_rss[Treasury General Account balance/en]: HTTP Error 503: Service Unavailable; google_news_rss[debt ceiling TGA/en]: HTTP Error 503: Service Unavailable",
+      "found_count": 0,
+      "returned_count": 0,
       "keywords": [
         "Treasury General Account balance",
         "debt ceiling TGA",
         "재무부 일반계정 잔고"
       ],
-      "queries": [
-        {
-          "keyword": "Treasury General Account balance",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "debt ceiling TGA",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "재무부 일반계정 잔고",
-          "feed": "ko",
-          "count": 17
-        }
+      "queries": [],
+      "providers_used": [],
+      "errors": [
+        "google_news_rss[Treasury General Account balance/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[debt ceiling TGA/en]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀",
+        "google_news_rss[재무부 일반계정 잔고/ko]: HTTP Error 503: Service Unavailable",
+        "newsapi: API 키 없음(환경변수 미설정) — 건너뜀",
+        "bing_news: API 키 없음(환경변수 미설정) — 건너뜀"
       ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-10-15T20:12:25.379166+00:00",
-      "articles": [
-        {
-          "title": "Treasury General Account Balance Rises on Debt Issuance, Redemptions",
-          "source": "IndexBox",
-          "publisher_domain": "indexbox.io",
-          "published_at": "2026-10-14T20:10:23+00:00",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnQ5M3RmcGdFREJLb0ppcXUyRXE0RTlVcFpGM0R2YzFDYTNWa3NSN2tlVUFVZXB2eFBBNGRLcHBfZlZwdm5OaTV6UC1pWDdPWThxV1FjWVlXYW9idmppeDRuYlJKWjRfMVd4RV9RVDc0N3FBdkJsalZSS1VnbnBqZzdiM0sybm1ySWdvaGZtemVKOExSNW1HUE9CVnhUdw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Treasury General Account balance",
-          "feed": "en",
-          "importance_score": 56.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 5개→1.00×0.25 + 최신성 0.87(1.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.8/100"
-        },
-        {
-          "title": "Treasury General Account Balance Edges Higher on October 8, 2026",
-          "source": "IndexBox",
-          "publisher_domain": "indexbox.io",
-          "published_at": "2026-10-09T20:31:51+00:00",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUVXN2FYRnZGUUZpT3ZBbFFVRXRwTEplTTNHUWNOWE5wYUVwRS1iN3FpM0dCdDFtTHhKblRheTBBcmI2ZTJLZmp3YUxlQUVWQXJ6WXZIZHpzNS0ta1JncXRKWGVvaGVPQkVrR3Y5SjFwb2NFeXhDTU5yQ2J2SEM2RTRHYU00UWFrVWUydDVVVjZoYUxfM0QyLUFwc1Y?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Treasury General Account balance",
-          "feed": "en",
-          "importance_score": 49.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.44(6.0일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 49.3/100"
-        },
-        {
-          "title": "Treasury General Account Balance Increases by 12,154 on 2026-10-05",
-          "source": "IndexBox",
-          "publisher_domain": "indexbox.io",
-          "published_at": "2026-10-06T20:40:22+00:00",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdFRvOWFoZ1FKbmtGUTB3WmVRMWluZkozaWJYbW9tYk9BYjVnaWJiVVY1MG9ybU1iekpzVEQwLUlnREpnS19JeDBxQUxDTkFjdm5ITTNFU0t4YkZVTm8tY3BFMC1tcXl2Nm5odldSb1V5RDg2WUVEOFBQZWIxdVVJc0lrOEMxYV9SbVFMWHpCbHIyeWtBVXZGLUliajZwZ29VdWZ2dTNCaU1PUkh2MDVSaVl6S21DenpqLU5kaQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Treasury General Account balance",
-          "feed": "en",
-          "importance_score": 42.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.29(9.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.2/100"
-        },
-        {
-          "title": "Treasury General Account Balance Declines on October 2, 2026",
-          "source": "IndexBox",
-          "publisher_domain": "indexbox.io",
-          "published_at": "2026-10-02T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWxPV1pPa0dsNGp6ZUtFR0RZODZNMXlSZ3pYeWt1b0ZMSHFDNHJCUU1SdTlhd3BTdzBmMFVueWdhaTl5Qkd6SlM2TnNzdTRaNDZ0dV9NX01ORVZ0aGV5QmUteFFzLXJCdFhvNjY5Z2xBcWdFOFJYRTJjOUllMXVyMVVmdEJPTWluMnJMektQREQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Treasury General Account balance",
-          "feed": "en",
-          "importance_score": 42.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.15(13.6일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 42.2/100"
-        },
-        {
-          "title": "Treasury General Account Balance Rises on September 25, 2026",
-          "source": "IndexBox",
-          "publisher_domain": "indexbox.io",
-          "published_at": "2026-09-28T20:30:19+00:00",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHhzNzhycDRUbmhQWW9mNF83OWIzM3FON0xwRzNlTkthd1R5ek9XMmVKLS1qeEdKQzRmb2JJbGJkT2NqUDZiczNaNUpydDRQQWtaNTJmMS1uNVBoZ2J3Uno1Yl9kWThPc29qSDlad1F6WDVlWDc5U092Ni1rTjJDYlB0R2I4WS02cWJYT1ZjejlPNWJuMkhQclZ2c240R3dR?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Treasury General Account balance",
-          "feed": "en",
-          "importance_score": 40.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.09(17.0일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 40.8/100"
-        }
-      ]
+      "fetched_at": "2026-10-18T20:37:24.838087+00:00",
+      "articles": []
     },
     "rrp": {
       "key": "rrp",
