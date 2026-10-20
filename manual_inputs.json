@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-10-19T21:20:25.053378+00:00",
+  "updated_at": "2026-10-20T20:16:25.801833+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -14,9 +14,9 @@
       "company_ko": "CrowdStrike Holdings",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 89.9,
+      "rs_score": 88.6,
       "rank": 1,
-      "selected_at": "2026-10-19",
+      "selected_at": "2026-10-20",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -51,46 +51,9 @@
       "company_ko": "Petroleo Brasileiro S.A. Petrobras ADS",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 87.8,
+      "rs_score": 84.5,
       "rank": 2,
-      "selected_at": "2026-10-19",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "DELL",
-      "search_ticker": "DELL",
-      "company_en": "Dell Technologies",
-      "company_ko": "Dell Technologies",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 86.0,
-      "rank": 3,
-      "selected_at": "2026-10-19",
+      "selected_at": "2026-10-20",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -125,9 +88,46 @@
       "company_ko": "Marvell Technology",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 85.1,
+      "rs_score": 82.3,
+      "rank": 3,
+      "selected_at": "2026-10-20",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "MRK",
+      "search_ticker": "MRK",
+      "company_en": "Merck & Company",
+      "company_ko": "Merck & Company",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 82.0,
       "rank": 4,
-      "selected_at": "2026-10-19",
+      "selected_at": "2026-10-20",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -162,46 +162,9 @@
       "company_ko": "ConocoPhillips",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 81.5,
+      "rs_score": 78.9,
       "rank": 5,
-      "selected_at": "2026-10-19",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "000500.KS",
-      "search_ticker": "가온전선",
-      "company_en": "가온전선",
-      "company_ko": "가온전선",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 89.0,
-      "rank": 1,
-      "selected_at": "2026-10-19",
+      "selected_at": "2026-10-20",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -236,9 +199,46 @@
       "company_ko": "삼성SDI",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 80.0,
+      "rs_score": 77.7,
+      "rank": 1,
+      "selected_at": "2026-10-20",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "000500.KS",
+      "search_ticker": "가온전선",
+      "company_en": "가온전선",
+      "company_ko": "가온전선",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 76.5,
       "rank": 2,
-      "selected_at": "2026-10-19",
+      "selected_at": "2026-10-20",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -273,9 +273,9 @@
       "company_ko": "SK이노베이션",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 79.3,
+      "rs_score": 76.2,
       "rank": 3,
-      "selected_at": "2026-10-19",
+      "selected_at": "2026-10-20",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -304,15 +304,15 @@
       }
     },
     {
-      "ticker": "222800.KQ",
-      "search_ticker": "심텍",
-      "company_en": "심텍",
-      "company_ko": "심텍",
+      "ticker": "033780.KS",
+      "search_ticker": "KT&G",
+      "company_en": "KT&G",
+      "company_ko": "KT&G",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 79.3,
+      "rs_score": 65.4,
       "rank": 4,
-      "selected_at": "2026-10-19",
+      "selected_at": "2026-10-20",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -341,15 +341,15 @@
       }
     },
     {
-      "ticker": "010950.KS",
-      "search_ticker": "S-Oil",
-      "company_en": "S-Oil",
-      "company_ko": "S-Oil",
+      "ticker": "036930.KQ",
+      "search_ticker": "주성엔지니어링",
+      "company_en": "주성엔지니어링",
+      "company_ko": "주성엔지니어링",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 76.7,
+      "rs_score": 65.0,
       "rank": 5,
-      "selected_at": "2026-10-19",
+      "selected_at": "2026-10-20",
       "conditions": {
         "capacity_gap": {
           "value": null,
