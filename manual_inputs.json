@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-10-27T21:06:35.737318+00:00",
+  "updated_at": "2026-10-28T21:30:06.412272+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -14,46 +14,9 @@
       "company_ko": "CrowdStrike Holdings",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 95.4,
+      "rs_score": 95.5,
       "rank": 1,
-      "selected_at": "2026-10-27",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "DELL",
-      "search_ticker": "DELL",
-      "company_en": "Dell Technologies",
-      "company_ko": "Dell Technologies",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 94.6,
-      "rank": 2,
-      "selected_at": "2026-10-27",
+      "selected_at": "2026-10-28",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -88,9 +51,83 @@
       "company_ko": "Marvell Technology",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 94.3,
+      "rs_score": 93.8,
+      "rank": 2,
+      "selected_at": "2026-10-28",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "DELL",
+      "search_ticker": "DELL",
+      "company_en": "Dell Technologies",
+      "company_ko": "Dell Technologies",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 92.9,
       "rank": 3,
-      "selected_at": "2026-10-27",
+      "selected_at": "2026-10-28",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "PANW",
+      "search_ticker": "PANW",
+      "company_en": "Palo Alto Networks",
+      "company_ko": "Palo Alto Networks",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 87.4,
+      "rank": 4,
+      "selected_at": "2026-10-28",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -125,46 +162,9 @@
       "company_ko": "Advanced Micro Devices",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 90.8,
-      "rank": 4,
-      "selected_at": "2026-10-27",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "MU",
-      "search_ticker": "MU",
-      "company_en": "Micron Technology",
-      "company_ko": "Micron Technology",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 88.8,
+      "rs_score": 86.7,
       "rank": 5,
-      "selected_at": "2026-10-27",
+      "selected_at": "2026-10-28",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -199,9 +199,9 @@
       "company_ko": "가온전선",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 80.6,
+      "rs_score": 93.5,
       "rank": 1,
-      "selected_at": "2026-10-27",
+      "selected_at": "2026-10-28",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -230,15 +230,15 @@
       }
     },
     {
-      "ticker": "028050.KS",
-      "search_ticker": "삼성E&A",
-      "company_en": "삼성E&A",
-      "company_ko": "삼성E&A",
+      "ticker": "222800.KQ",
+      "search_ticker": "심텍",
+      "company_en": "심텍",
+      "company_ko": "심텍",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 79.4,
+      "rs_score": 88.8,
       "rank": 2,
-      "selected_at": "2026-10-27",
+      "selected_at": "2026-10-28",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -273,9 +273,9 @@
       "company_ko": "주성엔지니어링",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 77.6,
+      "rs_score": 86.2,
       "rank": 3,
-      "selected_at": "2026-10-27",
+      "selected_at": "2026-10-28",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -310,9 +310,9 @@
       "company_ko": "대덕전자",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 60.6,
+      "rs_score": 81.2,
       "rank": 4,
-      "selected_at": "2026-10-27",
+      "selected_at": "2026-10-28",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -341,15 +341,15 @@
       }
     },
     {
-      "ticker": "021240.KS",
-      "search_ticker": "코웨이",
-      "company_en": "코웨이",
-      "company_ko": "코웨이",
+      "ticker": "028050.KS",
+      "search_ticker": "삼성E&A",
+      "company_en": "삼성E&A",
+      "company_ko": "삼성E&A",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 59.4,
+      "rs_score": 76.5,
       "rank": 5,
-      "selected_at": "2026-10-27",
+      "selected_at": "2026-10-28",
       "conditions": {
         "capacity_gap": {
           "value": null,
