@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T20:56:55.646805+00:00",
+  "generated_at": "2026-11-02T23:47:04.216744+00:00",
   "config_version": "0.1.0",
   "method": {
     "definition_ko": "벤치마크 대비 초과수익 기반 상대강도(RS) 모멘텀 상위 종목",
@@ -29,10 +29,10 @@
   "markets": {
     "US": {
       "universe_size": 100,
-      "universe_full_size": 972,
+      "universe_full_size": 961,
       "rank_universe_top_by_cap": 100,
       "passed_filters": 60,
-      "as_of": "2026-10-30",
+      "as_of": "2026-11-02",
       "benchmark": "SPY",
       "dropped": {
         "history": 4,
@@ -51,14 +51,14 @@
       "universe_size": 100,
       "universe_full_size": 800,
       "rank_universe_top_by_cap": 100,
-      "passed_filters": 21,
-      "as_of": "2026-10-30",
+      "passed_filters": 23,
+      "as_of": "2026-11-02",
       "benchmark": "^KS11",
       "dropped": {
         "history": 0,
-        "dma200": 76,
-        "turnover": 3,
-        "drawdown": 0,
+        "dma200": 75,
+        "turnover": 1,
+        "drawdown": 1,
         "nodata": 0
       },
       "universe_source": "네이버 금융 모바일 API (시가총액 순위) + KRX KIND (업종·주요제품 보강)",
@@ -72,130 +72,46 @@
   "leaders": {
     "US": [
       {
-        "symbol": "CRWD",
-        "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
-        "exchange": "NASDAQ",
-        "sector": null,
-        "products": null,
-        "market_cap": 267400583988,
-        "price": 250.43,
-        "as_of": "2026-10-30",
-        "avg_turnover_60d": 2337187304,
-        "pct_above_200dma": 49.74,
-        "drawdown_from_52w_high_pct": 10.2,
-        "components": [
-          {
-            "period": "r3m",
-            "return_pct": 23.64,
-            "benchmark_pct": -0.01,
-            "excess_pct": 23.65,
-            "percentile": 85.8,
-            "weight": 0.4
-          },
-          {
-            "period": "r6m",
-            "return_pct": 119.85,
-            "benchmark_pct": 5.4,
-            "excess_pct": 114.45,
-            "percentile": 99.2,
-            "weight": 0.3
-          },
-          {
-            "period": "r12m",
-            "return_pct": 83.63,
-            "benchmark_pct": 11.13,
-            "excess_pct": 72.51,
-            "percentile": 90.8,
-            "weight": 0.3
-          }
-        ],
-        "rs_score": 91.3,
-        "rs_excess_sum_pct": 65.55,
-        "rank": 1
-      },
-      {
         "symbol": "LLY",
         "name": "Eli Lilly and Company Common Stock",
         "exchange": "NYSE",
         "sector": null,
         "products": null,
-        "market_cap": 1293142200191,
-        "price": 1417.54,
-        "as_of": "2026-10-30",
-        "avg_turnover_60d": 2952288697,
-        "pct_above_200dma": 30.14,
-        "drawdown_from_52w_high_pct": 0.0,
+        "market_cap": 1333543711244,
+        "price": 1410.99,
+        "as_of": "2026-11-02",
+        "avg_turnover_60d": 2977358429,
+        "pct_above_200dma": 29.31,
+        "drawdown_from_52w_high_pct": 0.46,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 26.59,
-            "benchmark_pct": -0.01,
-            "excess_pct": 26.6,
-            "percentile": 92.5,
+            "return_pct": 26.65,
+            "benchmark_pct": -2.25,
+            "excess_pct": 28.9,
+            "percentile": 95.8,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 47.61,
-            "benchmark_pct": 5.4,
-            "excess_pct": 42.22,
+            "return_pct": 46.23,
+            "benchmark_pct": 5.28,
+            "excess_pct": 40.96,
             "percentile": 90.8,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 75.34,
-            "benchmark_pct": 11.13,
-            "excess_pct": 64.22,
-            "percentile": 84.2,
+            "return_pct": 68.13,
+            "benchmark_pct": 11.82,
+            "excess_pct": 56.31,
+            "percentile": 85.8,
             "weight": 0.3
           }
         ],
-        "rs_score": 89.5,
-        "rs_excess_sum_pct": 42.57,
-        "rank": 2
-      },
-      {
-        "symbol": "COP",
-        "name": "ConocoPhillips Common Stock",
-        "exchange": "NYSE",
-        "sector": null,
-        "products": null,
-        "market_cap": 180236661974,
-        "price": 154.03,
-        "as_of": "2026-10-30",
-        "avg_turnover_60d": 867058973,
-        "pct_above_200dma": 28.01,
-        "drawdown_from_52w_high_pct": 0.0,
-        "components": [
-          {
-            "period": "r3m",
-            "return_pct": 30.13,
-            "benchmark_pct": -0.01,
-            "excess_pct": 30.14,
-            "percentile": 94.2,
-            "weight": 0.4
-          },
-          {
-            "period": "r6m",
-            "return_pct": 26.8,
-            "benchmark_pct": 5.4,
-            "excess_pct": 21.41,
-            "percentile": 72.5,
-            "weight": 0.3
-          },
-          {
-            "period": "r12m",
-            "return_pct": 80.39,
-            "benchmark_pct": 11.13,
-            "excess_pct": 69.26,
-            "percentile": 89.2,
-            "weight": 0.3
-          }
-        ],
-        "rs_score": 86.2,
-        "rs_excess_sum_pct": 39.25,
-        "rank": 3
+        "rs_score": 91.3,
+        "rs_excess_sum_pct": 40.74,
+        "rank": 1
       },
       {
         "symbol": "AMGN",
@@ -203,41 +119,83 @@
         "exchange": "NASDAQ",
         "sector": null,
         "products": null,
-        "market_cap": 249085383664,
-        "price": 466.01,
-        "as_of": "2026-10-30",
-        "avg_turnover_60d": 1138636498,
-        "pct_above_200dma": 25.31,
-        "drawdown_from_52w_high_pct": 0.0,
+        "market_cap": 251939920650,
+        "price": 465.45,
+        "as_of": "2026-11-02",
+        "avg_turnover_60d": 1150987611,
+        "pct_above_200dma": 24.92,
+        "drawdown_from_52w_high_pct": 0.12,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 23.72,
-            "benchmark_pct": -0.01,
-            "excess_pct": 23.73,
-            "percentile": 87.5,
+            "return_pct": 20.04,
+            "benchmark_pct": -2.25,
+            "excess_pct": 22.29,
+            "percentile": 84.2,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 43.19,
-            "benchmark_pct": 5.4,
-            "excess_pct": 37.79,
-            "percentile": 87.5,
+            "return_pct": 45.66,
+            "benchmark_pct": 5.28,
+            "excess_pct": 40.38,
+            "percentile": 89.2,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 64.15,
-            "benchmark_pct": 11.13,
-            "excess_pct": 53.02,
-            "percentile": 79.2,
+            "return_pct": 63.82,
+            "benchmark_pct": 11.82,
+            "excess_pct": 52.0,
+            "percentile": 84.2,
             "weight": 0.3
           }
         ],
-        "rs_score": 85.0,
-        "rs_excess_sum_pct": 36.74,
-        "rank": 4
+        "rs_score": 85.7,
+        "rs_excess_sum_pct": 36.63,
+        "rank": 2
+      },
+      {
+        "symbol": "CRWD",
+        "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "sector": null,
+        "products": null,
+        "market_cap": 256424002482,
+        "price": 241.81,
+        "as_of": "2026-11-02",
+        "avg_turnover_60d": 2353151232,
+        "pct_above_200dma": 44.04,
+        "drawdown_from_52w_high_pct": 13.29,
+        "components": [
+          {
+            "period": "r3m",
+            "return_pct": 14.48,
+            "benchmark_pct": -2.25,
+            "excess_pct": 16.73,
+            "percentile": 64.2,
+            "weight": 0.4
+          },
+          {
+            "period": "r6m",
+            "return_pct": 106.13,
+            "benchmark_pct": 5.28,
+            "excess_pct": 100.85,
+            "percentile": 99.2,
+            "weight": 0.3
+          },
+          {
+            "period": "r12m",
+            "return_pct": 79.56,
+            "benchmark_pct": 11.82,
+            "excess_pct": 67.73,
+            "percentile": 92.5,
+            "weight": 0.3
+          }
+        ],
+        "rs_score": 83.2,
+        "rs_excess_sum_pct": 57.27,
+        "rank": 3
       },
       {
         "symbol": "GILD",
@@ -245,40 +203,82 @@
         "exchange": "NASDAQ",
         "sector": null,
         "products": null,
-        "market_cap": 205348973220,
-        "price": 170.68,
-        "as_of": "2026-10-30",
-        "avg_turnover_60d": 878391695,
-        "pct_above_200dma": 23.12,
-        "drawdown_from_52w_high_pct": 0.0,
+        "market_cap": 211635545855,
+        "price": 170.33,
+        "as_of": "2026-11-02",
+        "avg_turnover_60d": 884627922,
+        "pct_above_200dma": 22.65,
+        "drawdown_from_52w_high_pct": 0.21,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 30.87,
-            "benchmark_pct": -0.01,
-            "excess_pct": 30.88,
-            "percentile": 95.8,
+            "return_pct": 26.65,
+            "benchmark_pct": -2.25,
+            "excess_pct": 28.9,
+            "percentile": 94.2,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 31.23,
-            "benchmark_pct": 5.4,
-            "excess_pct": 25.84,
-            "percentile": 79.2,
+            "return_pct": 29.94,
+            "benchmark_pct": 5.28,
+            "excess_pct": 24.66,
+            "percentile": 75.8,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 47.59,
-            "benchmark_pct": 11.13,
-            "excess_pct": 36.47,
-            "percentile": 67.5,
+            "return_pct": 47.37,
+            "benchmark_pct": 11.82,
+            "excess_pct": 35.54,
+            "percentile": 72.5,
             "weight": 0.3
           }
         ],
-        "rs_score": 82.3,
-        "rs_excess_sum_pct": 31.04,
+        "rs_score": 82.2,
+        "rs_excess_sum_pct": 29.62,
+        "rank": 4
+      },
+      {
+        "symbol": "MRK",
+        "name": "Merck & Company, Inc. Common Stock (new)",
+        "exchange": "NYSE",
+        "sector": null,
+        "products": null,
+        "market_cap": 368891503314,
+        "price": 148.36,
+        "as_of": "2026-11-02",
+        "avg_turnover_60d": 1517946735,
+        "pct_above_200dma": 18.01,
+        "drawdown_from_52w_high_pct": 4.61,
+        "components": [
+          {
+            "period": "r3m",
+            "return_pct": 16.59,
+            "benchmark_pct": -2.25,
+            "excess_pct": 18.84,
+            "percentile": 72.5,
+            "weight": 0.4
+          },
+          {
+            "period": "r6m",
+            "return_pct": 32.89,
+            "benchmark_pct": 5.28,
+            "excess_pct": 27.61,
+            "percentile": 80.8,
+            "weight": 0.3
+          },
+          {
+            "period": "r12m",
+            "return_pct": 77.0,
+            "benchmark_pct": 11.82,
+            "excess_pct": 65.18,
+            "percentile": 89.2,
+            "weight": 0.3
+          }
+        ],
+        "rs_score": 80.0,
+        "rs_excess_sum_pct": 35.37,
         "rank": 5
       }
     ],
@@ -289,40 +289,40 @@
         "exchange": "KOSPI",
         "sector": "절연선 및 케이블 제조업",
         "products": "전력선,통신케이블 제조,도매,수출입",
-        "market_cap": 6685100000000,
-        "price": 228000.0,
-        "as_of": "2026-10-30",
-        "avg_turnover_60d": 55482363915,
-        "pct_above_200dma": 46.25,
-        "drawdown_from_52w_high_pct": 30.7,
+        "market_cap": 7206200000000,
+        "price": 242000.0,
+        "as_of": "2026-11-02",
+        "avg_turnover_60d": 55555410308,
+        "pct_above_200dma": 54.29,
+        "drawdown_from_52w_high_pct": 26.44,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 50.2,
+            "return_pct": 97.71,
             "benchmark_pct": -4.86,
-            "excess_pct": 55.06,
-            "percentile": 97.6,
+            "excess_pct": 102.58,
+            "percentile": 97.8,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 96.83,
+            "return_pct": 116.18,
             "benchmark_pct": -11.51,
-            "excess_pct": 108.34,
-            "percentile": 97.6,
+            "excess_pct": 127.68,
+            "percentile": 97.8,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 620.59,
+            "return_pct": 659.51,
             "benchmark_pct": 50.23,
-            "excess_pct": 570.36,
-            "percentile": 97.6,
+            "excess_pct": 609.28,
+            "percentile": 97.8,
             "weight": 0.3
           }
         ],
-        "rs_score": 97.6,
-        "rs_excess_sum_pct": 225.63,
+        "rs_score": 97.8,
+        "rs_excess_sum_pct": 262.12,
         "rank": 1
       },
       {
@@ -331,125 +331,83 @@
         "exchange": "KOSDAQ",
         "sector": "특수 목적용 기계 제조업",
         "products": "ALG, ALD",
-        "market_cap": 7525300000000,
-        "price": 165000.0,
-        "as_of": "2026-10-30",
-        "avg_turnover_60d": 293508939623,
-        "pct_above_200dma": 20.05,
-        "drawdown_from_52w_high_pct": 40.75,
+        "market_cap": 7808800000000,
+        "price": 168000.0,
+        "as_of": "2026-11-02",
+        "avg_turnover_60d": 292049378223,
+        "pct_above_200dma": 21.63,
+        "drawdown_from_52w_high_pct": 39.68,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 28.11,
+            "return_pct": 44.7,
             "benchmark_pct": -4.86,
-            "excess_pct": 32.97,
-            "percentile": 78.6,
+            "excess_pct": 49.57,
+            "percentile": 80.4,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 42.0,
+            "return_pct": 35.59,
             "benchmark_pct": -11.51,
-            "excess_pct": 53.5,
-            "percentile": 83.3,
+            "excess_pct": 47.1,
+            "percentile": 84.8,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 425.64,
+            "return_pct": 446.49,
             "benchmark_pct": 50.23,
-            "excess_pct": 375.41,
-            "percentile": 88.1,
+            "excess_pct": 396.26,
+            "percentile": 89.1,
             "weight": 0.3
           }
         ],
-        "rs_score": 82.9,
-        "rs_excess_sum_pct": 141.86,
+        "rs_score": 84.3,
+        "rs_excess_sum_pct": 152.83,
         "rank": 2
       },
       {
-        "symbol": "028050.KS",
-        "name": "삼성E&A",
-        "exchange": "KOSPI",
-        "sector": "건축기술, 엔지니어링 및 관련 기술 서비스업",
-        "products": "산업설비,건물,구축물,토목시설의 설계,시공,공사감리",
-        "market_cap": 11877600000000,
-        "price": 61700.0,
-        "as_of": "2026-10-30",
-        "avg_turnover_60d": 115652069896,
-        "pct_above_200dma": 40.52,
-        "drawdown_from_52w_high_pct": 4.19,
-        "components": [
-          {
-            "period": "r3m",
-            "return_pct": 39.75,
-            "benchmark_pct": -4.86,
-            "excess_pct": 44.61,
-            "percentile": 88.1,
-            "weight": 0.4
-          },
-          {
-            "period": "r6m",
-            "return_pct": 22.66,
-            "benchmark_pct": -11.51,
-            "excess_pct": 34.17,
-            "percentile": 69.0,
-            "weight": 0.3
-          },
-          {
-            "period": "r12m",
-            "return_pct": 131.87,
-            "benchmark_pct": 50.23,
-            "excess_pct": 81.64,
-            "percentile": 78.6,
-            "weight": 0.3
-          }
-        ],
-        "rs_score": 79.5,
-        "rs_excess_sum_pct": 52.59,
-        "rank": 3
-      },
-      {
-        "symbol": "353200.KS",
-        "name": "대덕전자",
-        "exchange": "KOSPI",
+        "symbol": "222800.KQ",
+        "name": "심텍",
+        "exchange": "KOSDAQ",
         "sector": "전자부품 제조업",
-        "products": "PCB(Printed Circuit Board, 인쇄회로기판)의 제조 및 판매",
-        "market_cap": 5752100000000,
-        "price": 119400.0,
-        "as_of": "2026-10-30",
-        "avg_turnover_60d": 119630475048,
-        "pct_above_200dma": 14.08,
-        "drawdown_from_52w_high_pct": 37.45,
+        "products": "반도체용 인쇄회로기판",
+        "market_cap": 4697800000000,
+        "price": 120400.0,
+        "as_of": "2026-11-02",
+        "avg_turnover_60d": 106639736583,
+        "pct_above_200dma": 25.99,
+        "drawdown_from_52w_high_pct": 31.2,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 30.78,
+            "return_pct": 75.51,
             "benchmark_pct": -4.86,
-            "excess_pct": 35.64,
-            "percentile": 83.3,
+            "excess_pct": 80.37,
+            "percentile": 93.5,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 20.73,
+            "return_pct": 35.43,
             "benchmark_pct": -11.51,
-            "excess_pct": 32.23,
-            "percentile": 64.3,
+            "excess_pct": 46.94,
+            "percentile": 80.4,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 265.0,
+            "return_pct": 136.09,
             "benchmark_pct": 50.23,
-            "excess_pct": 214.77,
-            "percentile": 83.3,
+            "excess_pct": 85.86,
+            "percentile": 76.1,
             "weight": 0.3
           }
         ],
-        "rs_score": 77.6,
-        "rs_excess_sum_pct": 88.36,
-        "rank": 4
+        "rs_score": 84.3,
+        "rs_excess_sum_pct": 71.99,
+        "rank": 3
       },
       {
         "symbol": "009150.KS",
@@ -457,40 +415,82 @@
         "exchange": "KOSPI",
         "sector": "전자부품 제조업",
         "products": "수동소자 (MLCC, Inductor, Chip Resistor 등), 모듈(카메라모듈, 통신모듈), 반도체패키지 기판",
-        "market_cap": 87092800000000,
-        "price": 1196000.0,
-        "as_of": "2026-10-30",
-        "avg_turnover_60d": 969448847183,
-        "pct_above_200dma": 13.84,
-        "drawdown_from_52w_high_pct": 47.31,
+        "market_cap": 89109600000000,
+        "price": 1193000.0,
+        "as_of": "2026-11-02",
+        "avg_turnover_60d": 959529397000,
+        "pct_above_200dma": 13.05,
+        "drawdown_from_52w_high_pct": 47.44,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 7.36,
+            "return_pct": 15.94,
             "benchmark_pct": -4.86,
-            "excess_pct": 12.22,
-            "percentile": 26.2,
+            "excess_pct": 20.8,
+            "percentile": 50.0,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 54.52,
+            "return_pct": 51.4,
             "benchmark_pct": -11.51,
-            "excess_pct": 66.03,
-            "percentile": 92.9,
+            "excess_pct": 62.9,
+            "percentile": 93.5,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 467.98,
+            "return_pct": 457.37,
             "benchmark_pct": 50.23,
-            "excess_pct": 417.75,
-            "percentile": 92.9,
+            "excess_pct": 407.14,
+            "percentile": 93.5,
             "weight": 0.3
           }
         ],
-        "rs_score": 66.2,
-        "rs_excess_sum_pct": 150.02,
+        "rs_score": 76.1,
+        "rs_excess_sum_pct": 149.33,
+        "rank": 4
+      },
+      {
+        "symbol": "028050.KS",
+        "name": "삼성E&A",
+        "exchange": "KOSPI",
+        "sector": "건축기술, 엔지니어링 및 관련 기술 서비스업",
+        "products": "산업설비,건물,구축물,토목시설의 설계,시공,공사감리",
+        "market_cap": 12387200000000,
+        "price": 63200.0,
+        "as_of": "2026-11-02",
+        "avg_turnover_60d": 116197062009,
+        "pct_above_200dma": 43.3,
+        "drawdown_from_52w_high_pct": 1.86,
+        "components": [
+          {
+            "period": "r3m",
+            "return_pct": 58.99,
+            "benchmark_pct": -4.86,
+            "excess_pct": 63.86,
+            "percentile": 89.1,
+            "weight": 0.4
+          },
+          {
+            "period": "r6m",
+            "return_pct": 20.38,
+            "benchmark_pct": -11.51,
+            "excess_pct": 31.89,
+            "percentile": 63.0,
+            "weight": 0.3
+          },
+          {
+            "period": "r12m",
+            "return_pct": 133.68,
+            "benchmark_pct": 50.23,
+            "excess_pct": 83.46,
+            "percentile": 71.7,
+            "weight": 0.3
+          }
+        ],
+        "rs_score": 76.1,
+        "rs_excess_sum_pct": 60.15,
         "rank": 5
       }
     ]
