@@ -4,56 +4,19 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-11-04T22:22:52.675066+00:00",
+  "updated_at": "2026-11-05T22:30:03.238004+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
-      "ticker": "AMGN",
-      "search_ticker": "AMGN",
-      "company_en": "Amgen",
-      "company_ko": "Amgen",
+      "ticker": "MRK",
+      "search_ticker": "MRK",
+      "company_en": "Merck & Company",
+      "company_ko": "Merck & Company",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 89.3,
+      "rs_score": 85.7,
       "rank": 1,
-      "selected_at": "2026-11-04",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "CRWD",
-      "search_ticker": "CRWD",
-      "company_en": "CrowdStrike Holdings",
-      "company_ko": "CrowdStrike Holdings",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 87.8,
-      "rank": 2,
-      "selected_at": "2026-11-04",
+      "selected_at": "2026-11-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -88,9 +51,9 @@
       "company_ko": "Eli Lilly and Company",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 87.2,
-      "rank": 3,
-      "selected_at": "2026-11-04",
+      "rs_score": 85.6,
+      "rank": 2,
+      "selected_at": "2026-11-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -119,15 +82,52 @@
       }
     },
     {
-      "ticker": "MRK",
-      "search_ticker": "MRK",
-      "company_en": "Merck & Company",
-      "company_ko": "Merck & Company",
+      "ticker": "ABBV",
+      "search_ticker": "ABBV",
+      "company_en": "AbbVie",
+      "company_ko": "AbbVie",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 84.9,
+      "rs_score": 83.9,
+      "rank": 3,
+      "selected_at": "2026-11-05",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "AMGN",
+      "search_ticker": "AMGN",
+      "company_en": "Amgen",
+      "company_ko": "Amgen",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 82.0,
       "rank": 4,
-      "selected_at": "2026-11-04",
+      "selected_at": "2026-11-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -162,9 +162,9 @@
       "company_ko": "Gilead Sciences",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 84.1,
+      "rs_score": 81.1,
       "rank": 5,
-      "selected_at": "2026-11-04",
+      "selected_at": "2026-11-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -199,9 +199,9 @@
       "company_ko": "가온전선",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 97.4,
+      "rs_score": 95.9,
       "rank": 1,
-      "selected_at": "2026-11-04",
+      "selected_at": "2026-11-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -236,83 +236,9 @@
       "company_ko": "한진칼",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 84.2,
+      "rs_score": 92.3,
       "rank": 2,
-      "selected_at": "2026-11-04",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "222800.KQ",
-      "search_ticker": "심텍",
-      "company_en": "심텍",
-      "company_ko": "심텍",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 80.0,
-      "rank": 3,
-      "selected_at": "2026-11-04",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "036930.KQ",
-      "search_ticker": "주성엔지니어링",
-      "company_en": "주성엔지니어링",
-      "company_ko": "주성엔지니어링",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 78.9,
-      "rank": 4,
-      "selected_at": "2026-11-04",
+      "selected_at": "2026-11-05",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -347,9 +273,83 @@
       "company_ko": "삼성E&A",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 74.2,
+      "rs_score": 81.8,
+      "rank": 3,
+      "selected_at": "2026-11-05",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "036930.KQ",
+      "search_ticker": "주성엔지니어링",
+      "company_en": "주성엔지니어링",
+      "company_ko": "주성엔지니어링",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 69.1,
+      "rank": 4,
+      "selected_at": "2026-11-05",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "021240.KS",
+      "search_ticker": "코웨이",
+      "company_en": "코웨이",
+      "company_ko": "코웨이",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 65.5,
       "rank": 5,
-      "selected_at": "2026-11-04",
+      "selected_at": "2026-11-05",
       "conditions": {
         "capacity_gap": {
           "value": null,

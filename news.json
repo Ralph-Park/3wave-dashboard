@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:33:05.503203+00:00",
+  "generated_at": "2026-11-05T22:40:25.598662+00:00",
   "complete": true,
   "meta": {
     "provider_priority": [
@@ -100,7 +100,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 33,
+      "found_count": 32,
       "returned_count": 5,
       "keywords": [
         "US CPI inflation report",
@@ -123,7 +123,7 @@
         {
           "keyword": "inflation reacceleration",
           "feed": "en",
-          "count": 12
+          "count": 14
         },
         {
           "keyword": "미국 소비자물가 지수",
@@ -140,22 +140,8 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:22:57.133587+00:00",
+      "fetched_at": "2026-11-05T22:30:06.070047+00:00",
       "articles": [
-        {
-          "title": "What Millions of Data Points Reveal About US Inflation",
-          "source": "Bloomberg",
-          "publisher_domain": "bloomberg.com",
-          "published_at": "2026-11-02T22:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SRkFGWDRuQ2hKTGFVUTdUYVpLOXRUUmYwWEJqZjRsd2lIMFBzUFRzR2N4SHNXd2lmTTVlcVFOWHZFMXlBLWwtUnhwOTQwVGhTWkJhT2lVN3BwTkJ6Q240emF3YXd5NHdjczlLNFhHdw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US CPI inflation report",
-          "feed": "en",
-          "importance_score": 73.9,
-          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.76(2.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 73.9/100"
-        },
         {
           "title": "한은 \"소비자물가 상승률, 이달부터 둔화…연말 3％ 안팎 전망\"",
           "source": "매일경제 마켓",
@@ -167,22 +153,8 @@
           "provider": "google_news_rss",
           "query": "근원 물가 둔화",
           "feed": "ko",
-          "importance_score": 66.3,
-          "importance_basis": "매체티어 0.80(mk.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.77(1.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 66.3/100"
-        },
-        {
-          "title": "US inflation heats up in September; Fed rate hike this month back on table",
-          "source": "Reuters",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-10-14T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US CPI inflation report",
-          "feed": "en",
-          "importance_score": 56.2,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.05(21.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.2/100"
+          "importance_score": 63.8,
+          "importance_basis": "매체티어 0.80(mk.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.67(2.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 63.8/100"
         },
         {
           "title": "[그래픽] 미국 소비자물가 추이",
@@ -195,8 +167,8 @@
           "provider": "google_news_rss",
           "query": "미국 소비자물가 지수",
           "feed": "ko",
-          "importance_score": 56.2,
-          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.05(21.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.2/100"
+          "importance_score": 56.1,
+          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.04(22.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.1/100"
         },
         {
           "title": "“물가 2.8%로 둔화 전망”…스마트폰·식품값은 부담[물가폴]",
@@ -209,8 +181,36 @@
           "provider": "google_news_rss",
           "query": "근원 물가 둔화",
           "feed": "ko",
-          "importance_score": 55.3,
-          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.65(3.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 55.3/100"
+          "importance_score": 53.1,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.57(4.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 53.1/100"
+        },
+        {
+          "title": "물가 둔화에도 '11월 금리인상' 전망…긴축 고삐 못 푸는 한은",
+          "source": "이데일리",
+          "publisher_domain": "edaily.co.kr",
+          "published_at": "2026-11-03T06:10:47+00:00",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDlGdnlrNFk4X2p0aXpSa3BsWnJvbEJWNDh4Z2tXaDhfa0dfU1dKeXRHSGxncUtvLXQ3enFUTlVVcl9rckprLWlOZXZsRWtjTWpZMHpLZmVxeUtLV2UxQU1kV2tSNUlfTTR1ZmVQR3cwaUxXdXllalVJNTFpTW0zWQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "근원 물가 둔화",
+          "feed": "ko",
+          "importance_score": 48.7,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.69(2.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 48.7/100"
+        },
+        {
+          "title": "[2보] 미 9월 소비자물가 전년대비 3.7%↑…전망치 웃돌아",
+          "source": "연합뉴스",
+          "publisher_domain": "yna.co.kr",
+          "published_at": "2026-10-14T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lNGhrSDdhTE1PTXN3QzJIU2RGWjhqMGxQVlR5cUZxXzMtenNQb2E0dHItSnoxbEVNTnYtM0JUZ3oxNHBPN1RRdDlHSy05b01BUHdLZkd1cGF2NUHSAWBBVV95cUxOQWRaUUtBT21Vemx6SzdvcGI0N2JzOU1pZ294QTE1ZV9zSnoyQUFjTDcxZjZmSW5DSUNST2paUFE2UjEzU1BLcWIyNUg0bktxVzZ3a0FXYkt5OGNmdU1zTF8?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "미국 소비자물가 지수",
+          "feed": "ko",
+          "importance_score": 48.6,
+          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.04(22.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 48.6/100"
         }
       ]
     },
@@ -220,7 +220,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 41,
+      "found_count": 44,
       "returned_count": 5,
       "keywords": [
         "US unemployment rate jobs report",
@@ -260,77 +260,77 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:23:12.894921+00:00",
+      "fetched_at": "2026-11-05T22:30:21.662161+00:00",
       "articles": [
-        {
-          "title": "Think the Fed will be done after two more rate hikes? How Friday’s jobs report may trigger a major market repricing.",
-          "source": "MarketWatch",
-          "publisher_domain": "marketwatch.com",
-          "published_at": "2026-11-04T13:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV3llTFJvRmk3UV9aa0huQjEwTXlfc2pldzlLLU5BQmo4UlNBNEJsemdQQmp6TmtWeVMtLWkxSlhNUk10VDUyX2NyakhtTXFZUFNQQmZvQWRiOTgtLVhHeXdrSWlFc1lVMG1TdXNvSWw5UWlhZmEyZzFTcWVxMC1EakdHa1dwNWtJcExnc1ZqOU9SZTVpcFRQOGpWenZTcE5oVmZlaFJNQkhWcTlKWEI4N09VWDRySUhHMXZLblFsdnl4cG1zVXZnMmwyODRZUzdRNkNVdWVfcHF4d2F0VWNXZkFTT0x2NE0yT1Z4bg?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "US unemployment rate jobs report",
-          "feed": "en",
-          "importance_score": 80.7,
-          "importance_basis": "매체티어 0.80(marketwatch.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.95(0.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 80.7/100"
-        },
         {
           "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
           "source": "CNBC",
           "publisher_domain": "cnbc.com",
           "published_at": "2026-11-03T15:37:34+00:00",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnFrMUNDX1I2RnVySUEyVjdBa2JxZWc1RlZiRFBQZ2ZiajhPVW9XSE9CbTY4SE1QTVVRM3lGNTRxSnBvZVg2UUUtUEVXdUZSYmFUVEw5N3NicFI5R196dW94ZHZPTlNkeVFUNEtLYjZuellSM0c2UXJwUkN4SVdyYnBhLS0ySmo0aGZXQTk0TlBOR05GaWRLS09VQ3J0YkxnV21sUFItXzh6bUp1YUxYRExjYTZHZmpySzlzMjRPRUpJWUN4LV9VU25xcEJEWHfSAdQBQVVfeXFMT2NuOS1pNzNxMktDelROcUNpVWZRUXBxR2NFSFNQbUk1SV9weVZGcmhFMUsyaWhpVDR4bF83XzBZcmI3M2VQMC00QzV6cDBWTGpVVVQ1VUh0QzFlV2FFUDdDOHdlVVYydlBzZWY4TnZqaEpYLTRwOEZHM3VtWUFCMkZ2T3pFVEZNc0tGZE1CQk9wU3FpR09IS1RGYWZNelFBczJQZ3VIczNaT1RWRU9SQ2RuQWdZTmxnMXlUYXFjVkpSRFRZWGxCeURQTVU3SXR1YktfbUo?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnFrMUNDX1I2RnVySUEyVjdBa2JxZWc1RlZiRFBQZ2ZiajhPVW9XSE9CbTY4SE1QTVVRM3lGNTRxSnBvZVg2UUUtUEVXdUZSYmFUVEw5N3NicFI5R196dW94ZHZPTlNkeVFUNEtLYjZuellSM0c2UXJwUkN4SVdyYnBhLS0ySmo0aGZXQTk0TlBOR05GaWRLS09VQ3J0YkxnV21sUFItXzh6bUp1YUxYRExjYTZHZmpySzlzMjRPRUpJWUN4LV9VU25xcEJEWHc?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "nonfarm payrolls labor market",
           "feed": "en",
-          "importance_score": 77.9,
-          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.84(1.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 77.9/100"
+          "importance_score": 75.2,
+          "importance_basis": "매체티어 0.80(cnbc.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.73(2.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 75.2/100"
         },
         {
-          "title": "US Job Openings Jump to Four-Month High, Layoffs Decline",
-          "source": "Bloomberg",
-          "publisher_domain": "bloomberg.com",
-          "published_at": "2026-11-03T15:54:41+00:00",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjlQb09KVG56SVlQVURsTWVNakJJZHV6cmpPcmEzbVJJbGpRSHRrU201Nm5PRks5dmh2U3c1aXhOUk55WmJYSGhiV005RXg3MV9nRmhyUUdVLS1IWTI5VFNVWFMyWXFZOTZwbVZSbjMyZkctaG9VUnlyWFR0R3BvXzZVLTFTUVRxTVAwR01UNmZTTTZHQUZLdldteldUQ21tM2FjYzFnMnJMSGN6amhseA?oc=5",
+          "title": "Jobs report, unemployment rate and earnings among economic data due Friday",
+          "source": "Investing.com",
+          "publisher_domain": "investing.com",
+          "published_at": "2026-11-05T19:10:58+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2NZYl9WcUJtSEdaRkk5WkpnMTJwVEl5ejZZWTRMcjVKbmN6cFBqYXZCOW12QnlsTWFqeE9oaDVUZVJUT2FfdlZKR1VROXNPc2FpaUlScmttWHBERTI2WUs2cUU3ckZENVZwMmtMMEIxdzRVaEFuNXVwMnFreWFPMEx2SzhpRVV5NlJDMkVNMVhySmdiTmFKNVkxX2xYYnJMNzNLd0hXcFN5YWlCd2hwVG1yUUdKSjNWYlBURDNxR1JXT0RMaHZPaWtTVWVLT2Uw?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "US unemployment rate jobs report",
           "feed": "en",
-          "importance_score": 68.5,
-          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.84(1.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 68.5/100"
+          "importance_score": 73.5,
+          "importance_basis": "매체티어 0.60(investing.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.98(0.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 73.5/100"
         },
         {
-          "title": "US job growth undershoots expectations in September, but labor market remains stable",
+          "title": "US weekly jobless claims at 57-year lows; worker productivity surges in third quarter",
           "source": "Reuters",
           "publisher_domain": "reuters.com",
-          "published_at": "2026-10-02T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
+          "published_at": "2026-11-05T15:59:10+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm5OTDhuLTE5VENNbUNPODhwRmJyXzBnR1FocDlCWnphSElfTk44Zzl4enh1S1hPUmZsaldReHlNcmVSSVRGTXJFY2Y2TXVmVGVuSlRmQlRGOWg2TV9QQlROV19rank0bG9rX1NIcmlkNWsxcE1KR19XUnhsbFJwdzBMbTgxQ0RLb0JsYy1lQTFkR3VJVkFyel9KeFFCdDNWWE4xeEE4aDNTYmZEejVrcEhPQQ?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "US unemployment rate jobs report",
           "feed": "en",
-          "importance_score": 62.7,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(33.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 62.7/100"
+          "importance_score": 71.6,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.96(0.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 71.6/100"
         },
         {
-          "title": "U.S. Job Openings Rose in September",
-          "source": "WSJ",
-          "publisher_domain": "wsj.com",
-          "published_at": "2026-11-03T15:29:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVTdROVRFSVhnNVJ2TFhtbzRBaWNSaXpYOHZHZGlzdEMzT3pWYkF0ajcwSjd0WjhRY19YdG05dDJ3bXlOYVo1dUx4VnBVakhhQlh6WTR2TmQxZDJyM0d0SWRvU3BqdjBvdmo2SGl2V2g3cDJUd3p4cUl1YXJTV2djTzVn?oc=5",
+          "title": "US job openings jump in September; layoffs lowest in 1-1/2 years",
+          "source": "Reuters",
+          "publisher_domain": "reuters.com",
+          "published_at": "2026-11-03T18:45:08+00:00",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlgtY2locEJUNE5fUS1ORmxNWGx1Sk5RXzBHV08wZEE3SVdiSlBmWEJtTmh3U1pIaDBmcUcwQkIxc2M0WTVmdVRiVHJIT2hFWlhQQ1d3YnpoVU83SHBnNUptMl9UUVJ3RUhNZ2RIU3ZzM2g4MGowQlpCVHFZdlIxdGRDbmNaWmNqUmZDQzF5SWk?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "US unemployment rate jobs report",
           "feed": "en",
-          "importance_score": 60.9,
-          "importance_basis": "매체티어 1.00(wsj.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.84(1.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 60.9/100"
+          "importance_score": 66.0,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.74(2.2일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 66.0/100"
+        },
+        {
+          "title": "Friday’s jobs report is expected to show the labor market chugging along",
+          "source": "Yahoo! Finance Canada",
+          "publisher_domain": "ca.finance.yahoo.com",
+          "published_at": "2026-11-05T21:31:35+00:00",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1JqbUpPR3QyTkF4VlZUeTg5YTh0ZXdKNkNWbHlTODNJS2xpUDdlcVRpem81TzlYWXpmY1Vfc2JOakZLVHI5bktTWDRjXzdOVWV6MlIwLW9xVDVvWlFUc3pVTXNYTExWaUo5UjVaU09UdjNyY1dMbVFDQjFCNl9ONUpfUTBIMzJwSVJjTVJfX0N4TThZQ1lNVWFvZDdMNTNBUFd2eG9BVVdOUUJxLTQzYjYtb1lzMVJVOGYzcA?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "US unemployment rate jobs report",
+          "feed": "en",
+          "importance_score": 65.9,
+          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.99(0.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 65.9/100"
         }
       ]
     },
@@ -340,7 +340,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 23,
+      "found_count": 19,
       "returned_count": 5,
       "keywords": [
         "Fed rate decision FOMC",
@@ -363,7 +363,7 @@
         {
           "keyword": "FOMC minutes dot plot",
           "feed": "en",
-          "count": 16
+          "count": 17
         },
         {
           "keyword": "연준 금리 인하 결정",
@@ -380,21 +380,21 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:23:29.015543+00:00",
+      "fetched_at": "2026-11-05T22:30:37.632231+00:00",
       "articles": [
         {
           "title": "Fed Says More Data Will Help Next Rate Decision as It Stands Pat",
           "source": "Bloomberg.com",
           "publisher_domain": "bloomberg.com",
-          "published_at": "2026-10-28T20:16:34+00:00",
+          "published_at": "2026-10-28T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTNINnF3d0YzSWhxXzBuRUxDc2RycVdyV1FFVGFMcFMtdUZxVmx4RGQ5NDdJRmpRdlhMRlN4d1NTV1BFYVFXekxSQUhjRjBKWlNxTzNrb04xTmx5THJ1OVBZem1HWldlb2EzaWFsbmVNYUIxVWtqano5ZFJZanllZVJTYWNuYXVqRzFxMjRRSjVqaXBvWFQ5cTJiSElpWldqbjA5bXl6eEM?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "Fed rate decision FOMC",
           "feed": "en",
-          "importance_score": 71.9,
-          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.37(7.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 71.9/100"
+          "importance_score": 70.0,
+          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.30(8.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 70.0/100"
         },
         {
           "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
@@ -407,22 +407,22 @@
           "provider": "google_news_rss",
           "query": "Fed rate decision FOMC",
           "feed": "en",
-          "importance_score": 67.3,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.49(5.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 67.3/100"
+          "importance_score": 65.7,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.43(6.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 65.7/100"
         },
         {
           "title": "Fed's Warsh announces changes in how future FOMC meetings will go",
           "source": "Reuters",
           "publisher_domain": "reuters.com",
-          "published_at": "2026-10-28T23:32:40+00:00",
+          "published_at": "2026-10-28T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "Fed rate decision FOMC",
           "feed": "en",
-          "importance_score": 64.5,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.38(7.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 64.5/100"
+          "importance_score": 62.5,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.30(8.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 62.5/100"
         },
         {
           "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
@@ -435,33 +435,33 @@
           "provider": "google_news_rss",
           "query": "Fed rate decision FOMC",
           "feed": "en",
-          "importance_score": 58.2,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.43(6.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 58.2/100"
+          "importance_score": 56.8,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.37(7.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.8/100"
         },
         {
-          "title": "Warsh Says FOMC Meeting Schedule Will Change as of Next Fall",
-          "source": "Bloomberg.com",
-          "publisher_domain": "bloomberg.com",
-          "published_at": "2026-10-28T20:50:28+00:00",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmFaSnVIZ25QMm1nYTFDalFNWnhBNmRWc1VlV1RlTDhaT0IxSFVEc2pZVmFuay1UYUszVVpOc0pvTmFXZG42QmJpQW1fZnRLS0EtbGtzNjhtazl5OWttS05aVFROWG5ReVdHNGsxT0FYdVFOR0JpYVJ4YUpvbzN5U1FNY0RjTWgtcWFFUGVyNUVpbFhLNHEycXh0eWN0bDFNd09mY3B3?oc=5",
+          "title": "Fed leaves rates unchanged to wait for more data on inflation – as it happened",
+          "source": "Reuters",
+          "publisher_domain": "reuters.com",
+          "published_at": "2026-10-28T20:56:30+00:00",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJWY3RnblpmYjRWdkFHUDd0NmVLby1aUWQ5NzdMX3RzaGROS0F6NFA0SzAzeE5nOUJ3VlZYa3hyS2pWMWRxU2FIOGVLNVZybElRN2E0SGNleFAzWUNhNUNBU2RzdUJuaXBzbGZxdjZ3TXdPYlRxanZJRkx0ZC0wTVlJMFlWZWFoMk5XVUoxRkNNTkJHek1VMlJmYndZblNBNU1ERkp2Q2pVQUgzalN6T0l1ZlI?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "Fed rate decision FOMC",
           "feed": "en",
-          "importance_score": 56.9,
-          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.38(7.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.9/100"
+          "importance_score": 55.7,
+          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.33(8.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 55.7/100"
         }
       ]
     },
     "fed_balance_sheet": {
       "key": "fed_balance_sheet",
-      "status": "ok",
+      "status": "partial",
       "relevance_terms": [],
       "dropped_irrelevant": 0,
-      "status_reason": null,
-      "found_count": 5,
-      "returned_count": 5,
+      "status_reason": "중복 제거 후 4건만 확보됨 (목표 5건)",
+      "found_count": 4,
+      "returned_count": 4,
       "keywords": [
         "Fed balance sheet quantitative tightening",
         "Fed QT end runoff",
@@ -494,7 +494,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:23:44.880692+00:00",
+      "fetched_at": "2026-11-05T22:30:53.943503+00:00",
       "articles": [
         {
           "title": "연준, 대차대조표 4조5천억 달러까지 축소 가능…Brookings 보고서",
@@ -507,8 +507,8 @@
           "provider": "google_news_rss",
           "query": "연준 대차대조표 축소",
           "feed": "ko",
-          "importance_score": 50.3,
-          "importance_basis": "매체티어 0.60(investing.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.15(13.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 50.3/100"
+          "importance_score": 49.8,
+          "importance_basis": "매체티어 0.60(investing.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.13(14.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 49.8/100"
         },
         {
           "title": "Tracker: The Federal Reserve’s Balance Sheet Assets",
@@ -521,22 +521,8 @@
           "provider": "google_news_rss",
           "query": "Fed balance sheet quantitative tightening",
           "feed": "en",
-          "importance_score": 42.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.70(2.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.4/100"
-        },
-        {
-          "title": "워시 연준 의장 \"한국 경제 예상보다 면밀히 주시…AI 핵심 부품 공급국\"",
-          "source": "뉴스1",
-          "publisher_domain": "news1.kr",
-          "published_at": "2026-10-28T19:13:56+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZREJXMHdnMXdBX1pmdnNNN0ZVY2VtZ05RTURRZHFWUVNrclg0bllEX2ZSSE9hU1BDT0R3QzBuenN6OWFOUnA5LTdJX1F5VXZYN2pzaGVudElDb2V0NllGY01TWXlpR1k?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "연준 대차대조표 축소",
-          "feed": "ko",
-          "importance_score": 40.8,
-          "importance_basis": "매체티어 0.60(news1.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.37(7.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.8/100"
+          "importance_score": 40.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.61(3.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.2/100"
         },
         {
           "title": "What the Fed’s Balance Sheet Could Mean for the Debt",
@@ -549,8 +535,8 @@
           "provider": "google_news_rss",
           "query": "Fed balance sheet quantitative tightening",
           "feed": "en",
-          "importance_score": 36.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.17(12.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 36.8/100"
+          "importance_score": 36.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.15(13.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 36.3/100"
         },
         {
           "title": "브루킹스 연구소: 연준 대차대조표 축소 방안 제시",
@@ -563,8 +549,8 @@
           "provider": "google_news_rss",
           "query": "연준 대차대조표 축소",
           "feed": "ko",
-          "importance_score": 36.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.15(13.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 36.3/100"
+          "importance_score": 35.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.13(14.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.8/100"
         }
       ]
     },
@@ -574,7 +560,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 15,
+      "found_count": 13,
       "returned_count": 5,
       "keywords": [
         "bank reserves scarcity repo market",
@@ -590,12 +576,12 @@
         {
           "keyword": "bank reserves scarcity repo market",
           "feed": "en",
-          "count": 10
+          "count": 9
         },
         {
           "keyword": "SOFR spike funding stress",
           "feed": "en",
-          "count": 17
+          "count": 18
         },
         {
           "keyword": "지급준비금 부족 레포 시장",
@@ -632,25 +618,25 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:23:57.232652+00:00",
+      "fetched_at": "2026-11-05T22:31:05.782697+00:00",
       "articles": [
         {
           "title": "국채 금리 내릴 때 CP 금리 상승…연말 단기자금 경색 신호일까",
           "source": "연합뉴스",
           "publisher_domain": "yna.co.kr",
           "published_at": "2026-11-03T00:47:39+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsanh0OHJKVTdPQ1d0ZHVlYktoOFJPdmRNM19qaEVlcldxREZfSU01cGpWWEd2YXdVMGxOZ3pZUklZVGpWNnhLdmYyUFM3VmlDRGkwTkdLWXAwMnBRaDgtddIBYEFVX3lxTFBsanh0OHJKVTdPQ1d0ZHVlYktoOFJPdmRNM19qaEVlcldxREZfSU01cGpWWEd2YXdVMGxOZ3pZUklZVGpWNnhLdmYyUFM3VmlDRGkwTkdLWXAwMnBRaDgtdQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JU0VTc2QtdVNBZ3RtMlJSSGJ5NmtxTkV2VGl5THFMYnFqRzNkU3VOSVNNQ0cwUVZfZElPSmdNOGJ0SG92S0FlMkVpX3dtYzNOSWlLR1FqMnVnU2vSAWBBVV95cUxQbGp4dDhySlU3T0NXdGR1ZWJLaDhST3ZkTTNfamhFZXJXcURGX0lNNXBqVlhHdmF3VTBsTmd6WVJJWVRqVjZ4S3ZmMlBTN1ZpQ0RpME5HS1lwMDJwUWg4LXU?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "단기자금시장 경색",
           "feed": "ko",
-          "importance_score": 66.7,
-          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.77(1.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 66.7/100"
+          "importance_score": 64.2,
+          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.67(2.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 64.2/100"
         },
         {
           "title": "Funding Markets Diverge as T-Bills Cheapen, Overnight Repo Calm",
-          "source": "Bloomberg.com",
+          "source": "Bloomberg",
           "publisher_domain": "bloomberg.com",
           "published_at": "2026-10-16T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN1NSWWRsa05Rb0FZSml6c1VRNC1venFVLVNaNS1zZ21oUzYxSFFjZzZucExjMmhGbkQxYjU5a3BGRThuRzRxZFgybjYwakw1R084NmpkVENtYVczTlRUWlFyZm96LVBRaXRid3lxR0RTZGU5ZUxQWU1BdjdCOHMxVllvcmFQby1ZQlNBZG5tcjZ4bXRTc0xpbTJqaGpkUGpPclp3R092a0cxYkkyaDlWQmtDTQ?oc=5",
@@ -659,8 +645,8 @@
           "provider": "google_news_rss",
           "query": "repo market funding pressure",
           "feed": "en",
-          "importance_score": 56.6,
-          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.07(19.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.6/100"
+          "importance_score": 56.4,
+          "importance_basis": "매체티어 1.00(bloomberg.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.06(20.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 56.4/100"
         },
         {
           "title": "국고채 넘어선 CP 금리…“경색 아닌 키맞추기”",
@@ -673,22 +659,8 @@
           "provider": "google_news_rss",
           "query": "단기자금시장 경색",
           "feed": "ko",
-          "importance_score": 44.3,
-          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.51(4.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 44.3/100"
-        },
-        {
-          "title": "Arthur Hayes Says Bitcoin Rally May Depend on Banks, Not Just Fed",
-          "source": "Cryptonews.net",
-          "publisher_domain": "cryptonews.net",
-          "published_at": "2026-11-04T06:05:05+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hLXY1ZEhIVlN3Ykpud2VPVHVIRzRwckEyc1BfRGFBS2VBTXJ1djJyR09INWlYYURKUFJzTWd4aGIxd2VQYWFYYzJVUUY4QWVJQkFPTjZTa0U?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "bank reserves Fed",
-          "feed": "en",
-          "importance_score": 40.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.91(0.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.3/100"
+          "importance_score": 42.6,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.44(5.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.6/100"
         },
         {
           "title": "기업어음 금리 급등, '연말 단기자금 경색' 신호일까…채권시장 분석은?",
@@ -701,8 +673,22 @@
           "provider": "google_news_rss",
           "query": "단기자금시장 경색",
           "feed": "ko",
-          "importance_score": 36.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.77(1.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 36.8/100"
+          "importance_score": 34.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.67(2.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 34.3/100"
+        },
+        {
+          "title": "위안화 가치 4년 고점 찍자…中, 5년만에 외화 지준율 인상",
+          "source": "머니투데이",
+          "publisher_domain": "mt.co.kr",
+          "published_at": "2026-11-03T06:28:55+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ycVdPcVF0bzRwY05zbnRKSzFsOXoxRlZVeVNjZzFpQlpnTTVfM1dJZlpwUWthVGVOYjZlSG1iY29pbmZ3b01VNVRuZUQ2M0ExRTNydFczalBuVlpHV2FWSF9UVlg0R0R50gFuQVVfeXFMUGNtMWVidzZkZ3N5QkxqSmlWd3Q2NEdEc3A2S3FRVU0tYjdDVk01ajEyMU5xNVg0b3BYR3VVVkt5dlhsWnp4blpuRGYzblFuWlpWU0VxUzNFMGUxWm1IM3RYM2NRT25ZbmhqR1ZDT1E?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "은행 지급준비금",
+          "feed": "ko",
+          "importance_score": 27.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.69(2.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.3/100"
         }
       ]
     },
@@ -739,14 +725,14 @@
         {
           "keyword": "재무부 일반계정 국채 발행",
           "feed": "ko",
-          "count": 14
+          "count": 15
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:24:21.097209+00:00",
+      "fetched_at": "2026-11-05T22:31:30.187754+00:00",
       "articles": [
         {
           "title": "Bitcoin’s year-end liquidity hopes face a projected $150 billion Treasury cash rebuild",
@@ -759,8 +745,8 @@
           "provider": "google_news_rss",
           "query": "net liquidity TGA drain",
           "feed": "en",
-          "importance_score": 53.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.83(1.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 53.3/100"
+          "importance_score": 50.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.72(2.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 50.6/100"
         },
         {
           "title": "US Treasury Cash Swing Sets Bitcoin’s Real Liquidity Test",
@@ -773,8 +759,8 @@
           "provider": "google_news_rss",
           "query": "Treasury General Account rebuild bill issuance",
           "feed": "en",
-          "importance_score": 43.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.76(2.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 43.9/100"
+          "importance_score": 41.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.66(3.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.5/100"
         },
         {
           "title": "A Massive Liquidity Drain Is About To Hit The Market",
@@ -787,8 +773,8 @@
           "provider": "google_news_rss",
           "query": "reverse repo facility drain",
           "feed": "en",
-          "importance_score": 32.6,
-          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.07(19.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.6/100"
+          "importance_score": 32.4,
+          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.06(20.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.4/100"
         }
       ]
     },
@@ -814,19 +800,19 @@
         {
           "keyword": "debt ceiling TGA",
           "feed": "en",
-          "count": 11
+          "count": 10
         },
         {
           "keyword": "재무부 일반계정 잔고",
           "feed": "ko",
-          "count": 10
+          "count": 9
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:24:32.987830+00:00",
+      "fetched_at": "2026-11-05T22:31:42.237569+00:00",
       "articles": [
         {
           "title": "Treasury General Account Daily Decline: $20,836 Drop on 2026-11-02",
@@ -839,8 +825,8 @@
           "provider": "google_news_rss",
           "query": "Treasury General Account balance",
           "feed": "en",
-          "importance_score": 54.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.87(1.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 54.2/100"
+          "importance_score": 51.4,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.75(2.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.4/100"
         },
         {
           "title": "Treasury General Account Drops $88,643 on October 30, 2026",
@@ -853,8 +839,8 @@
           "provider": "google_news_rss",
           "query": "Treasury General Account balance",
           "feed": "en",
-          "importance_score": 51.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.75(2.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.3/100"
+          "importance_score": 48.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.65(3.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 48.9/100"
         },
         {
           "title": "Why the Treasury General Account Impairs Federal Reserve Operational Independence",
@@ -867,8 +853,8 @@
           "provider": "google_news_rss",
           "query": "Treasury General Account balance",
           "feed": "en",
-          "importance_score": 50.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.72(2.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 50.5/100"
+          "importance_score": 48.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.62(3.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 48.1/100"
         },
         {
           "title": "Treasury General Account Balance Rises on Debt Operations",
@@ -881,8 +867,8 @@
           "provider": "google_news_rss",
           "query": "Treasury General Account balance",
           "feed": "en",
-          "importance_score": 47.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 5개→1.00×0.25 + 최신성 0.49(5.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 47.4/100"
+          "importance_score": 45.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 5개→1.00×0.25 + 최신성 0.43(6.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 45.7/100"
         },
         {
           "title": "Treasury General Account Balance Up 20,730 as Deposits Outpace Withdrawals",
@@ -895,8 +881,8 @@
           "provider": "google_news_rss",
           "query": "Treasury General Account balance",
           "feed": "en",
-          "importance_score": 42.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.29(9.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.1/100"
+          "importance_score": 41.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.25(10.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.2/100"
         }
       ]
     },
@@ -906,7 +892,7 @@
       "relevance_terms": [],
       "dropped_irrelevant": 0,
       "status_reason": null,
-      "found_count": 26,
+      "found_count": 29,
       "returned_count": 5,
       "keywords": [
         "reverse repo facility balance zero",
@@ -927,7 +913,7 @@
         {
           "keyword": "ON RRP usage money market funds",
           "feed": "en",
-          "count": 11
+          "count": 12
         },
         {
           "keyword": "역레포 잔고 소진",
@@ -942,7 +928,7 @@
         {
           "keyword": "ON RRP balance",
           "feed": "en",
-          "count": 25
+          "count": 24
         },
         {
           "keyword": "money market funds Treasury bills",
@@ -964,8 +950,22 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:24:41.991952+00:00",
+      "fetched_at": "2026-11-05T22:31:51.731890+00:00",
       "articles": [
+        {
+          "title": "5 Best Money Market Mutual Funds Of 2026",
+          "source": "Forbes",
+          "publisher_domain": "forbes.com",
+          "published_at": "2026-11-03T09:08:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "money market funds Treasury bills",
+          "feed": "en",
+          "importance_score": 70.8,
+          "importance_basis": "매체티어 0.60(forbes.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.70(2.6일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 70.8/100"
+        },
         {
           "title": "A Simple Way to Benefit From Rising Rates: Buy Money Market Funds",
           "source": "The New York Times",
@@ -977,8 +977,22 @@
           "provider": "google_news_rss",
           "query": "money market funds Treasury bills",
           "feed": "en",
-          "importance_score": 66.8,
-          "importance_basis": "매체티어 1.00(nytimes.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.17(12.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 66.8/100"
+          "importance_score": 66.3,
+          "importance_basis": "매체티어 1.00(nytimes.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.15(13.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 66.3/100"
+        },
+        {
+          "title": "3 Stocks Linked To Money Market Funds As Treasury Bill Supply Reshapes Cash Returns",
+          "source": "Yahoo Finance",
+          "publisher_domain": "finance.yahoo.com",
+          "published_at": "2026-11-05T05:24:54+00:00",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWN0NXZvRUd1V01ZeHg2WjJXcWdNVXp3ODUzY1hLd3lPZUVGOWdZQ1VWOUhYemFqenJ3cEI4cXVOelQ5d1JNNHRhZllDRklvUGIwTERoM3VDcVprNWVmcDY4ZkdvRE1OYW1DbWJvWTIxb1ZfRGF0VC1wRFNxNmFlVlBuci1UYzRBXzloNDVzcEhTZnhHTmxKaw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "money market funds Treasury bills",
+          "feed": "en",
+          "importance_score": 63.6,
+          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.91(0.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 63.6/100"
         },
         {
           "title": "中인민은행, 2년 만에 역레포 '제로'…\"유동성 40조원 회수\"",
@@ -991,997 +1005,24 @@
           "provider": "google_news_rss",
           "query": "역레포",
           "feed": "ko",
-          "importance_score": 51.7,
-          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.17(12.8일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.7/100"
+          "importance_score": 51.2,
+          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.15(13.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.2/100"
         },
         {
-          "title": "Slowdown in money-fund cash flow hits short-term Treasuries",
-          "source": "Reuters",
-          "publisher_domain": "reuters.com",
-          "published_at": "2026-10-06T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZjlyRGZUZEFVd1dINVM3bnJ0WGgxNzRRZHJMYlVERkQ3SGpCb3RhbEkwWXZOR1JySjQyeW96bFJaQ2ZPNHFsVHcxQ3Izc2Z3NThvZE52Q0E4eXZ6alNqTlRucDdnTlk4eDAxbE01TzBsc3FGZV9SaE5jM2VtcEt5Vll5UERJSW5OMlNJUFA2RDBXQnNrMnkzZjAzZUtZbHZWaFNR?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "money market funds Treasury bills",
-          "feed": "en",
-          "importance_score": 47.9,
-          "importance_basis": "매체티어 1.00(reuters.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(29.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 47.9/100"
-        },
-        {
-          "title": "[올댓차이나] 중국인민은행, 11월2일부터 익일물 역레포 매일 실시…\"정책금리 전환\"",
+          "title": "[올댓차이나] 위안화 기준치 1달러=6.7156위안…0.036% 절상",
           "source": "뉴시스",
           "publisher_domain": "newsis.com",
-          "published_at": "2026-10-31T01:34:27+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAydGhrZVRUMFdwWmZtanM5aTdkWXdqUGVScHN3ODZ3OVh1cU9TcVo3aHBWX3NXWkhXWVFqRHl4MlZWWWZvVEhldTYyaDM3TnZSdDl3eXF3S3otWmVLZVZaWdIBeEFVX3lxTE9tV2VpOHFzYW55R1l2OFp1c2JBRU1GUUV0U1BoaTVmZWR0T05IaWVfanhjX2lfb2RwRHB5eWZxTGt1NEdEQ0N4cm1NRWVIdFZIUjE4VWVUeGNVcWpTU0VXYmR1a3lKd3BMT0gtUzF0NGVMc3diWERLRA?oc=5",
+          "published_at": "2026-11-05T01:49:49+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RY2pzN21aRFYyQ3N5YV84OUZ4Ymh1aEh6T3p2MjVrTm5ld1EzMnZSZXRrMkFuMUNXMkd1c3Z5QTRuR0JZMVdlUkNqNlpaVzRvcXhrMGxxc01tMjdPWjRkX9IBeEFVX3lxTE5kLWRuQlh3MHVpN3plQkgxQmdtRlEyVlJYbDR0d19tUzhLX2ZrLUpickFFbnF1bTVET3d3LTNwTVRlVXJmTm1nVzI3eDFCdEtOVF9sSm9xbGdDWlZScHZDNHowd3VfQXBNMVJZbWVKWFdUZUE5Nm5PSQ?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "역레포",
           "feed": "ko",
-          "importance_score": 44.2,
-          "importance_basis": "매체티어 0.60(newsis.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.51(4.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 44.2/100"
-        },
-        {
-          "title": "The Best Money Market Funds to Buy",
-          "source": "Kiplinger",
-          "publisher_domain": "kiplinger.com",
-          "published_at": "2026-10-27T20:41:15+00:00",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kdm1KMHRxWEJLSUo2RXgxMEM1VDkyVFhhSERVVnhhc0QzNW5hQnBXcEJCeGZscC1FMkZoX0o3OG1uSjJfLXFZSU9zT1FIRC1lajZXQllGX2lCaXBBdTVEcGNuVk9rcFR4dDd6OUNtZENTQQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "money market funds Treasury bills",
-          "feed": "en",
-          "importance_score": 44.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.33(8.1일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 44.1/100"
+          "importance_score": 49.6,
+          "importance_basis": "매체티어 0.60(newsis.com)×0.40 + 키워드적중 0개→0.00×0.25 + 최신성 0.89(0.9일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 49.6/100"
         }
       ]
-    },
-    "small:AMGN:capacity_gap": {
-      "key": "small:AMGN:capacity_gap",
-      "status": "partial",
-      "relevance_terms": [
-        "Amgen",
-        "AMGN"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
-      "found_count": 3,
-      "returned_count": 3,
-      "keywords": [
-        "AMGN capacity expansion sold out",
-        "Amgen supply shortage easing",
-        "Amgen 캐파 부족 해소",
-        "Amgen 증설 가동"
-      ],
-      "queries": [
-        {
-          "keyword": "AMGN capacity expansion sold out",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Amgen supply shortage easing",
-          "feed": "en",
-          "count": 2
-        },
-        {
-          "keyword": "Amgen 캐파 부족 해소",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "Amgen 증설 가동",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:25:06.012983+00:00",
-      "articles": [
-        {
-          "title": "Amgen (AMGN) Q3 2026 Earnings Call Transcript",
-          "source": "The Motley Fool",
-          "publisher_domain": "fool.com",
-          "published_at": "2026-11-04T15:09:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnZMZFd2OVBEb0RWMm00cGxaZE1rXzQ2Zk10b0JvR2tZY3luTlhIMXF2a1ZkcXVuRlZheThya0JSdVJMR3F5Y3RPMlYtRlBhcTJhdXBoWGp1M1dUVnBEZ3dELWdSYVVpdU9kd0M4OGZmOWEtYS1hT1dFR2JjQWY4eVZHWkVISDU3TWp1OVNqbHV6cm9oWFhDQ2xnTUZKb19RX2RqQQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "AMGN capacity expansion sold out",
-          "feed": "en",
-          "importance_score": 49.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.96(0.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 49.0/100"
-        },
-        {
-          "title": "AMGN Q3 2026 deep dive: robust product sales and pipeline advances drive guidance increase",
-          "source": "TradingView",
-          "publisher_domain": "tradingview.com",
-          "published_at": "2026-11-04T05:38:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT0ZWMkJFdV9GVUJvRFJRemtfcnctTWRhUEdtN3NBX09ZZTk0cU5uMENZbHhrZ0luSzBjQ19ueDE0WjJZOFo4bmFCWU1EckdoT0ZDVmZtbkJVWVhYS3ZZRjY0OVBNZVVhc0ZWQkFERmtIUWQ1Rng2TzFwSWxCRGJQMjMyeDlrcVE5dk1iMVNQZWhMRmIwRzBPTzdqanJIS2VCYTN0ZlJJX1FJMTR6bkR5ZW1DVWNLLWdxVjNSYlpVRkNTUzAxU1VXNDFsWXRfd2xfcmpDdUp3ZnpJd1JydnNYV1pLV2w?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "AMGN capacity expansion sold out",
-          "feed": "en",
-          "importance_score": 40.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.91(0.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.2/100"
-        },
-        {
-          "title": "AMGN Q3 FY2026 earnings call",
-          "source": "BigGo Finance",
-          "publisher_domain": "finance.biggo.com",
-          "published_at": "2026-11-03T23:32:47+00:00",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JLWFBWS1xejRZbms0TzVIdTJucUg3RktjbVJzck0tSEZHM09GVlI1MzlDR3VERGhDSi1vcDlDa0o3ZHg3cWwySTBmMDg3M3NGS0I3YjNJc3BkYWRiZXMwSVktc3ZrS19iUDdOSnAyS3lYU0QxLTZrdA?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "AMGN capacity expansion sold out",
-          "feed": "en",
-          "importance_score": 39.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.88(1.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.4/100"
-        }
-      ]
-    },
-    "small:AMGN:supply_locked": {
-      "key": "small:AMGN:supply_locked",
-      "status": "no_results",
-      "relevance_terms": [
-        "Amgen",
-        "AMGN"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "AMGN long term supply agreement",
-        "Amgen capex completion customer commitment",
-        "Amgen 장기 공급계약 체결",
-        "Amgen 증설 완료"
-      ],
-      "queries": [
-        {
-          "keyword": "AMGN long term supply agreement",
-          "feed": "en",
-          "count": 12
-        },
-        {
-          "keyword": "Amgen capex completion customer commitment",
-          "feed": "en",
-          "count": 0
-        },
-        {
-          "keyword": "Amgen 장기 공급계약 체결",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "Amgen 증설 완료",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:25:17.948313+00:00",
-      "articles": []
-    },
-    "small:AMGN:pricing_power": {
-      "key": "small:AMGN:pricing_power",
-      "status": "ok",
-      "relevance_terms": [
-        "Amgen",
-        "AMGN"
-      ],
-      "dropped_irrelevant": 0,
-      "status_reason": null,
-      "found_count": 11,
-      "returned_count": 5,
-      "keywords": [
-        "AMGN price increase announcement",
-        "Amgen pricing power margin expansion",
-        "Amgen 판가 인상",
-        "Amgen 가격 인상 전가"
-      ],
-      "queries": [
-        {
-          "keyword": "AMGN price increase announcement",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Amgen pricing power margin expansion",
-          "feed": "en",
-          "count": 24
-        },
-        {
-          "keyword": "Amgen 판가 인상",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "Amgen 가격 인상 전가",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:25:30.377932+00:00",
-      "articles": [
-        {
-          "title": "Bernstein raises Amgen stock price target on growth and margin strength",
-          "source": "Investing.com",
-          "publisher_domain": "investing.com",
-          "published_at": "2026-11-04T15:00:21+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1JzcjR4OGwtM1hMNzVHN3ZSbC1QdXhoa2ZUZUhONjJxd2ZHcFNwNVJ0dzFLWG1nUDRtZ09xTFdpcDVqMXEtS3JVcEVPcDFaSXhKb01DOTFsa0p3S0pSalgxRnp1ODBVeGNzS3N6TzVXejdlT183SFRxeFRENjkwWXNreUxsMEdvajBBVkFZNkhKcjFJR0g0ckpqcHYyOG1wSkpuZXdpZGlxSUZPZVRadFU2cTZpVmpsUlBvbnVvajA0R1c1OUNoanl0VQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Amgen pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 70.5,
-          "importance_basis": "매체티어 0.60(investing.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.96(0.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 70.5/100"
-        },
-        {
-          "title": "Amgen (NASDAQ:AMGN) Sets New 1-Year High After Better-Than-Expected Earnings",
-          "source": "MarketBeat",
-          "publisher_domain": "marketbeat.com",
-          "published_at": "2026-11-04T14:42:40+00:00",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVHJEMkdqZzV4LWxFcUY4bzRlUUZ0eUdraVRTXzlVNC15WENmR2VQYVdkSGZDQW9VVk1VM2ROVnFZNmwyQ0ZQS0dkbWkyZGRPd2xxbVJ5c3dycDgyYkVLYmVydGJBNk91NWhhMHBvbk9tcVZDV2lFUk8zV3ZGZHhzblZ3cjAwM0dWRU1GYzhlTkNUbmgwR29rWEE1bFZySTVITDlvSXVTQjhvd2RpSkhIcXM5UGUzZ0JwZWIwWXpTeDVySTI3dWdPYnJ1bUhDSEk?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "AMGN price increase announcement",
-          "feed": "en",
-          "importance_score": 48.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.96(0.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 48.9/100"
-        },
-        {
-          "title": "Amgen Inc. $AMGN Stock: Provenance Wealth Advisors LLC Increases Holdings",
-          "source": "MarketBeat",
-          "publisher_domain": "marketbeat.com",
-          "published_at": "2026-11-04T11:29:41+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjZPSmtoX0pzd21CZy1Ia1pkR0Flc1YwNFpLMFhWWTNWUDFjZUlYLWpUUC1NWkw5c0NxQXJTWm4ydU5PNmU2Y2plNHdLSHUyQlMyTHNiYk9tOWV4WXVXbkZ5d3lCakR6bVh1WkUzVEw2dGRnM2w4QW90MWV4OTlZcHBFUXlMSGNXRDY3NEhGd0NEUDg5MWg2NE1YczJmSF9URHpYRGtMcFNiQWVWRTh0SEhQYjhHSThmdHF3MktfODdOR2lHUHVvU3J1aw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "AMGN price increase announcement",
-          "feed": "en",
-          "importance_score": 48.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.94(0.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 48.5/100"
-        },
-        {
-          "title": "AMGN Stock Down Despite Q3 Earnings & Sales Beat, Raised Guidance",
-          "source": "TradingView",
-          "publisher_domain": "tradingview.com",
-          "published_at": "2026-11-04T12:19:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1Y4NjJRSzZTanFjUWoxNEJDX0xhbF9QRWNlWDJZZHFnVVZzaUJvLWZ1OWpRZTRBYWxVREdaSlY1aXljWUdWanJTTzF4bGRZTGt3ODBxRDBlQ1kzbi1BUm80UzNfcTIzVEFJc0VSQ3gyTEFQc3BPMDZHOUQ0REVPWU4yWUwzcmdHSFkwY293c0hEYnZyZWNQYXNjeU9lUWxvVmttaGRMLW5CVHFMMUJrX01aR0FpY2pDT0E?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Amgen pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 41.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.94(0.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.1/100"
-        },
-        {
-          "title": "How Positive Trial Results At Amgen (AMGN) Have Changed Its Investment Story",
-          "source": "Simply Wall St",
-          "publisher_domain": "simplywall.st",
-          "published_at": "2026-11-01T07:44:27+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOenBteW4tR09mOTdTRmFVU3QwZ3hzaGRUQ0QwbFZyaktBbkwwRHBrS3QxV01URUJMMmhHbndITGV3amJPbk83VjVNWWtKY0lxcU4tLU5XUm5qTG9BVS1CMVZZdFNYYlZnWFZETElJME1QOTZWZVpscXVLQnFpeGxBcGoxRGJwSkpDbXFEdExBX3FLbURObVNYOFNLamxDRlNGRldsODd1VWl2X0RVUi15VXZBbkx5YTlwLVpGVGUyY01Bb2V2Y3ZIVEdNaUYtS0VxM2ZEbUZR0gHbAUFVX3lxTE9ZOGVGUVJPalJSakw0UWdVdDU0Zk4xaE10VVdkY1dFUWxmTTJLNXlJV0h5Tk1iMS13eW5mLVVCenBNVkJNYjVlckJNRXJZVDJsekZFVzBmazBOczBiaENWTFRqUEM5Rk9KVGphci1MOHlib0pnNFEtcWlxd1VsVDFMMG50VUdJZ01pWnQwUWR1Q2c2UlZvUnpmaF90dTRaSjh6YTlyeUk0RG5PcFoxU3Fob2hoTHEwMGhYZ18temYwZk51ZGNDZWNjcGJ6ekNHamd5S0J2c1pHNWJYdw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "AMGN price increase announcement",
-          "feed": "en",
-          "importance_score": 40.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.61(3.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.2/100"
-        }
-      ]
-    },
-    "small:AMGN:theme_bottleneck": {
-      "key": "small:AMGN:theme_bottleneck",
-      "status": "partial",
-      "relevance_terms": [
-        "Amgen",
-        "AMGN"
-      ],
-      "dropped_irrelevant": 3,
-      "status_reason": "중복 제거 후 4건만 확보됨 (목표 5건)",
-      "found_count": 4,
-      "returned_count": 4,
-      "keywords": [
-        "AMGN bottleneck supply chain",
-        "Amgen sole supplier constraint",
-        "Amgen 공급 병목",
-        "Amgen 독점 공급"
-      ],
-      "queries": [
-        {
-          "keyword": "AMGN bottleneck supply chain",
-          "feed": "en",
-          "count": 7
-        },
-        {
-          "keyword": "Amgen sole supplier constraint",
-          "feed": "en",
-          "count": 0
-        },
-        {
-          "keyword": "Amgen 공급 병목",
-          "feed": "ko",
-          "count": 2
-        },
-        {
-          "keyword": "Amgen 독점 공급",
-          "feed": "ko",
-          "count": 6
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:25:42.455364+00:00",
-      "articles": [
-        {
-          "title": "Amgen (AMGN) Gets A Fresh Look As Phase 3 Wins Meet A Pricey Narrative",
-          "source": "Yahoo Finance",
-          "publisher_domain": "finance.yahoo.com",
-          "published_at": "2026-10-31T07:10:01+00:00",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmJlekg0UjdhTk9WcU5TX3ZSMURLNTlYNFRFYnVoMWlna1ppclB1RnJZclBYVWVtMUlIUlRfVUZYQ0Nfb290Nm1Wb3k4b1k1d1hudF85N20yMlZGSnBpaWZLOFlWLXZ2WUxvNTBsZkVKMXZPZnh6aXlZUkVZRWw5MGxkZzVJcWUwQ2ZGNTJCeTY?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "AMGN bottleneck supply chain",
-          "feed": "en",
-          "importance_score": 44.1,
-          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.53(4.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 44.1/100"
-        },
-        {
-          "title": "Amgen (AMGN) Gains Attention On Aging Treatments, Is The Upside Already Priced In?",
-          "source": "Yahoo Finance",
-          "publisher_domain": "finance.yahoo.com",
-          "published_at": "2026-10-14T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMW9ubGo3eVFCVlNkZ0pydmdlcDU2cmxMY0xqSHpERWRjX3RnSlJoNmx0NEVjczVFOXBicmp3amt3LW9mdkZjVmo0YUhrdnFFSDVoNDRGM2FLZTY5MHotbWtrbGF2Y0toYnRvMmZLMmszMTlHVi1xb1hWdjhncWhvenFRakhlN3BPNlhzQldHZktDN1Z5NFpiQzJOdmYydw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "AMGN bottleneck supply chain",
-          "feed": "en",
-          "importance_score": 32.2,
-          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.05(21.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.2/100"
-        },
-        {
-          "title": "Amgen (AMGN), What Is Behind The Fresh Attention?",
-          "source": "Yahoo Finance",
-          "publisher_domain": "finance.yahoo.com",
-          "published_at": "2026-09-28T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPREFkSTRXSmZlVm5zMHB0TF80RlJSTTFRME5McXJDRm1YV2RlX21PbjZQR20tNWoxUEpQalBYYy1GV3hVUzlTVUZBcWR0eE5EWE5rOTBoYUlmMnJWaXdGOE5ka2tldUJwdjZOanJ1ajg4dnNKdDVuU2l1YXFVQk1NV3BzdWkxM3JURzJ5a1RyanRrZElLRTM0RGpKRHFnV0k?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "AMGN bottleneck supply chain",
-          "feed": "en",
-          "importance_score": 31.1,
-          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(37.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.1/100"
-        },
-        {
-          "title": "Amgen (AMGN) Draws Fresh Valuation Debate After Phase 3 TEZSPIRE Trial Results",
-          "source": "Simply Wall St",
-          "publisher_domain": "simplywall.st",
-          "published_at": "2026-10-24T12:43:23+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZXl2ZlB4N2N2OTYxS09YODBuMldYdUpQa0tBSmdlc25URjNxaDBfa3U2WG9fZ280dlhCd2tzV3hmYVNaZXFVZ3BLMVMzVklEVTFCN0NJRHVIRDluVkVjT2NXR09jcEhNcEpmXzhIVndvUllUTVpMREx6TEFXU2NHLTdlWERXYXVoaVpwYU5lQU1TQk52ZHFCNkgwUFE2Q2RmZGJ5RHFZUlJBWl8xWFJrVmVoMExma0tEcVFSMmg4S2gzT1VXVW1UZnZya01pTkVmZ3dSQThB0gHbAUFVX3lxTE5BbmJjY3JXaDREVVNfclFWUFoyRmNaRGplVUVhQmY1Nmt3bnNEcEdfaVpjX19PYXlrWVppQmFKUDRqN2MzUUNydXZlRmY1RjdzZmZfRjV6TjJTS2VmTU5kdkJ3WTNPazhyeF9nZTBFbUlyV3NDUldHUFNOc3c0TURuOUdELUt3dnZKa3JiRV9uUlQtcGtwbjVSVXNobnlzYVA2Y3AzYlRmRFU3RHZuQV96bHBQV0FZS2N3YTJkWkF6bnE5YUI4QkNZYVV6amhKb3BhNXgwNHFKYnQwaw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "AMGN bottleneck supply chain",
-          "feed": "en",
-          "importance_score": 30.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.21(11.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 30.1/100"
-        }
-      ]
-    },
-    "small:CRWD:capacity_gap": {
-      "key": "small:CRWD:capacity_gap",
-      "status": "partial",
-      "relevance_terms": [
-        "CrowdStrike Holdings",
-        "CrowdStrike",
-        "CRWD"
-      ],
-      "dropped_irrelevant": 5,
-      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
-      "found_count": 1,
-      "returned_count": 1,
-      "keywords": [
-        "CRWD capacity expansion sold out",
-        "CrowdStrike Holdings supply shortage easing",
-        "CrowdStrike Holdings 캐파 부족 해소",
-        "CrowdStrike Holdings 증설 가동"
-      ],
-      "queries": [
-        {
-          "keyword": "CRWD capacity expansion sold out",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "CrowdStrike Holdings supply shortage easing",
-          "feed": "en",
-          "count": 1
-        },
-        {
-          "keyword": "CrowdStrike Holdings 캐파 부족 해소",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "CrowdStrike Holdings 증설 가동",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:25:54.308781+00:00",
-      "articles": [
-        {
-          "title": "Why NVDA, AMD, CRWD Stocks Surged To 52-Week Highs Today",
-          "source": "TradingView",
-          "publisher_domain": "tradingview.com",
-          "published_at": "2026-10-06T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHhDMkI0emNTQUUzQ0tiUnRkN2VPLUhCbEd0QTA4VHBROWJMdFN2X09mMlRpZTFRcVVYWm1uRmIwNklXRVpmNmpnQ1VVQ3F6Zmt4Nlh1ZnVZZHM1OGZURTNOX0Y0U3hQX1BzV1l2RUl4YjA1TlRmYVloak44Q21RNEU5aVVqbk04N3ZZU3lWY2kxOUY3cTI1MFFJN0hTS1RuZElfR2ZGZm9TUWtGcXA1OGtRY3pmUQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "CRWD capacity expansion sold out",
-          "feed": "en",
-          "importance_score": 17.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(29.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.9/100"
-        }
-      ]
-    },
-    "small:CRWD:supply_locked": {
-      "key": "small:CRWD:supply_locked",
-      "status": "no_results",
-      "relevance_terms": [
-        "CrowdStrike Holdings",
-        "CrowdStrike",
-        "CRWD"
-      ],
-      "dropped_irrelevant": 2,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "CRWD long term supply agreement",
-        "CrowdStrike Holdings capex completion customer commitment",
-        "CrowdStrike Holdings 장기 공급계약 체결",
-        "CrowdStrike Holdings 증설 완료"
-      ],
-      "queries": [
-        {
-          "keyword": "CRWD long term supply agreement",
-          "feed": "en",
-          "count": 9
-        },
-        {
-          "keyword": "CrowdStrike Holdings capex completion customer commitment",
-          "feed": "en",
-          "count": 0
-        },
-        {
-          "keyword": "CrowdStrike Holdings 장기 공급계약 체결",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "CrowdStrike Holdings 증설 완료",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:26:06.934936+00:00",
-      "articles": []
-    },
-    "small:CRWD:pricing_power": {
-      "key": "small:CRWD:pricing_power",
-      "status": "partial",
-      "relevance_terms": [
-        "CrowdStrike Holdings",
-        "CrowdStrike",
-        "CRWD"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": "중복 제거 후 4건만 확보됨 (목표 5건)",
-      "found_count": 4,
-      "returned_count": 4,
-      "keywords": [
-        "CRWD price increase announcement",
-        "CrowdStrike Holdings pricing power margin expansion",
-        "CrowdStrike Holdings 판가 인상",
-        "CrowdStrike Holdings 가격 인상 전가"
-      ],
-      "queries": [
-        {
-          "keyword": "CRWD price increase announcement",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "CrowdStrike Holdings pricing power margin expansion",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "CrowdStrike Holdings 판가 인상",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "CrowdStrike Holdings 가격 인상 전가",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:26:18.975571+00:00",
-      "articles": [
-        {
-          "title": "CrowdStrike Holdings Inc Stock (CRWD) Moved Down by 3.14% on Nov 2: Key Drivers Unveiled",
-          "source": "TradingKey",
-          "publisher_domain": "tradingkey.com",
-          "published_at": "2026-11-02T20:15:45+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEpkb0d2R1lLNmdWQ2NhNkNHNWZGYmM3aWNXVDl0WEZlLV96WWJ3SWE5YW13Z3d6ZlVTTWNMOFF0RWlZZktUc1V2RE1XRHpSb0FCZ3Z6ZmhpMkFnXzFZU2N1cGthalJiNlp3RTB5dE8wQURiNWxkX2JmNFRTLVpuelM4MXpyWkVveXVB?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "CRWD price increase announcement",
-          "feed": "en",
-          "importance_score": 51.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.75(2.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 51.2/100"
-        },
-        {
-          "title": "CrowdStrike Holdings Inc Stock (CRWD) Moved Up by 3.79% on Oct 9: What Investors Need To Know",
-          "source": "TradingKey",
-          "publisher_domain": "tradingkey.com",
-          "published_at": "2026-10-09T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1Y3YjN6d21mNmdOemtTVlJKYWN0OXdPYUh0eVJtNkF1Z3ZsMEtPZjV6cXl6YXdGclpUX1R4T1RKTWc1T2ZCc2Y3alBzSmlvMV94UnpwNVl5Tm9lRGdDZFMwYlNYRjlsOHZYM3hITmI2SWZuejE0Ymt5YkQ5OUN2Ym5fZlNDRzB1aWM4?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "CrowdStrike Holdings pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 33.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.02(26.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 33.1/100"
-        },
-        {
-          "title": "CrowdStrike (CRWD) Stock May Look Fully Priced As AI Security Ties Expand",
-          "source": "Simply Wall St",
-          "publisher_domain": "simplywall.st",
-          "published_at": "2026-10-27T13:27:01+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMTlzNzdwaUJ2NHpXcXJaZ1hFNE5FdmRHQ194VWhQMXFwZ2l6VzdicmtkNE9zWTNRMldMa2RzTUJYUnAyN1Z5SHBCa1hZY1ZDdDJFQkhPWWtQbjRFTHVla0p2ZWpjcEtVZ2M3STdLZWhGaVpzbERiU0swQ1ZpMV9sTkJvczNnd0s3RnQycFI3Y1RVTk9IbXZLdkR3b1I3ZEZuRzhuSU9DTFNoa0NlalJLUkRlbS1vN3RJdFM4emlqUXBLbl9uRUZvSjZiT2otZXdLWDd1eNIB2gFBVV95cUxNd0FyM243SW5tcGtPbWJLSmNNNlJrWlFOUUJuT2UyMmtDaVBDZC1KaHdZdVBnTjZIeWFad0V2MUh5YkwwVVNuY2UxMXpYSWhueDVKN01YbzRMR0F1X3picTFIZHo3ZWVGamhweGNySDFqb0hBUDkyb0VXSHpDTF9Sc00xcGVaVm96OVdOdTJnNnYxZFRKUUtqREpGTnFNVVF5Q2phcXk3YWw1SmJrQzhWQ0psTXk3OUh6dHBYVnBJQWFSeEpnSWp0c3l5a3U2cGxLcGZZLS1YaklWZw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "CrowdStrike Holdings pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 32.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.31(8.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.8/100"
-        },
-        {
-          "title": "The Bull Case For CrowdStrike (CRWD) Could Change Following Falcon’s Launch In The OpenAI Marketplace",
-          "source": "Yahoo Finance",
-          "publisher_domain": "finance.yahoo.com",
-          "published_at": "2026-10-12T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUFhIQzN6SE5yQlVvZjYtQ0RTVjRvcHdUdkF3T1p0UFhwYlhFV2I1QjZHLVJ6N2oxRkloQjlaOXVtNTNMc1hBcGRtVkp4LVRQNEJoZzZjOFNMSktCM2ZpaDVJUTJwak5Nd29sTFVORWtXMENhWDF3N1pZVUZ1ZENoWHVkbG54aUJ3aW5xNHNiWHlvWGo0a0Yzbmx1bWI?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "CRWD price increase announcement",
-          "feed": "en",
-          "importance_score": 31.9,
-          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.04(23.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.9/100"
-        }
-      ]
-    },
-    "small:CRWD:theme_bottleneck": {
-      "key": "small:CRWD:theme_bottleneck",
-      "status": "no_results",
-      "relevance_terms": [
-        "CrowdStrike Holdings",
-        "CrowdStrike",
-        "CRWD"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "CRWD bottleneck supply chain",
-        "CrowdStrike Holdings sole supplier constraint",
-        "CrowdStrike Holdings 공급 병목",
-        "CrowdStrike Holdings 독점 공급"
-      ],
-      "queries": [
-        {
-          "keyword": "CRWD bottleneck supply chain",
-          "feed": "en",
-          "count": 5
-        },
-        {
-          "keyword": "CrowdStrike Holdings sole supplier constraint",
-          "feed": "en",
-          "count": 0
-        },
-        {
-          "keyword": "CrowdStrike Holdings 공급 병목",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "CrowdStrike Holdings 독점 공급",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:26:30.934189+00:00",
-      "articles": []
-    },
-    "small:LLY:capacity_gap": {
-      "key": "small:LLY:capacity_gap",
-      "status": "ok",
-      "relevance_terms": [
-        "Eli Lilly and Company",
-        "Lilly",
-        "LLY"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": null,
-      "found_count": 8,
-      "returned_count": 5,
-      "keywords": [
-        "LLY capacity expansion sold out",
-        "Eli Lilly and Company supply shortage easing",
-        "Eli Lilly and Company 캐파 부족 해소",
-        "Eli Lilly and Company 증설 가동"
-      ],
-      "queries": [
-        {
-          "keyword": "LLY capacity expansion sold out",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Eli Lilly and Company supply shortage easing",
-          "feed": "en",
-          "count": 9
-        },
-        {
-          "keyword": "Eli Lilly and Company 캐파 부족 해소",
-          "feed": "ko",
-          "count": 1
-        },
-        {
-          "keyword": "Eli Lilly and Company 증설 가동",
-          "feed": "ko",
-          "count": 0
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:26:43.313392+00:00",
-      "articles": [
-        {
-          "title": "Why Is Metabolic-Therapy Demand Keeping Eli Lilly (NYSE:LLY) in Focus?",
-          "source": "Kalkine Media",
-          "publisher_domain": "kalkinemedia.com",
-          "published_at": "2026-11-03T07:12:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVU4dkNXUFVkdHhmNVZrQXBoUUpHWS1GYURsVl9ZMDBQQW12SUZVdXY0YTBwSkNrOGFFdUNJdktCNjFHUU5QM2xSQnFQRC1jNUlXTXlfaFlWSDM5SXBCM1BRcjRRRFJKSDNmeDhlYm12Y0tWb19mdzJQRUFyTEJXZ0g2cFllc2Y1WjQ2WEVCU084Z0RKNTJ2cG1wLWt4bnNMdUZlaU9LX1paN3hwQVFWSU5R?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LLY capacity expansion sold out",
-          "feed": "en",
-          "importance_score": 52.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.80(1.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 52.4/100"
-        },
-        {
-          "title": "Is Eli Lilly (NYSE:LLY) Still Unstoppable?",
-          "source": "Kalkine Media",
-          "publisher_domain": "kalkinemedia.com",
-          "published_at": "2026-11-03T06:40:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd290dGQwS1VUbGpjcTZKRmhmUlhjcElMLUdSaDdPazdVLUdWZjExMF9FTzlfd3FhcW9hcmViRjI5ZFF1eUszOTJwTUxuVUtYNkJId3BsR2tLaFdqVU5sRmgyaHI0NkszN1FRTV8xZTZ3Qk1JX3pDSGlLZ0lSa2NhWTktcXZJRGJBLVRRVg?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LLY capacity expansion sold out",
-          "feed": "en",
-          "importance_score": 52.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.79(1.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 52.4/100"
-        },
-        {
-          "title": "Eli Lilly (LLY) Stock Jumps After Q3 Earnings Lift Guidance",
-          "source": "Simply Wall St",
-          "publisher_domain": "simplywall.st",
-          "published_at": "2026-10-30T22:27:57+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2E2ZnkzU3BzcU1hbjRGYldwWklBQlVPRGJSODNKU3lKUHVzVS1jVnRIaTJ1NHZqMXF2cFNwd3VMRmRCSkJ4Z0dwSnY0NF9rTFpPSHIwVFJTSElxOVhzb05XU2JibHF6ZkF2VUMxRGhiMzd6THRBdFNPZjJSV2RJRDdlSmZWenRIaUdsZ0pPQ0dfUE54Y0tMdFB5cmEzSlFYcl8weEdmMGNZZnprUkNzUk9HczdvVHE4eGpia0FZVWJuRXFBQVZGcEdvSXBHMGNBYXdv0gHYAUFVX3lxTE5wR2toVVdFd1NsZ3NPYi1HX0ZQUEVKQTJ1TUpBNGtFMU4wYkJOOHdhaFNWMjJIWFZpMlkyZnpQLURESFFubG5OTDJJeElZYUZrU0ZfUjVFeVhrQ3gyQ1hQUmlGYmhsRlVtQnRFeVF4RWRoWXJINVcyTmU0YmY4eXBzM0l1X01TZVV0Z0YzV1BSdVBRY2lfR3JWTzU5LVVoSUJORUJKdXctdEZ3OWcwVVctazhpeHFDNWRsY0tsRVZsTjh6MGhXUjVlYnZkd2hNbGsxZ2h0RFVodw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LLY capacity expansion sold out",
-          "feed": "en",
-          "importance_score": 45.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.50(5.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 45.0/100"
-        },
-        {
-          "title": "Eli Lilly and Company (LLY) is Expanding Beyond its Biggest Growth Drivers. Can it Sustain the Momentum?",
-          "source": "Yahoo Finance",
-          "publisher_domain": "finance.yahoo.com",
-          "published_at": "2026-09-27T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXEwek9PRlIxcHh1THF6djQ5Z3ZvbXBDSmxUdTJYblliMWtGdkZBbzBWdDZhOUFuUkdLRE1CR2ZkM1RYUGxKOWxBOGVrcHlqZFJsMEpwdXl0cU94WXYwMHE0T2ZtNXNqUkhKeVhmQUlGVzNYLUg4Sjh6MDFfMFJUcW1DSXFLRXJrM3QycTRITHFlY2RNQnc4?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LLY capacity expansion sold out",
-          "feed": "en",
-          "importance_score": 41.1,
-          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.00(38.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.1/100"
-        },
-        {
-          "title": "LLY Stock Up Almost 10% After a Robust Q3: Time to Buy, Sell or Hold?",
-          "source": "The Globe and Mail",
-          "publisher_domain": "theglobeandmail.com",
-          "published_at": "2026-11-03T13:18:44+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdTh5d0tSbElPaks1bWZyU1NGZFBQZzROc2V3SFZCVjYzZk5YcHB0LVZVTUNhdlUxV21XOGt1RGNXSmxkSDRjZm9BVkVYYndMYXFZOFhkUHhpNnJKb3lWSmNJYjZ0enpwNUx5TlUyVHgyNUx5QmY3OHY1dzJBVGRBN0c1Rk40NGJxckV0S3F5SnRaZ1RlaVRjU0h5NTQ0T2ZzUjN5bl95R095Q1pCRlFaUXJsYkNqSjd4cXdNVHNCVFhSWjBlZUMxZUJIWnh2NjFweUZDLVlCQTNKWmNDdTBTNzFjTQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LLY capacity expansion sold out",
-          "feed": "en",
-          "importance_score": 38.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.83(1.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 38.1/100"
-        }
-      ]
-    },
-    "small:LLY:supply_locked": {
-      "key": "small:LLY:supply_locked",
-      "status": "no_results",
-      "relevance_terms": [
-        "Eli Lilly and Company",
-        "Lilly",
-        "LLY"
-      ],
-      "dropped_irrelevant": 6,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "LLY long term supply agreement",
-        "Eli Lilly and Company capex completion customer commitment",
-        "Eli Lilly and Company 장기 공급계약 체결",
-        "Eli Lilly and Company 증설 완료"
-      ],
-      "queries": [
-        {
-          "keyword": "LLY long term supply agreement",
-          "feed": "en",
-          "count": 10
-        },
-        {
-          "keyword": "Eli Lilly and Company capex completion customer commitment",
-          "feed": "en",
-          "count": 1
-        },
-        {
-          "keyword": "Eli Lilly and Company 장기 공급계약 체결",
-          "feed": "ko",
-          "count": 10
-        },
-        {
-          "keyword": "Eli Lilly and Company 증설 완료",
-          "feed": "ko",
-          "count": 2
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:26:55.276881+00:00",
-      "articles": []
-    },
-    "small:LLY:pricing_power": {
-      "key": "small:LLY:pricing_power",
-      "status": "ok",
-      "relevance_terms": [
-        "Eli Lilly and Company",
-        "Lilly",
-        "LLY"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": null,
-      "found_count": 6,
-      "returned_count": 5,
-      "keywords": [
-        "LLY price increase announcement",
-        "Eli Lilly and Company pricing power margin expansion",
-        "Eli Lilly and Company 판가 인상",
-        "Eli Lilly and Company 가격 인상 전가"
-      ],
-      "queries": [
-        {
-          "keyword": "LLY price increase announcement",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Eli Lilly and Company pricing power margin expansion",
-          "feed": "en",
-          "count": 25
-        },
-        {
-          "keyword": "Eli Lilly and Company 판가 인상",
-          "feed": "ko",
-          "count": 1
-        },
-        {
-          "keyword": "Eli Lilly and Company 가격 인상 전가",
-          "feed": "ko",
-          "count": 1
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:27:07.305461+00:00",
-      "articles": [
-        {
-          "title": "Eli Lilly Stock: Dominance Has A Price (NYSE:LLY)",
-          "source": "Seeking Alpha",
-          "publisher_domain": "seekingalpha.com",
-          "published_at": "2026-10-07T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNQkFVV3NlVjlHeFExVDhSM0VkWFVqdElXRWxpNVJNSWo5WFlzQkRpamh2VTJQcnVqc0h3bEFWanUtQVRhd3hyaEVfa2JMaWFFZW0xUmpWRFkxOWw3bm4wTzQwVW5ONjhtTWFzLVVBbU9lVEZNOUh5TTdPcWI?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Eli Lilly and Company pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 41.5,
-          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.02(28.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.5/100"
-        },
-        {
-          "title": "Eli Lilly Q2 2026: Mounjaro Revenue Surge, Geographic Pricing Dynamics, and Market Share Leadership",
-          "source": "AlphaStreet",
-          "publisher_domain": "news.alphastreet.com",
-          "published_at": "2026-10-01T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZm52MDVnNnJCSWNkYVRmZjB2bmw4YlhPVjkyUnRzX1RqMDBJU2o4TmctVlBFdFpNb29XampobXhJSFpNc3FRNDU0WWp0NzVRVHIyOE1UUzI1SlBXZnR4WHRhQWF1NzN5aFA4OTNxMDc1Uldpa3gzRHZ4dDJYMGZ2ZkNBVG5ZR0xfQVVVZHhiWWVtS0VTdktXaTF3Ym5IWk5meDgxLUVLMlNzZ2FxdUNrNU13OGUwdzdWVmItcnY5dFR4eTFv0gHKAUFVX3lxTE5xWS1NZTh2d1FmaDlZZ2tad3h5RkppX2V6aXVZZVhQZTFUSUM2bWRIdWtLbU9RRVdaV0E4VkNQV2J0Z3NxbnhCMnZBZV9uVENFSVgzaGM2aXBiLUJobWM0ZWhpd3hzTnJUcWg2TGlfLWZ2U3JYMnlqQ1JJZmVucVJ1bm9ZVUVXSkp2NGk4WGZqNnZqRHoxTkZoZGhPVzd5dWtRcVZpMGxMZkd1dXpQTi1ZWmh1UHNNN0JCRnJXOExYNjlnZUVIT1F4R0E?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Eli Lilly and Company pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 32.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(34.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.7/100"
-        },
-        {
-          "title": "Guggenheim Boosts Eli Lilly Price Target Amid Strong Weight Loss Drug Demand",
-          "source": "TIKR.com",
-          "publisher_domain": "tikr.com",
-          "published_at": "2026-09-22T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOTJ1ZVJFcWhEa01kT2tIUV9LUHJpcnRzZzJMQTJTMGFSNE51LUhxSkc0RG5MWFdNRHg1b05HdzJHR2wyUzhGemJxbHV3bS1oRnNqOGNsSFNPa2lEUUp4MkRuZWpsQ0UyMXM4a1JkV3lUSG5fV2NwZHA5d1pDMFRkendJX1V6b0tnT1duY0tjSklhQQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LLY price increase announcement",
-          "feed": "en",
-          "importance_score": 32.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.00(43.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.6/100"
-        },
-        {
-          "title": "Lilly reports third-quarter 2026 financial results, raises full-year guidance and highlights regulatory progress across the portfolio",
-          "source": "PR Newswire",
-          "publisher_domain": "prnewswire.com",
-          "published_at": "2026-10-29T11:45:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRF9FUVZFeldqZkwwcTNCd1JNZlRtVEVLdzdaMDhHVmJoUHFYdHlpMkt1Y25HRjB2Z29JSjE4Y0FaTDF6RURwQkotaHU4Z1dDVG1ORE4ybE1kOFI5ek9hQ3c5OXAyZ3ZZa0drblU3dmFyV2dRMnJMTXllaC1ZY09zOS1DdmhQY01tNHpjdkgzZXA5UW5LY1NRX0w1RDdQcTE4Q0hSVURUOVlQWlBOa1p4WFFTanVYTkJKM0pTaUFOZmxfT1RHVDB1LUhxenJIN1BfSFAtVU44Y2RaaWMxX0ZUbDJBcWJuNTVxRWNnNDBZUjJPd0ZxenNaaHlLQUtfcXRaU1ZCMjl1MVhZbGlZYmNOWVZVT2poR3c?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "LLY price increase announcement",
-          "feed": "en",
-          "importance_score": 27.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.41(6.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.7/100"
-        },
-        {
-          "title": "Eli Lilly at 39x Earnings: Why Weekly Insulin Is Moat Defense, Not a Valuation Driver",
-          "source": "Kavout",
-          "publisher_domain": "kavout.com",
-          "published_at": "2026-09-28T06:24:53+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2Rybml3cEZfb3dRS01nRE9QQVNXbWRSaXRwaGMycUhiaXo4emFXakl6QThUbTdvNFNQZjN2Q3JlX0xNZnJkLUt0azNaTFM1eFM0MWNwTDUwN1lRTk1qZzNoTHpkZUxSVlMtT0x3SmRQdTBKUG5DdDZ5c0RieUpieEtRdnVnRzl1Q1BKQzl5ZGVxRGhmbzBJdVY0ZEtkZ1NuUFZvOEdsMHFnY0RfdU9MTHlVZFQxTHo3MS1NaUZjNjQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "Eli Lilly and Company pricing power margin expansion",
-          "feed": "en",
-          "importance_score": 25.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.01(37.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.1/100"
-        }
-      ]
-    },
-    "small:LLY:theme_bottleneck": {
-      "key": "small:LLY:theme_bottleneck",
-      "status": "no_results",
-      "relevance_terms": [
-        "Eli Lilly and Company",
-        "Lilly",
-        "LLY"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "LLY bottleneck supply chain",
-        "Eli Lilly and Company sole supplier constraint",
-        "Eli Lilly and Company 공급 병목",
-        "Eli Lilly and Company 독점 공급"
-      ],
-      "queries": [
-        {
-          "keyword": "LLY bottleneck supply chain",
-          "feed": "en",
-          "count": 6
-        },
-        {
-          "keyword": "Eli Lilly and Company sole supplier constraint",
-          "feed": "en",
-          "count": 1
-        },
-        {
-          "keyword": "Eli Lilly and Company 공급 병목",
-          "feed": "ko",
-          "count": 1
-        },
-        {
-          "keyword": "Eli Lilly and Company 독점 공급",
-          "feed": "ko",
-          "count": 5
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:27:19.802814+00:00",
-      "articles": []
     },
     "small:MRK:capacity_gap": {
       "key": "small:MRK:capacity_gap",
@@ -2027,7 +1068,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:27:31.355818+00:00",
+      "fetched_at": "2026-11-05T22:32:16.541631+00:00",
       "articles": []
     },
     "small:MRK:supply_locked": {
@@ -2038,7 +1079,7 @@
         "Merck",
         "MRK"
       ],
-      "dropped_irrelevant": 5,
+      "dropped_irrelevant": 2,
       "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
       "found_count": 2,
       "returned_count": 2,
@@ -2074,7 +1115,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:27:43.051962+00:00",
+      "fetched_at": "2026-11-05T22:32:28.427462+00:00",
       "articles": [
         {
           "title": "Merck KGaA, Darmstadt, Germany, to Divest CDMO Business to Lonza",
@@ -2087,8 +1128,8 @@
           "provider": "google_news_rss",
           "query": "MRK long term supply agreement",
           "feed": "en",
-          "importance_score": 46.8,
-          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.80(1.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 46.8/100"
+          "importance_score": 44.2,
+          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.69(2.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 44.2/100"
         },
         {
           "title": "Merck to Divest CDMO Business to Lonza",
@@ -2101,23 +1142,23 @@
           "provider": "google_news_rss",
           "query": "MRK long term supply agreement",
           "feed": "en",
-          "importance_score": 46.8,
-          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.80(1.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 46.8/100"
+          "importance_score": 44.2,
+          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.69(2.7일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 44.2/100"
         }
       ]
     },
     "small:MRK:pricing_power": {
       "key": "small:MRK:pricing_power",
-      "status": "ok",
+      "status": "partial",
       "relevance_terms": [
         "Merck & Company",
         "Merck",
         "MRK"
       ],
-      "dropped_irrelevant": 6,
-      "status_reason": null,
-      "found_count": 7,
-      "returned_count": 5,
+      "dropped_irrelevant": 7,
+      "status_reason": "중복 제거 후 4건만 확보됨 (목표 5건)",
+      "found_count": 4,
+      "returned_count": 4,
       "keywords": [
         "MRK price increase announcement",
         "Merck & Company pricing power margin expansion",
@@ -2128,7 +1169,7 @@
         {
           "keyword": "MRK price increase announcement",
           "feed": "en",
-          "count": 19
+          "count": 14
         },
         {
           "keyword": "Merck & Company pricing power margin expansion",
@@ -2150,7 +1191,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:27:54.896029+00:00",
+      "fetched_at": "2026-11-05T22:32:40.861437+00:00",
       "articles": [
         {
           "title": "Nine-month sales rose to $51B, but Merck (MRK) swung from profit to loss.",
@@ -2163,36 +1204,8 @@
           "provider": "google_news_rss",
           "query": "MRK price increase announcement",
           "feed": "en",
-          "importance_score": 49.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.99(0.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 49.8/100"
-        },
-        {
-          "title": "Merck & Co., Inc. (NYSE:MRK) Stock Gets Price Target Increase from JPMorgan Chase & Co.",
-          "source": "MarketBeat",
-          "publisher_domain": "marketbeat.com",
-          "published_at": "2026-10-30T23:29:15+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdE4wRWRWRVZXSE5hLXBjVHJtbjZlRFVMcnBDYWJqa25pUnU5elcwdXFMb0R0R1VVcUhtSnBueU9iRHBmTlg1blRqVnZqZ3pUUEVNekJWR2dfU21LTXZTSzhydkw4Z0dPTzQzdEhHM1ZNU1FJNktmVUpjZEpuWGdqWnVHYnRRSjNVMnY3NHREYkR6alBUZHBDY1p3bHRvc0Nyd3FQekw1czNLMmxyWllQYWFRXzF5WHJaRTJ4NjN2WWhNMkgybmNmbHJBTGV2cUR6U2kzU09R?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "MRK price increase announcement",
-          "feed": "en",
-          "importance_score": 47.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.50(5.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 47.6/100"
-        },
-        {
-          "title": "Merck & Co., Inc. (NYSE:MRK) Stock Price Expected to Rise, Guggenheim Analyst Says",
-          "source": "MarketBeat",
-          "publisher_domain": "marketbeat.com",
-          "published_at": "2026-10-30T13:41:58+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTkxNVc2SVR4YUc4d1BsTXoxcU04cTBRSTdlRFJ5bHlCX3V6cnFWUy03S29pTVRlcHRJejRVZHh6RWZfNmxyNXVacjRhZkhsXzZzLURCVzF3dU1JTThzSGZmYUZ3V0RJTFMyQnJ5TG45TXhjVVNzUkNvRk5KUUItNFBfU2FRNDlYalBKWHFvSXRwRWlfZExWejM1a1l0U1JSYTRMZUE4U1ZoQml6QzlSZjd4WnBwYkg3dkFNRXZ0b3FCMmZHWURfQ211VHQtaTdMclE?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "MRK price increase announcement",
-          "feed": "en",
-          "importance_score": 44.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.48(5.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 44.4/100"
+          "importance_score": 46.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.86(1.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 46.6/100"
         },
         {
           "title": "Merck & Co., Inc. $MRK Stock Position Increased by Trek Financial LLC",
@@ -2205,8 +1218,8 @@
           "provider": "google_news_rss",
           "query": "MRK price increase announcement",
           "feed": "en",
-          "importance_score": 43.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.72(2.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 43.0/100"
+          "importance_score": 40.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.63(3.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.7/100"
         },
         {
           "title": "Merck (MRK) Stock Climbs After Q3 Results Revive Profit But Margins Lag",
@@ -2219,8 +1232,22 @@
           "provider": "google_news_rss",
           "query": "Merck & Company pricing power margin expansion",
           "feed": "en",
-          "importance_score": 37.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.50(5.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 37.5/100"
+          "importance_score": 35.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.44(6.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.9/100"
+        },
+        {
+          "title": "Missed Merck KGaA's Run? What Holders Had To Believe",
+          "source": "Simply Wall St",
+          "publisher_domain": "simplywall.st",
+          "published_at": "2026-10-28T12:32:32+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNXFQeFNaY2FnRkE5VkR2cy1TY1d3OVlSMDN0ZUUycjNpUjZkWlRJOTRlUEpGTGpxUVVIdUxhM1lxUVZqaURUQWp2ZEJZNXlraEJydFNaV0NaTk9sSkpYZDJJZkhPeTBac3VlNVE1RHhDS3Z3bFZNa1VFV0w4amNHeGNkVThLamwxcVY4alk4c3M3VFpmdzdiRmFpSi1naTY0NXBOVXFEeGR3SEFfMURUNzc5Q05yMlE3bUJpeHplT0Y2Y3otN2NmbGNYVkhMWFZIekFN0gHYAUFVX3lxTE1fUmdZRTlyOTBSU3Vxd0VVNGlERmdyN1JkMkY2UVlYeFVhQTdZak40TG1NQ25pSllMak10a01Wb2pYNXFLNEM2MG9LSWh0ejZCOGpaT1BRMmxMcDFqTHp0eDhrOHNGZHRkSjl1VG5qaGltUGNiNnpjZjFlb0F1MmxyTlVpRGVvUVF3bWc1OHRJNHNvek9UaE9HbG4yOENnMlRUS2oxUXVhNzYwQmdhWEtWMDdsS2JfU2lqd0p1Nm05WnR0c3llMGVNS0hIUkJTaUtPUU55bDF0dQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Merck & Company pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 25.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.31(8.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.3/100"
         }
       ]
     },
@@ -2268,8 +1295,978 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:28:06.663573+00:00",
+      "fetched_at": "2026-11-05T22:32:53.031249+00:00",
       "articles": []
+    },
+    "small:LLY:capacity_gap": {
+      "key": "small:LLY:capacity_gap",
+      "status": "ok",
+      "relevance_terms": [
+        "Eli Lilly and Company",
+        "Lilly",
+        "LLY"
+      ],
+      "dropped_irrelevant": 1,
+      "status_reason": null,
+      "found_count": 7,
+      "returned_count": 5,
+      "keywords": [
+        "LLY capacity expansion sold out",
+        "Eli Lilly and Company supply shortage easing",
+        "Eli Lilly and Company 캐파 부족 해소",
+        "Eli Lilly and Company 증설 가동"
+      ],
+      "queries": [
+        {
+          "keyword": "LLY capacity expansion sold out",
+          "feed": "en",
+          "count": 25
+        },
+        {
+          "keyword": "Eli Lilly and Company supply shortage easing",
+          "feed": "en",
+          "count": 9
+        },
+        {
+          "keyword": "Eli Lilly and Company 캐파 부족 해소",
+          "feed": "ko",
+          "count": 1
+        },
+        {
+          "keyword": "Eli Lilly and Company 증설 가동",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:33:04.917956+00:00",
+      "articles": [
+        {
+          "title": "Why Is Metabolic-Therapy Demand Keeping Eli Lilly (NYSE:LLY) in Focus?",
+          "source": "Kalkine Media",
+          "publisher_domain": "kalkinemedia.com",
+          "published_at": "2026-11-03T07:12:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVU4dkNXUFVkdHhmNVZrQXBoUUpHWS1GYURsVl9ZMDBQQW12SUZVdXY0YTBwSkNrOGFFdUNJdktCNjFHUU5QM2xSQnFQRC1jNUlXTXlfaFlWSDM5SXBCM1BRcjRRRFJKSDNmeDhlYm12Y0tWb19mdzJQRUFyTEJXZ0g2cFllc2Y1WjQ2WEVCU084Z0RKNTJ2cG1wLWt4bnNMdUZlaU9LX1paN3hwQVFWSU5R?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "LLY capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 49.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.69(2.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 49.8/100"
+        },
+        {
+          "title": "Is Eli Lilly (NYSE:LLY) Still Unstoppable?",
+          "source": "Kalkine Media",
+          "publisher_domain": "kalkinemedia.com",
+          "published_at": "2026-11-03T06:40:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd290dGQwS1VUbGpjcTZKRmhmUlhjcElMLUdSaDdPazdVLUdWZjExMF9FTzlfd3FhcW9hcmViRjI5ZFF1eUszOTJwTUxuVUtYNkJId3BsR2tLaFdqVU5sRmgyaHI0NkszN1FRTV8xZTZ3Qk1JX3pDSGlLZ0lSa2NhWTktcXZJRGJBLVRRVg?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "LLY capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 49.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.69(2.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 49.8/100"
+        },
+        {
+          "title": "Eli Lilly (LLY) Stock Jumps After Q3 Earnings Lift Guidance",
+          "source": "Simply Wall St",
+          "publisher_domain": "simplywall.st",
+          "published_at": "2026-10-30T22:27:57+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2E2ZnkzU3BzcU1hbjRGYldwWklBQlVPRGJSODNKU3lKUHVzVS1jVnRIaTJ1NHZqMXF2cFNwd3VMRmRCSkJ4Z0dwSnY0NF9rTFpPSHIwVFJTSElxOVhzb05XU2JibHF6ZkF2VUMxRGhiMzd6THRBdFNPZjJSV2RJRDdlSmZWenRIaUdsZ0pPQ0dfUE54Y0tMdFB5cmEzSlFYcl8weEdmMGNZZnprUkNzUk9HczdvVHE4eGpia0FZVWJuRXFBQVZGcEdvSXBHMGNBYXdv0gHYAUFVX3lxTE5wR2toVVdFd1NsZ3NPYi1HX0ZQUEVKQTJ1TUpBNGtFMU4wYkJOOHdhaFNWMjJIWFZpMlkyZnpQLURESFFubG5OTDJJeElZYUZrU0ZfUjVFeVhrQ3gyQ1hQUmlGYmhsRlVtQnRFeVF4RWRoWXJINVcyTmU0YmY4eXBzM0l1X01TZVV0Z0YzV1BSdVBRY2lfR3JWTzU5LVVoSUJORUJKdXctdEZ3OWcwVVctazhpeHFDNWRsY0tsRVZsTjh6MGhXUjVlYnZkd2hNbGsxZ2h0RFVodw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "LLY capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 43.4,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.44(6.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 43.4/100"
+        },
+        {
+          "title": "Eli Lilly and Company (LLY) is Expanding Beyond its Biggest Growth Drivers. Can it Sustain the Momentum?",
+          "source": "Yahoo Finance",
+          "publisher_domain": "finance.yahoo.com",
+          "published_at": "2026-09-27T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXEwek9PRlIxcHh1THF6djQ5Z3ZvbXBDSmxUdTJYblliMWtGdkZBbzBWdDZhOUFuUkdLRE1CR2ZkM1RYUGxKOWxBOGVrcHlqZFJsMEpwdXl0cU94WXYwMHE0T2ZtNXNqUkhKeVhmQUlGVzNYLUg4Sjh6MDFfMFJUcW1DSXFLRXJrM3QycTRITHFlY2RNQnc4?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "LLY capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 41.1,
+          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.00(39.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.1/100"
+        },
+        {
+          "title": "LLY Stock Up Almost 10% After a Robust Q3: Time to Buy, Sell or Hold?",
+          "source": "TradingView",
+          "publisher_domain": "fr.tradingview.com",
+          "published_at": "2026-11-03T11:11:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeDFqTlA1My03bEI2QWJhb3dkMXRlUXBpVUpsek5lbW1YaXBpYmIyTlZldWtSOXJEc29jRDliZTdMc2UzRHVLNV9wVW91VWZXOXJMWE1TZjFXM2NHaEtNRWxrbVdoQm00emdHbUFEaEhneEJiM2ZXZkVzSGZPNDBzOXVXb1pmX2NCU3VJTlFWaGlLM0F6TXhfZnFmczlZYkh1YUpNRWktWHJXSDdjdkR0SHAtcmVGdkhlekgzYw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "LLY capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 35.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.71(2.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.2/100"
+        }
+      ]
+    },
+    "small:LLY:supply_locked": {
+      "key": "small:LLY:supply_locked",
+      "status": "no_results",
+      "relevance_terms": [
+        "Eli Lilly and Company",
+        "Lilly",
+        "LLY"
+      ],
+      "dropped_irrelevant": 7,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "LLY long term supply agreement",
+        "Eli Lilly and Company capex completion customer commitment",
+        "Eli Lilly and Company 장기 공급계약 체결",
+        "Eli Lilly and Company 증설 완료"
+      ],
+      "queries": [
+        {
+          "keyword": "LLY long term supply agreement",
+          "feed": "en",
+          "count": 11
+        },
+        {
+          "keyword": "Eli Lilly and Company capex completion customer commitment",
+          "feed": "en",
+          "count": 1
+        },
+        {
+          "keyword": "Eli Lilly and Company 장기 공급계약 체결",
+          "feed": "ko",
+          "count": 10
+        },
+        {
+          "keyword": "Eli Lilly and Company 증설 완료",
+          "feed": "ko",
+          "count": 2
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:33:16.647936+00:00",
+      "articles": []
+    },
+    "small:LLY:pricing_power": {
+      "key": "small:LLY:pricing_power",
+      "status": "partial",
+      "relevance_terms": [
+        "Eli Lilly and Company",
+        "Lilly",
+        "LLY"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": "중복 제거 후 4건만 확보됨 (목표 5건)",
+      "found_count": 4,
+      "returned_count": 4,
+      "keywords": [
+        "LLY price increase announcement",
+        "Eli Lilly and Company pricing power margin expansion",
+        "Eli Lilly and Company 판가 인상",
+        "Eli Lilly and Company 가격 인상 전가"
+      ],
+      "queries": [
+        {
+          "keyword": "LLY price increase announcement",
+          "feed": "en",
+          "count": 23
+        },
+        {
+          "keyword": "Eli Lilly and Company pricing power margin expansion",
+          "feed": "en",
+          "count": 25
+        },
+        {
+          "keyword": "Eli Lilly and Company 판가 인상",
+          "feed": "ko",
+          "count": 1
+        },
+        {
+          "keyword": "Eli Lilly and Company 가격 인상 전가",
+          "feed": "ko",
+          "count": 1
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:33:28.574173+00:00",
+      "articles": [
+        {
+          "title": "Eli Lilly Stock: Dominance Has A Price (NYSE:LLY)",
+          "source": "Seeking Alpha",
+          "publisher_domain": "seekingalpha.com",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNQkFVV3NlVjlHeFExVDhSM0VkWFVqdElXRWxpNVJNSWo5WFlzQkRpamh2VTJQcnVqc0h3bEFWanUtQVRhd3hyaEVfa2JMaWFFZW0xUmpWRFkxOWw3bm4wTzQwVW5ONjhtTWFzLVVBbU9lVEZNOUh5TTdPcWI?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Eli Lilly and Company pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 41.4,
+          "importance_basis": "매체티어 0.40(seekingalpha.com)×0.40 + 키워드적중 4개→1.00×0.25 + 최신성 0.02(29.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 41.4/100"
+        },
+        {
+          "title": "LLY, CAT, MA, ANET, and ADM Q3 2026 Earnings: ANET Leads Revenue Growth",
+          "source": "TradingKey",
+          "publisher_domain": "tradingkey.com",
+          "published_at": "2026-11-04T12:14:14+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zcklOcEpyWHFPUHB3QjVXZjMxd054bEVBQUk2VDVxb25hRXFPYTl0RTlTYXVFWjZMNTR3Zzdkc1F4VlFUUVVXcGpIcWo1ZXRldkR0VkY2aU9lZHNtN2FpSg?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Eli Lilly and Company pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 38.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.82(1.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 38.0/100"
+        },
+        {
+          "title": "Eli Lilly Q2 2026: Mounjaro Revenue Surge, Geographic Pricing Dynamics, and Market Share Leadership",
+          "source": "AlphaStreet",
+          "publisher_domain": "news.alphastreet.com",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZm52MDVnNnJCSWNkYVRmZjB2bmw4YlhPVjkyUnRzX1RqMDBJU2o4TmctVlBFdFpNb29XampobXhJSFpNc3FRNDU0WWp0NzVRVHIyOE1UUzI1SlBXZnR4WHRhQWF1NzN5aFA4OTNxMDc1Uldpa3gzRHZ4dDJYMGZ2ZkNBVG5ZR0xfQVVVZHhiWWVtS0VTdktXaTF3Ym5IWk5meDgxLUVLMlNzZ2FxdUNrNU13OGUwdzdWVmItcnY5dFR4eTFv0gHKAUFVX3lxTE5xWS1NZTh2d1FmaDlZZ2tad3h5RkppX2V6aXVZZVhQZTFUSUM2bWRIdWtLbU9RRVdaV0E4VkNQV2J0Z3NxbnhCMnZBZV9uVENFSVgzaGM2aXBiLUJobWM0ZWhpd3hzTnJUcWg2TGlfLWZ2U3JYMnlqQ1JJZmVucVJ1bm9ZVUVXSkp2NGk4WGZqNnZqRHoxTkZoZGhPVzd5dWtRcVZpMGxMZkd1dXpQTi1ZWmh1UHNNN0JCRnJXOExYNjlnZUVIT1F4R0E?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Eli Lilly and Company pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 32.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(35.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.7/100"
+        },
+        {
+          "title": "Eli Lilly at 39x Earnings: Why Weekly Insulin Is Moat Defense, Not a Valuation Driver",
+          "source": "Kavout",
+          "publisher_domain": "kavout.com",
+          "published_at": "2026-09-28T06:24:53+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2Rybml3cEZfb3dRS01nRE9QQVNXbWRSaXRwaGMycUhiaXo4emFXakl6QThUbTdvNFNQZjN2Q3JlX0xNZnJkLUt0azNaTFM1eFM0MWNwTDUwN1lRTk1qZzNoTHpkZUxSVlMtT0x3SmRQdTBKUG5DdDZ5c0RieUpieEtRdnVnRzl1Q1BKQzl5ZGVxRGhmbzBJdVY0ZEtkZ1NuUFZvOEdsMHFnY0RfdU9MTHlVZFQxTHo3MS1NaUZjNjQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Eli Lilly and Company pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 25.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(38.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.1/100"
+        }
+      ]
+    },
+    "small:LLY:theme_bottleneck": {
+      "key": "small:LLY:theme_bottleneck",
+      "status": "no_results",
+      "relevance_terms": [
+        "Eli Lilly and Company",
+        "Lilly",
+        "LLY"
+      ],
+      "dropped_irrelevant": 1,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "LLY bottleneck supply chain",
+        "Eli Lilly and Company sole supplier constraint",
+        "Eli Lilly and Company 공급 병목",
+        "Eli Lilly and Company 독점 공급"
+      ],
+      "queries": [
+        {
+          "keyword": "LLY bottleneck supply chain",
+          "feed": "en",
+          "count": 6
+        },
+        {
+          "keyword": "Eli Lilly and Company sole supplier constraint",
+          "feed": "en",
+          "count": 1
+        },
+        {
+          "keyword": "Eli Lilly and Company 공급 병목",
+          "feed": "ko",
+          "count": 1
+        },
+        {
+          "keyword": "Eli Lilly and Company 독점 공급",
+          "feed": "ko",
+          "count": 5
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:33:40.603939+00:00",
+      "articles": []
+    },
+    "small:ABBV:capacity_gap": {
+      "key": "small:ABBV:capacity_gap",
+      "status": "partial",
+      "relevance_terms": [
+        "AbbVie",
+        "ABBV"
+      ],
+      "dropped_irrelevant": 1,
+      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
+      "found_count": 3,
+      "returned_count": 3,
+      "keywords": [
+        "ABBV capacity expansion sold out",
+        "AbbVie supply shortage easing",
+        "AbbVie 캐파 부족 해소",
+        "AbbVie 증설 가동"
+      ],
+      "queries": [
+        {
+          "keyword": "ABBV capacity expansion sold out",
+          "feed": "en",
+          "count": 25
+        },
+        {
+          "keyword": "AbbVie supply shortage easing",
+          "feed": "en",
+          "count": 2
+        },
+        {
+          "keyword": "AbbVie 캐파 부족 해소",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "AbbVie 증설 가동",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:33:53.196592+00:00",
+      "articles": [
+        {
+          "title": "AbbVie stock gains as Oxford R&D expansion deepens UK footprint",
+          "source": "ad-hoc-news.de",
+          "publisher_domain": "ad-hoc-news.de",
+          "published_at": "2026-11-05T14:51:30+00:00",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeG9fcFFaRGNZdURoMTB1QVAtd2pGNXFJYWU0R0RPWnRrdnlzRVcwVnZsUUR1RHJ6V3o5SG1zanBJVl9lTzNLRkxqeDRCSDhMZXJxbnoyMVBMNnk5X0N2TGxxc2M1enYwRjJXZXdsSnBFWGw0a0hZSXpGWmRfaWlpZncwN1N1d1RMSkp1STJPMEVfN2RicGhpdlpFRHAxczlxR05rX29vY3dHUXFHTG5OYnlSZkYwdjhZQklBV19Pa3FrbTNz?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "ABBV capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 48.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.96(0.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 48.9/100"
+        },
+        {
+          "title": "AbbVie stock: Oxford R&D expansion tops GBP 120 million",
+          "source": "ad-hoc-news.de",
+          "publisher_domain": "ad-hoc-news.de",
+          "published_at": "2026-11-04T11:55:17+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOElVV2ZTbm95bHBRZ2F3T0NRRVpPVWI2b1A3empLNlhsUU5KcFctamllNWdIZE5XeVlUQ05mWDVuTGlkX0hINy1naEdQcmp2amdPNU5OLTNhZXN4Z05wbzQ5YjZiaGU2RV92OGtZY08xRklrYjYzMGtIUDR6NHlYSGRZUHVkZkhNVHBXRlZ0OHZrQXRuTUJxMXFjLWdHTXpwTWUwZ3l0cm9kcmFHVWNHbW5ra1ZneFUt?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "ABBV capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 45.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.82(1.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 45.5/100"
+        },
+        {
+          "title": "AbbVie expands biologics manufacturing capacity with a $223 million investment in Singapore manufacturing site",
+          "source": "Singapore Economic Development Board (EDB)",
+          "publisher_domain": "edb.gov.sg",
+          "published_at": "2026-10-25T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWkybzFqblBVMXA2ZDF2THlrVXEwX0twUFRrbTlDX0RMdG04Q2w4dWtmUW5xWVpjUVRaODBOYXRiZlFiajBjQjl4dFVtRTNZWVZuWUo4UzhnbWUycF9fNHI0RHdXUWpneEVRR0NhQzFuSHhuaGRTSG1Yamo0Y3NxS3V6Mkx2eU1RWUpncm42MzZ2TUlZblJ5THRabmU3VUFSWVl5c2ZhUmJmdVhUNnEwQWEyb2JXMEU3bUs0b1BuSUlCdzlyYXhDOQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "ABBV capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 30.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.20(11.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 30.0/100"
+        }
+      ]
+    },
+    "small:ABBV:supply_locked": {
+      "key": "small:ABBV:supply_locked",
+      "status": "partial",
+      "relevance_terms": [
+        "AbbVie",
+        "ABBV"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
+      "found_count": 1,
+      "returned_count": 1,
+      "keywords": [
+        "ABBV long term supply agreement",
+        "AbbVie capex completion customer commitment",
+        "AbbVie 장기 공급계약 체결",
+        "AbbVie 증설 완료"
+      ],
+      "queries": [
+        {
+          "keyword": "ABBV long term supply agreement",
+          "feed": "en",
+          "count": 14
+        },
+        {
+          "keyword": "AbbVie capex completion customer commitment",
+          "feed": "en",
+          "count": 0
+        },
+        {
+          "keyword": "AbbVie 장기 공급계약 체결",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "AbbVie 증설 완료",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:34:05.799994+00:00",
+      "articles": [
+        {
+          "title": "AbbVie wins FDA approval for Parkinson’s drug from $8.7B Cerevel takeover",
+          "source": "BioSpace",
+          "publisher_domain": "biospace.com",
+          "published_at": "2026-09-28T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUV5a2F4V1NtbFJNRkJSQkludkxyUFF4QTFINUZEdFE4bTNoWkFxcVplTGlWLXNyOW16YnNOSXFJNy12a2R3dll4amFFTzQxZW82b1FDcnczS1dzblpXRjJ1ZG1ibjFNNVhZcV9ESnBJVjNKM2pQQWZnZzlIdmlsSzFvQU5hM0lsTlB1SmtqZFdqV2lDeF9YOGM5VmJYTFlSQlE?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "ABBV long term supply agreement",
+          "feed": "en",
+          "importance_score": 17.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(38.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
+        }
+      ]
+    },
+    "small:ABBV:pricing_power": {
+      "key": "small:ABBV:pricing_power",
+      "status": "ok",
+      "relevance_terms": [
+        "AbbVie",
+        "ABBV"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": null,
+      "found_count": 10,
+      "returned_count": 5,
+      "keywords": [
+        "ABBV price increase announcement",
+        "AbbVie pricing power margin expansion",
+        "AbbVie 판가 인상",
+        "AbbVie 가격 인상 전가"
+      ],
+      "queries": [
+        {
+          "keyword": "ABBV price increase announcement",
+          "feed": "en",
+          "count": 23
+        },
+        {
+          "keyword": "AbbVie pricing power margin expansion",
+          "feed": "en",
+          "count": 25
+        },
+        {
+          "keyword": "AbbVie 판가 인상",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "AbbVie 가격 인상 전가",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:34:17.500466+00:00",
+      "articles": [
+        {
+          "title": "These Analysts Increase Their Forecasts On AbbVie After Strong Q3 Results",
+          "source": "Benzinga",
+          "publisher_domain": "benzinga.com",
+          "published_at": "2026-11-02T13:33:50+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWXA4blNodzJTZkFYR2N1NlAybFRGRlFkc1dCOGlQRmVwYXpiek0tVzk2ZEtsTVhkYi1TUmljYXBiRHhQT29OSl9ZeW1ZVklaWHJrRmxqakd3U2JIRnZxWnVqSURiM05IR3Z3eHdZXzA2TmNwMkxTbDgxQTVvQkp4VWN3Nlc4dHBXNFFQc0YxeUQxRGpyNkZxb3ZnLWhIVFJCS2xvZ2RPODdQQzFULTRNZ2NEOVFkRU9FU09QYnk4cmpxNHZQNnNPTU5FWVpsX2JCY1JIUkszUG1xNkpOZ1czR2Zn?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "ABBV price increase announcement",
+          "feed": "en",
+          "importance_score": 46.7,
+          "importance_basis": "매체티어 0.40(benzinga.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.63(3.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 46.7/100"
+        },
+        {
+          "title": "AbbVie stock: Oxford R&D expansion tops GBP 120 million",
+          "source": "ad-hoc-news.de",
+          "publisher_domain": "ad-hoc-news.de",
+          "published_at": "2026-11-04T11:55:17+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOElVV2ZTbm95bHBRZ2F3T0NRRVpPVWI2b1A3empLNlhsUU5KcFctamllNWdIZE5XeVlUQ05mWDVuTGlkX0hINy1naEdQcmp2amdPNU5OLTNhZXN4Z05wbzQ5YjZiaGU2RV92OGtZY08xRklrYjYzMGtIUDR6NHlYSGRZUHVkZkhNVHBXRlZ0OHZrQXRuTUJxMXFjLWdHTXpwTWUwZ3l0cm9kcmFHVWNHbW5ra1ZneFUt?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "ABBV price increase announcement",
+          "feed": "en",
+          "importance_score": 45.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.82(1.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 45.5/100"
+        },
+        {
+          "title": "AbbVie (NYSE:ABBV): A Quality Investing Candidate With Caveats",
+          "source": "ChartMill",
+          "publisher_domain": "chartmill.com",
+          "published_at": "2026-11-03T09:31:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG1pd1Z1bmlSVTByMHJOckVrNEI3MzlwXzdJZEhELVBOMGJlU3QxbER2d3lKaW40OTA2N1g3SU1USDZoaG5LdU9IdGMwSVVwZkxLZ2cxeklkemJhbjJPMU9yX0YzSzZ0Y1k1SmJESlVhbVgzVzMtWlNVWTFlTWo1VEhWVTM3MVQ1anlwcGZBa3dMZ3UtQUdJRVBUczZra1czNFh4em41Qnk0ZFFJb0RJ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "AbbVie pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 42.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.70(2.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.6/100"
+        },
+        {
+          "title": "AbbVie (ABBV) Q3 2026 Deep Dive: $3.82 EPS, Revenue Up 10%",
+          "source": "AlphaStreet",
+          "publisher_domain": "news.alphastreet.com",
+          "published_at": "2026-10-30T23:23:15+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQalpCTktNa2trNk1nNFIzeEY1RkJxWi1kdGRjeUlPaWNMRnVlb05CTmlORGc4Y1ZRWTVoMHE0b0pCT3dOVnFqbVN3Z3ptNVFzdE50NGRMNklFcEFWY0FMR0Z0dGZyVHV3TVJleDVxeWlhQkpHa3YyQ0ZSa2RpQzM4SHF6ZlpaUmR6RmfSAY8BQVVfeXFMT2Z5blp1T1hlU2tFQURJTUJfNjVYYzVPclo2b1JmbE5Oa1MxWTZNOUtBSmZTRE5GMXJreE0xdXdNZm9Qak9rNS1LYnVyTHRhdUFKN0EtalFFQjlVWFVJYThjS0tWRGNfejA4V3BWaWdTLUdDdHlVLWx6R09qaGwwTm9jdndjVDhtV01YYWluTFE?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "AbbVie pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 35.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.44(6.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.9/100"
+        },
+        {
+          "title": "AbbVie Director Jennifer Davis Resigns From Board",
+          "source": "Gotrade",
+          "publisher_domain": "heygotrade.com",
+          "published_at": "2026-11-03T09:50:24+00:00",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSzNOdlZoa3lkeXNyNkx5YUgyVEgyYlc3cngzclkwdXo1NVNwWGlOZGdOLVhwSW5WeXVKWEJfQXZ6S1F0RjRQa3NfajV1SnFsZE5WRmhQWGFxVDVuVVJ3MnZKMjJhbjRHdHcwSkdHbmJoVlcwanFmWjRCbFpxRU5kQ0dVZmQyZC1BTGZCMjFn?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "ABBV price increase announcement",
+          "feed": "en",
+          "importance_score": 35.1,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.70(2.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 35.1/100"
+        }
+      ]
+    },
+    "small:ABBV:theme_bottleneck": {
+      "key": "small:ABBV:theme_bottleneck",
+      "status": "no_results",
+      "relevance_terms": [
+        "AbbVie",
+        "ABBV"
+      ],
+      "dropped_irrelevant": 1,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "ABBV bottleneck supply chain",
+        "AbbVie sole supplier constraint",
+        "AbbVie 공급 병목",
+        "AbbVie 독점 공급"
+      ],
+      "queries": [
+        {
+          "keyword": "ABBV bottleneck supply chain",
+          "feed": "en",
+          "count": 1
+        },
+        {
+          "keyword": "AbbVie sole supplier constraint",
+          "feed": "en",
+          "count": 0
+        },
+        {
+          "keyword": "AbbVie 공급 병목",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "AbbVie 독점 공급",
+          "feed": "ko",
+          "count": 1
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:34:30.074570+00:00",
+      "articles": []
+    },
+    "small:AMGN:capacity_gap": {
+      "key": "small:AMGN:capacity_gap",
+      "status": "partial",
+      "relevance_terms": [
+        "Amgen",
+        "AMGN"
+      ],
+      "dropped_irrelevant": 1,
+      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
+      "found_count": 3,
+      "returned_count": 3,
+      "keywords": [
+        "AMGN capacity expansion sold out",
+        "Amgen supply shortage easing",
+        "Amgen 캐파 부족 해소",
+        "Amgen 증설 가동"
+      ],
+      "queries": [
+        {
+          "keyword": "AMGN capacity expansion sold out",
+          "feed": "en",
+          "count": 25
+        },
+        {
+          "keyword": "Amgen supply shortage easing",
+          "feed": "en",
+          "count": 2
+        },
+        {
+          "keyword": "Amgen 캐파 부족 해소",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "Amgen 증설 가동",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:34:42.344858+00:00",
+      "articles": [
+        {
+          "title": "Amgen Inc Stock (AMGN) Closed Down by 3.80% on Nov 5: What Investors Need To Know",
+          "source": "TradingKey",
+          "publisher_domain": "tradingkey.com",
+          "published_at": "2026-11-05T21:16:18+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWJWTEloU2pLeUt0emJ1Y2VmaU9pVnlzS2twRWJwdVpmSFk0UUV1Q2p5MF9vTTdOc1N0UFpYU2NGT0I3aXZ0V1k0MmNVdE1jZXljbjFXaERob1J2bWdzVmFwRjA5OWM0dGoyUGFnS3JRa2I5QlZfOE5zUUROdUdOck1nVlhtY2x0a1Zn?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "AMGN capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 49.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.99(0.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 49.8/100"
+        },
+        {
+          "title": "AMGN Q3 2026 deep dive: robust product sales and pipeline advances drive guidance increase",
+          "source": "TradingView",
+          "publisher_domain": "tradingview.com",
+          "published_at": "2026-11-04T05:38:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT0ZWMkJFdV9GVUJvRFJRemtfcnctTWRhUEdtN3NBX09ZZTk0cU5uMENZbHhrZ0luSzBjQ19ueDE0WjJZOFo4bmFCWU1EckdoT0ZDVmZtbkJVWVhYS3ZZRjY0OVBNZVVhc0ZWQkFERmtIUWQ1Rng2TzFwSWxCRGJQMjMyeDlrcVE5dk1iMVNQZWhMRmIwRzBPTzdqanJIS2VCYTN0ZlJJX1FJMTR6bkR5ZW1DVWNLLWdxVjNSYlpVRkNTUzAxU1VXNDFsWXRfd2xfcmpDdUp3ZnpJd1JydnNYV1pLV2w?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "AMGN capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 37.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.79(1.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 37.2/100"
+        },
+        {
+          "title": "AMGN Q3 FY2026 earnings call",
+          "source": "BigGo Finance",
+          "publisher_domain": "finance.biggo.com",
+          "published_at": "2026-11-03T23:32:47+00:00",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JLWFBWS1xejRZbms0TzVIdTJucUg3RktjbVJzck0tSEZHM09GVlI1MzlDR3VERGhDSi1vcDlDa0o3ZHg3cWwySTBmMDg3M3NGS0I3YjNJc3BkYWRiZXMwSVktc3ZrS19iUDdOSnAyS3lYU0QxLTZrdA?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "AMGN capacity expansion sold out",
+          "feed": "en",
+          "importance_score": 36.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.76(2.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 36.6/100"
+        }
+      ]
+    },
+    "small:AMGN:supply_locked": {
+      "key": "small:AMGN:supply_locked",
+      "status": "no_results",
+      "relevance_terms": [
+        "Amgen",
+        "AMGN"
+      ],
+      "dropped_irrelevant": 1,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "AMGN long term supply agreement",
+        "Amgen capex completion customer commitment",
+        "Amgen 장기 공급계약 체결",
+        "Amgen 증설 완료"
+      ],
+      "queries": [
+        {
+          "keyword": "AMGN long term supply agreement",
+          "feed": "en",
+          "count": 13
+        },
+        {
+          "keyword": "Amgen capex completion customer commitment",
+          "feed": "en",
+          "count": 0
+        },
+        {
+          "keyword": "Amgen 장기 공급계약 체결",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "Amgen 증설 완료",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:34:54.370976+00:00",
+      "articles": []
+    },
+    "small:AMGN:pricing_power": {
+      "key": "small:AMGN:pricing_power",
+      "status": "ok",
+      "relevance_terms": [
+        "Amgen",
+        "AMGN"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": null,
+      "found_count": 12,
+      "returned_count": 5,
+      "keywords": [
+        "AMGN price increase announcement",
+        "Amgen pricing power margin expansion",
+        "Amgen 판가 인상",
+        "Amgen 가격 인상 전가"
+      ],
+      "queries": [
+        {
+          "keyword": "AMGN price increase announcement",
+          "feed": "en",
+          "count": 25
+        },
+        {
+          "keyword": "Amgen pricing power margin expansion",
+          "feed": "en",
+          "count": 25
+        },
+        {
+          "keyword": "Amgen 판가 인상",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "Amgen 가격 인상 전가",
+          "feed": "ko",
+          "count": 0
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:35:06.226200+00:00",
+      "articles": [
+        {
+          "title": "Bernstein raises Amgen stock price target on growth and margin strength",
+          "source": "Investing.com",
+          "publisher_domain": "investing.com",
+          "published_at": "2026-11-04T15:00:21+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1JzcjR4OGwtM1hMNzVHN3ZSbC1QdXhoa2ZUZUhONjJxd2ZHcFNwNVJ0dzFLWG1nUDRtZ09xTFdpcDVqMXEtS3JVcEVPcDFaSXhKb01DOTFsa0p3S0pSalgxRnp1ODBVeGNzS3N6TzVXejdlT183SFRxeFRENjkwWXNreUxsMEdvajBBVkFZNkhKcjFJR0g0ckpqcHYyOG1wSkpuZXdpZGlxSUZPZVRadFU2cTZpVmpsUlBvbnVvajA0R1c1OUNoanl0VQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Amgen pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 67.3,
+          "importance_basis": "매체티어 0.60(investing.com)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.83(1.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 67.3/100"
+        },
+        {
+          "title": "Amgen Inc. $AMGN Stock: Provenance Wealth Advisors LLC Increases Holdings",
+          "source": "MarketBeat",
+          "publisher_domain": "marketbeat.com",
+          "published_at": "2026-11-04T11:29:41+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjZPSmtoX0pzd21CZy1Ia1pkR0Flc1YwNFpLMFhWWTNWUDFjZUlYLWpUUC1NWkw5c0NxQXJTWm4ydU5PNmU2Y2plNHdLSHUyQlMyTHNiYk9tOWV4WXVXbkZ5d3lCakR6bVh1WkUzVEw2dGRnM2w4QW90MWV4OTlZcHBFUXlMSGNXRDY3NEhGd0NEUDg5MWg2NE1YczJmSF9URHpYRGtMcFNiQWVWRTh0SEhQYjhHSThmdHF3MktfODdOR2lHUHVvU3J1aw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "AMGN price increase announcement",
+          "feed": "en",
+          "importance_score": 45.4,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.82(1.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 45.4/100"
+        },
+        {
+          "title": "Amgen (NasdaqGS:AMGN) Stock Forecast & Analyst Predictions",
+          "source": "Simply Wall St",
+          "publisher_domain": "simplywall.st",
+          "published_at": "2026-11-02T08:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzA2XzkxTnFVcmM3OFRNX1N6ckw4OE5PQ245bWp0Y1lva1F0WkE4S1Rkak9weGVGVmRudTQ5N1dYWEZaMnI3OTRSWktlTmhCbk5Rcm1reWZHOHlkOERMeHlCb3FENmRDOXU3WmlWcnYtT3JhVUJEZ0pTTU5qSU9wMnlfZEZsY0U?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Amgen pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 40.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.61(3.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.2/100"
+        },
+        {
+          "title": "AMGN Stock Down Despite Q3 Earnings & Sales Beat, Raised Guidance",
+          "source": "The Globe and Mail",
+          "publisher_domain": "theglobeandmail.com",
+          "published_at": "2026-11-04T14:22:56+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkQtQlRrRUM1RVhod2pjckxMMEdnblQ4X1hxSjc0NjN5MVI4Uml6bGppN0lmYk93LTBEenhIX1VVMlA1QU5QZzA4RFlDRUdDSUl0cS1jeXVlMnNIa0hZbTAzVC0wQnlGVWtJc0RnNzRVZl90bEJMX2lmdEgzZnNhdnVmMl95UkswN3BfWDRjb0dTQXpadGlyRjBFV29JdlVWX2ROeW1yWlRhZ01KWlkxX3kwQlhvSnhjUnRmSnJUOUhxYWVWMy1ZVmVmNVJkZG50Yi1YS292YWZUbjM2Y080?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Amgen pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 38.3,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.83(1.3일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 38.3/100"
+        },
+        {
+          "title": "How Positive Trial Results At Amgen (AMGN) Have Changed Its Investment Story",
+          "source": "Simply Wall St",
+          "publisher_domain": "simplywall.st",
+          "published_at": "2026-11-01T07:44:27+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOenBteW4tR09mOTdTRmFVU3QwZ3hzaGRUQ0QwbFZyaktBbkwwRHBrS3QxV01URUJMMmhHbndITGV3amJPbk83VjVNWWtKY0lxcU4tLU5XUm5qTG9BVS1CMVZZdFNYYlZnWFZETElJME1QOTZWZVpscXVLQnFpeGxBcGoxRGJwSkpDbXFEdExBX3FLbURObVNYOFNLamxDRlNGRldsODd1VWl2X0RVUi15VXZBbkx5YTlwLVpGVGUyY01Bb2V2Y3ZIVEdNaUYtS0VxM2ZEbUZR0gHbAUFVX3lxTE9ZOGVGUVJPalJSakw0UWdVdDU0Zk4xaE10VVdkY1dFUWxmTTJLNXlJV0h5Tk1iMS13eW5mLVVCenBNVkJNYjVlckJNRXJZVDJsekZFVzBmazBOczBiaENWTFRqUEM5Rk9KVGphci1MOHlib0pnNFEtcWlxd1VsVDFMMG50VUdJZ01pWnQwUWR1Q2c2UlZvUnpmaF90dTRaSjh6YTlyeUk0RG5PcFoxU3Fob2hoTHEwMGhYZ18temYwZk51ZGNDZWNjcGJ6ekNHamd5S0J2c1pHNWJYdw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "AMGN price increase announcement",
+          "feed": "en",
+          "importance_score": 38.2,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.53(4.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 38.2/100"
+        }
+      ]
+    },
+    "small:AMGN:theme_bottleneck": {
+      "key": "small:AMGN:theme_bottleneck",
+      "status": "partial",
+      "relevance_terms": [
+        "Amgen",
+        "AMGN"
+      ],
+      "dropped_irrelevant": 3,
+      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
+      "found_count": 3,
+      "returned_count": 3,
+      "keywords": [
+        "AMGN bottleneck supply chain",
+        "Amgen sole supplier constraint",
+        "Amgen 공급 병목",
+        "Amgen 독점 공급"
+      ],
+      "queries": [
+        {
+          "keyword": "AMGN bottleneck supply chain",
+          "feed": "en",
+          "count": 6
+        },
+        {
+          "keyword": "Amgen sole supplier constraint",
+          "feed": "en",
+          "count": 0
+        },
+        {
+          "keyword": "Amgen 공급 병목",
+          "feed": "ko",
+          "count": 2
+        },
+        {
+          "keyword": "Amgen 독점 공급",
+          "feed": "ko",
+          "count": 5
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:35:18.438458+00:00",
+      "articles": [
+        {
+          "title": "Amgen (AMGN) Gains Attention On Aging Treatments, Is The Upside Already Priced In?",
+          "source": "Yahoo Finance",
+          "publisher_domain": "finance.yahoo.com",
+          "published_at": "2026-10-14T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMW9ubGo3eVFCVlNkZ0pydmdlcDU2cmxMY0xqSHpERWRjX3RnSlJoNmx0NEVjczVFOXBicmp3amt3LW9mdkZjVmo0YUhrdnFFSDVoNDRGM2FLZTY5MHotbWtrbGF2Y0toYnRvMmZLMmszMTlHVi1xb1hWdjhncWhvenFRakhlN3BPNlhzQldHZktDN1Z5NFpiQzJOdmYydw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "AMGN bottleneck supply chain",
+          "feed": "en",
+          "importance_score": 32.1,
+          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.04(22.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.1/100"
+        },
+        {
+          "title": "Amgen (AMGN), What Is Behind The Fresh Attention?",
+          "source": "Yahoo Finance",
+          "publisher_domain": "finance.yahoo.com",
+          "published_at": "2026-09-28T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPREFkSTRXSmZlVm5zMHB0TF80RlJSTTFRME5McXJDRm1YV2RlX21PbjZQR20tNWoxUEpQalBYYy1GV3hVUzlTVUZBcWR0eE5EWE5rOTBoYUlmMnJWaXdGOE5ka2tldUJwdjZOanJ1ajg4dnNKdDVuU2l1YXFVQk1NV3BzdWkxM3JURzJ5a1RyanRrZElLRTM0RGpKRHFnV0k?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "AMGN bottleneck supply chain",
+          "feed": "en",
+          "importance_score": 31.1,
+          "importance_basis": "매체티어 0.40(yahoo.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(38.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.1/100"
+        },
+        {
+          "title": "Amgen (AMGN) Draws Fresh Valuation Debate After Phase 3 TEZSPIRE Trial Results",
+          "source": "Simply Wall St",
+          "publisher_domain": "simplywall.st",
+          "published_at": "2026-10-24T12:43:23+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZXl2ZlB4N2N2OTYxS09YODBuMldYdUpQa0tBSmdlc25URjNxaDBfa3U2WG9fZ280dlhCd2tzV3hmYVNaZXFVZ3BLMVMzVklEVTFCN0NJRHVIRDluVkVjT2NXR09jcEhNcEpmXzhIVndvUllUTVpMREx6TEFXU2NHLTdlWERXYXVoaVpwYU5lQU1TQk52ZHFCNkgwUFE2Q2RmZGJ5RHFZUlJBWl8xWFJrVmVoMExma0tEcVFSMmg4S2gzT1VXVW1UZnZya01pTkVmZ3dSQThB0gHbAUFVX3lxTE5BbmJjY3JXaDREVVNfclFWUFoyRmNaRGplVUVhQmY1Nmt3bnNEcEdfaVpjX19PYXlrWVppQmFKUDRqN2MzUUNydXZlRmY1RjdzZmZfRjV6TjJTS2VmTU5kdkJ3WTNPazhyeF9nZTBFbUlyV3NDUldHUFNOc3c0TURuOUdELUt3dnZKa3JiRV9uUlQtcGtwbjVSVXNobnlzYVA2Y3AzYlRmRFU3RHZuQV96bHBQV0FZS2N3YTJkWkF6bnE5YUI4QkNZYVV6amhKb3BhNXgwNHFKYnQwaw?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "AMGN bottleneck supply chain",
+          "feed": "en",
+          "importance_score": 29.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.18(12.4일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 29.5/100"
+        }
+      ]
     },
     "small:GILD:capacity_gap": {
       "key": "small:GILD:capacity_gap",
@@ -2280,7 +2277,7 @@
         "Gilead",
         "GILD"
       ],
-      "dropped_irrelevant": 3,
+      "dropped_irrelevant": 2,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -2294,7 +2291,7 @@
         {
           "keyword": "GILD capacity expansion sold out",
           "feed": "en",
-          "count": 25
+          "count": 22
         },
         {
           "keyword": "Gilead Sciences supply shortage easing",
@@ -2316,7 +2313,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:28:18.705770+00:00",
+      "fetched_at": "2026-11-05T22:35:30.631240+00:00",
       "articles": []
     },
     "small:GILD:supply_locked": {
@@ -2328,7 +2325,7 @@
         "Gilead",
         "GILD"
       ],
-      "dropped_irrelevant": 3,
+      "dropped_irrelevant": 5,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -2364,7 +2361,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:28:30.700452+00:00",
+      "fetched_at": "2026-11-05T22:35:43.007962+00:00",
       "articles": []
     },
     "small:GILD:pricing_power": {
@@ -2377,9 +2374,9 @@
         "GILD"
       ],
       "dropped_irrelevant": 1,
-      "status_reason": "중복 제거 후 3건만 확보됨 (목표 5건)",
-      "found_count": 3,
-      "returned_count": 3,
+      "status_reason": "중복 제거 후 4건만 확보됨 (목표 5건)",
+      "found_count": 4,
+      "returned_count": 4,
       "keywords": [
         "GILD price increase announcement",
         "Gilead Sciences pricing power margin expansion",
@@ -2390,7 +2387,7 @@
         {
           "keyword": "GILD price increase announcement",
           "feed": "en",
-          "count": 18
+          "count": 17
         },
         {
           "keyword": "Gilead Sciences pricing power margin expansion",
@@ -2412,7 +2409,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:28:42.291734+00:00",
+      "fetched_at": "2026-11-05T22:35:54.958594+00:00",
       "articles": [
         {
           "title": "Gilead Sciences (NDQ:GILD): Fighting HIV/AIDS Is Its Economic Engine",
@@ -2425,8 +2422,22 @@
           "provider": "google_news_rss",
           "query": "Gilead Sciences pricing power margin expansion",
           "feed": "en",
-          "importance_score": 32.7,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(36.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.7/100"
+          "importance_score": 32.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 3개→0.90×0.25 + 최신성 0.01(37.1일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 32.6/100"
+        },
+        {
+          "title": "Gilead vs. Thermo Fisher: Which Life Sciences Stock has the Stronger Growth Outlook?",
+          "source": "Insider Monkey",
+          "publisher_domain": "insidermonkey.com",
+          "published_at": "2026-09-28T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczRRMk5tZDdHbTNNS1I4aW5EMDFfYkpxZWMzM1pQQkdRYWsxSjdqZWxZanVUbzhPVGFxemVtZndCS3RtV2lqQkhpWlNRQzVTMnJyeUIwZ0VCOXplMWpvVUpMQXFndEwtYVUwVVBqTXl4OEN3N0l2UFM4WDFnUDNnTkRJa2dySmFZaWRhVUFXdXJfZllQMGtpN3VxQlYzdTBNeEJWWnlUS1lTZzMxYWdfQTNjX0pMdFJpWkg0bFZwTkJiU2PSAcsBQVVfeXFMTmxRMlZGa0dVRGhYeG5JMGNESnFpVXF5b1hCRG5KMU04aGl1Q1NweFhUWWVtTUJUMkZCNXBZS0xVTDhHUzJJTXVoREZoNjluU2MtMnBNbHhkY201a2IxcU92WlBVUmtJUDNTX1hsZ3NQNW5uWm5lMGV0ZmVXUTB6TTVvU01oMExBR2VsSjA3dkRyMDMwYmZUbFpMajlTRzdwM1ZOYk4xdjc4bXM5OG9FWUZDQW9wSmRtRGRaTllNYTMtUzNlTE5DMlVDWHc?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "Gilead Sciences pricing power margin expansion",
+          "feed": "en",
+          "importance_score": 31.1,
+          "importance_basis": "매체티어 0.40(insidermonkey.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.00(38.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 31.1/100"
         },
         {
           "title": "Missed Gilead Sciences' Run? What Holders Had To Believe",
@@ -2439,8 +2450,8 @@
           "provider": "google_news_rss",
           "query": "Gilead Sciences pricing power margin expansion",
           "feed": "en",
-          "importance_score": 27.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.11(15.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.9/100"
+          "importance_score": 27.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.10(16.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.5/100"
         },
         {
           "title": "Did Oral IL 23 Deal Just Shift Gilead Stock Investment Narrative?",
@@ -2453,8 +2464,8 @@
           "provider": "google_news_rss",
           "query": "Gilead Sciences pricing power margin expansion",
           "feed": "en",
-          "importance_score": 23.2,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.23(10.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 23.2/100"
+          "importance_score": 22.5,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.20(11.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 22.5/100"
         }
       ]
     },
@@ -2503,7 +2514,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:28:53.773577+00:00",
+      "fetched_at": "2026-11-05T22:36:07.525708+00:00",
       "articles": []
     },
     "small:000500.KS:capacity_gap": {
@@ -2549,7 +2560,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:29:05.777264+00:00",
+      "fetched_at": "2026-11-05T22:36:19.626101+00:00",
       "articles": []
     },
     "small:000500.KS:supply_locked": {
@@ -2595,7 +2606,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:29:17.790301+00:00",
+      "fetched_at": "2026-11-05T22:36:31.434244+00:00",
       "articles": [
         {
           "title": "가온전선, 미국 송전망 시장 진출…가공선 현지 생산 추진",
@@ -2608,8 +2619,8 @@
           "provider": "google_news_rss",
           "query": "가온전선 증설 완료",
           "feed": "ko",
-          "importance_score": 54.5,
-          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(36.6일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 54.5/100"
+          "importance_score": 54.4,
+          "importance_basis": "매체티어 1.00(yna.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(37.7일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 54.4/100"
         },
         {
           "title": "LG엔솔·LS전선·가온전선… AI 인프라 뛰어드는 K기업",
@@ -2622,8 +2633,8 @@
           "provider": "google_news_rss",
           "query": "가온전선 증설 완료",
           "feed": "ko",
-          "importance_score": 39.7,
-          "importance_basis": "매체티어 0.80(mk.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(36.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.7/100"
+          "importance_score": 39.6,
+          "importance_basis": "매체티어 0.80(mk.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(37.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.6/100"
         },
         {
           "title": "가온전선, 美 송전망 시장 진출…현지서 가공선 생산 추진",
@@ -2636,8 +2647,8 @@
           "provider": "google_news_rss",
           "query": "가온전선 증설 완료",
           "feed": "ko",
-          "importance_score": 38.5,
-          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(36.6일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 38.5/100"
+          "importance_score": 38.4,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(37.7일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 38.4/100"
         },
         {
           "title": "가온전선, 미 빅테크와 1200억 케이블 계약",
@@ -2650,8 +2661,8 @@
           "provider": "google_news_rss",
           "query": "가온전선 증설 완료",
           "feed": "ko",
-          "importance_score": 27.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.38(7.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 27.0/100"
+          "importance_score": 25.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.33(8.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.8/100"
         },
         {
           "title": "가온전선, 美 배전 넘어 송전망 진출…가공선 현지 생산 추진",
@@ -2664,8 +2675,8 @@
           "provider": "google_news_rss",
           "query": "가온전선 증설 완료",
           "feed": "ko",
-          "importance_score": 24.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(36.6일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 24.5/100"
+          "importance_score": 24.4,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.01(37.7일 경과)×0.25 + 동일사안 보도 3건→0.68×0.10 = 24.4/100"
         }
       ]
     },
@@ -2712,7 +2723,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:29:29.843408+00:00",
+      "fetched_at": "2026-11-05T22:36:43.615742+00:00",
       "articles": [
         {
           "title": "AI 데이터센터가 불붙인 전선주…가온전선·대원전선 뜨겁다",
@@ -2725,8 +2736,8 @@
           "provider": "google_news_rss",
           "query": "가온전선 판가 인상",
           "feed": "ko",
-          "importance_score": 39.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.88(0.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.5/100"
+          "importance_score": 36.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.77(1.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 36.6/100"
         }
       ]
     },
@@ -2766,14 +2777,14 @@
         {
           "keyword": "가온전선 독점 공급",
           "feed": "ko",
-          "count": 7
+          "count": 8
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:29:41.740076+00:00",
+      "fetched_at": "2026-11-05T22:36:55.791999+00:00",
       "articles": [
         {
           "title": "[오늘 이 종목] 빅테크 전력 공급 가온전선 · HBM4 검사 확대 디아이 '주목'",
@@ -2786,8 +2797,8 @@
           "provider": "google_news_rss",
           "query": "가온전선 독점 공급",
           "feed": "ko",
-          "importance_score": 25.9,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.04(23.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.9/100"
+          "importance_score": 25.8,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.03(24.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.8/100"
         }
       ]
     },
@@ -2798,7 +2809,7 @@
         "180640",
         "한진칼"
       ],
-      "dropped_irrelevant": 2,
+      "dropped_irrelevant": 1,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -2822,32 +2833,32 @@
         {
           "keyword": "한진칼 캐파 부족 해소",
           "feed": "ko",
-          "count": 3
+          "count": 0
         },
         {
           "keyword": "한진칼 증설 가동",
           "feed": "ko",
-          "count": 5
+          "count": 3
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:29:53.428477+00:00",
+      "fetched_at": "2026-11-05T22:37:08.086156+00:00",
       "articles": []
     },
     "small:180640.KS:supply_locked": {
       "key": "small:180640.KS:supply_locked",
-      "status": "no_results",
+      "status": "partial",
       "relevance_terms": [
         "180640",
         "한진칼"
       ],
-      "dropped_irrelevant": 24,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
+      "dropped_irrelevant": 18,
+      "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
+      "found_count": 2,
+      "returned_count": 2,
       "keywords": [
         "한진칼 long term supply agreement",
         "한진칼 capex completion customer commitment",
@@ -2873,15 +2884,44 @@
         {
           "keyword": "한진칼 증설 완료",
           "feed": "ko",
-          "count": 7
+          "count": 10
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:30:05.497197+00:00",
-      "articles": []
+      "fetched_at": "2026-11-05T22:37:20.634859+00:00",
+      "articles": [
+        {
+          "title": "호반그룹, 한진칼 최대주주로..한진칼 \"조원태 회장 추가 매입 완료시 바뀔 수 있어\"",
+          "source": "머니투데이",
+          "publisher_domain": "mt.co.kr",
+          "published_at": "2026-11-04T09:24:34+00:00",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQjYxT0Z2THFlOWh6Z0wzVFhoQnRXWU5PVWpMVjg0cGNIQVVtMlozR3NTOTI3WHplODFCQ1BWclVmMFZDY0UxeVlQMFZDYmg4WnAyOWZKN2huYlpMbldhSU1lRHB1c0ZpYnFpeNIBckFVX3lxTE9oTVJQWTNsVnc3LXFNaDZ1bGtieFVpUmxqdVpGN0U2X3hOTVp4cEFPRFpIZ3dNbGcwUUgtNmh1T0xpMEV2Q29SRGlaMGlDQjJUWk56SWdyNUFyOTM4ZnF2ejE0OHlISVNXWE9rT2p0WVNTUQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "한진칼 증설 완료",
+          "feed": "ko",
+          "importance_score": 37.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.81(1.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 37.7/100"
+        },
+        {
+          "title": "한진칼, 최대주주 호반그룹으로 변경 … 조원태 회장 12월초 지분 매입 완료시 탈환 예정",
+          "source": "뉴데일리",
+          "publisher_domain": "biz.newdaily.co.kr",
+          "published_at": "2026-11-04T09:35:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrTktGWlljbXdGRVN2S3VBSUlkRV9rLUIxX3laeVJiLVRrSEc4UW1YNXdQeGR5SnJiOGRmbE1sLVFCNUw2V1VLdEJ5UkhPY19sVUtKb041bGxWUktlcU9Ba0Jya1R3ZnhTN0tRSk1oS0FHdTNlLTRkTGxpa9IBgAFBVV95cUxOY0N2RFl3QTRsbk9RbVhXV1NTUXloemRsSkstV0d5Q1c3aXc4ald4UC14RGF5VUdKVnBhd2dzSy0xR2JaRGlXZmJUWmgyUmFtS2w4UzdneVdqdTRuZG94LUl6T253cC1yZUVSdXFmWDQ3R2tZeVpZZTFybUZoSHRJRA?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "한진칼 증설 완료",
+          "feed": "ko",
+          "importance_score": 37.7,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.81(1.5일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 37.7/100"
+        }
+      ]
     },
     "small:180640.KS:pricing_power": {
       "key": "small:180640.KS:pricing_power",
@@ -2890,7 +2930,7 @@
         "180640",
         "한진칼"
       ],
-      "dropped_irrelevant": 4,
+      "dropped_irrelevant": 3,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -2914,7 +2954,7 @@
         {
           "keyword": "한진칼 판가 인상",
           "feed": "ko",
-          "count": 9
+          "count": 10
         },
         {
           "keyword": "한진칼 가격 인상 전가",
@@ -2926,7 +2966,7 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:30:17.445987+00:00",
+      "fetched_at": "2026-11-05T22:37:32.927049+00:00",
       "articles": []
     },
     "small:180640.KS:theme_bottleneck": {
@@ -2936,7 +2976,7 @@
         "180640",
         "한진칼"
       ],
-      "dropped_irrelevant": 6,
+      "dropped_irrelevant": 5,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -2950,7 +2990,7 @@
         {
           "keyword": "한진칼 bottleneck supply chain",
           "feed": "ko",
-          "count": 1
+          "count": 0
         },
         {
           "keyword": "한진칼 sole supplier constraint",
@@ -2972,564 +3012,8 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:30:29.047189+00:00",
+      "fetched_at": "2026-11-05T22:37:45.243405+00:00",
       "articles": []
-    },
-    "small:222800.KQ:capacity_gap": {
-      "key": "small:222800.KQ:capacity_gap",
-      "status": "no_results",
-      "relevance_terms": [
-        "222800",
-        "심텍"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "심텍 capacity expansion sold out",
-        "심텍 supply shortage easing",
-        "심텍 캐파 부족 해소",
-        "심텍 증설 가동"
-      ],
-      "queries": [
-        {
-          "keyword": "심텍 capacity expansion sold out",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "심텍 supply shortage easing",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "심텍 캐파 부족 해소",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "심텍 증설 가동",
-          "feed": "ko",
-          "count": 9
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:30:40.798862+00:00",
-      "articles": []
-    },
-    "small:222800.KQ:supply_locked": {
-      "key": "small:222800.KQ:supply_locked",
-      "status": "ok",
-      "relevance_terms": [
-        "222800",
-        "심텍"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": null,
-      "found_count": 5,
-      "returned_count": 5,
-      "keywords": [
-        "심텍 long term supply agreement",
-        "심텍 capex completion customer commitment",
-        "심텍 장기 공급계약 체결",
-        "심텍 증설 완료"
-      ],
-      "queries": [
-        {
-          "keyword": "심텍 long term supply agreement",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "심텍 capex completion customer commitment",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "심텍 장기 공급계약 체결",
-          "feed": "ko",
-          "count": 14
-        },
-        {
-          "keyword": "심텍 증설 완료",
-          "feed": "ko",
-          "count": 10
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:30:52.270849+00:00",
-      "articles": [
-        {
-          "title": "\"반도체 기판 가격 또 오른다…대덕전자·심텍 등 수천억 투자\"-하나",
-          "source": "한국경제",
-          "publisher_domain": "hankyung.com",
-          "published_at": "2026-10-08T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CR0o5UXp1dGRkenJZZG9KUHNReGtjTEExbVRqcjdRWl9XVnZiWnRTRk9SLS05N3dhVl9FSTFrSGxsMjJpMHNIVjVqWUN0QWhOMHhncTdjVC1LZw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 40.0,
-          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(27.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 40.0/100"
-        },
-        {
-          "title": "“삼성전기 3605억 계약이 신호탄…대덕전자·심텍 실적 뛴다”",
-          "source": "이데일리",
-          "publisher_domain": "edaily.co.kr",
-          "published_at": "2026-10-20T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1ZsblE3VkFVVzRLVFpic25qbTU3Yk5RbkZVSnlJX29zaEhxWXNJbEI2UlR2aHpSc0RSckt6X21fU3pHZ0FiTlRoLVRfeWdabmNUZWVjaFJVMkVNSVJJbUhsMTdsM0p6VHFBOXdPWnhJQ2ZRSWpnNGM1SFotZXNTag?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 34.4,
-          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.11(15.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 34.4/100"
-        },
-        {
-          "title": "\"ABF에만 돈 몰렸다\"…메모리 기판 쇼티지에 심텍 '수혜'",
-          "source": "리드경제",
-          "publisher_domain": "leadeconomy.co.kr",
-          "published_at": "2026-10-22T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kRE0yS01IZkJ6NzVUN0xZbkh3b3hlX0Zyb3hBNXhPMjROSkc0ZmlGT1NTeDdDUjNFSzVvY05sM3FBeTdaY1lXaE9uRTN4RUhQREVEaU1wOUh4LTc1Z1JpX1Z1TkQ2OW5ydXZ1RWF3Rks?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 21.3,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.15(13.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 21.3/100"
-        },
-        {
-          "title": "키움證 “삼성전기 계약은 BT기판 쇼티지 신호탄⋯대덕전자·심텍 수혜”",
-          "source": "이투데이",
-          "publisher_domain": "etoday.co.kr",
-          "published_at": "2026-10-20T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wNGh4Y3lpa0VHcm1PeVNkT3loQjZzTjZVY2Mzbmh4cTVaR2pjUnhZdWU2SnJhbVh5Y2xCRk1VS3Y4cnBHaU9mbGZGcDBOdFZ6NWM2MQ?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 20.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.11(15.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 20.4/100"
-        },
-        {
-          "title": "[애널픽] 심텍, PCB값 뛰자 영업익 7배↑…목표가 20만원",
-          "source": "뷰어스",
-          "publisher_domain": "theviewers.co.kr",
-          "published_at": "2026-10-13T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VbUZyeHMyT1NnWGxZZGhxd1VGZGJxWGJSZUVwRVVKMXpfZ0p0YjhETmppaUpyR3dPa3RhN2swSTZKODhBYm1nVmlpNTZoaGo4d1NvOUpFSzI?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 18.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.04(22.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 18.6/100"
-        }
-      ]
-    },
-    "small:222800.KQ:pricing_power": {
-      "key": "small:222800.KQ:pricing_power",
-      "status": "partial",
-      "relevance_terms": [
-        "222800",
-        "심텍"
-      ],
-      "dropped_irrelevant": 3,
-      "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
-      "found_count": 2,
-      "returned_count": 2,
-      "keywords": [
-        "심텍 price increase announcement",
-        "심텍 pricing power margin expansion",
-        "심텍 판가 인상",
-        "심텍 가격 인상 전가"
-      ],
-      "queries": [
-        {
-          "keyword": "심텍 price increase announcement",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "심텍 pricing power margin expansion",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "심텍 판가 인상",
-          "feed": "ko",
-          "count": 10
-        },
-        {
-          "keyword": "심텍 가격 인상 전가",
-          "feed": "ko",
-          "count": 10
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:31:04.387279+00:00",
-      "articles": [
-        {
-          "title": "\"반도체 기판 가격 또 오른다…대덕전자·심텍 등 수천억 투자\"-하나",
-          "source": "한국경제",
-          "publisher_domain": "hankyung.com",
-          "published_at": "2026-10-08T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CR0o5UXp1dGRkenJZZG9KUHNReGtjTEExbVRqcjdRWl9XVnZiWnRTRk9SLS05N3dhVl9FSTFrSGxsMjJpMHNIVjVqWUN0QWhOMHhncTdjVC1LZw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 판가 인상",
-          "feed": "ko",
-          "importance_score": 47.5,
-          "importance_basis": "매체티어 0.80(hankyung.com)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.02(27.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 47.5/100"
-        },
-        {
-          "title": "[애널픽] 심텍, PCB값 뛰자 영업익 7배↑…목표가 20만원",
-          "source": "뷰어스",
-          "publisher_domain": "theviewers.co.kr",
-          "published_at": "2026-10-13T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VbUZyeHMyT1NnWGxZZGhxd1VGZGJxWGJSZUVwRVVKMXpfZ0p0YjhETmppaUpyR3dPa3RhN2swSTZKODhBYm1nVmlpNTZoaGo4d1NvOUpFSzI?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 판가 인상",
-          "feed": "ko",
-          "importance_score": 18.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.04(22.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 18.6/100"
-        }
-      ]
-    },
-    "small:222800.KQ:theme_bottleneck": {
-      "key": "small:222800.KQ:theme_bottleneck",
-      "status": "partial",
-      "relevance_terms": [
-        "222800",
-        "심텍"
-      ],
-      "dropped_irrelevant": 0,
-      "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
-      "found_count": 2,
-      "returned_count": 2,
-      "keywords": [
-        "심텍 bottleneck supply chain",
-        "심텍 sole supplier constraint",
-        "심텍 공급 병목",
-        "심텍 독점 공급"
-      ],
-      "queries": [
-        {
-          "keyword": "심텍 bottleneck supply chain",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "심텍 sole supplier constraint",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "심텍 공급 병목",
-          "feed": "ko",
-          "count": 6
-        },
-        {
-          "keyword": "심텍 독점 공급",
-          "feed": "ko",
-          "count": 9
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:31:16.457722+00:00",
-      "articles": [
-        {
-          "title": "교보證 “심텍, 고부가 기판 확대로 수익성 개선…가격 협상력 상승”",
-          "source": "팝콘뉴스",
-          "publisher_domain": "popcornnews.net",
-          "published_at": "2026-11-04T00:09:18+00:00",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DSUFxSDhYTEE2Yk1DTDExY09IdWRrU2htckFTZDdwODVDUlRZMTUzV1lkZ0NEMmNUdnJBRmdfbHRvNVh0TGZEdjllYW8tR2VhU3NOcTRrRElWaG9JTl94T0NTUDdRb0hWbnAzNXh6VHBSd9IBckFVX3lxTE1DSUFxSDhYTEE2Yk1DTDExY09IdWRrU2htckFTZDdwODVDUlRZMTUzV1lkZ0NEMmNUdnJBRmdfbHRvNVh0TGZEdjllYW8tR2VhU3NOcTRrRElWaG9JTl94T0NTUDdRb0hWbnAzNXh6VHBSdw?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 공급 병목",
-          "feed": "ko",
-          "importance_score": 39.5,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.88(0.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.5/100"
-        },
-        {
-          "title": "교보증권 심텍 소캠 생태계 확장 기대...목표주가 18만원 유지",
-          "source": "아주경제",
-          "publisher_domain": "ajunews.com",
-          "published_at": "2026-11-03T23:21:25+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ekx0bXh2clQwaGlXdEQ1dHhXNmVhQXA2bV9peDZWMFpDRUwzTGtIV1BsbDdoTFF0ZFNmbmRDb2pKLTRld0NabmZTSTNUMzRfMkx1a3BsLXfSAVhBVV95cUxNenpMdG14dnJUMGhpV3RENXR4VzZlYUFwNm1faXg2VjBaQ0VMM0xrSFdQbGw3aExRdGRTZm5kQ29qSi00ZXdDWm5mU0kzVDM0XzJMdWtwbC13?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "심텍 공급 병목",
-          "feed": "ko",
-          "importance_score": 39.4,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.87(1.0일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 39.4/100"
-        }
-      ]
-    },
-    "small:036930.KQ:capacity_gap": {
-      "key": "small:036930.KQ:capacity_gap",
-      "status": "partial",
-      "relevance_terms": [
-        "주성엔지니어링",
-        "036930"
-      ],
-      "dropped_irrelevant": 0,
-      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
-      "found_count": 1,
-      "returned_count": 1,
-      "keywords": [
-        "주성엔지니어링 capacity expansion sold out",
-        "주성엔지니어링 supply shortage easing",
-        "주성엔지니어링 캐파 부족 해소",
-        "주성엔지니어링 증설 가동"
-      ],
-      "queries": [
-        {
-          "keyword": "주성엔지니어링 capacity expansion sold out",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "주성엔지니어링 supply shortage easing",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "주성엔지니어링 캐파 부족 해소",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "주성엔지니어링 증설 가동",
-          "feed": "ko",
-          "count": 9
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:31:28.873085+00:00",
-      "articles": [
-        {
-          "title": "＂코스닥 대세도 반도체＂…주성엔지니어링, 시총 2위 등극",
-          "source": "한국경제TV",
-          "publisher_domain": "wowtv.co.kr",
-          "published_at": "2026-10-07T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uTHR1Ull0dlBCWi1NbTlHTEhYaC1kTXRaYmFsajJpb2Jxb2IyOE9HOHptTm1TTU5MUlAxMVZOYzRVMXVfbzQtQ0EyN3lMOTVMeTB6YkxnRFBiVXdOQW1aLVMzWWdwZDRJeXB5eGpGVEZTRWg1TUxB?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "주성엔지니어링 증설 가동",
-          "feed": "ko",
-          "importance_score": 18.0,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(28.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 18.0/100"
-        }
-      ]
-    },
-    "small:036930.KQ:supply_locked": {
-      "key": "small:036930.KQ:supply_locked",
-      "status": "partial",
-      "relevance_terms": [
-        "주성엔지니어링",
-        "036930"
-      ],
-      "dropped_irrelevant": 6,
-      "status_reason": "중복 제거 후 2건만 확보됨 (목표 5건)",
-      "found_count": 2,
-      "returned_count": 2,
-      "keywords": [
-        "주성엔지니어링 long term supply agreement",
-        "주성엔지니어링 capex completion customer commitment",
-        "주성엔지니어링 장기 공급계약 체결",
-        "주성엔지니어링 증설 완료"
-      ],
-      "queries": [
-        {
-          "keyword": "주성엔지니어링 long term supply agreement",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "주성엔지니어링 capex completion customer commitment",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "주성엔지니어링 장기 공급계약 체결",
-          "feed": "ko",
-          "count": 16
-        },
-        {
-          "keyword": "주성엔지니어링 증설 완료",
-          "feed": "ko",
-          "count": 10
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:31:41.486328+00:00",
-      "articles": [
-        {
-          "title": "[고래사냥] '태성·주성엔지니어링·삼기에너지솔루션즈! 내일장 고래 종목은?!",
-          "source": "머니투데이",
-          "publisher_domain": "mt.co.kr",
-          "published_at": "2026-10-27T21:58:03+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DVkNOWjhoNkhpMTUxTUp0UklMaDRBU2dRWDMySjVHMlJNc0V4Qmc2bzhaZzlmRVRWa0FlT2dib3A1LTd3NmVoTW0yNXJzSlJoYkxtSHU2OHZyMjhfR2l1aWYwZlNoTlZ30gFuQVVfeXFMT25FYXBqMWFzNGF2bkZNUVZJakZqMFVNT0xuZnRfTFJMU3JESUVyOGhJb09sVEtPNkVvMFRHeGYwVWxPVjZfaDhRQVlYUUtmS1E1OXgyVlo3anJ6NWlSUV9yLUp3TGlScEZfb1JGZXc?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "주성엔지니어링 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 29.1,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.33(8.0일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 29.1/100"
-        },
-        {
-          "title": "[고래사냥] '주성엔지니어링·태성·디어유! 내일장 고래 종목은?!",
-          "source": "머니투데이",
-          "publisher_domain": "mt.co.kr",
-          "published_at": "2026-10-20T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZHNNX3JIOEUzcTdQbnd6Vk9ySzhYTFhOTFh5OHozTzRmOXdKV0VDVFJTSWM2SHJlM2p0NmxKazBGOFd5TmJnTTdPZHBjaWR4LU1hWDhrRUREMmFpOHJqWmxGeGNhNnBw0gFuQVVfeXFMTVlPTWJ1SmtoODZpTWo4bG9veUNILUp1Uk9HT3Q2YjJGNEN5dzZsZm5CVTdaWUV2NHNid0RudG11MFNyckZQSlFIN05FSTFvSDRaTzRKczBPQUhWWFg3SDBKdE5rMEpIemFzMHFuWWc?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "주성엔지니어링 장기 공급계약 체결",
-          "feed": "ko",
-          "importance_score": 23.8,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.11(15.6일 경과)×0.25 + 동일사안 보도 2건→0.34×0.10 = 23.8/100"
-        }
-      ]
-    },
-    "small:036930.KQ:pricing_power": {
-      "key": "small:036930.KQ:pricing_power",
-      "status": "no_results",
-      "relevance_terms": [
-        "주성엔지니어링",
-        "036930"
-      ],
-      "dropped_irrelevant": 5,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
-      "keywords": [
-        "주성엔지니어링 price increase announcement",
-        "주성엔지니어링 pricing power margin expansion",
-        "주성엔지니어링 판가 인상",
-        "주성엔지니어링 가격 인상 전가"
-      ],
-      "queries": [
-        {
-          "keyword": "주성엔지니어링 price increase announcement",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "주성엔지니어링 pricing power margin expansion",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "주성엔지니어링 판가 인상",
-          "feed": "ko",
-          "count": 7
-        },
-        {
-          "keyword": "주성엔지니어링 가격 인상 전가",
-          "feed": "ko",
-          "count": 9
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:31:53.710740+00:00",
-      "articles": []
-    },
-    "small:036930.KQ:theme_bottleneck": {
-      "key": "small:036930.KQ:theme_bottleneck",
-      "status": "partial",
-      "relevance_terms": [
-        "주성엔지니어링",
-        "036930"
-      ],
-      "dropped_irrelevant": 1,
-      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
-      "found_count": 1,
-      "returned_count": 1,
-      "keywords": [
-        "주성엔지니어링 bottleneck supply chain",
-        "주성엔지니어링 sole supplier constraint",
-        "주성엔지니어링 공급 병목",
-        "주성엔지니어링 독점 공급"
-      ],
-      "queries": [
-        {
-          "keyword": "주성엔지니어링 bottleneck supply chain",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "주성엔지니어링 sole supplier constraint",
-          "feed": "ko",
-          "count": 0
-        },
-        {
-          "keyword": "주성엔지니어링 공급 병목",
-          "feed": "ko",
-          "count": 10
-        },
-        {
-          "keyword": "주성엔지니어링 독점 공급",
-          "feed": "ko",
-          "count": 9
-        }
-      ],
-      "providers_used": [
-        "google_news_rss"
-      ],
-      "errors": [],
-      "fetched_at": "2026-11-04T22:32:05.407918+00:00",
-      "articles": [
-        {
-          "title": "[고래사냥] '동진쎄미켐·주성엔지니어링·와이제이링크! 내일장 고래 종목은?!",
-          "source": "머니투데이",
-          "publisher_domain": "mt.co.kr",
-          "published_at": "2026-09-24T07:00:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SLXFUWTBJTHNzbWVZME1iS0FKVG91SGxiVU5oYW1KYjJYUjA3dmctUmNweTVuTjdwY25qZVFadzdtTUZtQ2NSaG5Lc3RjWmdVa3RIdGhUdE9TdU5nQlJWZW9uRHFwbmF40gFuQVVfeXFMT1hGZS1yNlhsLTc0WUhCNWFEV1pEVGxZdzBnaWdoOGF5a2NxRW9tVzRqVm1rOWh3NjN6cWtqWjI5Y0l2Zkp3b1RFSDZRM08zNkR3UzhmRERiZVl4U2pjemxnZ2Z1Skp1a1lvZEdhUmc?oc=5",
-          "url_is_google_redirect": true,
-          "snippet": "",
-          "provider": "google_news_rss",
-          "query": "주성엔지니어링 독점 공급",
-          "feed": "ko",
-          "importance_score": 17.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(41.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
-        }
-      ]
     },
     "small:028050.KS:capacity_gap": {
       "key": "small:028050.KS:capacity_gap",
@@ -3574,35 +3058,35 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:32:17.643486+00:00",
+      "fetched_at": "2026-11-05T22:37:57.400693+00:00",
       "articles": [
         {
           "title": "\"삼성E&A '깜짝 실적'이 신호탄…반도체 증설 수혜주 더 있다\"",
           "source": "마켓인",
           "publisher_domain": "marketin.edaily.co.kr",
-          "published_at": "2026-10-22T23:45:12+00:00",
+          "published_at": "2026-10-23T07:00:00+00:00",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BOUV0Smg4cDEtX3F5WkUxbXNrWVlwSDZfSEdvaHdlaXUtMUF4dWJQMGIxZHQyd3NtYXFpYk56VWJGWTRpejdfNEdrSGxQdENtRkV4WDdkdGlIZnkxZDV3TGhDY1BXQjFEa1dwR2JtNmdHYlk?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
           "query": "삼성E&A 증설 가동",
           "feed": "ko",
-          "importance_score": 43.2,
-          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.17(12.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 43.2/100"
+          "importance_score": 42.8,
+          "importance_basis": "매체티어 0.60(edaily.co.kr)×0.40 + 키워드적중 2개→0.60×0.25 + 최신성 0.15(13.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 42.8/100"
         }
       ]
     },
     "small:028050.KS:supply_locked": {
       "key": "small:028050.KS:supply_locked",
-      "status": "no_results",
+      "status": "partial",
       "relevance_terms": [
         "028050",
         "삼성E&A"
       ],
-      "dropped_irrelevant": 5,
-      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
-      "found_count": 0,
-      "returned_count": 0,
+      "dropped_irrelevant": 12,
+      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
+      "found_count": 1,
+      "returned_count": 1,
       "keywords": [
         "삼성E&A long term supply agreement",
         "삼성E&A capex completion customer commitment",
@@ -3623,7 +3107,7 @@
         {
           "keyword": "삼성E&A 장기 공급계약 체결",
           "feed": "ko",
-          "count": 10
+          "count": 25
         },
         {
           "keyword": "삼성E&A 증설 완료",
@@ -3635,8 +3119,23 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:32:29.653517+00:00",
-      "articles": []
+      "fetched_at": "2026-11-05T22:38:10.064376+00:00",
+      "articles": [
+        {
+          "title": "삼성E&A, 삼전 기흥캠퍼스 재개발 맡는다",
+          "source": "서울경제",
+          "publisher_domain": "sedaily.com",
+          "published_at": "2026-10-29T01:02:10+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tbU9qSGFKdlNoYWNLLWl2ekstQnJqLXQ3cG1FWkVZR1lQM0RwSkdvVGdYQ2JzNDZWNU1zOUdYUUJNRGpQbXVEb0RFdzY5cmU0VmfSAVNBVV95cUxOYUQxNHB2ZXhYbTZXSzQ3N0loYVlnaFZZUndGR05EZHEyY1NBZkRPZVZfREllc2xNMVVlN3FhVzlTaHhaV3RLd0ZaNnJybEZfRW9pTQ?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "삼성E&A 장기 공급계약 체결",
+          "feed": "ko",
+          "importance_score": 47.9,
+          "importance_basis": "매체티어 0.80(sedaily.com)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.33(7.9일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 47.9/100"
+        }
+      ]
     },
     "small:028050.KS:pricing_power": {
       "key": "small:028050.KS:pricing_power",
@@ -3645,7 +3144,7 @@
         "028050",
         "삼성E&A"
       ],
-      "dropped_irrelevant": 3,
+      "dropped_irrelevant": 4,
       "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
       "found_count": 0,
       "returned_count": 0,
@@ -3674,27 +3173,27 @@
         {
           "keyword": "삼성E&A 가격 인상 전가",
           "feed": "ko",
-          "count": 8
+          "count": 9
         }
       ],
       "providers_used": [
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:32:41.699168+00:00",
+      "fetched_at": "2026-11-05T22:38:22.895008+00:00",
       "articles": []
     },
     "small:028050.KS:theme_bottleneck": {
       "key": "small:028050.KS:theme_bottleneck",
-      "status": "partial",
+      "status": "no_results",
       "relevance_terms": [
         "028050",
         "삼성E&A"
       ],
       "dropped_irrelevant": 5,
-      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
-      "found_count": 1,
-      "returned_count": 1,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
       "keywords": [
         "삼성E&A bottleneck supply chain",
         "삼성E&A sole supplier constraint",
@@ -3720,6 +3219,113 @@
         {
           "keyword": "삼성E&A 독점 공급",
           "feed": "ko",
+          "count": 9
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:38:35.348107+00:00",
+      "articles": []
+    },
+    "small:036930.KQ:capacity_gap": {
+      "key": "small:036930.KQ:capacity_gap",
+      "status": "partial",
+      "relevance_terms": [
+        "주성엔지니어링",
+        "036930"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
+      "found_count": 1,
+      "returned_count": 1,
+      "keywords": [
+        "주성엔지니어링 capacity expansion sold out",
+        "주성엔지니어링 supply shortage easing",
+        "주성엔지니어링 캐파 부족 해소",
+        "주성엔지니어링 증설 가동"
+      ],
+      "queries": [
+        {
+          "keyword": "주성엔지니어링 capacity expansion sold out",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "주성엔지니어링 supply shortage easing",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "주성엔지니어링 캐파 부족 해소",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "주성엔지니어링 증설 가동",
+          "feed": "ko",
+          "count": 9
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:38:47.528166+00:00",
+      "articles": [
+        {
+          "title": "＂코스닥 대세도 반도체＂…주성엔지니어링, 시총 2위 등극",
+          "source": "한국경제TV",
+          "publisher_domain": "wowtv.co.kr",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uTHR1Ull0dlBCWi1NbTlHTEhYaC1kTXRaYmFsajJpb2Jxb2IyOE9HOHptTm1TTU5MUlAxMVZOYzRVMXVfbzQtQ0EyN3lMOTVMeTB6YkxnRFBiVXdOQW1aLVMzWWdwZDRJeXB5eGpGVEZTRWg1TUxB?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "주성엔지니어링 증설 가동",
+          "feed": "ko",
+          "importance_score": 17.9,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.02(29.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.9/100"
+        }
+      ]
+    },
+    "small:036930.KQ:supply_locked": {
+      "key": "small:036930.KQ:supply_locked",
+      "status": "partial",
+      "relevance_terms": [
+        "주성엔지니어링",
+        "036930"
+      ],
+      "dropped_irrelevant": 2,
+      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
+      "found_count": 1,
+      "returned_count": 1,
+      "keywords": [
+        "주성엔지니어링 long term supply agreement",
+        "주성엔지니어링 capex completion customer commitment",
+        "주성엔지니어링 장기 공급계약 체결",
+        "주성엔지니어링 증설 완료"
+      ],
+      "queries": [
+        {
+          "keyword": "주성엔지니어링 long term supply agreement",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "주성엔지니어링 capex completion customer commitment",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "주성엔지니어링 장기 공급계약 체결",
+          "feed": "ko",
+          "count": 10
+        },
+        {
+          "keyword": "주성엔지니어링 증설 완료",
+          "feed": "ko",
           "count": 10
         }
       ],
@@ -3727,23 +3333,314 @@
         "google_news_rss"
       ],
       "errors": [],
-      "fetched_at": "2026-11-04T22:32:53.623144+00:00",
+      "fetched_at": "2026-11-05T22:38:59.911203+00:00",
       "articles": [
         {
-          "title": "대반전의 삼성E&A 184% 폭증 숫자가 증명한 괴물 같은 체질 개선",
-          "source": "데일리머니",
-          "publisher_domain": "thedailymoney.com",
-          "published_at": "2026-11-03T08:33:32+00:00",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CRFBPSzVpNVJYSFZFb1I2TzZ3S1R6RWlFellqYjkzX3k5aDRLdWc4QTdsWk9STHBGSFBLaFhGaWwweWw5Xzc0VjV2Y1JpdjIxRTVQRWl2TXZEb2hwd0FYemtiSFBhRkw4QTN2Nm9uSDNmelE?oc=5",
+          "title": "[고래사냥] '태성·주성엔지니어링·삼기에너지솔루션즈! 내일장 고래 종목은?!",
+          "source": "머니투데이",
+          "publisher_domain": "mt.co.kr",
+          "published_at": "2026-10-28T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DVkNOWjhoNkhpMTUxTUp0UklMaDRBU2dRWDMySjVHMlJNc0V4Qmc2bzhaZzlmRVRWa0FlT2dib3A1LTd3NmVoTW0yNXJzSlJoYkxtSHU2OHZyMjhfR2l1aWYwZlNoTlZ30gFuQVVfeXFMT25FYXBqMWFzNGF2bkZNUVZJakZqMFVNT0xuZnRfTFJMU3JESUVyOGhJb09sVEtPNkVvMFRHeGYwVWxPVjZfaDhRQVlYUUtmS1E1OXgyVlo3anJ6NWlSUV9yLUp3TGlScEZfb1JGZXc?oc=5",
           "url_is_google_redirect": true,
           "snippet": "",
           "provider": "google_news_rss",
-          "query": "삼성E&A 독점 공급",
+          "query": "주성엔지니어링 장기 공급계약 체결",
           "feed": "ko",
-          "importance_score": 37.6,
-          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.80(1.6일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 37.6/100"
+          "importance_score": 25.0,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.30(8.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 25.0/100"
         }
       ]
+    },
+    "small:036930.KQ:pricing_power": {
+      "key": "small:036930.KQ:pricing_power",
+      "status": "no_results",
+      "relevance_terms": [
+        "주성엔지니어링",
+        "036930"
+      ],
+      "dropped_irrelevant": 6,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "주성엔지니어링 price increase announcement",
+        "주성엔지니어링 pricing power margin expansion",
+        "주성엔지니어링 판가 인상",
+        "주성엔지니어링 가격 인상 전가"
+      ],
+      "queries": [
+        {
+          "keyword": "주성엔지니어링 price increase announcement",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "주성엔지니어링 pricing power margin expansion",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "주성엔지니어링 판가 인상",
+          "feed": "ko",
+          "count": 8
+        },
+        {
+          "keyword": "주성엔지니어링 가격 인상 전가",
+          "feed": "ko",
+          "count": 9
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:39:12.472004+00:00",
+      "articles": []
+    },
+    "small:036930.KQ:theme_bottleneck": {
+      "key": "small:036930.KQ:theme_bottleneck",
+      "status": "partial",
+      "relevance_terms": [
+        "주성엔지니어링",
+        "036930"
+      ],
+      "dropped_irrelevant": 1,
+      "status_reason": "중복 제거 후 1건만 확보됨 (목표 5건)",
+      "found_count": 1,
+      "returned_count": 1,
+      "keywords": [
+        "주성엔지니어링 bottleneck supply chain",
+        "주성엔지니어링 sole supplier constraint",
+        "주성엔지니어링 공급 병목",
+        "주성엔지니어링 독점 공급"
+      ],
+      "queries": [
+        {
+          "keyword": "주성엔지니어링 bottleneck supply chain",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "주성엔지니어링 sole supplier constraint",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "주성엔지니어링 공급 병목",
+          "feed": "ko",
+          "count": 10
+        },
+        {
+          "keyword": "주성엔지니어링 독점 공급",
+          "feed": "ko",
+          "count": 10
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:39:24.372587+00:00",
+      "articles": [
+        {
+          "title": "[고래사냥] '동진쎄미켐·주성엔지니어링·와이제이링크! 내일장 고래 종목은?!",
+          "source": "머니투데이",
+          "publisher_domain": "mt.co.kr",
+          "published_at": "2026-09-24T07:00:00+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SLXFUWTBJTHNzbWVZME1iS0FKVG91SGxiVU5oYW1KYjJYUjA3dmctUmNweTVuTjdwY25qZVFadzdtTUZtQ2NSaG5Lc3RjWmdVa3RIdGhUdE9TdU5nQlJWZW9uRHFwbmF40gFuQVVfeXFMT1hGZS1yNlhsLTc0WUhCNWFEV1pEVGxZdzBnaWdoOGF5a2NxRW9tVzRqVm1rOWh3NjN6cWtqWjI5Y0l2Zkp3b1RFSDZRM08zNkR3UzhmRERiZVl4U2pjemxnZ2Z1Skp1a1lvZEdhUmc?oc=5",
+          "url_is_google_redirect": true,
+          "snippet": "",
+          "provider": "google_news_rss",
+          "query": "주성엔지니어링 독점 공급",
+          "feed": "ko",
+          "importance_score": 17.6,
+          "importance_basis": "매체티어 0.25(미등록 매체)×0.40 + 키워드적중 1개→0.30×0.25 + 최신성 0.00(42.7일 경과)×0.25 + 동일사안 보도 1건→0.00×0.10 = 17.6/100"
+        }
+      ]
+    },
+    "small:021240.KS:capacity_gap": {
+      "key": "small:021240.KS:capacity_gap",
+      "status": "no_results",
+      "relevance_terms": [
+        "021240",
+        "코웨이"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "코웨이 capacity expansion sold out",
+        "코웨이 supply shortage easing",
+        "코웨이 캐파 부족 해소",
+        "코웨이 증설 가동"
+      ],
+      "queries": [
+        {
+          "keyword": "코웨이 capacity expansion sold out",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "코웨이 supply shortage easing",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "코웨이 캐파 부족 해소",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "코웨이 증설 가동",
+          "feed": "ko",
+          "count": 9
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:39:36.885981+00:00",
+      "articles": []
+    },
+    "small:021240.KS:supply_locked": {
+      "key": "small:021240.KS:supply_locked",
+      "status": "no_results",
+      "relevance_terms": [
+        "021240",
+        "코웨이"
+      ],
+      "dropped_irrelevant": 9,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "코웨이 long term supply agreement",
+        "코웨이 capex completion customer commitment",
+        "코웨이 장기 공급계약 체결",
+        "코웨이 증설 완료"
+      ],
+      "queries": [
+        {
+          "keyword": "코웨이 long term supply agreement",
+          "feed": "ko",
+          "count": 1
+        },
+        {
+          "keyword": "코웨이 capex completion customer commitment",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "코웨이 장기 공급계약 체결",
+          "feed": "ko",
+          "count": 9
+        },
+        {
+          "keyword": "코웨이 증설 완료",
+          "feed": "ko",
+          "count": 1
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:39:48.667230+00:00",
+      "articles": []
+    },
+    "small:021240.KS:pricing_power": {
+      "key": "small:021240.KS:pricing_power",
+      "status": "no_results",
+      "relevance_terms": [
+        "021240",
+        "코웨이"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "코웨이 price increase announcement",
+        "코웨이 pricing power margin expansion",
+        "코웨이 판가 인상",
+        "코웨이 가격 인상 전가"
+      ],
+      "queries": [
+        {
+          "keyword": "코웨이 price increase announcement",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "코웨이 pricing power margin expansion",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "코웨이 판가 인상",
+          "feed": "ko",
+          "count": 2
+        },
+        {
+          "keyword": "코웨이 가격 인상 전가",
+          "feed": "ko",
+          "count": 4
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:40:01.328521+00:00",
+      "articles": []
+    },
+    "small:021240.KS:theme_bottleneck": {
+      "key": "small:021240.KS:theme_bottleneck",
+      "status": "no_results",
+      "relevance_terms": [
+        "021240",
+        "코웨이"
+      ],
+      "dropped_irrelevant": 0,
+      "status_reason": "검색은 수행됐으나 조건(최근 45일 이내)에 맞는 기사가 없습니다.",
+      "found_count": 0,
+      "returned_count": 0,
+      "keywords": [
+        "코웨이 bottleneck supply chain",
+        "코웨이 sole supplier constraint",
+        "코웨이 공급 병목",
+        "코웨이 독점 공급"
+      ],
+      "queries": [
+        {
+          "keyword": "코웨이 bottleneck supply chain",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "코웨이 sole supplier constraint",
+          "feed": "ko",
+          "count": 0
+        },
+        {
+          "keyword": "코웨이 공급 병목",
+          "feed": "ko",
+          "count": 2
+        },
+        {
+          "keyword": "코웨이 독점 공급",
+          "feed": "ko",
+          "count": 3
+        }
+      ],
+      "providers_used": [
+        "google_news_rss"
+      ],
+      "errors": [],
+      "fetched_at": "2026-11-05T22:40:13.394548+00:00",
+      "articles": []
     }
   }
 }
