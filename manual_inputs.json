@@ -4,9 +4,46 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-11-08T20:56:59.873763+00:00",
+  "updated_at": "2026-11-10T00:32:19.961199+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
+    {
+      "ticker": "LLY",
+      "search_ticker": "LLY",
+      "company_en": "Eli Lilly and Company",
+      "company_ko": "Eli Lilly and Company",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 87.5,
+      "rank": 1,
+      "selected_at": "2026-11-10",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
     {
       "ticker": "MRK",
       "search_ticker": "MRK",
@@ -14,120 +51,9 @@
       "company_ko": "Merck & Company",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 86.7,
-      "rank": 1,
-      "selected_at": "2026-11-08",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "ABBV",
-      "search_ticker": "ABBV",
-      "company_en": "AbbVie",
-      "company_ko": "AbbVie",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 85.9,
+      "rs_score": 84.9,
       "rank": 2,
-      "selected_at": "2026-11-08",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "GILD",
-      "search_ticker": "GILD",
-      "company_en": "Gilead Sciences",
-      "company_ko": "Gilead Sciences",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 82.8,
-      "rank": 3,
-      "selected_at": "2026-11-08",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "AMGN",
-      "search_ticker": "AMGN",
-      "company_en": "Amgen",
-      "company_ko": "Amgen",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 80.2,
-      "rank": 4,
-      "selected_at": "2026-11-08",
+      "selected_at": "2026-11-10",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -162,9 +88,83 @@
       "company_ko": "Thermo Fisher Scientific",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 77.6,
+      "rs_score": 84.2,
+      "rank": 3,
+      "selected_at": "2026-11-10",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "ABBV",
+      "search_ticker": "ABBV",
+      "company_en": "AbbVie",
+      "company_ko": "AbbVie",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 83.8,
+      "rank": 4,
+      "selected_at": "2026-11-10",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "AMGN",
+      "search_ticker": "AMGN",
+      "company_en": "Amgen",
+      "company_ko": "Amgen",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 81.7,
       "rank": 5,
-      "selected_at": "2026-11-08",
+      "selected_at": "2026-11-10",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -199,46 +199,9 @@
       "company_ko": "한진칼",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 93.9,
+      "rs_score": 93.0,
       "rank": 1,
-      "selected_at": "2026-11-08",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "000500.KS",
-      "search_ticker": "가온전선",
-      "company_en": "가온전선",
-      "company_ko": "가온전선",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 88.9,
-      "rank": 2,
-      "selected_at": "2026-11-08",
+      "selected_at": "2026-11-10",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -273,46 +236,9 @@
       "company_ko": "삼성E&A",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 80.0,
-      "rank": 3,
-      "selected_at": "2026-11-08",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "021240.KS",
-      "search_ticker": "코웨이",
-      "company_en": "코웨이",
-      "company_ko": "코웨이",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 66.7,
-      "rank": 4,
-      "selected_at": "2026-11-08",
+      "rs_score": 81.5,
+      "rank": 2,
+      "selected_at": "2026-11-10",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -347,9 +273,83 @@
       "company_ko": "대한항공",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 65.0,
+      "rs_score": 79.0,
+      "rank": 3,
+      "selected_at": "2026-11-10",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "036930.KQ",
+      "search_ticker": "주성엔지니어링",
+      "company_en": "주성엔지니어링",
+      "company_ko": "주성엔지니어링",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 73.5,
+      "rank": 4,
+      "selected_at": "2026-11-10",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "000500.KS",
+      "search_ticker": "가온전선",
+      "company_en": "가온전선",
+      "company_ko": "가온전선",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 70.0,
       "rank": 5,
-      "selected_at": "2026-11-08",
+      "selected_at": "2026-11-10",
       "conditions": {
         "capacity_gap": {
           "value": null,
