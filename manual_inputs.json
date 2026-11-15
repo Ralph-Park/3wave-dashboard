@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-11-12T22:33:16.565543+00:00",
+  "updated_at": "2026-11-15T21:26:57.114993+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -14,83 +14,9 @@
       "company_ko": "Eli Lilly and Company",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 89.1,
+      "rs_score": 89.7,
       "rank": 1,
-      "selected_at": "2026-11-12",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "AMD",
-      "search_ticker": "AMD",
-      "company_en": "Advanced Micro Devices",
-      "company_ko": "Advanced Micro Devices",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 82.5,
-      "rank": 2,
-      "selected_at": "2026-11-12",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "ABBV",
-      "search_ticker": "ABBV",
-      "company_en": "AbbVie",
-      "company_ko": "AbbVie",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 82.2,
-      "rank": 3,
-      "selected_at": "2026-11-12",
+      "selected_at": "2026-11-15",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -125,9 +51,9 @@
       "company_ko": "Gilead Sciences",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 81.7,
-      "rank": 4,
-      "selected_at": "2026-11-12",
+      "rs_score": 82.5,
+      "rank": 2,
+      "selected_at": "2026-11-15",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -162,9 +88,83 @@
       "company_ko": "Thermo Fisher Scientific",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 79.1,
+      "rs_score": 80.5,
+      "rank": 3,
+      "selected_at": "2026-11-15",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "ABBV",
+      "search_ticker": "ABBV",
+      "company_en": "AbbVie",
+      "company_ko": "AbbVie",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 78.3,
+      "rank": 4,
+      "selected_at": "2026-11-15",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "AMGN",
+      "search_ticker": "AMGN",
+      "company_en": "Amgen",
+      "company_ko": "Amgen",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 75.2,
       "rank": 5,
-      "selected_at": "2026-11-12",
+      "selected_at": "2026-11-15",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -199,46 +199,9 @@
       "company_ko": "한진칼",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 87.5,
+      "rs_score": 91.5,
       "rank": 1,
-      "selected_at": "2026-11-12",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "036930.KQ",
-      "search_ticker": "주성엔지니어링",
-      "company_en": "주성엔지니어링",
-      "company_ko": "주성엔지니어링",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 85.6,
-      "rank": 2,
-      "selected_at": "2026-11-12",
+      "selected_at": "2026-11-15",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -273,9 +236,9 @@
       "company_ko": "삼성E&A",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 71.2,
-      "rank": 3,
-      "selected_at": "2026-11-12",
+      "rs_score": 86.5,
+      "rank": 2,
+      "selected_at": "2026-11-15",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -310,9 +273,9 @@
       "company_ko": "대한항공",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 64.4,
-      "rank": 4,
-      "selected_at": "2026-11-12",
+      "rs_score": 76.5,
+      "rank": 3,
+      "selected_at": "2026-11-15",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -341,15 +304,52 @@
       }
     },
     {
-      "ticker": "000500.KS",
-      "search_ticker": "가온전선",
-      "company_en": "가온전선",
-      "company_ko": "가온전선",
+      "ticker": "222800.KQ",
+      "search_ticker": "심텍",
+      "company_en": "심텍",
+      "company_ko": "심텍",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 64.4,
+      "rs_score": 68.0,
+      "rank": 4,
+      "selected_at": "2026-11-15",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "036930.KQ",
+      "search_ticker": "주성엔지니어링",
+      "company_en": "주성엔지니어링",
+      "company_ko": "주성엔지니어링",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 67.5,
       "rank": 5,
-      "selected_at": "2026-11-12",
+      "selected_at": "2026-11-15",
       "conditions": {
         "capacity_gap": {
           "value": null,
