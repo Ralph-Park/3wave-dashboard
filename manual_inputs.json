@@ -4,19 +4,19 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-11-17T23:43:54.895506+00:00",
+  "updated_at": "2026-11-18T23:15:34.184380+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
-      "ticker": "GILD",
-      "search_ticker": "GILD",
-      "company_en": "Gilead Sciences",
-      "company_ko": "Gilead Sciences",
+      "ticker": "CRWD",
+      "search_ticker": "CRWD",
+      "company_en": "CrowdStrike Holdings",
+      "company_ko": "CrowdStrike Holdings",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 83.5,
+      "rs_score": 97.4,
       "rank": 1,
-      "selected_at": "2026-11-17",
+      "selected_at": "2026-11-18",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -45,15 +45,52 @@
       }
     },
     {
-      "ticker": "CRWD",
-      "search_ticker": "CRWD",
-      "company_en": "CrowdStrike Holdings",
-      "company_ko": "CrowdStrike Holdings",
+      "ticker": "GILD",
+      "search_ticker": "GILD",
+      "company_en": "Gilead Sciences",
+      "company_ko": "Gilead Sciences",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 83.1,
+      "rs_score": 85.5,
       "rank": 2,
-      "selected_at": "2026-11-17",
+      "selected_at": "2026-11-18",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "AMD",
+      "search_ticker": "AMD",
+      "company_en": "Advanced Micro Devices",
+      "company_ko": "Advanced Micro Devices",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 79.6,
+      "rank": 3,
+      "selected_at": "2026-11-18",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -88,46 +125,9 @@
       "company_ko": "Eli Lilly and Company",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 77.3,
-      "rank": 3,
-      "selected_at": "2026-11-17",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "ABBV",
-      "search_ticker": "ABBV",
-      "company_en": "AbbVie",
-      "company_ko": "AbbVie",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 74.2,
+      "rs_score": 77.5,
       "rank": 4,
-      "selected_at": "2026-11-17",
+      "selected_at": "2026-11-18",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -156,15 +156,15 @@
       }
     },
     {
-      "ticker": "TMO",
-      "search_ticker": "TMO",
-      "company_en": "Thermo Fisher Scientific",
-      "company_ko": "Thermo Fisher Scientific",
+      "ticker": "ANET",
+      "search_ticker": "ANET",
+      "company_en": "Arista Networks",
+      "company_ko": "Arista Networks",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 73.3,
+      "rs_score": 77.4,
       "rank": 5,
-      "selected_at": "2026-11-17",
+      "selected_at": "2026-11-18",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -201,7 +201,7 @@
       "auto_selected": true,
       "rs_score": 92.6,
       "rank": 1,
-      "selected_at": "2026-11-17",
+      "selected_at": "2026-11-18",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -236,9 +236,9 @@
       "company_ko": "삼성E&A",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 90.5,
+      "rs_score": 88.9,
       "rank": 2,
-      "selected_at": "2026-11-17",
+      "selected_at": "2026-11-18",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -275,7 +275,7 @@
       "auto_selected": true,
       "rs_score": 76.8,
       "rank": 3,
-      "selected_at": "2026-11-17",
+      "selected_at": "2026-11-18",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -310,9 +310,9 @@
       "company_ko": "가온전선",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 63.2,
+      "rs_score": 69.5,
       "rank": 4,
-      "selected_at": "2026-11-17",
+      "selected_at": "2026-11-18",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -341,15 +341,15 @@
       }
     },
     {
-      "ticker": "068270.KS",
-      "search_ticker": "셀트리온",
-      "company_en": "셀트리온",
-      "company_ko": "셀트리온",
+      "ticker": "138040.KS",
+      "search_ticker": "메리츠금융지주",
+      "company_en": "메리츠금융지주",
+      "company_ko": "메리츠금융지주",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 55.8,
+      "rs_score": 55.3,
       "rank": 5,
-      "selected_at": "2026-11-17",
+      "selected_at": "2026-11-18",
       "conditions": {
         "capacity_gap": {
           "value": null,
