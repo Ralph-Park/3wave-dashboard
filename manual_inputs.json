@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-11-18T23:15:34.184380+00:00",
+  "updated_at": "2026-11-19T23:24:14.034210+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -14,9 +14,9 @@
       "company_ko": "CrowdStrike Holdings",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 97.4,
+      "rs_score": 97.6,
       "rank": 1,
-      "selected_at": "2026-11-18",
+      "selected_at": "2026-11-19",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -51,9 +51,9 @@
       "company_ko": "Gilead Sciences",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 85.5,
+      "rs_score": 79.6,
       "rank": 2,
-      "selected_at": "2026-11-18",
+      "selected_at": "2026-11-19",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -82,15 +82,52 @@
       }
     },
     {
-      "ticker": "AMD",
-      "search_ticker": "AMD",
-      "company_en": "Advanced Micro Devices",
-      "company_ko": "Advanced Micro Devices",
+      "ticker": "PANW",
+      "search_ticker": "PANW",
+      "company_en": "Palo Alto Networks",
+      "company_ko": "Palo Alto Networks",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 79.6,
+      "rs_score": 72.4,
       "rank": 3,
-      "selected_at": "2026-11-18",
+      "selected_at": "2026-11-19",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "TMO",
+      "search_ticker": "TMO",
+      "company_en": "Thermo Fisher Scientific",
+      "company_ko": "Thermo Fisher Scientific",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 72.2,
+      "rank": 4,
+      "selected_at": "2026-11-19",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -125,46 +162,9 @@
       "company_ko": "Eli Lilly and Company",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 77.5,
-      "rank": 4,
-      "selected_at": "2026-11-18",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "ANET",
-      "search_ticker": "ANET",
-      "company_en": "Arista Networks",
-      "company_ko": "Arista Networks",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 77.4,
+      "rs_score": 72.0,
       "rank": 5,
-      "selected_at": "2026-11-18",
+      "selected_at": "2026-11-19",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -201,7 +201,7 @@
       "auto_selected": true,
       "rs_score": 92.6,
       "rank": 1,
-      "selected_at": "2026-11-18",
+      "selected_at": "2026-11-19",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -236,46 +236,9 @@
       "company_ko": "삼성E&A",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 88.9,
+      "rs_score": 88.4,
       "rank": 2,
-      "selected_at": "2026-11-18",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "003490.KS",
-      "search_ticker": "대한항공",
-      "company_en": "대한항공",
-      "company_ko": "대한항공",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 76.8,
-      "rank": 3,
-      "selected_at": "2026-11-18",
+      "selected_at": "2026-11-19",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -310,9 +273,9 @@
       "company_ko": "가온전선",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 69.5,
-      "rank": 4,
-      "selected_at": "2026-11-18",
+      "rs_score": 84.2,
+      "rank": 3,
+      "selected_at": "2026-11-19",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -341,15 +304,52 @@
       }
     },
     {
-      "ticker": "138040.KS",
-      "search_ticker": "메리츠금융지주",
-      "company_en": "메리츠금융지주",
-      "company_ko": "메리츠금융지주",
+      "ticker": "003490.KS",
+      "search_ticker": "대한항공",
+      "company_en": "대한항공",
+      "company_ko": "대한항공",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 55.3,
+      "rs_score": 80.0,
+      "rank": 4,
+      "selected_at": "2026-11-19",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "068270.KS",
+      "search_ticker": "셀트리온",
+      "company_en": "셀트리온",
+      "company_ko": "셀트리온",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 66.3,
       "rank": 5,
-      "selected_at": "2026-11-18",
+      "selected_at": "2026-11-19",
       "conditions": {
         "capacity_gap": {
           "value": null,
