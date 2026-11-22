@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-11-19T23:24:14.034210+00:00",
+  "updated_at": "2026-11-22T22:17:53.200997+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -14,9 +14,9 @@
       "company_ko": "CrowdStrike Holdings",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 97.6,
+      "rs_score": 97.8,
       "rank": 1,
-      "selected_at": "2026-11-19",
+      "selected_at": "2026-11-22",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -51,9 +51,9 @@
       "company_ko": "Gilead Sciences",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 79.6,
+      "rs_score": 82.4,
       "rank": 2,
-      "selected_at": "2026-11-19",
+      "selected_at": "2026-11-22",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -82,52 +82,15 @@
       }
     },
     {
-      "ticker": "PANW",
-      "search_ticker": "PANW",
-      "company_en": "Palo Alto Networks",
-      "company_ko": "Palo Alto Networks",
+      "ticker": "ABBV",
+      "search_ticker": "ABBV",
+      "company_en": "AbbVie",
+      "company_ko": "AbbVie",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 72.4,
+      "rs_score": 75.1,
       "rank": 3,
-      "selected_at": "2026-11-19",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "TMO",
-      "search_ticker": "TMO",
-      "company_en": "Thermo Fisher Scientific",
-      "company_ko": "Thermo Fisher Scientific",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 72.2,
-      "rank": 4,
-      "selected_at": "2026-11-19",
+      "selected_at": "2026-11-22",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -162,9 +125,46 @@
       "company_ko": "Eli Lilly and Company",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 72.0,
+      "rs_score": 73.2,
+      "rank": 4,
+      "selected_at": "2026-11-22",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "KO",
+      "search_ticker": "KO",
+      "company_en": "Coca-Cola Company (The)",
+      "company_ko": "Coca-Cola Company (The)",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 70.5,
       "rank": 5,
-      "selected_at": "2026-11-19",
+      "selected_at": "2026-11-22",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -199,83 +199,9 @@
       "company_ko": "한진칼",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 92.6,
+      "rs_score": 91.5,
       "rank": 1,
-      "selected_at": "2026-11-19",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "028050.KS",
-      "search_ticker": "삼성E&A",
-      "company_en": "삼성E&A",
-      "company_ko": "삼성E&A",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 88.4,
-      "rank": 2,
-      "selected_at": "2026-11-19",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "000500.KS",
-      "search_ticker": "가온전선",
-      "company_en": "가온전선",
-      "company_ko": "가온전선",
-      "market": "KR",
-      "auto_selected": true,
-      "rs_score": 84.2,
-      "rank": 3,
-      "selected_at": "2026-11-19",
+      "selected_at": "2026-11-22",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -310,9 +236,83 @@
       "company_ko": "대한항공",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 80.0,
+      "rs_score": 80.8,
+      "rank": 2,
+      "selected_at": "2026-11-22",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "028050.KS",
+      "search_ticker": "삼성E&A",
+      "company_en": "삼성E&A",
+      "company_ko": "삼성E&A",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 77.7,
+      "rank": 3,
+      "selected_at": "2026-11-22",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "000500.KS",
+      "search_ticker": "가온전선",
+      "company_en": "가온전선",
+      "company_ko": "가온전선",
+      "market": "KR",
+      "auto_selected": true,
+      "rs_score": 67.7,
       "rank": 4,
-      "selected_at": "2026-11-19",
+      "selected_at": "2026-11-22",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -347,9 +347,9 @@
       "company_ko": "셀트리온",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 66.3,
+      "rs_score": 62.3,
       "rank": 5,
-      "selected_at": "2026-11-19",
+      "selected_at": "2026-11-22",
       "conditions": {
         "capacity_gap": {
           "value": null,
