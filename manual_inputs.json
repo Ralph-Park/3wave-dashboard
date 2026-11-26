@@ -4,7 +4,7 @@
     "manual_scores": "지표 key → { score: -2..2 정수 또는 null, basis: 근거 텍스트, evidence_url: 근거 기사 URL, entered_at: YYYY-MM-DD }",
     "small_wave_candidates": "종목 배열. conditions 의 4개 항목은 true / false / null."
   },
-  "updated_at": "2026-11-25T01:14:36.781198+00:00",
+  "updated_at": "2026-11-26T00:49:28.845063+00:00",
   "manual_scores": {},
   "small_wave_candidates": [
     {
@@ -14,120 +14,9 @@
       "company_ko": "Gilead Sciences",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 86.8,
+      "rs_score": 90.6,
       "rank": 1,
-      "selected_at": "2026-11-25",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "CRWD",
-      "search_ticker": "CRWD",
-      "company_en": "CrowdStrike Holdings",
-      "company_ko": "CrowdStrike Holdings",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 82.6,
-      "rank": 2,
-      "selected_at": "2026-11-25",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "PANW",
-      "search_ticker": "PANW",
-      "company_en": "Palo Alto Networks",
-      "company_ko": "Palo Alto Networks",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 78.3,
-      "rank": 3,
-      "selected_at": "2026-11-25",
-      "conditions": {
-        "capacity_gap": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "supply_locked": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "pricing_power": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        },
-        "theme_bottleneck": {
-          "value": null,
-          "basis": "",
-          "evidence_url": "",
-          "entered_at": null
-        }
-      }
-    },
-    {
-      "ticker": "LLY",
-      "search_ticker": "LLY",
-      "company_en": "Eli Lilly and Company",
-      "company_ko": "Eli Lilly and Company",
-      "market": "US",
-      "auto_selected": true,
-      "rs_score": 75.7,
-      "rank": 4,
-      "selected_at": "2026-11-25",
+      "selected_at": "2026-11-26",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -162,9 +51,120 @@
       "company_ko": "AbbVie",
       "market": "US",
       "auto_selected": true,
-      "rs_score": 73.6,
+      "rs_score": 80.4,
+      "rank": 2,
+      "selected_at": "2026-11-26",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "LLY",
+      "search_ticker": "LLY",
+      "company_en": "Eli Lilly and Company",
+      "company_ko": "Eli Lilly and Company",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 78.9,
+      "rank": 3,
+      "selected_at": "2026-11-26",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "AMGN",
+      "search_ticker": "AMGN",
+      "company_en": "Amgen",
+      "company_ko": "Amgen",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 78.7,
+      "rank": 4,
+      "selected_at": "2026-11-26",
+      "conditions": {
+        "capacity_gap": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "supply_locked": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "pricing_power": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        },
+        "theme_bottleneck": {
+          "value": null,
+          "basis": "",
+          "evidence_url": "",
+          "entered_at": null
+        }
+      }
+    },
+    {
+      "ticker": "V",
+      "search_ticker": "V",
+      "company_en": "Visa",
+      "company_ko": "Visa",
+      "market": "US",
+      "auto_selected": true,
+      "rs_score": 73.4,
       "rank": 5,
-      "selected_at": "2026-11-25",
+      "selected_at": "2026-11-26",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -199,9 +199,9 @@
       "company_ko": "한진칼",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 93.1,
+      "rs_score": 95.0,
       "rank": 1,
-      "selected_at": "2026-11-25",
+      "selected_at": "2026-11-26",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -236,9 +236,9 @@
       "company_ko": "삼성E&A",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 82.5,
+      "rs_score": 78.8,
       "rank": 2,
-      "selected_at": "2026-11-25",
+      "selected_at": "2026-11-26",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -273,9 +273,9 @@
       "company_ko": "대한항공",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 76.2,
+      "rs_score": 74.4,
       "rank": 3,
-      "selected_at": "2026-11-25",
+      "selected_at": "2026-11-26",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -310,9 +310,9 @@
       "company_ko": "가온전선",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 70.0,
+      "rs_score": 68.1,
       "rank": 4,
-      "selected_at": "2026-11-25",
+      "selected_at": "2026-11-26",
       "conditions": {
         "capacity_gap": {
           "value": null,
@@ -347,9 +347,9 @@
       "company_ko": "셀트리온",
       "market": "KR",
       "auto_selected": true,
-      "rs_score": 61.9,
+      "rs_score": 64.4,
       "rank": 5,
-      "selected_at": "2026-11-25",
+      "selected_at": "2026-11-26",
       "conditions": {
         "capacity_gap": {
           "value": null,
