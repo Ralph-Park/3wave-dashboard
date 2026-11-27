@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:49:28.843937+00:00",
+  "generated_at": "2026-11-27T00:56:19.307162+00:00",
   "config_version": "0.1.0",
   "method": {
     "definition_ko": "벤치마크 대비 초과수익 기반 상대강도(RS) 모멘텀 상위 종목",
@@ -29,13 +29,13 @@
   "markets": {
     "US": {
       "universe_size": 100,
-      "universe_full_size": 943,
+      "universe_full_size": 949,
       "rank_universe_top_by_cap": 100,
-      "passed_filters": 47,
+      "passed_filters": 46,
       "as_of": "2026-11-25",
       "benchmark": "SPY",
       "dropped": {
-        "history": 5,
+        "history": 6,
         "dma200": 46,
         "turnover": 2,
         "drawdown": 0,
@@ -51,12 +51,12 @@
       "universe_size": 100,
       "universe_full_size": 800,
       "rank_universe_top_by_cap": 100,
-      "passed_filters": 16,
-      "as_of": "2026-11-26",
+      "passed_filters": 14,
+      "as_of": "2026-11-27",
       "benchmark": "^KS11",
       "dropped": {
         "history": 0,
-        "dma200": 80,
+        "dma200": 82,
         "turnover": 4,
         "drawdown": 0,
         "nodata": 0
@@ -77,10 +77,10 @@
         "exchange": "NASDAQ",
         "sector": null,
         "products": null,
-        "market_cap": 221648510322,
+        "market_cap": 219217446638,
         "price": 176.74,
         "as_of": "2026-11-25",
-        "avg_turnover_60d": 967851169,
+        "avg_turnover_60d": 968761969,
         "pct_above_200dma": 24.78,
         "drawdown_from_52w_high_pct": 0.87,
         "components": [
@@ -89,7 +89,7 @@
             "return_pct": 19.4,
             "benchmark_pct": -6.82,
             "excess_pct": 26.22,
-            "percentile": 92.6,
+            "percentile": 92.4,
             "weight": 0.4
           },
           {
@@ -97,7 +97,7 @@
             "return_pct": 31.33,
             "benchmark_pct": -4.54,
             "excess_pct": 35.88,
-            "percentile": 88.3,
+            "percentile": 88.0,
             "weight": 0.3
           },
           {
@@ -105,11 +105,11 @@
             "return_pct": 44.57,
             "benchmark_pct": 8.33,
             "excess_pct": 36.24,
-            "percentile": 90.4,
+            "percentile": 90.2,
             "weight": 0.3
           }
         ],
-        "rs_score": 90.6,
+        "rs_score": 90.4,
         "rs_excess_sum_pct": 32.12,
         "rank": 1
       },
@@ -119,10 +119,10 @@
         "exchange": "NYSE",
         "sector": null,
         "products": null,
-        "market_cap": 530125806332,
+        "market_cap": 520563002117,
         "price": 294.48,
         "as_of": "2026-11-25",
-        "avg_turnover_60d": 1395124414,
+        "avg_turnover_60d": 1395154878,
         "pct_above_200dma": 22.14,
         "drawdown_from_52w_high_pct": 1.93,
         "components": [
@@ -131,7 +131,7 @@
             "return_pct": 14.77,
             "benchmark_pct": -6.82,
             "excess_pct": 21.6,
-            "percentile": 79.8,
+            "percentile": 79.3,
             "weight": 0.4
           },
           {
@@ -139,7 +139,7 @@
             "return_pct": 36.48,
             "benchmark_pct": -4.54,
             "excess_pct": 41.03,
-            "percentile": 92.6,
+            "percentile": 92.4,
             "weight": 0.3
           },
           {
@@ -147,11 +147,11 @@
             "return_pct": 32.15,
             "benchmark_pct": 8.33,
             "excess_pct": 23.82,
-            "percentile": 69.1,
+            "percentile": 68.5,
             "weight": 0.3
           }
         ],
-        "rs_score": 80.4,
+        "rs_score": 80.0,
         "rs_excess_sum_pct": 28.09,
         "rank": 2
       },
@@ -161,10 +161,10 @@
         "exchange": "NYSE",
         "sector": null,
         "products": null,
-        "market_cap": 1329202172926,
+        "market_cap": 1309771084310,
         "price": 1392.22,
         "as_of": "2026-11-25",
-        "avg_turnover_60d": 3345000234,
+        "avg_turnover_60d": 3346541352,
         "pct_above_200dma": 24.27,
         "drawdown_from_52w_high_pct": 3.55,
         "components": [
@@ -173,7 +173,7 @@
             "return_pct": 18.52,
             "benchmark_pct": -6.82,
             "excess_pct": 25.34,
-            "percentile": 90.4,
+            "percentile": 90.2,
             "weight": 0.4
           },
           {
@@ -181,7 +181,7 @@
             "return_pct": 23.88,
             "benchmark_pct": -4.54,
             "excess_pct": 28.42,
-            "percentile": 75.5,
+            "percentile": 77.2,
             "weight": 0.3
           },
           {
@@ -189,11 +189,11 @@
             "return_pct": 30.88,
             "benchmark_pct": 8.33,
             "excess_pct": 22.55,
-            "percentile": 67.0,
+            "percentile": 66.3,
             "weight": 0.3
           }
         ],
-        "rs_score": 78.9,
+        "rs_score": 79.1,
         "rs_excess_sum_pct": 25.43,
         "rank": 3
       },
@@ -203,10 +203,10 @@
         "exchange": "NASDAQ",
         "sector": null,
         "products": null,
-        "market_cap": 258014780730,
+        "market_cap": 253817307568,
         "price": 469.24,
         "as_of": "2026-11-25",
-        "avg_turnover_60d": 1243253522,
+        "avg_turnover_60d": 1243459393,
         "pct_above_200dma": 23.38,
         "drawdown_from_52w_high_pct": 1.36,
         "components": [
@@ -215,7 +215,7 @@
             "return_pct": 8.0,
             "benchmark_pct": -6.82,
             "excess_pct": 14.82,
-            "percentile": 56.4,
+            "percentile": 55.4,
             "weight": 0.4
           },
           {
@@ -231,11 +231,11 @@
             "return_pct": 44.06,
             "benchmark_pct": 8.33,
             "excess_pct": 35.73,
-            "percentile": 88.3,
+            "percentile": 88.0,
             "weight": 0.3
           }
         ],
-        "rs_score": 78.7,
+        "rs_score": 78.3,
         "rs_excess_sum_pct": 30.34,
         "rank": 4
       },
@@ -245,10 +245,10 @@
         "exchange": "NYSE",
         "sector": null,
         "products": null,
-        "market_cap": 749611020887,
+        "market_cap": 765387560714,
         "price": 424.39,
         "as_of": "2026-11-25",
-        "avg_turnover_60d": 2568018330,
+        "avg_turnover_60d": 2568036664,
         "pct_above_200dma": 21.49,
         "drawdown_from_52w_high_pct": 2.61,
         "components": [
@@ -257,7 +257,7 @@
             "return_pct": 11.99,
             "benchmark_pct": -6.82,
             "excess_pct": 18.81,
-            "percentile": 73.4,
+            "percentile": 72.8,
             "weight": 0.4
           },
           {
@@ -265,7 +265,7 @@
             "return_pct": 31.09,
             "benchmark_pct": -4.54,
             "excess_pct": 35.63,
-            "percentile": 84.0,
+            "percentile": 83.7,
             "weight": 0.3
           },
           {
@@ -273,11 +273,11 @@
             "return_pct": 29.89,
             "benchmark_pct": 8.33,
             "excess_pct": 21.56,
-            "percentile": 62.8,
+            "percentile": 62.0,
             "weight": 0.3
           }
         ],
-        "rs_score": 73.4,
+        "rs_score": 72.8,
         "rs_excess_sum_pct": 24.68,
         "rank": 5
       }
@@ -289,40 +289,40 @@
         "exchange": "KOSPI",
         "sector": "기타 금융업",
         "products": "지주사업, 경영자문 및 컨설팅",
-        "market_cap": 16022900000000,
-        "price": 239500.0,
-        "as_of": "2026-11-26",
-        "avg_turnover_60d": 55464875543,
-        "pct_above_200dma": 83.36,
-        "drawdown_from_52w_high_pct": 2.64,
+        "market_cap": 16456900000000,
+        "price": 244000.0,
+        "as_of": "2026-11-27",
+        "avg_turnover_60d": 56444371585,
+        "pct_above_200dma": 85.84,
+        "drawdown_from_52w_high_pct": 0.81,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 95.83,
-            "benchmark_pct": -28.25,
-            "excess_pct": 124.07,
-            "percentile": 96.9,
+            "return_pct": 89.44,
+            "benchmark_pct": -30.19,
+            "excess_pct": 119.63,
+            "percentile": 96.4,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 103.48,
-            "benchmark_pct": -38.52,
-            "excess_pct": 142.0,
-            "percentile": 96.9,
+            "return_pct": 109.98,
+            "benchmark_pct": -40.02,
+            "excess_pct": 150.0,
+            "percentile": 96.4,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 142.18,
-            "benchmark_pct": 15.22,
-            "excess_pct": 126.96,
-            "percentile": 90.6,
+            "return_pct": 150.51,
+            "benchmark_pct": 17.34,
+            "excess_pct": 133.18,
+            "percentile": 89.3,
             "weight": 0.3
           }
         ],
-        "rs_score": 95.0,
-        "rs_excess_sum_pct": 130.32,
+        "rs_score": 94.3,
+        "rs_excess_sum_pct": 132.81,
         "rank": 1
       },
       {
@@ -331,125 +331,41 @@
         "exchange": "KOSPI",
         "sector": "건축기술, 엔지니어링 및 관련 기술 서비스업",
         "products": "산업설비,건물,구축물,토목시설의 설계,시공,공사감리",
-        "market_cap": 11387600000000,
-        "price": 58600.0,
-        "as_of": "2026-11-26",
-        "avg_turnover_60d": 139824249998,
-        "pct_above_200dma": 23.7,
-        "drawdown_from_52w_high_pct": 14.83,
+        "market_cap": 11191600000000,
+        "price": 57500.0,
+        "as_of": "2026-11-27",
+        "avg_turnover_60d": 140600166890,
+        "pct_above_200dma": 21.06,
+        "drawdown_from_52w_high_pct": 16.42,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 27.81,
-            "benchmark_pct": -28.25,
-            "excess_pct": 56.05,
-            "percentile": 84.4,
+            "return_pct": 19.17,
+            "benchmark_pct": -30.19,
+            "excess_pct": 49.36,
+            "percentile": 89.3,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 9.74,
-            "benchmark_pct": -38.52,
-            "excess_pct": 48.25,
-            "percentile": 65.6,
+            "return_pct": 5.31,
+            "benchmark_pct": -40.02,
+            "excess_pct": 45.33,
+            "percentile": 39.3,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 132.48,
-            "benchmark_pct": 15.22,
-            "excess_pct": 117.26,
-            "percentile": 84.4,
+            "return_pct": 125.95,
+            "benchmark_pct": 17.34,
+            "excess_pct": 108.61,
+            "percentile": 82.1,
             "weight": 0.3
           }
         ],
-        "rs_score": 78.8,
-        "rs_excess_sum_pct": 72.07,
+        "rs_score": 72.1,
+        "rs_excess_sum_pct": 65.93,
         "rank": 2
-      },
-      {
-        "symbol": "003490.KS",
-        "name": "대한항공",
-        "exchange": "KOSPI",
-        "sector": "항공 여객 운송업",
-        "products": "여객운송,화물운송,항공기 제조,판매,정비수리/기내식 제조판매,면세품 판매",
-        "market_cap": 10936200000000,
-        "price": 30100.0,
-        "as_of": "2026-11-26",
-        "avg_turnover_60d": 80430073591,
-        "pct_above_200dma": 12.35,
-        "drawdown_from_52w_high_pct": 7.24,
-        "components": [
-          {
-            "period": "r3m",
-            "return_pct": 14.45,
-            "benchmark_pct": -28.25,
-            "excess_pct": 42.69,
-            "percentile": 78.1,
-            "weight": 0.4
-          },
-          {
-            "period": "r6m",
-            "return_pct": 12.31,
-            "benchmark_pct": -38.52,
-            "excess_pct": 50.83,
-            "percentile": 71.9,
-            "weight": 0.3
-          },
-          {
-            "period": "r12m",
-            "return_pct": 41.64,
-            "benchmark_pct": 15.22,
-            "excess_pct": 26.42,
-            "percentile": 71.9,
-            "weight": 0.3
-          }
-        ],
-        "rs_score": 74.4,
-        "rs_excess_sum_pct": 40.25,
-        "rank": 3
-      },
-      {
-        "symbol": "000500.KS",
-        "name": "가온전선",
-        "exchange": "KOSPI",
-        "sector": "절연선 및 케이블 제조업",
-        "products": "전력선,통신케이블 제조,도매,수출입",
-        "market_cap": 6178900000000,
-        "price": 209500.0,
-        "as_of": "2026-11-26",
-        "avg_turnover_60d": 53073447593,
-        "pct_above_200dma": 22.24,
-        "drawdown_from_52w_high_pct": 36.32,
-        "components": [
-          {
-            "period": "r3m",
-            "return_pct": 29.72,
-            "benchmark_pct": -28.25,
-            "excess_pct": 57.97,
-            "percentile": 90.6,
-            "weight": 0.4
-          },
-          {
-            "period": "r6m",
-            "return_pct": -8.91,
-            "benchmark_pct": -38.52,
-            "excess_pct": 29.6,
-            "percentile": 9.4,
-            "weight": 0.3
-          },
-          {
-            "period": "r12m",
-            "return_pct": 412.78,
-            "benchmark_pct": 15.22,
-            "excess_pct": 397.56,
-            "percentile": 96.9,
-            "weight": 0.3
-          }
-        ],
-        "rs_score": 68.1,
-        "rs_excess_sum_pct": 151.34,
-        "rank": 4
       },
       {
         "symbol": "068270.KS",
@@ -457,40 +373,124 @@
         "exchange": "KOSPI",
         "sector": "기초 의약물질 제조업",
         "products": "램시마, 트룩시마, 허쥬마",
-        "market_cap": 50023800000000,
-        "price": 216000.0,
-        "as_of": "2026-11-26",
-        "avg_turnover_60d": 98312424490,
-        "pct_above_200dma": 13.37,
-        "drawdown_from_52w_high_pct": 8.73,
+        "market_cap": 51300600000000,
+        "price": 220750.0,
+        "as_of": "2026-11-27",
+        "avg_turnover_60d": 97970893346,
+        "pct_above_200dma": 15.79,
+        "drawdown_from_52w_high_pct": 6.73,
         "components": [
           {
             "period": "r3m",
-            "return_pct": 13.92,
-            "benchmark_pct": -28.25,
-            "excess_pct": 42.17,
-            "percentile": 71.9,
+            "return_pct": 14.14,
+            "benchmark_pct": -30.19,
+            "excess_pct": 44.33,
+            "percentile": 67.9,
             "weight": 0.4
           },
           {
             "period": "r6m",
-            "return_pct": 14.14,
-            "benchmark_pct": -38.52,
-            "excess_pct": 52.66,
-            "percentile": 84.4,
+            "return_pct": 18.87,
+            "benchmark_pct": -40.02,
+            "excess_pct": 58.89,
+            "percentile": 82.1,
             "weight": 0.3
           },
           {
             "period": "r12m",
-            "return_pct": 16.14,
-            "benchmark_pct": 15.22,
-            "excess_pct": 0.92,
-            "percentile": 34.4,
+            "return_pct": 22.57,
+            "benchmark_pct": 17.34,
+            "excess_pct": 5.23,
+            "percentile": 53.6,
             "weight": 0.3
           }
         ],
-        "rs_score": 64.4,
-        "rs_excess_sum_pct": 32.94,
+        "rs_score": 67.9,
+        "rs_excess_sum_pct": 36.97,
+        "rank": 3
+      },
+      {
+        "symbol": "003490.KS",
+        "name": "대한항공",
+        "exchange": "KOSPI",
+        "sector": "항공 여객 운송업",
+        "products": "여객운송,화물운송,항공기 제조,판매,정비수리/기내식 제조판매,면세품 판매",
+        "market_cap": 10954600000000,
+        "price": 29650.0,
+        "as_of": "2026-11-27",
+        "avg_turnover_60d": 80647025558,
+        "pct_above_200dma": 10.52,
+        "drawdown_from_52w_high_pct": 8.63,
+        "components": [
+          {
+            "period": "r3m",
+            "return_pct": 5.33,
+            "benchmark_pct": -30.19,
+            "excess_pct": 35.52,
+            "percentile": 60.7,
+            "weight": 0.4
+          },
+          {
+            "period": "r6m",
+            "return_pct": 8.01,
+            "benchmark_pct": -40.02,
+            "excess_pct": 48.03,
+            "percentile": 60.7,
+            "weight": 0.3
+          },
+          {
+            "period": "r12m",
+            "return_pct": 41.46,
+            "benchmark_pct": 17.34,
+            "excess_pct": 24.12,
+            "percentile": 67.9,
+            "weight": 0.3
+          }
+        ],
+        "rs_score": 62.9,
+        "rs_excess_sum_pct": 35.86,
+        "rank": 4
+      },
+      {
+        "symbol": "000500.KS",
+        "name": "가온전선",
+        "exchange": "KOSPI",
+        "sector": "절연선 및 케이블 제조업",
+        "products": "전력선,통신케이블 제조,도매,수출입",
+        "market_cap": 5901900000000,
+        "price": 199000.0,
+        "as_of": "2026-11-27",
+        "avg_turnover_60d": 51787681202,
+        "pct_above_200dma": 15.63,
+        "drawdown_from_52w_high_pct": 39.51,
+        "components": [
+          {
+            "period": "r3m",
+            "return_pct": 17.61,
+            "benchmark_pct": -30.19,
+            "excess_pct": 47.8,
+            "percentile": 75.0,
+            "weight": 0.4
+          },
+          {
+            "period": "r6m",
+            "return_pct": -15.42,
+            "benchmark_pct": -40.02,
+            "excess_pct": 24.6,
+            "percentile": 3.6,
+            "weight": 0.3
+          },
+          {
+            "period": "r12m",
+            "return_pct": 388.41,
+            "benchmark_pct": 17.34,
+            "excess_pct": 371.07,
+            "percentile": 96.4,
+            "weight": 0.3
+          }
+        ],
+        "rs_score": 60.0,
+        "rs_excess_sum_pct": 137.82,
         "rank": 5
       }
     ]
